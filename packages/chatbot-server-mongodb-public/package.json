@@ -1,0 +1,53 @@
+{
+  "name": "chatbot-server-mongodb-public",
+  "version": "0.3.0",
+  "license": "Apache-2.0",
+  "description": "Chatbot server for the MongoDB Docs AI chatbot.",
+  "author": "MongoDB, Inc.",
+  "keywords": [],
+  "engines": {
+    "node": ">=18",
+    "npm": ">=8"
+  },
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "rm -rf ./build/ && tsc -b tsconfig.build.json",
+    "dev": "nodemon src/index.ts",
+    "format": "prettier ./src --write",
+    "format:check": "prettier ./src --check",
+    "lint": "eslint ./src --ext js,jsx,ts,tsx --report-unused-disable-directives",
+    "start": "pm2-runtime ./build/index.js",
+    "test": "jest --forceExit",
+    "release": "release-it"
+  },
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.5",
+    "common-tags": "^1.8.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb-chatbot-server": "*",
+    "pm2": "^5.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-typescript": "^7.22.5",
+    "@types/common-tags": "^1.8.1",
+    "@types/cookie-parser": "^1.4.6",
+    "@types/express": "^4.17.21",
+    "@types/jest": "^29.5.2",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jest": "^27.2.1",
+    "jest": "^29.6.1",
+    "nodemon": "^3.0.1",
+    "prettier": "^2.8.7",
+    "release-it": "^16.1.5",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.0.3"
+  }
+}

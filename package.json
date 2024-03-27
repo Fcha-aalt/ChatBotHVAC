@@ -1,0 +1,31 @@
+{
+  "name": "root",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap --force-local",
+    "dev": "lerna run dev --scope='{chatbot-server-mongodb-public,mongodb-chatbot-ui}' --stream --parallel",
+    "dev:server": "lerna run dev --scope='chatbot-server-mongodb-public' --stream",
+    "dev:ui": "lerna run dev --scope='mongodb-chatbot-ui' --stream",
+    "start:server": "lerna run start --scope='chatbot-server-mongodb-public'",
+    "clean": "lerna clean",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "lint": "lerna run lint",
+    "release:chat-ui": "lerna run release --scope='mongodb-chatbot-ui' && git add ./package-lock.json && git commit --amend --no-edit",
+    "scripts:analyzeMessages": "lerna run analyzeMessages --scope='scripts'",
+    "scripts:scrubMessages": "lerna run scrubMessages --scope='scripts'",
+    "scripts:findFaq": "lerna run findFaq --scope='scripts'",
+    "scripts:getConversationText": "lerna run --scope='scripts' getConversationText -- ",
+    "scripts:removeTestDatabases": "lerna run --scope='scripts' removeTestDatabases -- ",
+    "server:start": "lerna run start --scope='chatbot-server-mongodb-public'",
+    "eval:conversationQualityCheckPipeline": "lerna run pipeline:conversationQualityCheck --scope='chatbot-eval-mongodb-public'",
+    "eval:faqConversationQualityCheckPipeline": "lerna run pipeline:faqConversationQualityCheck --scope='chatbot-eval-mongodb-public'"
+  },
+  "devDependencies": {
+    "lerna": "^5.6.2"
+  }
+}

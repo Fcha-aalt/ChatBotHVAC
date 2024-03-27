@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140449536,
+    "Title": "Energy efficiency in residential buildings amid COVID-19: A holistic comparative analysis between old and new normal occupancies",
+    "Author": "Rana A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-12-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112551",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of British Columbia Okanagan",
+    "Affliation Country": "Canada",
+    "Cited by count": 8,
+    "Abstract": "Stringent lockdowns have been one of the defining features of the COVID-19 pandemic. Lockdowns have brought about drastic changes in living styles, including increased residential occupancy and telework practices predicted to last long. The variation in occupancy pattern and energy use needs to be assessed at the household level. Consequently, the new occupancy times will impact the performance of energy efficiency measures. To address these gaps, this work uses a real case study, a two-story residential building in the Okanagan Valley (British Columbia, Canada). Further, steady-state building energy simulations are performed on the HOT2000 tool to evaluate the resiliency of energy efficiency measures under a full lockdown. Three-year monitored energy data is analyzed to study the implications of COVID-19 lockdowns on HVAC and non-HVAC loads at a monthly temporal scale. The results show a marked change in energy use patterns and a higher increase in May 2020 compared to the previous two years. Calibrated energy models built on HOT2000 are then used to study the impacts of pre-COVID-19 (old normal occupancy) and post-COVID-19 (new normal occupancy) on energy upgrades performance. The simulations show that under higher occupancy times, the annual electricity use increased by 16.4%, while natural gas use decreased by 7.6%. The results indicate that overall residential buildings following pre-COVID-19 occupancy schedules had higher energy-saving potential than those with new normal occupancy. In addition, the variation in occupancy and stakeholder preferences directly impact the ranking of energy efficiency measures. Furthermore, this study identifies energy efficiency measures that provide flexibility for the decision-makers by identifying low-cost options feasible under a range of occupancy schedules."
+}

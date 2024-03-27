@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85001555419,
+    "Title": "Model predictive control based on thermal dynamic building model in the demand-side management",
+    "Author": "Mai W.",
+    "Journal": "IEEE Power and Energy Society General Meeting",
+    "Publication Date": {
+        "$date": "2016-11-10T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/PESGM.2016.7741437",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 9,
+    "Abstract": "Flexible load response allows to manage local power consumption in response to supply conditions, such as high market price, peak demand or regulation signal, thus, lower grid operating costs, increased system reliability and improved energy efficiency can be achieved. Besides, demand response becomes large contributor to overall building expense reduction, especially in large grid-congested cities. HVAC system in commercial building accounts for a huge amount of power consumption and greatly contributes to the peak load. In this work, we propose an economic model predictive controller based on a thermal dynamic building model that discussed in our previous work. Simulation results show that the proposed controller can effectively and optimally control the HVAC system to utilize the time-varying electricity prices and the future disturbances to minimize the electricity costs, significantly reduce the peak demand and increase energy saving and efficiency, while respecting the comfort level."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85027013382,
+    "Title": "Deep reinforcement learning for partial differential equation control",
+    "Author": "Farahmand A.M.",
+    "Journal": "Proceedings of the American Control Conference",
+    "Publication Date": {
+        "$date": "2017-06-29T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.23919/ACC.2017.7963427",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mitsubishi Electric Research Laboratories",
+    "Affliation Country": "United States",
+    "Cited by count": 25,
+    "Abstract": "This paper develops a data-driven method for control of partial differential equations (PDE) based on deep reinforcement learning (RL) techniques. We design a Deep Fitted Q-Iteration (DFQI) algorithm that works directly with a high-dimensional representation of the state of PDE, thus allowing us to avoid the model order reduction step common in the conventional PDE control design approaches. We apply the DFQI algorithm to the problem of flow control for time-varying 2D convection-diffusion PDE, as a simplified model for heating, ventilating, air conditioning (HVAC) control design in a room. We also study the transfer learning of a policy learned for a PDE to another one."
+}

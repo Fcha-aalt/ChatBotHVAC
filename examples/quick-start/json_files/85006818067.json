@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006818067,
+    "Title": "Non-intrusive techniques for establishing occupancy related energy savings in commercial buildings",
+    "Author": "Ardakanian O.",
+    "Journal": "Proceedings of the 3rd ACM Conference on Systems for Energy-Efficient Built Environments, BuildSys 2016",
+    "Publication Date": {
+        "$date": "2016-11-16T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1145/2993422.2993574",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 51,
+    "Abstract": "The design of energy-efficient commercial building Heating Ventilation and Air Conditioning (HVAC) systems has been in the forefront of energy conservation efforts over the past few decades. The HVAC systems traditionally run on a static schedule that does not take occupancy into account, wasting a lot of energy in conditioning empty or partially-occupied spaces. This paper investigates the application of non-intrusive techniques to obtain a rough estimate of occupancy from coarse-grained measurements of the sensors that are commonly available through the building management system. Various per-zone schedules can be developed based on this approximate knowledge of occupancy at the level of individual zones. Our experiments in three large commercial buildings confirm that the proposed techniques can uncover the occupancy pattern of the zones, and schedules that incorporate these occupancy patterns can achieve more than 38% reduction in reheat energy consumption while maintaining indoor thermal comfort."
+}

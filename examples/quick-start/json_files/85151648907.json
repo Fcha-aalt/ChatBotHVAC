@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151648907,
+    "Title": "Effects of external weather on the water consumption of Thermal-Energy-Storage Air-Conditioning system",
+    "Author": "Sanzana M.R.",
+    "Journal": "Energy Nexus",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.nexus.2023.100187",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Nottingham Malaysia Campus",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 1,
+    "Abstract": "Thermal-Energy-Storage Air-Conditioning (TES-AC), a sustainable form of Air-Conditioning (AC) operates by storing thermal energy as chilled water when energy demand is low during nighttime. Later it uses the stored thermal energy during the daytime to cool the indoor air of the building the next day. However, the stored thermal energy in the form of water in the tanks of the chiller plant might be affected by external weather factors. It is essential to understand whether there is a relation between external weather conditions and water consumption in the TES-AC system. Without verifying the relation, applying computational intelligence for Thermal-Energy-Storage (TES) in Heating, Ventilation, and Air Conditioning (HVAC) would not be appropriate. However, not much research has focused on applying such techniques in HVAC for facility management and maintenance. Moreover, identifying these features by discovering the relation between weather and water consumption is a crucial part to apply computational intelligence such as machine learning techniques for predictive maintenance of this facility as it heavily relies on water volume for TES-AC charging. During warmer weather, the stored thermal energy might have an effectual loss due to evaporation which would mean more water consumption by TES-AC for cooling. Hence, this research investigates whether external weather data has any effect on the water consumption of TES-AC and discusses how external weather may affect the water consumption of TES-AC and if it is important to factor it in whilst utilizing computational intelligence for charging load prediction of TES-AC."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151530967,
+    "Title": "The impact of glazing on thermal performance of a hotel building in Zagreb, Croatia: An early based design",
+    "Author": "Belba R.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.30247",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Epoka University",
+    "Affliation Country": "Albania",
+    "Cited by count": 0,
+    "Abstract": "It is widely known that commercial buildings contribute to a large proportion of energy consumption nationally and across Europe. Hotels are typically ranked amongst the top five energy consumers in the tertiary sector. However, energy saving potential within the hotel industry is also significant. The aim of the present study is to analyse the energy performance of a hotel design and potential retrofit measures for a Croatian Hotel Project. Energy Plus Computational Simulation is used to assess the energy performance of the building and potential retrofit scenarios. The model includes data collection on local climate, design typology, occupancy patterns, building materials and HVAC system to generate a finite-element simulation model. A set of scenarios including different glazing typologies of the fully transparent building facade design is examined to assess the respective thermal and energy performance."
+}

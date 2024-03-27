@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138451055,
+    "Title": "Integrative Economic Analysis of Office Building HVAC Systems Incorporating the Emission Trading Scheme (ETS)",
+    "Author": "Kim H.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Michigan, Ann Arbor",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Over the past few decades, buildings have been one of the most important sectors responsible for a large proportion (20.1%) of energy demand throughout the globe (Conti et al., 2016). Until recently, many efforts have been made to reduce energy demand in buildings. However, a more comprehensive analysis is needed considering both the economic and environmental aspects of office buildings, such as operation cost and greenhouse gas (GHG) emissions. To be specific, the adoption of the emission trading scheme (ETS) can take into account not only the economic interests of individual building owners, but also the environmental benefits from a social standpoint. Being aware of this fact will eventually help provide better solutions towards ‘climate change’ issues. In this study, a three-story office building in Ann Arbor, Michigan was selected as an object building, and three major tasks: building energy demand, operation cost and GHG emissions were compared among several types of HVAC systems. TRNSYS software was used for the simulation, and the key passive design factor such as insulation levels (R-value) were fixed at values corresponding to the current building code standards. The building HVAC systems were classified into eight different types – (1) gas boiler + window cooling unit (benchmark scenario), (2) air-source heat pump (ASHP) + air-conditioner (AC), (3) variable refrigerant flow (VRF) and (4) PV-scenario), (2) air-source heat pump (ASHP) + air-conditioner (AC), (3) variable refrigerant flow (VRF) and (4) PV-integrated VRF (PV+VRF) – each with and without the use of heat recovery system. The results show that VRF system has the shortest payback period of 5.92 years without the heat recovery, while the PV+VRF with the heat recovery system appears to have the longest payback period reaching 9.92 years. Also, the results indicate that ‘PV tax credit’ was able to reduce the payback period for only PV+VRF, whereas ETS can shorten the payback period for all HVAC systems covered in the study. Thus, the PV-integrated system was able to reduce relatively high payback period (1.67 years) by applying the two policies simultaneously. Currently, in the United States, only 14 out of 50 states have adopted the ETS. The average carbon price of the California’s ETS was $16.89/tCO2 in 2020, which is still less than half the price prevailed in most European nations. Conclusively, this study may have significant implications on environmental policies for vitalizing office building HVAC systems which will lead to a balanced effect of reducing energy demand, operation cost and GHG emissions from both individual and social perspectives."
+}

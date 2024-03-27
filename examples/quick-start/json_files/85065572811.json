@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85065572811,
+    "Title": "From entropy generation to exergy efficiency at varying reference environment temperature: Case study of an air handling unit",
+    "Author": "Streckiene G.",
+    "Journal": "Entropy",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/e21040361",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Vilniaus Gedimino Technikos Universitetas",
+    "Affliation Country": "Lithuania",
+    "Cited by count": 4,
+    "Abstract": "The continuous energy transformation processes in heating, ventilation, and air conditioning systems of buildings are responsible for 36% of global final energy consumption. Tighter thermal insulation requirements for buildings have significantly reduced heat transfer losses. Unfortunately, this has little effect on energy demand for ventilation. On the basis of the First and the Second Law of Thermodynamics, the concepts of entropy and exergy are applied to the analysis of ventilation air handling unit (AHU) with a heat pump, in this paper. This study aims to develop a consistent approach for this purpose, taking into account the variations of reference temperature and temperatures of working fluids. An analytical investigation on entropy generation and exergy analysis are used, when exergy is determined by calculating coenthalpies and evaluating exergy flows and their directions. The results show that each component of the AHU has its individual character of generated entropy, destroyed exergy, and exergy efficiency variation. However, the evaporator of the heat pump and fans have unabated quantities of exergy destruction. The exergy efficiency of AHU decreases from 45-55% to 12-15% when outdoor air temperature is within the range of -30 to +10 °C, respectively. This helps to determine the conditions and components of improving the exergy efficiency of the AHU at variable real-world local climate conditions. The presented methodological approach could be used in the dynamic modelling software and contribute to a wider application of the Second Law of Thermodynamics in practice."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074867590,
+    "Title": "Deep learning in building management systems over ndn: Use case of forwarding and hvac control",
+    "Author": "Ayadi M.I.",
+    "Journal": "Proceedings - 2019 IEEE International Congress on Cybermatics: 12th IEEE International Conference on Internet of Things, 15th IEEE International Conference on Green Computing and Communications, 12th IEEE International Conference on Cyber, Physical and Social Computing and 5th IEEE International Conference on Smart Data, iThings/GreenCom/CPSCom/SmartData 2019",
+    "Publication Date": {
+        "$date": "2019-07-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/iThings/GreenCom/CPSCom/SmartData.2019.00200",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Ecole Supérieure de Technologie de Casablanca",
+    "Affliation Country": "Morocco",
+    "Cited by count": 5,
+    "Abstract": "Recently, the building sector has been considered as one of the largest consumers of energy. Therefore the building industry was actually facing more and more challenges of over-dimensioning and control optimization of energy use. On another side, recent successful applications of Deep learning such as healthcare or speech and image recognition aroused a lot of research on further applications that could be genuinely self-improving. In this paper, we propose a new approach for intelligent forwarding of data and HVAC control based on deep learning in Building Management Systems (BMS) that could improve forwarding performance and energy consumption. As an application field, we chose the Named Data Networking (NDN) communication model along with a BACnet IP/KNX based installation. Simulation results of the forwarding model were promising in terms of cross-validation score and prediction."
+}

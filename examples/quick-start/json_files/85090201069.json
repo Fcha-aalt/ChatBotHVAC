@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090201069,
+    "Title": "A case study based approach for remote fault detection using multi-level machine learning in a smart building",
+    "Author": "Dey M.",
+    "Journal": "Smart Cities",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/smartcities3020021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "London South Bank University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 24,
+    "Abstract": "Due to the increased awareness of issues ranging from green initiatives, sustainability, and occupant well-being, buildings are becoming smarter, but with smart requirements come increasing complexity and monitoring, ultimately carried out by humans. Building heating ventilation and air-conditioning (HVAC) units are one of the major units that consume large percentages of a building’s energy, for example through their involvement in space heating and cooling, the greatest energy consumption in buildings. By monitoring such components effectively, the entire energy demand in buildings can be substantially decreased. Due to the complex nature of building management systems (BMS), many simultaneous anomalous behaviour warnings are not manageable in a timely manner; thus, many energy related problems are left unmanaged, which causes unnecessary energy wastage and deteriorates equipment’s lifespan. This study proposes a machine learning based multi-level automatic fault detection system (MLe-AFD) focusing on remote HVAC fan coil unit (FCU) behaviour analysis. The proposed method employs sequential two-stage clustering to identify the abnormal behaviour of FCU. The model’s performance is validated by implementing well-known statistical measures and further cross-validated via expert building engineering knowledge. The method was experimented on a commercial building based in central London, U.K., as a case study and allows remotely identifying three types of FCU faults appropriately and informing building management staff proactively when they occur; this way, the energy expenditure can be further optimized."
+}

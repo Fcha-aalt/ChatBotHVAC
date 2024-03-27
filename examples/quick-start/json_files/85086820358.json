@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086820358,
+    "Title": "Sensitivity of heating performance of an energy self-sufficient building to climate zone, climate change and HVAC system solutions",
+    "Author": "de Rubeis T.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.scs.2020.102300",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi dell'Aquila",
+    "Affliation Country": "Italy",
+    "Cited by count": 30,
+    "Abstract": "The building energy behavior is strongly influenced by design choices made to contain energy losses through the envelope and to maximize the overall efficiency of HVAC systems. However, a thorough assessment of energy efficiency measures in relation to weather conditions is necessary. Ongoing climate change requires that design choices be also assessed in relation to projections of their future state. In this paper, the heating performance of real-world energy self-sufficient building, located in L'Aquila (Italy), is analyzed via calibrated EnergyPlus model. Different interventions are hypothesized for the HVAC system (biomass boiler, air handling unit, condensing gas boiler, air-to-water heat pump, their combinations) and effects are tested in relation to climate zone, by four Italian (L'Aquila, Rome, Palermo, Milan) and two European (Madrid, London) cities, and considering climate change to 2050 and 2080 for the city of L'Aquila. Results showed how heating system is influenced by weather conditions and what are the best choices in relation to them, ranging from 3.0 kWhm−2yr−1, achieved with combination of condensing gas boiler and air handling unit, to 54.2 kW hm−2yr−1, obtained with air-to-water heat pump. Finally, future climate change has highlighted significant reductions in heating energy demand between −8.5 % (2050) and −44.8 % (2080)."
+}

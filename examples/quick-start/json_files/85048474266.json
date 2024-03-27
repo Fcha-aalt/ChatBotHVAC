@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048474266,
+    "Title": "A learning framework for control-oriented modeling of buildings",
+    "Author": "Rubio-Herrero J.",
+    "Journal": "Proceedings - 16th IEEE International Conference on Machine Learning and Applications, ICMLA 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICMLA.2017.00079",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "St. Mary's University San Antonio",
+    "Affliation Country": "United States",
+    "Cited by count": 10,
+    "Abstract": "Buildings consume almost 40% of energy in the US. In order to optimize the operation of buildings, models that describe the relationship between energy consumption and control knobs such as set-points with high predictive capability are required. Data driven modeling techniques have been investigated to a somewhat limited extent for optimizing the operation and control of buildings. In this context, deep learning techniques such as Recurrent Neural Networks (RNNs) hold promise, empowered by advanced computational capabilities and big data opportunities. This paper investigates the use of deep learning for modeling the power consumption of building heating, ventilation and air-conditioning (HVAC) systems. A preliminary analysis of the performance of the methodology for different architectures is conducted. Results show that the proposed methodology outperforms other data driven modeling techniques significantly."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105796781,
+    "Title": "A framework to identify key occupancy indicators for optimizing building operation using WiFi connection count data",
+    "Author": "Alishahi N.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107936",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 25,
+    "Abstract": "Adapting building systems' operation to occupancy variations can provide significant energy savings, but this is typically constrained by the unavailability of occupancy information. Although several technologies have been introduced to integrate real-time occupancy information in heating, ventilation and air-conditioning (HVAC) systems operations (e.g., CO2 monitoring), the logistical and cost issues associated with deploying these technologies remained a key issue. Previous studies proposed using WiFi counts as a proxy for occupancy in building operations and showed a strong correlation between occupancy and WiFi counts in several building types. However, the difficulty of integrating real-time WiFi traffic data in building automation systems hinders wide-scale deployment of this approach. To this end, this study proposes a framework for extracting occupancy indicators from WiFi traffic data. The proposed framework utilizes several machine learning algorithms and statistical analysis methods to predict patterns of building occupancy as well as to identify peak occupancy time and earliest/latest arrival and departure times. To validate the proposed framework, it was implemented in a case-study using data collected from an academic building in Montreal, Canada between January and March 2020. Results revealed that the proposed models could successfully predict weekly building occupancy patterns, with an average accuracy (R2D) of 0.98 for weekdays and 0.81 for weekends. Furthermore, the analysis identified peak occupancy timing, as well as arrival and departure times variations between different zones. These findings provided a proof-of-concept for the proposed framework and demonstrated its potential to provide actionable information to modify the sequences of operation of building systems based on buildings’ unique occupancy patterns."
+}

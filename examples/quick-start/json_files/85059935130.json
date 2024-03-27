@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059935130,
+    "Title": "Impact of intelligence system of building management system for energy efficiency in the TEST facility",
+    "Author": "Bogdanovs N.",
+    "Journal": "ACM International Conference Proceeding Series",
+    "Publication Date": {
+        "$date": "2018-09-21T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3284557.3284720",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lafivents Ltd",
+    "Affliation Country": "Latvia",
+    "Cited by count": 0,
+    "Abstract": "Energy savings with building’s automation is related to the functionality of the system, equipment automation level, control algorithms and user-selected operating parameters. It is difficult and time-consuming process to customize each of these algorithms to a level, which would ensure the rational use of energy resources. To increase adjusting quality of the control system of building’s engineering system it is necessary to use and apply new advanced methods and technologies in buildings and control algorithms of automation system. This work presents the method of creating self-learning system, which is capable to inform about negative influence of different control algorithms. This self-learning system also provides error detection in engineering systems of the building. This system was designed in Matlab & Python programming language."
+}

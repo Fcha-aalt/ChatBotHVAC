@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143766318,
+    "Title": "Deep reinforcement learning control for non-stationary building energy management",
+    "Author": "Naug A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-12-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112584",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Vanderbilt University School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Developing an optimal supervisory control policy for building energy management is a complex problem because the system exhibits non-stationary behaviors, and the target policy needs to evolve with changes in the state transition and reward functions. Non-stationary real-world problems often present a set of challenges: non-stationary changes are difficult to detect; and thermodynamic systems with larger time-constants can create sample-inefficiency problems for learning algorithms. In addition, the system may have to satisfy safety–critical constraints, and, therefore, the policy must be learned offline unless actuation rules are correctly designed. To address these challenges, we propose a data-driven deep reinforcement learning framework. A reinforcement learning supervisory controller is firstly developed and deployed on the building for the heating, ventilation and air conditioning (HVAC) system and monitored for performance degradation by tracking an aggregate metric. When degradation is detected, a relearning loop is triggered. Then, a set of data-driven models of the building behavior is updated with the latest real data. Subsequently, the deployed controller is re-tuned by letting it interact with the model and is then redeployed on the system. Our proposed approach is demonstrated extensively on the standard ASHRAE 5-zone testbed and a real building. It is benchmarked against state-of-the-art algorithms in building supervisory control: Guideline-36, Proximal Policy Optimization, Deep Deterministic Policy Gradient, and Model Predictive Path Integral control. Our approach performs significantly better than the previously mentioned supervisory control strategies and highlights the need for a condition-based offline relearning framework in dynamic systems."
+}

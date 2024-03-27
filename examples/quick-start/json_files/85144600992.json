@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144600992,
+    "Title": "Cost-Effectiveness and Resiliency Evaluation of Net-Zero Energy U.S. Residential Communities",
+    "Author": "Thompson J.",
+    "Journal": "Journal of Engineering for Sustainable Buildings and Cities",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1115/1.4051656",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "In this paper, a resiliency analysis is carried out to assess the energy, economic, and power outage survivability benefits of efficient and net-zero energy communities. The analysis addresses the appropriate steps to designing an energy-efficient and net-zero energy community using Phoenix, Arizona, as a primary location for weather and utility inputs. A baseline home is established using International Energy Conservation Code (IECC) 2018 code requirements. Three occupancy levels are evaluated in BEopt to provide diversity in the community’s building stock. The loads from the baseline, energy-efficient optimum, and net-zero energy optimum single-family homes are utilized to determine energy use profiles for various residential community types using occupancy statistics for Phoenix. Then, REopt is used to determine the photovoltaic (PV) and battery storage system sizes necessary for the community to survive a 72-hour power outage. The analysis results indicated that the baseline community requires a 544-kW PV system and 375-kW/1,564 kWh battery storage system to keep all electrical loads online during a 72-hour power outage. The energy-efficient community requires a 291-kW PV system and a 202-kW/820 kWh battery storage system while the net-zero energy community requires a 291-kW PV system and a 191-kW/880 kWh battery storage system. In this study, the economic analysis indicates that it is 31% more cost-effective to install a shared PV plus storage system than to install individual PV plus storage systems in an energy-efficient community. After analyzing the system sizes and costs required to survive various outage durations, it is found that only a 4% difference in net present cost exists between a system sized for a 24-hour outage and a 144-hour outage. In the event of a pandemic or an event that causes a community-wide lockdown, the energy-efficient community would only survive 6 h out of a 72-hour power outage during a time where plug loads are increased by 50% due to added laptops, monitors, and other office electronics. Finally, a climate sensitivity analysis is conducted for efficient communities in Naperville, Illinois, and Augusta, Maine. The analysis suggests that for a 72-hour power outage starting on the peak demand day and time of the year, the cost of resiliency is higher in climates with more heating and cooling needs as heating, ventilation, air conditioning, and cooling (HVAC) is consistently the largest load in a residential building."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84948391757,
+    "Title": "Developing a Thermal Comfort Report Card for Building",
+    "Author": "Abdallah M.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.proeng.2015.08.502",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Colordo Denver",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Buildings consume 40% of total energy in the United States and approximately 48% of which is consumed by Heating Ventilation and Air Conditioning (HVAC). This highlights the importance of developing robust and dynamic Building Monitoring Systems (BMS) that are capable of providing the optimal operation of HVAC systems in terms of maximizing thermal comfort of building occupants while minimizing energy consumptions. Numerous empirical studies have demonstrated that occupant behavior is a key factor underlying energy consumption in existing buildings. However, few if any reliable data sets exist documenting precise human activities and their associated occupant comfort levels within buildings. Furthermore, little if anything is known about how this information directly relates to building energy performance. This research documents on-going development of software prototype tools for modeling thermal comfort in buildings based on real-time occupant and building systems data. The outcomes help building owners to identify areas that require improvements with regard to thermal comfort with broader impacts that improve occupant productivity, comfort, and well-being. The primary technical contribution is to model human comfort on the building level based on actual occupant usage, in order to identify and target energy efficiency measures that optimize energy usage according to comfort rather than maximum energy savings alone. Future research will synthesize building occupant and sensor data to support regression analysis that may identify the correlation of the reported thermal comfort, activities of building occupants, and building conditions. Such data may also be used to develop algorithms for controlling interior lighting, exhaust fans, ventilation, and HVAC temperature set points that optimize comfort while minimizing energy demands."
+}

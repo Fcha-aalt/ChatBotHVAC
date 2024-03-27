@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132206629,
+    "Title": "A Comparative Performance Analysis evaluation of Automatic Generation Control (AGC) of Multi-Area Power System with the impact of HVDC Links on the System Frequency using the Conventional PID and Adaptive Neuro-Fuzzy Controller",
+    "Author": "Meseret G.M.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ifacol.2022.04.023",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Institute of Technology Silchar",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "This paper investigates the impact of HVDC on the system frequency along with Adaptive Neuro-fuzzy interface system optimization ((ANFIS) on the system dynamics of a parallel AC/HVDC tie-line integrated two-area automatic generation control (AGC) system. The novel Adaptive Neuro-fuzzy interface system optimization ((ANFIS) has been employed for the automatic generation control (AGC) mechanism of a two-area thermal power system model. The HVDC links the dynamic studies of the multi-area interconnected power system's automatic generation control/load frequency control (AGC/LFC). This paper presents the accurate design of HVDC links for AGC studies. The comparative analysis evaluation has also been performed to demonstrate errors accrued due to the conventional model of HVDC links. In this paper, first, the two- areas of automatic generation control (AGC) are considered using PID Controller with and without HVDC links. Secondly, the two- areas AGC is analyzed using ANFIS with HVDC links. The simulation-based outcomes reveal that the propounded ANFIS with HVDC based PID controller show more dynamic control with robust performance as compared to the studied PID with and without an HVDC-based approach. The dynamic responses are compared with PID-ANFIS alone; the HVDC link in parallel with the existing HVAC link is 75.5% less than the only traditional Controller."
+}

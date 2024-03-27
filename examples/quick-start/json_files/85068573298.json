@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068573298,
+    "Title": "An overview of the HVDC transmission system models in planning tools: The Italian experience",
+    "Author": "Michi L.",
+    "Journal": "2019 AEIT HVDC International Conference, AEIT HVDC 2019",
+    "Publication Date": {
+        "$date": "2019-05-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/AEIT-HVDC.2019.8740460",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Terna S.p.A.",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "New challenges in power system planning, such as integration of massive amount of Renewable Energy Resources (RES), global decarbonization and efficiency targets, must be addressed by the Transmission System Operator (TSO) to guarantee optimal management, reliability and power grid flexibility. In this context, High Voltage Direct Current (HVDC) may play a key role, providing additional benefits compared to HVAC transmission line. Therefore, a valid and detailed model of different HVDC technologies and configurations is needed for grid planning and middle-long term studies. The aim of this paper is reporting the Italian experience in HVDC transmission system models for steady state studies, with special reference to LCC or CSC (line-commutated converter or current-source converter) and VSC (voltage-source converter) HVDC, analyzing their impact in load-flow solution techniques. The HVDC implementation in Common Grid Model Exchange Data (CGMES), the data exchange standard defined in ENTSO-E framework, used to improve Pan-European grid modelling and information exchange among TSOs for TYNDP studies are also presented."
+}

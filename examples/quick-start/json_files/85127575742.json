@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127575742,
+    "Title": "A Timely Object Recognition Method for Construction Using the Mask R-CNN Architecture",
+    "Author": "Shamsollahi D.",
+    "Journal": "Proceedings of the International Symposium on Automation and Robotics in Construction",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 4,
+    "Abstract": "Efficient progress monitoring and reporting require detailed and accurate reports from construction sites in a timely manner. These reports include important information to assist decision-making through comparison of as-built information to as-planned state. Manual reporting is time-consuming, error-prone, costly and is highly dependent on site personnel expertise. Advances recently made in artificial intelligence, data processing and digital cameras have paved the way for introduction of image-based methods for automated monitoring and progress reporting in the construction industry. Object recognition has achieved significant advances and considerable growth by the introduction of deep learning algorithms such as the Convolutional Neural Networks (CNN). This research proposes a method for automated recognition and segmentation of HVAC ducts utilizing digital images by developing Mask Region-based Convolutional Neural Network (Mask R-CNN) architectures. 3D BIM models are utilized for generating 1,143 synthetic images to train the developed Mask R-CNN model. To enhance the training dataset capability and overcome the overfitting problems, various data augmentation techniques are considered. The developed deep learning-based object recognition method automates monitoring of HVAC ducts installation, making use of generated synthetic images for training the algorithm to overcome the need for large datasets of actual images."
+}

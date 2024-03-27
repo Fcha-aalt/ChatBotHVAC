@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135726588,
+    "Title": "Energy-efficient personalized thermal comfort control in office buildings based on multi-agent deep reinforcement learning",
+    "Author": "Yu L.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109458",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 29,
+    "Abstract": "In a shared office space, the percentage of occupants with satisfied thermal comfort is typically low. The main reason is that heating, ventilation, and air conditioning (HVAC) systems cannot provide individual thermal environment for each occupant within the shared office space. Although personal comfort systems (PCSs) can be adopted to implement heterogeneous thermal environments, they have limited adjustment abilities. At this time, coordinating the operations of PCSs and an HVAC system is a good choice. In this paper, the coordination control problem of PCSs and an HVAC system in a shared office space is investigated to minimize the total energy consumption while maintaining comfortable individual thermal environment for each occupant. Specifically, we first formulate an expected energy consumption minimization problem related to PCSs and an HVAC system. Due to the existence of an inexplicit building thermal dynamics model and uncertain parameters, it is challenging to solve the problem. To overcome the challenge, we reformulate the problem as a Markov game with heterogeneous agents. To promote an efficient cooperation of such agents, we propose a real-time control algorithm based on attention-based multi-agent deep reinforcement learning, which does not require an explicit building thermal dynamics model and any prior knowledge of uncertain parameters. Simulation results based on real-world traces show that the proposed algorithm can reduce energy consumption by 0.7%–4.18% and reduce average thermal comfort deviation by 64.13%–72.08% simultaneously compared with baselines."
+}

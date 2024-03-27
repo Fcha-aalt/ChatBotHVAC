@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182895021,
+    "Title": "Balancing thermal comfort and energy efficiency in high-rise public housing in Hong Kong: Insights and recommendations",
+    "Author": "Gao K.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2024-01-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.jclepro.2024.140741",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chinese University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 0,
+    "Abstract": "As global warming intensifies, passive design for public housing in hot and humid climates has become a pressing issue. Achieving a balance between thermal comfort and energy conservation is particularly challenging in low-income public rental housing, where residents may endure extended periods of uncomfortable and unhealthy thermal conditions without resorting to air conditioning. In this study, EnergyPlus simulations are employed in combination with a novel thermal-comfort-based HVAC control approach to evaluate the performance of 14 Passive Cooling Strategies (PCS) in optimizing thermal comfort and energy conservation in high-rise public apartments of various sizes and orientations in Hong Kong, particularly under extreme summer conditions. The results reveal that, during extreme summer weather, the implementation of PCS primarily enhances thermal comfort conditions in May and September, while facing challenges in creating comfortable conditions during peak summer months. Most PCSs struggle to improve indoor comfort while simultaneously reducing energy consumption, with two exceptions: 1) Cross-ventilation-based designs enhance thermal comfort without increasing cooling energy consumption. 2) With energy-saving HVAC and opening control behavior, coupled with the use of fans for improving indoor thermal comfort, all PCSs can achieve a simultaneous improvement in thermal comfort and a reduction in cooling energy consumption. This results in a reduction in summer air-conditioning operation time of up to 50% and a decrease in air-conditioning cooling energy consumption of up to 30%. Regarding the impact of building size and orientation: 1) Small apartments show a heightened sensitivity to PCSs, particularly concerning indoor temperature, thermal comfort, and cooling energy consumption. 2) The influence of building orientation on cooling and comfort time in any PCS varies by less than 10% of its average and is even lower in PCSs with lower internal heat gain."
+}

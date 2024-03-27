@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050219532,
+    "Title": "Optimized design of low-rise commercial buildings under various climates – Energy performance and passive cooling strategies",
+    "Author": "Lapisa R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-03-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2018.01.029",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Negeri Padang",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 60,
+    "Abstract": "The design of low-rise commercial building envelopes is mainly driven by functional large volumes, and low-cost and lightweight materials that often present weak thermal performances. Thermal and visual comfort is a key parameter for these buildings’ purpose, but poor envelope designs have significant consequences on the high-energy demand for HVAC and artificial lighting systems. Considering the resources outside the building envelope for both cooling and heating seasons, this study aims to optimize the building design under various climates. Energy for ventilation, heating and lighting, and summer thermal discomfort are mitigated considering natural resources such as solar energy, low sky temperatures, ground inertia, and ambient air. For this specific building typology, main thermal fluxes are transmitted through large surfaces of soil (to the ground) and roof (to the environment). In the study, we found that summer thermal discomfort can be minimized, and near zero for some climates, without active cooling system. This objective is balanced by the energy demand objective; a multiobjective optimization using the NSGA-II algorithm gave optimal solutions according to local climate and global warming effects. This methodology and numerical results presented here can be helpful to design new commercial buildings and improve energy efficiency of existing ones. Most adapted set of design parameters for passive cooling solutions such as cool roofs and night natural ventilation are mapped for various climate, including climate change effects."
+}

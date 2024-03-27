@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85045652526,
+    "Title": "Wearable Sensor-Based Location-Specific Occupancy Detection in Smart Environments",
+    "Author": "Khan M.A.A.H.",
+    "Journal": "Mobile Information Systems",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1155/2018/4570182",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Information Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Occupancy detection helps enable various emerging smart environment applications ranging from opportunistic HVAC (heating, ventilation, and air-conditioning) control, effective meeting management, healthy social gathering, and public event planning and organization. Ubiquitous availability of smartphones and wearable sensors with the users for almost 24 hours helps revitalize a multitude of novel applications. The inbuilt microphone sensor in smartphones plays as an inevitable enabler to help detect the number of people conversing with each other in an event or gathering. A large number of other sensors such as accelerometer and gyroscope help count the number of people based on other signals such as locomotive motion. In this work, we propose multimodal data fusion and deep learning approach relying on the smartphone's microphone and accelerometer sensors to estimate occupancy. We first demonstrate a novel speaker estimation algorithm for people counting and extend the proposed model using deep nets for handling large-scale fluid scenarios with unlabeled acoustic signals. We augment our occupancy detection model with a magnetometer-dependent fingerprinting-based localization scheme to assimilate the volume of location-specific gathering. We also propose crowdsourcing techniques to annotate the semantic location of the occupant. We evaluate our approach in different contexts: conversational, silence, and mixed scenarios in the presence of 10 people. Our experimental results on real-life data traces in natural settings show that our cross-modal approach can achieve approximately 0.53 error count distance for occupancy detection accuracy on average."
+}

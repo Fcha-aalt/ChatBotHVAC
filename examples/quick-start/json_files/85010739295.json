@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85010739295,
+    "Title": "Learning to control partial differential equations: Regularized Fitted Q-Iteration approach",
+    "Author": "Farahmand A.M.",
+    "Journal": "2016 IEEE 55th Conference on Decision and Control, CDC 2016",
+    "Publication Date": {
+        "$date": "2016-12-27T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/CDC.2016.7798966",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mitsubishi Electric Research Laboratories",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "This paper formulates a class of partial differential equation (PDE) control problems as a reinforcement learning (RL) problem. We design an RL-based algorithm that directly works with the state of PDE, an infinite dimensional vector, thus allowing us to avoid the model order reduction, commonly used in the conventional PDE controller design approaches. We apply the method to the problem of flow control for time-varying 2D convection-diffusion PDE, as a simplified model for heating, ventilating, air conditioning (HVAC) control design in a room."
+}

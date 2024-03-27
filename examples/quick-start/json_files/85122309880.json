@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122309880,
+    "Title": "A numerical analysis of particulate matter control technology integrated with HVAC system inlet design and implications on energy consumption",
+    "Author": "Considine B.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2021.108726",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Trinity College Dublin",
+    "Affliation Country": "Ireland",
+    "Cited by count": 4,
+    "Abstract": "This paper examines and outlines the development of a novel inlet for an air handling unit (AHU) which controls PM concentration entering mechanically ventilated buildings. The aspiration efficiency reducer (AER), can reduce the ambient PM concentrations drawn into a building ventilation system. The AER device incorporates an array of cylindrical tubed orifices, which create conditions for potential improved indoor air quality (IAQ) and energy savings. Prototypes were designed by reverse-engineering the aspiration efficiency (AE) concept, creating new inlets for AHUs using Computational Fluid Dynamics. This approach helps achieve low AE values and reduce PM concentrations entering the AHU and filter loading rates. 3D k-ω SST models were used to simulate particle laden fluid flow around an AHU with AER attachments. The investigation found that the engineering of wind flow around the AHU and its inlet resulted in lower levels of particles with diameters ≤10 μm entering the AHU. The difference in AE for particles within the PM10 range for the passive AER prototypes in comparison to a commercial rainhood ranged from 5 to 35% for various inlet designs. This translated into increased energy savings of 15.2–20.6% and extended fabric filter lifespan of up to an additional 100 hundred days until saturation. The AER has the potential to reduce energy consumption, minimise waste generation and present cost savings whilst improving IAQ, through a reduction in maintenance activities and the number of filter replacements. This novel technology requires low-capital investment to deliver environmental, energy and economic savings in this sector."
+}

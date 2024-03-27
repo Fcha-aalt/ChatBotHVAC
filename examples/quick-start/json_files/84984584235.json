@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84984584235,
+    "Title": "WSN system design by using an innovative neural network model to perform thermals forecasting in a urban canyon scenario",
+    "Author": "Giuseppina N.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-12-31T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1063/1.4938961",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Enna \"Kore\"",
+    "Affliation Country": "Italy",
+    "Cited by count": 4,
+    "Abstract": "Wireless Sensor Networks (WSNs) were studied by researchers in order to manage Heating, Ventilating and Air-Conditioning (HVAC) indoor systems. WSN can be useful specially to regulate indoor confort in a urban canyon scenario, where the thermal parameters vary rapidly, influenced by outdoor climate changing. This paper shows an innovative neural network approach, by using WSN data collected, in order to forecast the indoor temperature to varying the outdoor conditions based on climate parameters and boundary conditions typically of urban canyon. In this work more attention will be done to influence of traffic jam and number of vehicles in queue."
+}

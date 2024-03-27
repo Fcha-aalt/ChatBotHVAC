@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85092216111,
+    "Title": "A hybrid deep forest approach for outlier detection and fault diagnosis of variable refrigerant flow system",
+    "Author": "Zeng Y.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.ijrefrig.2020.08.014",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huazhong University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 15,
+    "Abstract": "This paper presents a hybrid deep forest approach for outlier detection and fault diagnosis. Isolation forest algorithm is combined with Pearson's correlation coefficient for outlier detection. The physical significance of outliers detected by the proposed algorithm is explained by origin analysis, which is rarely mentioned in existing studies. In addition, a novel non-neural network deep learning model-cascade forest model is proposed to fault diagnosis of HVAC system for the first time to achieve high precision accuracy in low-dimensional features. The proposed approach is validated with the refrigerant charge fault of VRF system. The results show that the isolation forest algorithm can improve the performance of fault diagnosis model and the mainly outliers of VRF system are defrosting data. The IF-CF model has short operation time, and high accuracy in low-dimensional features. When the dimension drops to 6, the accuracy of the IF-CF model is 94.16%, which is 5.26%, 10.02%, 5.87% and 3.34% higher than the IF-MLP, IF-BPNN, IF-SVM and IF-LSTM models, respectively. Moreover, IF-CF model does not require complex hyper-parameter optimization strategy because its maximum accuracy difference in different hyper-parameters is 2.04%. This study is enlightening which may inspire the potential of outlier detection technology and deep learning in HVAC field."
+}

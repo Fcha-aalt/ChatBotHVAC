@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088518178,
+    "Title": "Towards Federated Learning for HVAC Analytics: A Measurement Study",
+    "Author": "Guo Y.",
+    "Journal": "e-Energy 2020 - Proceedings of the 11th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2020-06-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3396851.3397717",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 10,
+    "Abstract": "In recent years, many machine learning (ML) models have been developed for enhancing the performance of heating, ventilation and air conditioning (HVAC) systems. In all these studies, it is commonly assumed that building data is collected and stored at a central location, usually a cloud server, where the ML models are trained. Collecting data in a centralized location introduces privacy concerns since building data can reveal sensitive information such as the arrival and departure patterns of occupants. In this paper, we advocate federated learning (FL), a new distributed learning paradigm, where an overall ML model is trained without the need for exchanging raw data between the data source and the cloud. It has been noted that model training through FL can compromise the accuracy of ML models. In this paper, we study the question: what is the impact of FL on HVAC model accuracy? As there is no FL platform readily applicable for HVAC analytics, we first develop BuildFL, an open-source platform that is specifically designed for FL of HVAC models. We then present a comprehensive measurement study using five HVAC ML models applied to three building data sets. We analyze the impact of different factors on the model accuracy and set the stage for a deeper study of FL to enable enhanced privacy-preserving HVAC models."
+}

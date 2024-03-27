@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141917076,
+    "Title": "Mining operation hours on time-series energy data to identify unnecessary building energy consumption",
+    "Author": "Tian Z.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2022.105509",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Key Laboratory of Ecology and Energy-saving Study of Dense Habitat, Ministry of Education",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "Smart metering and the internet of things (IoT) accumulate massive time-series building data. Mining operation patterns from time-series data have huge potential to provide extra information for improving energy efficiency. Previous studies mainly focused on mining control patterns of the heating, ventilation, and air-conditioning system (HVAC). Mining operational patterns from time-series data can help building managers identify energy-wasting operations. This study proposes three methods of mining the operation hours on the time-series data of hundreds of buildings. A key performance indicator (KPI) of facility hours is proposed to indicate the discrepancy between occupants’ requirements and facility hours. The study is carried out on the 240 office buildings of building data genome project 2 (BDG2). The proposed methods are evaluated by comparing mined hours with annotated hours. The impacts of eight operational KPIs are quantified with correlation coefficients and ensemble learning. The practicality of the proposed methods is evaluated on three case buildings. The results show that the cumulative histogram method is effective in mining operation hours. The regression results indicate that mined KPIs can improve the energy prediction accuracy (R2) from 0.35 to 0.41. The impacts of operational KPIs reveal that the KPI of weekends has a tremendous impact on energy consumption. The case study results show that reducing unnecessary facility hours can save from 2.9% to 10.6% energy. This study verifies that operational KPIs mined from time-series data can provide building managers with intuitive knowledge for improving operations."
+}

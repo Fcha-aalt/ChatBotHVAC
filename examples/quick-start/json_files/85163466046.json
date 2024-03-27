@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163466046,
+    "Title": "An innovative approach to assess the limitations of characterizing solar gains in buildings: A Spanish case study",
+    "Author": "Bienvenido-Huertas D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-08-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113206",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Granada",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "A minimal energy demand should be required in buildings both to optimize the performance of the building façade and to control solar gains. According to the existing studies and national standards, the climate zone classification is usually based on both the degree-days methodology and outdated climate data, thus managing HVAC systems inappropriately or leading to users’ thermal discomfort in indoor spaces. To evaluate the current limitations and to characterize solar gains in the Spanish building stock, an innovative approach is presented. For this purpose, seven clustering algorithms were implemented by distinguishing between winter and summer seasons during the calculation procedures. Solar irradiation from 8,948 locations in Spain were used. Likewise, the control of solar gains was analysed with the regulatory approach of Spain and with those developed through the study. The results of this research revealed that climate zones set by the Spanish Technical Building Code could imply to use values of monthly accumulated solar irradiation with discrepancies between 43.17 and 84.41 kWh/m2, compared to the real values. Hence, an accurate method focused on k-means clustering should be adopted. Furthermore, the results can be used for a more accurate analysis of solar control and improve the energy efficiency of buildings."
+}

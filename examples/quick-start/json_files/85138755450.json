@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138755450,
+    "Title": "Estimating Heating Load in Residential Buildings Using Multi-Verse Optimizer, Self-Organizing Self-Adaptive, and Vortex Search Neural-Evolutionary Techniques",
+    "Author": "Nejati F.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12091328",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Khatam University",
+    "Affliation Country": "Iran",
+    "Cited by count": 2,
+    "Abstract": "Using ANN algorithms to address optimization problems has substantially benefited recent research. This study assessed the heating load (HL) of residential buildings’ heating, ventilating, and air conditioning (HVAC) systems. Multi-layer perceptron (MLP) neural network is utilized in association with the MVO (multi-verse optimizer), VSA (vortex search algorithm), and SOSA (self-organizing self-adaptive) algorithms to solve the computational challenges compounded by the model’s complexity. In a dataset that includes independent factors like overall height and glazing area, orientation, wall area, compactness, and the distribution of glazing area, HL is a goal factor. It was revealed that metaheuristic ensembles based on the MVOMLP and VSAMLP metaheuristics had a solid ability to recognize non-linear relationships between these variables. In terms of performance, the MVO-MLP model was considered superior to the VSA-MLP and SOSA-MLP models."
+}

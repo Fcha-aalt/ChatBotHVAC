@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85119061493,
+    "Title": "Energy-efficient cabin climate control of electric vehicles using linear time-varying model predictive control",
+    "Author": "Chen Y.",
+    "Journal": "Optimal Control Applications and Methods",
+    "Publication Date": {
+        "$date": "2023-03-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1002/oca.2816",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Michigan-Dearborn",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "A cabin climate control system, often referred to as a heating, ventilation, and air conditioning (HVAC) system, is one of the largest auxiliary loads of an electric vehicle (EV), and the real-time optimal control of HVAC brings a significant energy-saving potential. In this article, a linear-time-varying (LTV) model predictive control (MPC)-based approach is presented for energy-efficient cabin climate control of EVs. A modification is made to the cost function in the considered MPC problem to simplify the Hessian matrix in utilizing quadratic programming for real-time computation. A rigorous parametric study is conducted to determine optimal weighting factors that work robustly under various operating conditions. Then, the performance of the proposed LTV-MPC controller is compared against a rule-based (RB) controller and a nonlinear economic MPC (NEMPC) benchmark. Compared with the RB controller benchmark, the LTV-MPC reaches the target cabin temperature at least 69 s faster with 3.2% to 15% less HVAC system energy consumption, and the averaged cabin temperature difference is 0.7°C at most. Compared with the NEMPC, the LTV-MPC controller can achieve comparable performance in temperature regulation and energy consumption with fast computation time: the maximum differences in temperature and energy consumption are 0.4°C and 2.6%, respectively, and the computational time is reduced 72.4% on average with the LTV-MPC."
+}

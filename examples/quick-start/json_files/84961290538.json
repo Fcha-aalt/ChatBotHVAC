@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84961290538,
+    "Title": "Comparisons of inverse modeling approaches for predicting building energy performance",
+    "Author": "Zhang Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2015-04-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.buildenv.2014.12.023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Georgia Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 138,
+    "Abstract": "In building retrofit projects, retrofit savings can be estimated by comparing building energy use before and after installing Energy Conservation Measures (ECMs). A complicating factor is that there is no direct measurement of the reduced energy use that is solely attributable to the retrofit. Indeed, simple comparisons by subtracting the post-retrofit energy use from the pre-retrofit would ignore the impact of other factors, such as weather and occupancy with constantly changing patterns, on the total building energy use. Data-driven models (i.e., derived by inverse modeling approaches) that are trained with monitored pre-retrofit building data can be used as the baseline models in a retrofit project. However, to be effective, the baseline energy models must be capable of singling out the impact of ECMs and ignoring the influence of other factors. A commonly used method to achieve this goal is to develop a statistical model that correlates energy use with weather and other independent variables.This paper first reviews four mainstream baseline data-driven energy models used to characterize building energy performance: change-point regression model, Gaussian process regression model, Gaussian Mixture Regression Model, and Artificial Neural Network model, These models are then applied to an office building to predict the Heating, Ventilation, and Air-Conditioning (HVAC) hot water energy consumption. Several model accuracy measures such as R2, RMSE, CV-RMSE, and sensitivity to sample frequency, and reliability, are evaluated and compared."
+}

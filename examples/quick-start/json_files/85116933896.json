@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85116933896,
+    "Title": "A model-based predictive dispatch strategy for unlocking and optimizing the building energy flexibilities of multiple resources in electricity markets of multiple services",
+    "Author": "Tang H.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2021.117889",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 28,
+    "Abstract": "In recent years, demand side measures have been increasingly considered to provide flexibility services in different timescales (seconds, minutes, or longer timescale) and thereby improve the reliability and overall energy efficiency of power systems. However, the existing studies about multiple grid flexibility services only focus on the generation or storage resources, without considering the variety, controllability, and flexibility of different loads. Few studies have investigated the economic benefits and contributions of building energy flexibilities with fast and slow response speeds to different flexibility services. Therefore, this study develops a novel model-based predictive dispatch strategy for hybrid building energy systems to maximize the economic benefits in electricity markets of multiple services. The energy flexibilities of buildings are transformed to the bids for energy trading, peak charge and ancillary services in the electricity market. The system characteristics and the comfort (or preferences) of occupants regarding multiple flexibility resources, including dimmable lighting systems, HVAC systems, electrical vehicles and stationary batteries integrated with PV are considered. Tests are conducted to evaluate the performance of the strategy and the impacts on building operation, using real-time TRNSYS-MATLAB co-simulation. Test results show that electricity costs can be reduced by up to 26.1% when fully utilizing multiple revenue streams in an electricity market. The impacts of uncertain and high-granularity grid control signals on the indoor environment, the charging requirements of EVs and state of charge (SOC) of battery are negligible while the expected building power modulation following the real-time power grid control signals can be achieved."
+}

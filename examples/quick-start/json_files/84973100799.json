@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84973100799,
+    "Title": "Outliers detection method using clustering in buildings data",
+    "Author": "Habib U.",
+    "Journal": "IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/IECON.2015.7392181",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Austrian Institute of Technology",
+    "Affliation Country": "Austria",
+    "Cited by count": 13,
+    "Abstract": "To achieve energy efficiency in buildings, a lot of raw data is recorded, during the operation of buildings. This recorded raw data is further used for the analysis of the performance of buildings and its different components e.g. Heating, Ventilation and Air-Conditioning (HVAC). To save time and energy it is required to ensure resilience of the data by detecting and replacing outliers (i.e. data samples that are not plausible) in the data before detailed analysis. This paper discusses the steps involved for detecting outliers in the data obtained from absorption chiller using their On/Off state information. It also proposes a method for automatic detection of On/Off and/or Missing Data status of the chiller. The technique uses two layer K-Means clustering for detecting On/Off as well as Missing Data state of the chiller. After automatic detection of the chiller On/Off cycle, a method for outlier detection is proposed using Z-Score normalization based on the On/Off cycle state of chillers and clustering outliers by Expectation Maximization clustering algorithm. Moreover, the results of filling the missing values with regression and linear interpolation for short and long periods are elaborated. All proposed methods are applied to real building data and the results are discussed."
+}

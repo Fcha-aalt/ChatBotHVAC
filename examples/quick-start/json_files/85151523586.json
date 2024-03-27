@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151523586,
+    "Title": "Development of a Gray-box Modeling Method for HVAC&amp;R Systems in Commercial Buildings with an Automatic Calibration Process",
+    "Author": "Kim H.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.30466",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kyushu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "A gray-box model overcomes the limitations of black-box building modeling. However, existing gray-box models have many parameters and calculate an optimized objective function from the data. We developed gray-box techniques for heating, ventilation, air-conditioning, and refrigeration (HVAC&R) equipment to understand the status of the system operation. The parameters of the individual equipment model are minimized and fitted for interval data by a machine learning model to automatically perform the calibration process. The power consumption of the individual models was approximately 14% higher than that of TRNSYS, and the power consumption of the entire system model was approximately 7% lower."
+}

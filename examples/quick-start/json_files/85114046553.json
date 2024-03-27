@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114046553,
+    "Title": "Cooling energy savings and occupant feedback in a two year retrofit evaluation of 99 automated ceiling fans staged with air conditioning",
+    "Author": "Miller D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-11-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111319",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Controlled air movement is an effective strategy for maintaining occupant comfort while reducing energy consumption, since comfort at moderately warmer temperatures requires less space cooling. Modern ceiling fans provide a 2–4 °C cooling effect at power consumption comparable to LED lightbulbs (2–30 W) with gentle air speeds (0.5–1 m/s). However, very limited design guidance and performance data are available for using ceiling fans and air conditioning together, especially in commercial buildings. We present results from a 29-month field study of 99 automated ceiling fans and 12 thermostats installed in ten air-conditioned buildings in a hot/dry climate in California. Staging ceiling fans to automatically cool before, and then operate together with air conditioning enabled raising air conditioning cooling temperature setpoints in most zones, with overall positive occupant interview and survey responses. Overall measured cooling season (April– October) compressor energy savings were 36%, normalized by floor area served (41% during summer peak billing hours). Weather-normalized changes in zone energy use varied from 24% increase to 73% decrease across 13 compressors, reflecting variation in occupant schedules and other uncontrolled factors in occupied buildings. Median weather-normalized energy savings per compressor were 21%. Staging ceiling fans and air conditioning provided comfort across a wider temperature range, using less energy, than air conditioning alone."
+}

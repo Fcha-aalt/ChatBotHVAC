@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106206997,
+    "Title": "State of the art review on model predictive control (MPC) in Heating Ventilation and Air-conditioning (HVAC) field",
+    "Author": "Yao Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107952",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 165,
+    "Abstract": "Building systems are subject of dynamic system that have a general feature of non-linearity and in turn, present us with different challenges for its optimized control of energy-saving and thermal comfort. Occupancy behavior, weather forecast, ambient temperature and solar irradiation, etc. In particular are difficult to predict. These uncertainty parameters have a direct influence on the building's behavior that further complicate problem formulation for energy saving in a building. Model predictive control (MPC) has been one of the potential strategies for control schemes to address these problems and tackle them since its invention. MPC is a suitable and the best candidate when it comes to questioning for future predictions in terms of energy efficiency, cost, and control mechanisms. MPC consists of model of a plant, prediction horizon and optimization tools used for the optimization of the future response of the plant. After broad applications of MPC in industrial applications for process control, it has been gaining ground in the field of Heating Ventilation and Air-conditioning (HVAC). Although there has been extensive research of MPC in HVAC systems of buildings, there lacks a detailed review, a complete structure that formulates and describes the applications. An overall holistic view of applications of MPC in building HVAC system has been provided in this paper. Broader information on modeling techniques and optimization algorithms are discussed in a detailed manner. Different design parameters such as prediction horizon, time step, cost function, etc., that ultimately affect MPC performance are presented in a comprehensive form. Various kinds of modeling software with their technical features, pros and cons are elaborated. The main goal of the current paper is to highlight important design parameters crucial for the MPC control scheme and provide better guidelines for further studies. Various future outlines have been listed that can be helpful for future work in this field."
+}

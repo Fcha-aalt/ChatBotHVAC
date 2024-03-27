@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141527430,
+    "Title": "Towards self-learning control of HVAC systems with the consideration of dynamic occupancy patterns: Application of model-free deep reinforcement learning",
+    "Author": "Esrafilian-Najafabadi M.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109747",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 11,
+    "Abstract": "This study proposes a self-learning control system that aims to learn occupancy profiles, building energy consumption patterns, and lag-time of the heating, ventilation, and air-conditioning (HVAC) systems. The control system learns by interacting with the environment with no need to develop building models and occupancy prediction models. The controller is developed based on a double deep Q-networks (DDQN) algorithm, as a model-free reinforcement learning method. The system's performance is evaluated and compared with that of a model predictive control (MPC) system under two scenarios of perfect and actual occupancy predictions based on occupancy data collected from 20 residential units. The MPC is assisted by a genetic algorithm and supervised learning models for predicting future occupancy patterns, indoor operative temperature, and building energy consumption. The results show that in the case of using perfect occupancy prediction, the self-learning controller operates almost as well as the MPC while not requiring any models. When occupancy prediction uncertainty is added to the problem, the proposed method outperforms the MPC in terms of thermal comfort by increasing the average temperature deviation and deviation period by 0.24 °C and 7.87%, respectively. However, the DDQN agent causes significant thermal comfort violations during the initial training period. The system causes up to a 2.8% longer deviation period and a 0.32 °C higher average temperature deviation, compared with the performance of the fully-trained system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050657623,
+    "Title": "A neuro-fuzzy sugeno-style HVAC control system for balancing thermal comfort and energy consumption",
+    "Author": "Bakr H.H.",
+    "Journal": "IJCCI 2017 - Proceedings of the 9th International Joint Conference on Computational Intelligence",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.5220/0006558904190426",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Kurdistan Hewlêr",
+    "Affliation Country": "Iraq",
+    "Cited by count": 4,
+    "Abstract": "Thermal comfort is an environmental state, in which humans enjoy calefactory conditions while being indoor and wearing a normal amount of clothing. To achieve this, the indoor environment's temperature should be adjusted in accordance with the temperature variations of the outdoor space, taking into account the resulting energy costs. We studied this problem by designing a neuro-fuzzy HVAC control system that provides a higher indoor environment comfort while decreasing the corresponding energy consumption. Our controller utilizes a Sugeno-style fuzzy inference system with two sensory inputs: one for temperature and another for occupants' motion. It outputs a signal that represents the mode of the air conditioner and the compressor speed. Simulation results showed that the air conditioner turns off automatically after 10 minutes of the last detected motion. Furthermore, running the simulations for the energy consumption and resulting costs, both variables were shown to fall in the absence of occupants' motion."
+}

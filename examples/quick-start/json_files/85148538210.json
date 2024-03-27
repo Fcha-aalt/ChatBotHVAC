@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148538210,
+    "Title": "Is IoT monitoring key to improve building energy efficiency? Case study of a smart campus in Spain",
+    "Author": "García-Monge M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112882",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Zaragoza",
+    "Affliation Country": "Spain",
+    "Cited by count": 7,
+    "Abstract": "This work validates and demonstrates the potential of a methodology based on a continuous monitoring system with real time measurements, as a key support to make decisions on buildings energy systems based on quantitative data. For this work, a continuous loop-based monitoring methodology was designed and implemented to enhance the performance of Heating Ventilation and Air Conditioning (HVAC) systems by improving the energy efficiency of university buildings and the quality of life of the people who use them. The results from the case study, used to demonstrate the proposed methodology, can be extrapolated to the entire university in order to transform it into a smart campus. The case study also shows that the continuous measurement of temperatures allows to avoid excessive heating, reducing unnecessary energy consumption. Additionally, the case study shows the importance of monitoring CO2 concentration in rooms where occupancy is fluctuating, since it enables a control of the HVAC system based on the instantaneous CO2 level (and predictive in the immediate aftermath). This proposed measurement can save between 40% and 70% of HVAC energy consumption. The positive results obtained in this research show that implementing Internet of Things (IoT) smart ecosystems contribute to promote data-driven decisions in public tertiary buildings among decision-makers, politicians, and other stakeholders."
+}

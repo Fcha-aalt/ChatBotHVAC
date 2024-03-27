@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85065977657,
+    "Title": "Decentralized economic model predictive control for energy efficiency in a multi-zone building",
+    "Author": "Mona Subramaniam A.",
+    "Journal": "Proceedings of 2018 IEEE International Conference on Power Electronics, Drives and Energy Systems, PEDES 2018",
+    "Publication Date": {
+        "$date": "2018-07-02T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/PEDES.2018.8707751",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indian Institute of Technology Mandi",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "This paper presents a novel approach to design a decentralized economic model predictive control (eMPC) strategy for an HVAC system in a multi-zone building. The primary source of coupling between interconnected zones is the shared walls of which a direct temperature measurement is either not available or difficult to obtain. To circumvent this issue, we design a full order nonlinear state-observer to estimate the walls temperatures of zones using which the system is decomposed into control-oriented thermal models of individual zones. Subsequently, a decentralized eMPC is designed whose economic performance, in fact, turns out to be the same as that of a centralized control strategy. As a result, the control signal is now computed faster for a longer prediction horizon, thereby, makes the proposed eMPC scheme suitable for the real-time implementation. The effectiveness of the proposed control approach is demonstrated on a one floor, three-zone building constructed using SIMulation of Building and Devices (SIMBAD) toolbox."
+}

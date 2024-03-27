@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138226075,
+    "Title": "FMI real-time co-simulation-based machine deep learning control of HVAC systems in smart buildings: Digital-twins technology",
+    "Author": "Mohseni S.R.",
+    "Journal": "Transactions of the Institute of Measurement and Control",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1177/01423312221119635",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shiraz University",
+    "Affliation Country": "Iran",
+    "Cited by count": 3,
+    "Abstract": "As heating, ventilation, and air conditioning (HVAC) systems have become one of the most contributing systems in energy consumption in the world, the control of these large-scale systems remains a challenging duty due to the decoupling effects of control variables. Accordingly, the penetration of these types of systems in all-smart buildings has increased in recent years. Furthermore, the application of digital twin as a fast-growing concept is being developed. In HVAC systems, independent and accurate control of temperature and humidity of the indoor air has been playing an undeniable role in reducing energy consumption. In this paper, to have cost-effective energy management in a single-zone HVAC system, a new reliable digital twin proximal policy optimization (PPO)–based model-independent nonsingular terminal sliding-mode control (MINTSMC) methodology has been proposed. Moreover, due to the nonlinear characteristics of HVAC systems, MINTSMC tends to handle the un-modeled system dynamics and disturbances. For regulating parameters of proposed control, an efficient PPO algorithm has been developed due to its actor-critic-based reinforcement learning. Extensive examinations and comparative analyses with particle swarm optimization designed sliding-mode control and proportional–integral–derivative controller have been made using digital twin of the proposed controller to show the importance, accuracy, and application of this method in the comfort and energy management achievement of HVAC control systems. A digital signal processor computing device has been utilized for implementation by utilizing hardware-in-loop (HIL) in the concept of the digital twin. To determine the interface between established models, software-in-loop, and HIL, the Functional Mock-up Interface has been utilized. The outcomes revealed a superior performance of suggested digital twin-based controller than the compared control methodologies in the compensation of unknown uncertainties, fast-tracking, and smooth response."
+}

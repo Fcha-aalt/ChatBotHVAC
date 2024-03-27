@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85049840097,
+    "Title": "Thermal comfort evaluated for combinations of energy-efficient personal heating and cooling devices",
+    "Author": "Luo M.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-10-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2018.07.008",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 104,
+    "Abstract": "Personal comfort systems (PCS) have potential to fulfill building occupants’ personal thermal comfort preferences with great efficiency. But to integrate them into building conditioning, there must be a broader selection of PCS devices available. Design guidance and standards are needed to assure that such devices provide high levels of comfort effectiveness and energy efficiency. This study addresses these needs. A suite of minimum-power PCS devices was built that target body parts significant to alliesthesia—a heated shoe insole, heated/cooled wristpad, small deskfan, and heated/cooled chair. They were tested in a climate chamber under cool and warm conditions using both thermal-manikin and human-subjects. Their efficiency at physically heating/cooling the body is high; the combined suite has a coefficient of performance (COP) of 3.6 for cooling and 0.88 for heating. The subjects’ whole-body thermal acceptance and thermal comfort perception were improved by the devices in an additive manner; using the combined suite over 80% of people accepted ambient temperatures of 18°C and 29°C. The PCS ‘corrects’ the ambient temperature towards thermal neutrality by as much as 6.5 K cooling and 3.6 K heating, overcoming building occupants’ typical interpersonal thermal differences and making possible large HVAC energy savings in buildings. The idea of temperature corrective power can be the basis of standards for PCS."
+}

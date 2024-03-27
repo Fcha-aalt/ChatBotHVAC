@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130638964,
+    "Title": "Sensor fusion with high-order moments constraints using projection-based neural network",
+    "Author": "Alipouri Y.",
+    "Journal": "IET Signal Processing",
+    "Publication Date": {
+        "$date": "2021-10-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1049/sil2.12046",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The existing sensor fusion methods mainly follow two approaches, including Gaussian and Non-Gaussian-based sensor fusion approaches. In the first approach, fusion weights are determined based on the second moment. This approach is unable to account for high-order moments; thus, it is not accurate for non-Gaussian sensors. In the second approach, the fusion weights are determined using distribution functions of sensor data. Though this method is more accurate than Gaussian-based sensor fusion, it is a sophisticated method as it requires all moments information of each sensor, which is either not available or at least hard to be identified. Here, we propose an alternative way to determine the fusion weights by a limited number of n (>2) moment information of data. The proposed method makes trades off between accuracy and complexity. The other problem, which has not been studied in the literature, is existence of constraints on moments. The proposed method can address this problem as well. To do this, a projection-based neural network-based optimization method is used to calculate the optimal fusion weights that satisfy moment constraints. A practical application of the proposed sensor fusion method on predicting occupancy for heating, ventilation, and air conditioning (HVAC) is conducted."
+}

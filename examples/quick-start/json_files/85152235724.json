@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152235724,
+    "Title": "Research on Automatic Control and Regulation System of Central Air Conditioning Based on Computer Automatic Control Technology",
+    "Author": "Wang Z.",
+    "Journal": "2023 IEEE 3rd International Conference on Power, Electronics and Computer Applications, ICPECA 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICPECA56706.2023.10076127",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Taiyuan University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Based on the computer automatic control technology, this paper designs the energy efficiency optimization method for the traditional water-cooled central air conditioning host system. The chilled water control based on load prediction fuzzy control and the cooling water control based on adaptive fuzzy algorithm are used in the system, and the cooling water supply of the chiller is matched with the end load demand, and the cooling water system is running at maximum efficiency. Then on the basis of the single point fault tolerance design and the key points of energy-saving automatic control design, the design effect of HVAC system in data room is analyzed. Compared with PID control and single neural network reinforcement learning control, the total energy consumption of the system is reduced by 5.36% and 1.64%, and the total proportion of non-comfort time is reduced by 2.32% and 1.37%, respectively."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137160510,
+    "Title": "An Office Building Power Consumption Dataset for Energy Grid Analysis and Control Algorithms",
+    "Author": "Bazenkov N.I.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ifacol.2022.07.020",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 1,
+    "Abstract": "Modern trend in operation and development of energy systems is to rely on data both in low-level control and strategic decisions. So, there is an urgent need in real-life data available for researchers and practioneers. We collected and published online data on real-time functioning of the energy grid of the Trapeznikov Institute of Control Sciences (ICS), a medium-sized research institution. The energy consumers in the ICS campus include office equipment, HVAC systems, elevators, cooking facilities, and some research equipment such as 3-d printers and CNC machines. The buildings are powered by a hundred of 3-phase (220/380 V, 50 Hz) lines, equipped with smart energy meters. The dataset includes electric measurements such as active and reactive power, voltage and current collected at 1/15 - 1 Hz. The dataset also contains local weather and indoor climate measurements. Currently, the data are available for several months of 2020 and the whole 2021 year. We intend them to be used for several purposes. First, the data provide some insights into energy consumption patterns. Second, it may be used as a testbed for load prediction algorithms. Third, we provide separate measurements for each of the power lines which constitute the aggregate consumption of the buildings. One may consider an energy disaggregation problem where ground-truth labeling is provided not for every device, but at the higher level like several rooms with multiple devices. We believe our data will contribute to the research of smart energy systems."
+}

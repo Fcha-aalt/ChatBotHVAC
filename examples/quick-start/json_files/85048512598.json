@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048512598,
+    "Title": "Enhancing the performance of energy recovery ventilators",
+    "Author": "Al-Waked R.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2018-09-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enconman.2018.05.105",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "German Jordanian University",
+    "Affliation Country": "Jordan",
+    "Cited by count": 33,
+    "Abstract": "Thermal performance enhancement of membrane based energy recovery ventilators (ERV) under turbulent flow conditions is investigated utilizing the computational fluid dynamics (CFD) approach. The standard k-ε model was adopted with the enhanced wall treatment option to simulate conjugate heat and mass transfer across the membrane. A user defined function was developed and incorporated into FLUENT to simulate the heat and mass transfer processes across a variable resistance 60 gsm membrane. A mesh sensitivity analysis was conducted and the developed CFD model was validated against an in-house experimental data. The performance of the investigated ERV was tested under different number of: flow channels, flow configurations, weather conditions and air flowrates. Results have shown that face velocity is more significant than flow separator in affecting the thermal performance of the investigated ERVs with a ratio of almost 5 to 1. Furthermore, the layout of the quasi-counter flow might present a preferable overall option over the L-Shape hybrid flow option. The final decision would be dependent on the HVAC system in-use and the higher priority between pressure drop, thermal energy recovered, manufacturability and/or installation."
+}

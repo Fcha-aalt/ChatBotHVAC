@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84907318465,
+    "Title": "Advanced occupant &amp; energy simulation for building systems control",
+    "Author": "Browne D.",
+    "Journal": "eWork and eBusiness in Architecture, Engineering and Construction - Proceedings of the 10th European Conference on Product and Process Modelling, ECPPM 2014",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1201/b17396-112",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University College Cork",
+    "Affliation Country": "Ireland",
+    "Cited by count": 0,
+    "Abstract": "This paper describes a methodology being developed to combine building energy simulation results with accurate and real sensor and meter data with the purpose of better understanding the relationship between energy simulation and real building operation for better occupant comfort and to guide efficient operation. Measured occupancy data from four building spaces within a dedicated demonstration building have been recorded using a novel occupancy monitoring system to develop relevant indicators concerning occupancy levels. Two separate technologies are used to detect occupancy; proximity card access and RFID detection. Results gained from the occupancy detection systems are utilised as input for commercial building energy simulation tools for the purpose of obtaining a better understanding of real time conditions within the occupied spaces and improving building control of HVAC systems. Whilst detailed post occupancy simulations comparisons to real life building operational conditions are normally difficult due to the lack of data, occupancy in particular, the tools and building being discussed in this paper provide a rare opportunity to do so. © 2015 Taylor & Francis Group."
+}

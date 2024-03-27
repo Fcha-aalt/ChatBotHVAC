@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075556093,
+    "Title": "Building energy performance analysis: An experimental validation of an in-house dynamic simulation tool through a real test room",
+    "Author": "Barone G.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-10-28T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12214107",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 31,
+    "Abstract": "This paper focuses on the experimental validation of a building energy performance simulation tool by means of a comparative analysis between numerical results and measurements obtained on a real test room. The empirical tests were carried out for several months under variable weather conditions and in free-floating indoor temperature regime (switched off HVAC system). Measurements were exploited for validating an in-house simulation tool, implemented in MatLab and called DETECt, developed for dynamically assessing the energy performance of buildings. Results show that simulated indoor air and surface room temperatures resulted in very good agreement with the corresponding experimental data; the detected differences were often lower than 0.5 °C and almost always lower than 1 °C. Very low mean absolute and percentage errors were always achieved. In order to show the capabilities of the developed simulation tool, a suitable case study focused on innovative solar radiation high-reflective coatings, and infrared low-emissivity materials is also presented. The performance of these coatings and materials was investigated through a comparative analysis conducted to evaluate their heating and cooling energy saving potentials. Simulation results, obtained for the real test cell considered as equipped with such innovative coatings and material, show that for the weather zone of Naples a 5% saving is obtained both in summer and in winter by simultaneously adopting a high-reflectance coating and a low- emissivity plaster for roof/external walls and interior walls, respectively."
+}

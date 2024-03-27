@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84961221444,
+    "Title": "Applying the HVAC systems in an integrated optimization method for residential building's design. A case study in Spain",
+    "Author": "Aparicio Ruiz P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-05-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.03.023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Sevilla, Escuela Técnica Superior de Ingeniería",
+    "Affliation Country": "Spain",
+    "Cited by count": 21,
+    "Abstract": "Designing a low energy building requires to evaluate a large number of parameters: design combinations, element thermal characteristics, HVAC systems efficiencies, etc. All of them determine the space heating and space cooling energy demands, energy consumptions, and life cycle cost over the lifetime of the building. This paper presents the achievements of SEDICAE research project consisting on a new methodology based on a tabu search and a simplified method to calculate energy consumptions. The methodology is designed to estimate the annual energy demand, life-cycle cost and energy rating. A second process is included to select the HVAC system is developed for the building designed with this methodology. In general, builders should look for low energy, but investment in building design is a limiting factor. This paper show the relationship between energy efficiency index and investment in optimized residential building. Furthermore, the best energy rate is obtained applying the HVAC systems in the integrated optimization method for residential buildings. This methodology reduces investment, reduce the energy demand and selects the best construction materials, allowing to study the cost in different economic scenarios. In this paper, a building design case study is studied in 2028 scenarios in 12 climatic zone in Spain."
+}

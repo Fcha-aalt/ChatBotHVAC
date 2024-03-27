@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85018563396,
+    "Title": "Prediction of temperature in buildings using machine learning techniques",
+    "Author": "Carrasco J.J.",
+    "Journal": "Artificial Intelligence: Concepts, Methodologies, Tools, and Applications",
+    "Publication Date": {
+        "$date": "2016-12-12T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.4018/978-1-5225-1759-7.ch121",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Universitat de València",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "Energy efficiency is a trend due to ecological and economic benefits. Within this field, energy efficiency in buildings sector constitutes one of the main concerns due to the fact that approximately 40% of total world energy consumption corresponds to this sector. Climate control in buildings has the potential to increase its energy efficiency planning strategies for the heating, ventilation and air conditioning (HVAC) machines. These planning strategies may include a stage for long term indoor temperature forecasting. This chapter entails the use of four prediction models (NAÏVE, MLR, MLP, FIS and ANFIS) to forecast temperature in an office building using a temporal horizon of several hours. The obtained results show that the MLP outperforms the other analyzed models. Finally, the obtained predictors are deeply analyzed to obtain information about the influence of the HVAC settings in the building temperature."
+}

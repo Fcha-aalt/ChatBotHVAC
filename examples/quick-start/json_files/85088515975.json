@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088515975,
+    "Title": "MELODY: Adaptive Task Definition of COP Prediction with Metadata for HVAC Control and Electricity Saving",
+    "Author": "Zheng Z.",
+    "Journal": "e-Energy 2020 - Proceedings of the 11th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2020-06-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3396851.3397689",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Edge Cloud Innovation Lab Huawei Cloud",
+    "Affliation Country": NaN,
+    "Cited by count": 5,
+    "Abstract": "It is well-known that the HVAC (heating, ventilation and air conditioning) dominates electricity consumption in commercial buildings. Existing study on HVAC has shown that it is important to accurately quantify the performance profile of a chiller, namely coefficient of performance (COP), and data-driven COP prediction has been recently proposed. However, the task definition for COP prediction, e.g., the number of needed models and the context when the model should be used, is left as an open question. We propose a framework of Metadata-driven Multi-task COP Prediction with Adaptive Task Definition Methodology (MELODY) which defines and learns multiple COP tasks. To the best of our knowledge, this is the first method that adaptively defines COP prediction tasks according to various datasets. As such, this method can select specific COP models under varied contexts and estimate COP. A key idea is to use metadata to dynamically define multiple tasks. We provide a formal definition of metadata and two sources and methods to extract metadata. We evaluate the performance of our scheme by applying it to real-world data, spanning four months obtained from multiple chillers across eight buildings in two large industrial parks in an international metropolis. The results show that our solution outperforms state-of-the-art COP prediction methods and is able to save on 252 MWh of electricity consumption for one month in each of the eight buildings, which is an improvement of over 35% compared to the current mode of operation of the chillers in the buildings."
+}

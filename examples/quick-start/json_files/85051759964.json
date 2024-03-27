@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85051759964,
+    "Title": "Building electricity consumption: Data analytics of building operations with classical time series decomposition and case based subsetting",
+    "Author": "Pickering E.M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-10-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.07.056",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Case School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 23,
+    "Abstract": "The commercial building sector consumes approximately one-fifth of U.S. total energy and exhibits significant operational inefficiencies, leaving a great opportunity to implement various energy-efficiency measures. However, conventional energy audit techniques are expensive, time-consuming, and frequently inaccurate. Conversely, classical time series decomposition of smart meter (i.e. 15 min interval) building electricity consumption provides quick, inexpensive, and useful insights to building operation and characteristics. Paired with complementary time series datasets such as outdoor temperature and solar irradiation, specific insights into HVAC scheduling, daily operational variation, and the relative impact of temperature and solar radiation were quantitatively assessed. This work analyzes six commercial buildings and identifies various building characteristics, including the potential for savings of over 700 MWh valued at $92,000 per year from building rescheduling alone. With access to only whole building smart meter data, these results are obtained virtually and instantaneously, making the case for a rigorous data analytics approach to unlock the potential of building energy efficiency."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84975063343,
+    "Title": "Do occupancy-responsive learning thermostats save energy? A field study in university residence halls",
+    "Author": "Pritoni M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-09-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.05.024",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Davis",
+    "Affliation Country": "United States",
+    "Cited by count": 51,
+    "Abstract": "Occupant presence and behavior can and should influence energy use in buildings. If occupancy is measured, predicted, or otherwise inferred, building controls can automatically adjust system operating parameters to use less energy without sacrificing user services. However, previous field evaluations and simulation studies appear to have overestimated the energy savings associated with this type of smart control. In this article we present results from a carefully controlled field evaluation of occupancy-responsive learning thermostats installed in every bedroom of three high-rise university residence halls. While a standard practice energy model developed prior to the retrofit estimated 10-25% savings for cooling and 20-50% savings for heating, measurements reveal that the control scheme only reduced energy consumption by 0-9% for cooling, and by 5-8% for heating for normal operation during academic periods. However, for non-academic periods when the residence halls were sparsely populated, the scheme reduced cooling energy consumption by 20-30%. We analyzed these observations in relation to occupancy patterns, room temperature records, ambient conditions, and equipment run time. The findings provide novel insight about how to improve field evaluations and refine model assumptions to better predict the impact of occupancy-responsive thermostat controls. Notably, while analysts often use fractional building occupancy trends to simulate building energy performance, this study highlights the importance of accounting accurately for both the temporal and spatial variation of vacancy events throughout a building."
+}

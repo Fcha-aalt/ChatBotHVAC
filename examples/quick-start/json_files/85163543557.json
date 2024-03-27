@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163543557,
+    "Title": "AI-Driven Digital Twins for Predictive Operation and Maintenance in Building Facilities",
+    "Author": "Yitmen I.",
+    "Journal": "Cognitive Digital Twins for Smart Lifecycle Management of Built Environment and Infrastructure Challenges, Opportunities and Practices",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1201/9781003230199-4",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Jönköping University",
+    "Affliation Country": "Sweden",
+    "Cited by count": 1,
+    "Abstract": "By virtue of Artificial Intelligence (AI) and Machine Learning (ML) techniques, integrated with building Digital Twins (DTs), predictive maintenance plays a highly beneficial role in smart asset operation in the built environment. Therefore, this chapter attempts to portray a conceptual framework of AI-based DTs, illustrating how real-time data can be gathered from the building facilities and processed to optimize their operation and maintenance plan. To this end, different enabling and supporting technologies as well as the constituting component of the framework are elaborated. Putting such a framework into practice can enhance the maintenance activities in various types of building facilities such as mechanical and electrical installations, lighting, security, and HVAC systems in order for indoor quality improvement, energy optimization, and cost reduction."
+}

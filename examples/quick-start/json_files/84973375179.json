@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84973375179,
+    "Title": "Fuzzy Neural Network-Based Health Monitoring for HVAC System Variable-Air-Volume Unit",
+    "Author": "Allen W.H.",
+    "Journal": "IEEE Transactions on Industry Applications",
+    "Publication Date": {
+        "$date": "2016-05-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/TIA.2015.2511160",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Architecture",
+    "Affliation Country": "United States",
+    "Cited by count": 56,
+    "Abstract": "For indoor smart grids, the proper operation of building environmental systems is essential to energy efficiency, so automatic detection and classification of abnormal conditions are important. The application of computational intelligence tools to a building's environmental systems that include the building automation system (BAS) and heating ventilating and air conditioning (HVAC) loads is used to develop automatic building diagnostic tools for health monitoring, fault detection, and diagnostics. A novel health monitoring system (HMS) for a variable air volume (VAV) unit is developed using fuzzy logic (FL) to detect abnormal operating conditions and to generate fault signatures for various fault types. Artificial neural network classification technique is applied to fault signatures to classify the fault type. The HMS is tested with simulated data and actual BAS data. The system created was demonstrated to recognize faults and to accurately classify the various fault signatures for test faults of interest."
+}

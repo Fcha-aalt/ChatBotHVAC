@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153068612,
+    "Title": "A novel methodology based on artificial intelligence to achieve the formost Buildings’ heating system",
+    "Author": "Mokhtarian Mobarakeh J.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2023-06-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enconman.2023.116958",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "K. N. Toosi University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 1,
+    "Abstract": "This study investigates the possibility of creating an artificial intelligence system in the form of a predictive model that can recommend the foremost building heating system and their optimum performances for a building based on desired life cycle costs by the project manager and the permitted CO2 emission rate. Accordingly, the developed intelligent system would be able to recommend the most appropriate heating system when the building specifications are given to the system. Therefore, experts' knowledge can be substituted to recommend the foremost heating systems for a building. In this framework, a database is produced using a Multi-objective Particle Swarm Optimization (MOPSO) for the buildings with various numbers of floors, built areas, and the number of residents. Pareto front data for each building is fitted with a curve, and the coefficients of the curves are given to a Multi-Layer Perceptron (MLP) to create a predictive model for optimum performances. Moreover, all optimization data are assigned to a Support Vector Machine (SVM) to determine the classification lines between different heating systems with the lowest risk. The coefficients of separator lines are given to another multi-layer perceptron to create the predictive model for available HVAC systems. The models’ performance was improved by evaluating different structures for the Artificial Neural Networks (ANN) and implementing single-objective models instead of multi-objective ones. The proposed models' performance is acceptable considering the requirements of ASHRAE guideline 14."
+}

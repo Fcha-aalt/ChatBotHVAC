@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964048004,
+    "Title": "Development and implementation of control-oriented models for terminal heating and cooling units",
+    "Author": "Gunay H.B.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-06-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.04.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 9,
+    "Abstract": "Two control-oriented models that can predict the temperature of a perimeter office space were developed by using the data gathered from light intensity, motion and temperature sensors, and terminal heating and cooling units. One model had five unknown parameters while the second had ten unknown parameters and an immeasurable state. The models' parameters were estimated in recursion by employing the Extended Kalman Filter. The appropriateness of the models to the dataset was analyzed through a residual analysis, and the predictive accuracy of the models was contrasted. Both models could make offline predictions over a two day horizon at less than 0.75 °C mean absolute error. It was concluded that the one-state model was able to mimic the temperature response of small perimeter office spaces parsimoniously. The one-state model was implemented inside four building controllers serving eight private office spaces. In tandem with Gunay et al. [1]'s occupancy-learning algorithm, the one-state model was employed to determine optimal start and stop times for the temperature setback periods. Results of this implementation indicated that the duration of the weekday temperature setback periods could be increased more than 50% for both heating and cooling - in contrast to the default control scheme. EnergyPlus simulation results suggest that this accounts for about 30% reduction in heating and 13% reduction in cooling loads without affecting the indoor air temperature during occupied periods."
+}

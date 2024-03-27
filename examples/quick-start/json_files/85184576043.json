@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184576043,
+    "Title": "Handling anomaly in residential energy consumption data",
+    "Author": "Choi Y.",
+    "Journal": "International Conference on ICT Convergence",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICTC58733.2023.10392520",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Electronics and Telecommunications Research Institute",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "The operation of HVAC (heating, ventilation, and air-conditioning) accounts for a large proportion of energy consumption in buildings. Accurate estimation of the energy demand for efficient operation of HVAC is important. In this respect, many researches have been conducted to collect energy consumption data for building energy management and to use the collected data for analysis and prediction. Recently, with the advancement of AI technology, there are many studies to apply AI technology to energy management. In this regard, since performance of AI models depend on the quality of training data, a method for effectively handling missing values and outliers in training data should be considered. This study proposes a method for handling missing values and outliers considering the semantics of data required for energy consumption prediction."
+}

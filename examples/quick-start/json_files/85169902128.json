@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169902128,
+    "Title": "A novel Transformer-based network forecasting method for building cooling loads",
+    "Author": "Li L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113409",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Harbin University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "For cooling equipment management and scheduling optimization, accurate building cooling load forecasting technology is crucial. Currently, the physics-based forecasting models are too complex to achieve, and existing shallow-machine and deep learning algorithms are difficult to capture and retain sequential information from historical building cooling loads, leading to insufficient prediction accuracy. This paper considered the dependency relationship between time-series information in load data and proposed a building load prediction model based on a transformer network to improve the accuracy of building load prediction. This encoder-decoder block-based model can encode and decode all input data, capture sequence information from mapping vectors with user-defined dimensions, and learn important features through the Attention mechanism. In addition, input features were analyzed to verify the importance of each input feature, and to explaine the reasons for the impact of used features on the TRN-based model. Finally, the performance of the proposed model is evaluated using real data from an office building. Compared with other existing methods, the proposed model has the best prediction accuracy (RMSE, MAE, R2 were 0.01, 0.03, and 0.98, respectively), and maintained the best predictive stability over a longer time (uncertainty ranged from −11% to + 11%). The results show that the proposed method can support the development and optimal operation of energy-saving HVAC systems, thereby lowing power consumption."
+}

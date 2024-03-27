@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85027940584,
+    "Title": "Comparative analysis of the AHU InFO fault detection and diagnostic expert tool for AHUs with APAR",
+    "Author": "Bruton K.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2015-04-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/s12053-014-9289-z",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University College Cork",
+    "Affliation Country": "Ireland",
+    "Cited by count": 35,
+    "Abstract": "The contribution of buildings towards total worldwide energy consumption in developed countries is between 20 and 40 %. This is expected to rise by an average rate of 1.5 % per annum over the next 20 years. Heating ventilation and air conditioning (HVAC) and more specifically air handling units (AHUs) energy consumption accounts on average for 40 % of an industrial site’s energy consumption. Building systems rarely perform as well in practice as anticipated during design due to improper equipment selection or installation, lack of commissioning, or improper maintenance to cite but a few reasons. Studies have indicated that 20–30 % energy savings are achievable by recommissioning HVAC systems, and more specifically AHU operations, to rectify faulty operation. Automated Fault Detection and Diagnosis (AFDD) is a process concerned with potentially automating the commissioning process through the detection of faults. This paper seeks to illustrate the effectiveness of a new rule-based expert system developed for AHUs known as “AHU InFO” when compared to the Air Handling Unit Performance Assessment Rules (APAR). AHU InFO has proven to be more effective than APAR in tests against both derived and field test data on a variety of AHU types. In tests against 52 derived faults, AHU InFO identified all 52 issues whereas the APAR identified just ten primarily due to a lack of instrumentation negating the use of many of its constituent rules. In comparisons against field test data, the comparison sought to highlight the developments implemented in AHU InFO with these tests showing that the AHU InFO outperformed APAR in each category tested."
+}

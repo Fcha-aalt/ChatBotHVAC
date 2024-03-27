@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85011282376,
+    "Title": "A review of control systems for energy and comfort management in buildings",
+    "Author": "Merabti S.",
+    "Journal": "Proceedings of 2016 8th International Conference on Modelling, Identification and Control, ICMIC 2016",
+    "Publication Date": {
+        "$date": "2017-01-03T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICMIC.2016.7804161",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Tahri Mohammed - Bechar",
+    "Affliation Country": "Algeria",
+    "Cited by count": 22,
+    "Abstract": "Building management system has ability to control buildings electrical and mechanical equipment namely heating, cooling and ventilating. Building management system can also provide indoor thermal comfort within residential buildings including institutional, commercial and industrial buildings and able to reduce energy consumption. However most of heating, ventilating, and air conditioning (HVAC) systems are controlled by using conventional controllers whose functions are based proportional integral derivative controllers. This controller is not the ultimate solution to save energy because the operations of HVAC systems are nonlinear. Thus, the implementation of fuzzy logic, neuro-fuzzy, fuzzy PID, neural network and genetic algorithm controllers within smart buildings will be more efficient which consequently will save more energy. This paper reviews different methods of control systems for energy and comfort in buildings. Additionally, it highlights the recent developments in building management system controllers including its conceptual basis, limitations and capabilities."
+}

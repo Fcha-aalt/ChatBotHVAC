@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85062734594,
+    "Title": "Bridging energy performance gaps of green office buildings via more targeted operations management: A system dynamics approach",
+    "Author": "Liu P.",
+    "Journal": "Journal of Environmental Management",
+    "Publication Date": {
+        "$date": "2019-05-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.jenvman.2019.02.111",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shandong University, Weihai",
+    "Affliation Country": "China",
+    "Cited by count": 28,
+    "Abstract": "In China, one of the major causes of energy performance gaps observed in green office buildings is the incompetent operations management, which is not distinguished from that of traditional buildings on both facilities and occupants. In this paper, a system dynamics model was established to simulate the interactions (primarily through communications) between facility managers and occupants and to find out targeted operations management strategies to narrow energy performance gaps. The model identifies different types of occupants and uses the Monte Carlo method to address the uncertainty between energy consumption and indoor environment quality satisfaction of occupants. Through a comparison of scenarios in which different types of occupants were each involved, differences in energy performance gaps were found and more-targeted operations management strategies were tailored. The model was applied to a specific case in China. The results indicate that facility managers could pay less attention to austerity occupants while paying more attention to communications with standard occupants to enhance their energy-saving awareness. The results also reveal that the wasteful occupants have the most potential for narrowing the gaps, which can be realized by combining communications and the heating, ventilation and air conditioning (HVAC) system equipment with zonal control."
+}

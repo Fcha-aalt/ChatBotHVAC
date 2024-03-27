@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85094325007,
+    "Title": "Optimal power dispatch for district cooling system considering cooling water transport delay",
+    "Author": "Chen G.",
+    "Journal": "Asia-Pacific Power and Energy Engineering Conference, APPEEC",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/APPEEC48164.2020.9220450",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "State Key Laboratory of Internet of Things for Smart City",
+    "Affliation Country": "Macao",
+    "Cited by count": 3,
+    "Abstract": "District cooling systems (DCS) can provide cooling power to multiple buildings simultaneously but consume a large portion of the total energy supply in a modern city. An energy efficient operation strategy is indispensable to enhance their energy efficiency. However, in published strategies, the cooling water transport delay and indoor thermal dynamics were usually ignored in order to simplify the problem, which may lead to an improper control strategy as well as indoor thermal discomfort. To overcome this challenge, this paper formulates a more comprehensive cooling power dispatch model for DCS servicing multiple buildings. The proposed model not only describes the cooling transportation in pipe network to fully address the effects of transportation time delay, but also involves the model of indoor thermal dynamics. We validate the effectiveness of the proposed model based on a real-world DCS. Numerical experiments demonstrate that, by considering cooling water transport delay, the thermal discomfort penalty is 30% smaller than traditional strategies while the energy cost keeps almost the same."
+}

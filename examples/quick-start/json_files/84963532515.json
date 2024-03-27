@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84963532515,
+    "Title": "Life cycle analysis and optimization of a steel building",
+    "Author": "Bekas G.",
+    "Journal": "Computational Methods in Applied Sciences",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/978-3-319-18320-6_20",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technical University of Crete",
+    "Affliation Country": "Greece",
+    "Cited by count": 1,
+    "Abstract": "The present study seeks to couple the problem of the structural optimization of building frames, with that of the optimization of design options for their energy efficiency. The objective function is a cost function that takes into account both the structural cost and energy performance along the whole life of the building. Consequently, the following design parameters are involved: insulation thickness, wall and window insulation profile, window sizes, heating and air conditioning system sizing, sizing of steel cross-sections, as well as parameters related to the life cycle of the building. Modeling is based on acceptable from national and European regulations procedures. Optimization is solved using evolutionary algorithms. The optimization problem is implemented on a steel office building (10 × 15 m), in Chania, Crete, at the south part of Greece. This is a first attempt to combine Life Cycle Cost and Optimization with classical Structural Optimization for steel structures. Depending on the requirements from the users of the building further evaluation using building energy management system (BEMS) for the intelligent operation and management of heating, ventilation and air-conditioning (HVAC) may be performed."
+}

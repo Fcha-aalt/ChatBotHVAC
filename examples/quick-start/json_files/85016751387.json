@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016751387,
+    "Title": "Performance analysis and capacity sizing for chillers for the HVAC system in a hotel building",
+    "Author": "Wang F.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.18462/iir.icr.2015.0707",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Chin-Yi University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "With energy shortage issue rises, value of energy conservation grows. The energy consumption of HVAC system reaches about 50% of the building especially for the hot and humid ambient condition in Taiwan. Energy modelling code eQUEST was applied to evaluate the energy consumption of a hotel building. Through the validation of simulation data and field measurement data, the energy-efficient chiller sizing approach can be obtained. The results revealed that the energy saving of 10.5% can be achieved by optimizing the chiller capacity sizing. The approach by energy modelling in this study will identify the best practice under limited budget as well as to reduce the trial-and-error effort while chiller sizing decision for energy saving have to be carried out."
+}

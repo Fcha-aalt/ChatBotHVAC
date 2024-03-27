@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85092373088,
+    "Title": "Data-Driven Learning and Load Ensemble Control",
+    "Author": "Hassan A.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.epsr.2020.106780",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NYU Tandon School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Demand response (DR) programs aim to engage distributed small-scale flexible loads, such as thermostatically controllable loads (TCLs), to provide various grid support services. Linearly Solvable Markov Decision Process (LS-MDP), a variant of the traditional MDP, is used to model aggregated TCLs. Then, a model-free reinforcement learning technique called Z-learning is applied to learn the value function and derive the optimal policy for the DR aggregator to control TCLs. The learning process is robust against uncertainty that arises from estimating the passive dynamics of the aggregated TCLs. The efficiency of this data-driven learning is demonstrated through simulations on Heating, Cooling & Ventilation (HVAC) units in a testbed neighborhood of residential houses."
+}

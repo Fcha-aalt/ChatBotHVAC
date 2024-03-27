@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136243929,
+    "Title": "Switching predictive controller for building optimal thermal comfort",
+    "Author": "Rajaoarisoa L.",
+    "Journal": "2022 30th Mediterranean Conference on Control and Automation, MED 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/MED54222.2022.9837246",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université de Lille",
+    "Affliation Country": "France",
+    "Cited by count": 1,
+    "Abstract": "To make buildings more energy efficient, building owners or managers are looking for ways to reduce the energy consumption of equipment such as heating, ventilation and air conditioning (HVAC). In this context, this paper deals with the synthesis and design of switching predictive HVAC controllers exploiting a data-driven output feedback controller for a class of complex nonlinear systems. The system is approximated by a set of linear polynomial models, which is reduced to an auto regressive with exogenous terms model. Data from the internet of things devices are used to feed the controller. It will also be used for partitioning the output space into different operating regions and interpolation regions. Based on this partition, a novel piecewise optimal predictive controller (pw-OPC) with affine terms via optimal output feedback is designed. We give some conditions to verify the feasibility of the technique and the stabilizability of this class of controller. We then check its effectiveness experimentally by applying it to control the heating systems of a student residence. We will compare it with other existing controllers such as an optimal output-feedback controller and an optimal predictive controller to determine its performance. The results prove that the pw-OPC gives good results in terms of thermal comfort and energy savings."
+}

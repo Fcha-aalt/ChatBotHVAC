@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068371521,
+    "Title": "Comfort-based integrative HVAC system with non-intrusive sensing in office buildings",
+    "Author": "Lu S.",
+    "Journal": "Intelligent and Informed - Proceedings of the 24th International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2019",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation and air-conditioning system plays a key role in shaping the built environment. The effective and efficient HVAC operations not only achieve energy savings but also create a more comfortable environment for occupant indoors. Since current HVAC systems with fixed schedules cannot guarantee the operation with high energy efficiency and provision of comfortable thermal environment for occupants, it is of great importance to develop new paradigm of HVAC system framework, especially in the open-plan office environment so that everyone could work under their preferred thermal environment. Moreover, compared to environment-related factors to thermal comfort, sensing systems for occupant-related factors such as clothing insulation, metabolic rate, skin temperature have not had standardized yet and most of sensing systems for occupant-related factors may either result in privacy issue or are too intrusive. Hence, it is necessary to develop a new non-intrusive and less private sensing framework for monitoring individual thermal comfort in real-time. Therefore, this paper proposes an integrative comfort-based personalized cooling system with the operation of the centralized systems in office buildings. The results show that such integrative and interactive HVAC system for workplaces has advantages over thermal comfort improvements and energy savings."
+}

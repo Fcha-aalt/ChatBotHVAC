@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184963698,
+    "Title": "Highly Efficient Year-Round Energy and Comfort Optimization of HVAC Systems in Electric City Buses",
+    "Author": "Widmer F.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.ifacol.2023.10.715",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "ETH Zürich",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 0,
+    "Abstract": "In this paper, we present a novel approach to perform highly efficient numerical simulations of the heating, ventilation, and air-conditioning (HVAC) system of an electric city bus. The models for this simulation are based on the assumption of a steady-state operation. We show two approaches to obtain the minimum energy requirement for a certain thermal comfort criterion under specific ambient conditions. Due to the computationally efficient approach developed, we can evaluate the model on a large dataset of 7500 scenarios in various ambient conditions to estimate the year-round performance of the system subject to different comfort requirements. Compared to a heating strategy based on positive temperature coefficient (PTC) elements, we can thus show that a heat pump (HP) can reduce the annual mean power consumption by up to 60%. Ceiling-mounted radiant heating elements complementing a PTC heating system can reduce the annual mean power consumption by up to 10%, while they cannot improve the energy efficiency when used in conjunction with a HP. Finally, a broad sensitivity study reveals the fact that improving the HP's heating-mode coefficient of performance (COP) manifests the largest leverage in terms of mean annual power consumption. Moreover, the annual energy expenditure for cooling are around eight times smaller than those for heating. The case study considered thus reveals that the advantages of improving the COP of the cooling mode are significantly lower."
+}

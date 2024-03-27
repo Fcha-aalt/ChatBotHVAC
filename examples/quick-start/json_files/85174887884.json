@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174887884,
+    "Title": "A comprehensive optimization study of personal cooling radiant desks integrated to HVAC system for energy efficiency and thermal comfort in office buildings",
+    "Author": "Ismail N.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.ijrefrig.2023.09.023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qatar University",
+    "Affliation Country": "Qatar",
+    "Cited by count": 0,
+    "Abstract": "Personal comfort systems (PCS) maintain the occupant's preferred thermal environment and expand his thermal comfort experience under varying environmental conditions. Among PCSs, radiant-based systems are popular due to their comfort and energy efficiency. A personal cooling radiant desk (PCRD) in conjunction with conventional heating, ventilation, and air conditioning (HVAC) has proven to reduce energy costs. A system's energy and thermal performance, however, depends on various factors making it important to identify the optimal design parameters of a PCRD coupled with HVAC system in an office space. To optimize the energy and thermal performance of the PCRD-HVAC system, a numerical/mathematical model is developed simulating different design parameters. The model uses an artificial neural network (ANN), combined with a multi-objective genetic algorithm (MOGA) to identify the optimal design parameters. The decision variables include the supply temperature, the temperature, and the flow rate of chilled water flowing inside the desk. The study's findings show that the optimal design parameters achieved a balance between thermal comfort and energy efficiency. The recommended design parameters result in an annual energy consumption of 3880 kWh and a predicted percentage of dissatisfied individuals (PPD) of 6 %. The experiment is carried out to validate the model showed a maximum relative error of only 12.54 %. The results of this study have important implications for designing sustainable cooling solutions for office spaces in hot climates. The successful optimization of the PCRD system highlights the importance of balancing energy efficiency and thermal comfort in designing sustainable cooling solutions."
+}

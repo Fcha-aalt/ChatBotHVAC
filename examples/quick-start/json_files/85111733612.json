@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111733612,
+    "Title": "Feasibility of hybrid renewable heating system application in poultry house: a case study of East Midlands, UK",
+    "Author": "Cui Y.",
+    "Journal": "International Journal of Low-Carbon Technologies",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1093/ijlct/ctaa037",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 4,
+    "Abstract": "Currently, there has been an obvious lack of innovation within poultry houses heating, ventilation and air conditioning (HVAC) system design that deals with both energy efficiency and poultry welfare issues. This paper presents an innovative and renewable heating system for poultry house application to meet the welfare living environment requirement for breeding, to improve the energy efficiency of HVAC system and to decrease fossil fuel consumption and harmful gas emissions. The purpose of this study is to design, develop and test the highly efficient hybrid heating system via an integrated photovoltaic/thermal array with polyethylene heat exchanger coupled to geothermal heat pump system based on the East Midlands' climate conditions in the UK. The numerical model is established based on finite volume method and solved by using Engineering Equation Solver, and a good agreement with less than 15% difference between the numerical and experimental results is achieved. The results indicate that the annual electrical and thermal output are 11867 kWh and 30245 kWh, respectively, which not only could fulfil the poultry house electrical need, but also can provide ∼43.5% electricity demand of the heat pump compressor operating."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087710961,
+    "Title": "Estimating cooling production and monitoring efficiency in chillers using a soft sensor",
+    "Author": "Alonso S.",
+    "Journal": "Neural Computing and Applications",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/s00521-020-05165-2",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de León",
+    "Affliation Country": "Spain",
+    "Cited by count": 12,
+    "Abstract": "Intensive use of heating, ventilation and air conditioning systems in buildings entails monitoring their efficiency. Moreover, cooling systems are key facilities in large buildings and can account up to 44% of the energy consumption. Therefore, monitoring efficiency in chillers is crucial and, for that reason, a sensor to measure the cooling production is required. However, manufacturers rarely install it in the chiller due to its cost. In this paper, we propose a methodology to build a soft sensor that provides an estimation of cooling production and enables monitoring the chiller efficiency. The proposed soft sensor uses independent variables (internal states of the chiller and electric power) and can take advantage of current or past observations of those independent variables. Six methods (from linear approaches to deep learning ones) are proposed to develop the model for the soft sensor, capturing relevant features on the structure of data (involving time, thermodynamic and electric variables and the number of refrigeration circuits). Our approach has been tested on two different chillers (large water-cooled and smaller air-cooled chillers) installed at the Hospital of León. The methods to implement the soft sensor are assessed according to three metrics (MAE, MAPE and R2). In addition to the comparison of methods, the results also include the estimation of cooling production (and the comparison of the true and estimated values) and monitoring the COP indicator for a period of several days and for both chillers."
+}

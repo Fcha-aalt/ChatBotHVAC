@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048695273,
+    "Title": "Outcome-based ventilation: A framework for assessing performance, health, and energy impacts to inform office building ventilation decisions",
+    "Author": "Rackes A.",
+    "Journal": "Indoor Air",
+    "Publication Date": {
+        "$date": "2018-07-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1111/ina.12466",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "This article presents an outcome-based ventilation (OBV) framework, which combines competing ventilation impacts into a monetized loss function ($/occ/h) used to inform ventilation rate decisions. The OBV framework, developed for U.S. offices, considers six outcomes of increasing ventilation: profitable outcomes realized from improvements in occupant work performance and sick leave absenteeism; health outcomes from occupant exposure to outdoor fine particles and ozone; and energy outcomes from electricity and natural gas usage. We used the literature to set low, medium, and high reference values for OBV loss function parameters, and evaluated the framework and outcome-based ventilation rates using a simulated U.S. office stock dataset and a case study in New York City. With parameters for all outcomes set at medium values derived from literature-based central estimates, higher ventilation rates’ profitable benefits dominated negative health and energy impacts, and the OBV framework suggested ventilation should be ≥45 L/s/occ, much higher than the baseline ~8.5 L/s/occ rate prescribed by ASHRAE 62.1. Only when combining very low parameter estimates for profitable impacts with very high ones for health and energy impacts were all outcomes on the same order. Even then, however, outcome-based ventilation rates were often twice the baseline rate or more."
+}

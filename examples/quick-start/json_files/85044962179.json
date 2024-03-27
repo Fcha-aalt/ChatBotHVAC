@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044962179,
+    "Title": "Analysis of the impact of simulation model simplifications on the quality of low-energy buildings simulation results",
+    "Author": "Klimczak M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-06-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.03.046",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politechnika Wrocławska",
+    "Affliation Country": "Poland",
+    "Cited by count": 15,
+    "Abstract": "The requirements concerning energy performance of buildings and their internal installations, particularly HVAC systems, have been growing continuously in Poland and all over the world. The existing, traditional calculation methods following from the static heat exchange model are frequently not sufficient for a reasonable heating design of a building. Both in Poland and elsewhere in the world, methods and software are employed which allow a detailed simulation of the heating and moisture conditions in a building, and also an analysis of the performance of HVAC systems within a building. However, these systems are usually difficult in use and complex. In addition, the development of a simulation model that is sufficiently adequate to the real building requires considerable time involvement of a designer, is time-consuming and laborious (Menberg et al., 2019) [1]. A simplification of the simulation model of a building renders it possible to reduce the costs of computer simulations. The paper analyses in detail the effect of introducing a number of different variants of the simulation model developed in DesignBuilder on the quality of final results obtained. The objective of this analysis is to find simplifications which allow obtaining simulation results which have an acceptable level of deviations from the detailed model, thus facilitating a quick energy performance analysis of a given building."
+}

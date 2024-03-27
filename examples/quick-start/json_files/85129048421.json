@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129048421,
+    "Title": "A passive loss reduction method of square-to-square sudden expansions",
+    "Author": "Lukács E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112113",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Budapest University of Technology and Economics",
+    "Affliation Country": "Hungary",
+    "Cited by count": 2,
+    "Abstract": "Mechanical ventilation in edifices is a key contributor to the significant energy consumption of the building industry. Therefore, rational energy management in ventilation systems plays a major role in promoting the energy efficiency of buildings. The present investigation aims at the moderation of fluid mechanical losses – thus the overall energy expenditure of ventilation ducts – of a symmetric square-to-square sudden expansion, frequently found in ventilation systems. A simple passive flow control method with moderate manufacturing costs was proposed, and its efficiency was examined experimentally. The loss reducing appendages were short rectangular sheets of adjustable angle, so-called miniflaps, placed at the step edge of the sudden expansion. Flow characteristics were examined for a fully developed turbulent flow at the inlet of the sudden expansion, for an area ratio of 2.78 and a miniflap length of 0.4 step heights. The investigated Reynolds number range was Re = (0.37–1.82)·105, being representative of ventilation systems. Fluid mechanical losses were determined from wall static pressure measurements. Velocity and turbulence intensity fields were mapped with the help of a laser Doppler anemometer. The miniflaps successfully reduced the loss coefficient of the sudden expansion through quick uniformization of the velocity profile. The loss coefficient was reduced by an absolute value of 0.07–0.11, i.e. a relative value of 14%–25%, for an optimum miniflap angle of α = 12° ± 1°. Reattachment length was also reduced from 11 to 7 step heights in the wall-normal and from 14 to 13 step heights in the diagonal plane. The loss reducing capacity together with the compactness of the miniflaps and the overall reduction of the affected zone downstream of the element presents a competitive advantage of the miniflaps in the building industry, which is often characterized by limited space allowance."
+}

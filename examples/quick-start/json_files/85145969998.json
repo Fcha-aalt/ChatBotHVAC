@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145969998,
+    "Title": "IoT based Sensor System Design for Real-Time Non-Intrusive Occupancy Monitoring",
+    "Author": "Chidurala V.",
+    "Journal": "Proceedings of the 2022 IEEE International Conference on Internet of Things and Intelligence Systems, IoTaIS 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/IoTaIS56727.2022.9975861",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of North Texas",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The sensor systems are growing daily in terms of their complexity and getting more sophisticated from an application perspective. Smart cities and intelligent buildings are critical driving factors in designing and improving sensor systems. However, there is always a big concern about invading people's privacy and finding the right balance between privacy and sensing accuracy. In our previous work, we demonstrated how thermal imaging sensors could estimate occupancy effectively in a non-intrusive way. This paper presents an efficient sensor system design of a non-intrusive occupancy monitoring system (OMS). It uses state-of-the-art open-source software elements such as the FastAPI web framework, Raspberry Pi, low-resolution IR thermal sensor, temperature, humidity, and motion sensors. We also present our data collection methods in detail and show valuable insights and experimental results to demonstrate that our OMS can accurately estimate the occupancy in a designated area or a room level to meet various demanding real-time occupancy monitoring applications."
+}

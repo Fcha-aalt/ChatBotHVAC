@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84940939010,
+    "Title": "Airflow system identification analysis for optimizing commercial building VAV settings for improved energy efficiency",
+    "Author": "Gallagher P.",
+    "Journal": "Proceedings of the American Control Conference",
+    "Publication Date": {
+        "$date": "2015-07-28T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/ACC.2015.7170748",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Trane",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The paper presents a system identification method that can determine individual room air change rates in commercial building HVAC systems. This is achieved by utilizing a combined low order model based on the room's thermal dynamics and experimental approach. The low order model is shown to capture the dominant dynamics of the room air temperature response. This method can help enable significant building energy use reduction by reassessing the air flow rates needed for each room in a building."
+}

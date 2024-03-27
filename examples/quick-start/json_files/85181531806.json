@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85181531806,
+    "Title": "SDN-Enabled Context-Aware IoT Framework for Energy and Resource Management in Smart Buildings",
+    "Author": "Fareed A.",
+    "Journal": "2023 International Conference on IT and Industrial Technologies, ICIT 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICIT59216.2023.10335854",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Faisalabad",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 0,
+    "Abstract": "Smart buildings have been getting a lot of interest because of their potential to improve energy efficiency and maximize resource usage. Incorporating software-defined networks (SDN), machine learning methods, and air quality monitoring, this research aims to create a system for managing energy and resources in smart buildings. The proposed solution controls the HVAC (Heating, Ventilating, and Air Conditioning) systems to respond to changes in the air quality, temperature, and humidity in real-time. The study kicks off with the deployment of a software-defined network (SDN) architecture, with the SDN controller acting as the hub for all network management and control. As a result, the building's actuators, sensors, and HVAC system communicate and coordinate with one another more effectively. NFV (Network Function Virtualization) within the SDN architecture is used to set up a Fog node, which performs data processing locally and reduces latency."
+}

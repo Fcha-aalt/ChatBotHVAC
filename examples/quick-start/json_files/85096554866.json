@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096554866,
+    "Title": "Multi-task deep reinforcement learning for intelligent multi-zone residential HVAC control",
+    "Author": "Du Y.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.epsr.2020.106959",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tickle College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 36,
+    "Abstract": "In this short communication, a data-driven deep reinforcement learning (deep RL) method is applied to minimize HVAC users’ energy consumption costs while maintaining users’ comfort. The applied deep RL method's efficiency is enhanced by conducting multi-task learning that can achieve an economic control strategy for a multi-zone residential HVAC system in both cooling and heating scenarios. The applied multi-task deep RL method is compared with a rule-based benchmark case and a single-task deep deterministic policy gradient algorithm to verify its effective and generalized application in optimizing HVAC operation."
+}

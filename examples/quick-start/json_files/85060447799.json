@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060447799,
+    "Title": "Development of a piezoelectric energy harvesting sensor: From concept to reality",
+    "Author": "Gkoumas K.",
+    "Journal": "Frattura ed Integrita Strutturale",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3221/IGF-ESIS.47.12",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "European Commission Joint Research Centre",
+    "Affliation Country": "Belgium",
+    "Cited by count": 0,
+    "Abstract": "This study focuses on the development and integrated design over a 24-month period of a high efficiency Energy Harvesting (EH) temperature sensor, based on piezoelectric materials, with applications for the sustainability of smart buildings, structures and infrastructures. The EH sensor, harvests the airflow inside Heating, Ventilation and Air Conditioning (HVAC) systems, using a piezoelectric component and an appropriate customizable aerodynamic fin that takes advantage of specific air flow effects, and is implemented for optimizing the energy consumption in buildings. The project is divided in several work-packages (some running in parallel) that cover different aspects of the device development. Some of them focus on engineering aspects (starting from the numerical modeling, then prototyping, and concluding with experimental testing). Other aspects focus on the sensor promotion (including the development of a business plan, the intellectual property rights, the final design and the go-to-market actions). Considering the multidisciplinary character of the project (involving knowledge from fields such as wind engineering, electrical engineering, industrial design, entrepreneurship), this study tries to provide an insight on the complex design issues that arise when such complex, sometimes conflicting and overlapping aspects have to be managed within strict deadlines. In doing so, the most important design and development aspects are critically presented."
+}

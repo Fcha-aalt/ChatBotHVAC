@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172720542,
+    "Title": "A Weight Clustering-Based Pattern Recognition Method for Improving Building’s Cooling Load Prediction Reliability",
+    "Author": "Chen S.",
+    "Journal": "Environmental Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-9822-5_26",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Centre for Zero Energy Building Studies",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Accurate building cooling load prediction can effectively guide the start-stop strategies and capacities matching of chillers and is also the basis of model predictive control of the heating, ventilation, and air conditioning (HVAC). Most of the existing literature focused on the structural optimization or selection of cooling load prediction models, and rarely in-depth studies on the matching between data and models. However, the data features determine the upper limit of model prediction performances, thus leading the unsatisfactory prediction accuracy in the existing methods. Aiming at this, the paper proposed a novel weight clustering-based pattern recognition method for improving building cooling load prediction reliability. Firstly, after the outliers were removed, the Pearson correlation analysis was used to select the key input variables for the models. Secondly, the sensitivity analysis was utilized to obtain the weights of input variables on the cooling load, and then the weights were introduced into the K-means clustering algorithm. Finally, the training data of models were classified by the clustering, and the corresponding training set was matched according to the predicted sample’s features. The case study showed that the weight clustering-based pattern recognition method has a significant improvement in prediction accuracies to the multiple linear regression (MLR), multiple nonlinear regression (MNR), and artificial neural network (ANN) models (e.g., 35%, 36%, and 15% reduction in mean absolute percentage error (MAPE), respectively), In addition, the optimal clustering number, the clustering effects with or without the weights, etc. were also investigated. This paper’s method can provide a novel idea for the models’ data preprocessing."
+}

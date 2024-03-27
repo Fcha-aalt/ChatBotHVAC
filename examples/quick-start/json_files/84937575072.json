@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84937575072,
+    "Title": "Wireless sensor network based monitoring system for a large-scale indoor space: Data process and supply air allocation optimization",
+    "Author": "Zhou P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2015-07-22T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enbuild.2015.06.042",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 63,
+    "Abstract": "Wireless sensor network (WSN) for building applications has been considered by many HVAC experts as an efficient tool to promote building energy efficiency and indoor thermal comfort. This paper, therefore, proposes a strategy of using WSN to monitor the temperature distribution in a large-scale indoor space, which aims to (i) improve the quality of the measurements transmitted by wireless signals, (ii) identify the temperature distribution pattern of the large-scale space, and (iii) optimize the allocation of supply air rated flow rate to multiple supply air terminals that serve the space according to the identified temperature distribution pattern. The developed strategy is illustrated by applying it to a real WSN test bed, installed in a typical large-scale space in Hong Kong. Results are presented and discussed, which shows that the phenomenon of temperature uneven distribution was commonly existent in a large-scale space and the developed strategy was able to efficiently improve the quality of measurements by WSN and improve the temperature homogeneity in the large-scale space."
+}

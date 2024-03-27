@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144809592,
+    "Title": "Multi-Agent Reinforcement Learning Based Actuator Control for EV HVAC Systems",
+    "Author": "Joo S.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ACCESS.2022.3227450",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "MakinaRocks",
+    "Affliation Country": "South Korea",
+    "Cited by count": 2,
+    "Abstract": "While electric vehicles (EVs) continue to draw more attention as an alternative to traditional fossil fuel vehicles, the relatively short driving range of EVs is often pointed out as their biggest drawback. In terms of energy consumption, one of the most energy-intensive systems in EVs is the heating, ventilation, and air conditioning (HVAC) system. Most HVAC systems use On/Off or PID control for the actuators, but these control methods have low efficiency and are difficult to apply in multiple-input multiple-output systems. In this paper, we propose a novel multi-agent deep reinforcement learning (MADRL) method to efficiently control the low-level actuators of the EV HAVC systems. Through this method, multiple objectivs such as setpoint temperature, subcooling and efficiency can be considered simultaneously by giving independent rewards for each actuator agent. The proposed method is evaluated via a actual vehicle simulator, and experimental results show that the MADRL-based method consumes only 53% of the energy consumption of PID control on average in a transient phase."
+}

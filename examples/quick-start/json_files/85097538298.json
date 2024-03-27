@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097538298,
+    "Title": "Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control",
+    "Author": "Kurte K.",
+    "Journal": "RLEM 2020 - Proceedings of the 1st International Workshop on Reinforcement Learning for Energy Management in Buildings and Cities",
+    "Publication Date": {
+        "$date": "2020-11-17T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3427773.3427866",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Recently, deep reinforcement learning (DRL) based intelligent control of Heating, Ventilation, and Air Conditioning (HVAC) has gained a lot of attention due to DRL's ability to optimally control HVAC for minimizing operational cost while maintaining resident's comfort. The success of such DRL-based techniques largely depends on the articulation of the problem in terms of states, actions, and reward function. Inclusion of the electricity pricing information in the problem formulation can play an important role in saving the cost of HVAC operation. However, less attention has been given in the literature on formulating well-crafted state features based on electricity pricing. In this work, we propose an approach for training the DRL model with a specific focus on feature engineering based on electricity pricing. During training, we generate random but sufficiently realistic electricity price signals so that the pre-trained DRL model is robust and adaptive to the dynamic and variable electricity prices. The validation results are encouraging and show the potential of ≈12%-15% savings in the one day cost of HVAC operation, proving the usefulness of including electricity pricing related features as state features."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962106610,
+    "Title": "Demand response potential in aggregated residential houses using GridLAB-D",
+    "Author": "Vajjala V.A.H.",
+    "Journal": "2015 IEEE Conference on Technologies for Sustainability, SusTech 2015",
+    "Publication Date": {
+        "$date": "2015-10-30T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/SusTech.2015.7314317",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Wichita State University",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Aggregating houses and then applying a demand response (DR) program yields considerable benefit to both users and utility companies. This aggregation can prove beneficial to the utility because they can obtain an estimate of how much energy consumption can be reduced at a given point in time. The aggregator would coordinate between the company and the consumer to provide the demand reduction. In this research work, a group of simulated houses sharing the same climatic and geographical conditions were aggregated. They were simulated for a DR using a direct load control (DLC) program, whereby only the heating ventilation and air conditioning (HVAC) system was turned off for one ten-minute period in each of these houses, and the DR program was run for a two-hour period during peak load. Also, energy reductions resulting from the energy efficiency of the houses were simulated and then supplemented with a DR to see how they affect power consumption and how beneficial this would be to the utility. Increasing the thermal integrity levels on the houses decreased the DR potential, but a considerable drop in energy consumption itself was observed, which could prove beneficial in the long term. A co-related pattern was observed among different populations of houses, each of which had a different floor area but the same-size HVAC size and the same thermal integrity levels."
+}

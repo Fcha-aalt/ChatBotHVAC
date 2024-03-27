@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120449122,
+    "Title": "Development of a testing and evaluation protocol for occupancy sensing technologies in building HVAC controls: A case study of representative people counting sensors",
+    "Author": "Zhang R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2021.108610",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Delos Living LLC",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Occupancy-based control (OBC) in smart buildings provides numerous potentials to improve building energy efficiency. To achieve effective OBC, the occupancy status of a space or a building needs to be well understood in terms of whether the space is occupied and how many people are in the space. Well-designed and selected people counting technologies are cornerstones for OBC. However, the study and application of such technologies in OBC are relatively new. There are few mature people counting sensors available on the market. In addition, there is a lack of standardized guidance to comprehensively test, evaluate and compare the performance of people counting sensors, which further limits the selection and application of them in OBC. Hence, an innovative testing protocol was developed to fill in the gap. This paper introduces the design of the protocol with eight diversities and discusses case studies that evaluated four representative types of people counting sensors following the proposed protocol. It is found that the protocol can effectively guide a comprehensive evaluation of the selected sensors and lead to informative findings on the sensor performance. The test results can provide insights and suggestions not only for sensor developers to improve the sensor hardware and software design but also for heating, ventilation, and air-conditioning (HVAC) system designers and building managers to select the proper people counting sensors for OBC design. The test results on the sensor accuracy can also support additional evaluations of integrated OBC and building system operation. It is anticipated that the developed methodology can offer guidance on the test and evaluation of other occupancy sensing technologies."
+}

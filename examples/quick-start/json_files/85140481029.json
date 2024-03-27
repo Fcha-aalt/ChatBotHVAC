@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140481029,
+    "Title": "Enhancing Building with Adaptive Design Objects Using Building Information Modelling Towards Consuming Energy Efficacy in Building",
+    "Author": "Truong N.S.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-3303-5_19",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Ho Chi Minh City University of Technology - HCMUT",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 1,
+    "Abstract": "Energy consumption in buildings is an important factor in the design and operation of a project as if energy reduction used in a building helps to lower operating costs and its environmental impact. Optimizing architectural design options, building surfaces, and HVAC systems from the beginning of a project using Building Information Modeling (BIM) to reduce energy consumption in the building is a new trend nowadays. BIM is said to be an interactive environment that efficiently manages and analyzes elements related to architecture, structure, electricity, and water design as well as the construction process. Furthermore, there are a variety of building energy modeling (BEM) tools that can import these BIM files and perform energy simulation. The simulation and calculation of the energy model via BIM, in particular, is regarded as a new solution for the construction industry in the future. In this research, energy simulation in buildings using a BIM system is proposed to change those design elements within construction process in order to reduce the Energy Use Intensity (EUI) and energy cost in the building. The result of this research are expected to help architects and building managers improving and enhancing the efficiency of energy used in buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090466760,
+    "Title": "Daylight assessment and energy consumption analysis at an early stage of designing residential buildings integrating BIM and LCA",
+    "Author": "Najjar M.",
+    "Journal": "Innovative Production And Construction: Transforming Construction Through Emerging Technologies",
+    "Publication Date": {
+        "$date": "2019-05-03T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1142/9789813272491_0005",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Universidade Federal do Rio de Janeiro",
+    "Affliation Country": "Brazil",
+    "Cited by count": 2,
+    "Abstract": "Building information modelling (BIM) tool provides a distinctive way of observing and estimating energy consumption and daylight analysis in buildings. Integrating this tool with life-cycle assessment (LCA) empowers the decision-making process and sustainable building design in the construction sector. This chapter presents the interests of BIM-LCA integration in examining different design alternatives and orientations in order to increase daylight efficiency and energy performance in buildings at an early designing phase. This work encourages the improvement of construction options by showing the methodology and tools capable of facilitating decision-making in the designing phase of sustainable projects. It evaluates the LCA methodology of residential buildings based on ISO 14040 guidelines within the available database. The methodology of this chapter aims to conduct a conceptual energy consumption analysis using Autodesk Green Building Studio, a plug-in that allows designers to perform building performance simulations in a cloud-based service to optimize energy efficiency, testing different possibilities for the construction. Besides, this work uses the advantages of Autodesk Revit software to assess the impact of natural daylight analysis using LEED daylight plug-in. The results show that BIM-LCA integration is considered as an optimistic course in terms of sustainable development and decision-making process in the construction sector. Furthermore, it encourages reviewing some critical factors, such as building orientation, HVAC systems and the construction of external walls and roofs in the construction projects at an early stage of design in order to increase energy efficiency and capture natural daylight in buildings."
+}

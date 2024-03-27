@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164006391,
+    "Title": "Research on Fault Diagnosis of HVAC Systems Based on the ReliefF-RFECV-SVM Combined Model",
+    "Author": "Nie L.",
+    "Journal": "Actuators",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/act12060242",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hubei University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "A fault diagnosis method of heating, ventilation, and air conditioning (HVAC) systems based on the ReliefF-recursive feature elimination based on cross validation-support vector machine (ReliefF-RFECV-SVM) combined model is proposed to enhance the diagnosis accuracy and efficiency. The method initially uses ReliefF to screen the original features, selecting those that account for 95% of the total weight. The recursive feature elimination based on cross validation (RFECV), based on a random forest classifier, is then applied to select the optimal feature subset according to diagnostic accuracy. Finally, a support vector machine (SVM) model is constructed for fault classification. The method is tested on seven typical faults of the ASHRAE 1043-RP water chiller dataset and three typical faults of an air-cooled self-built air conditioner simulation dataset. The results show that the ReliefF-RFECV-SVM method significantly reduces diagnosis time compared to SVM, shortening it by about 50% based on the ASHRAE 1043-RP dataset, while achieving an overall accuracy of 99.98%. Moreover, the proposed method achieves a comprehensive diagnosis accuracy of 99.97% on the self-built simulation dataset, with diagnosis time the reduced by about 65% compared to single SVM."
+}

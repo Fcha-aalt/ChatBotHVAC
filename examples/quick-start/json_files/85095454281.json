@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095454281,
+    "Title": "Bio-sensing and reinforcement learning approaches for occupant-centric control",
+    "Author": "Zhang C.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Today, in most office buildings, indoor environment is regulated by HVAC systems with schedule-based rules. While prevalent, these schedule-based control strategies have often resulted in low satisfaction rates and energy waste. Researchers have applied many advanced methods in building controls to optimize occupant comfort and energy efficiency. However, it is still challenging to continuously integrate occupants' personalised feedback into a control system that has learning ability. This study proposes a bio-sensing and multi-agent reinforcement learning (RL) control system comprised of multiple RL agents and a negotiator. The RL agents aim to optimize the thermal comfort of individual occupants based on their biological responses. The objective of the negotiator is to maximize the thermal comfort of a group of occupants in a shared environment and minimize energy consumption. A state-of-art reinforcement learning algorithm, double deep Q-learning, is implemented to train the control agents. The proposed control system is tested with three simulated occupants in a room modeled by EnergyPlus. The result shows that the proposed system can reach optimised thermal comfort after 112 simulation runs and improve the group thermal satisfaction by 59%, compared to the typical schedule-based setpoint control."
+}

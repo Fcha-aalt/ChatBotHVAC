@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127795026,
+    "Title": "Fault diagnosis for vehicle air conditioning blower using deep learning neural network",
+    "Author": "Wu J.D.",
+    "Journal": "Journal of Low Frequency Noise Vibration and Active Control",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1177/14613484221085891",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Changhua University of Education",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 1,
+    "Abstract": "This study presents a fault diagnosis system for vehicle heating, ventilation and air conditioning (HVAC) acoustic signal with various feature extractions in deep learning neural network. Traditionally, sound used for fault diagnosis or signal classification is observed the difference of energy in time or frequency domains. Unfortunately, the frequency smearing effect often arises in some critical conditions. In the present study, discrete wavelet transform (DWT) and wavelet packet transform (WPT) are proposed in fault diagnosis. Meanwhile, when using mechanical learning methods, the data are relatively large, in order to reduce the amount of data, DWT and WPT low-frequency decomposition could be used to improve the performance. Furthermore, the signal characteristics more comprehensive, this study attempts to use the feature extraction method of wavelet packet conversion to improve the signal characteristics. In the experiment process, the operation state of the blade blower in the vehicle air conditioner, four different faults were designed, test database was established through sound to classify, and identify the data using deep neural networks to achieve the purpose of blower fault diagnosis. In data analysis, the original signal is presented through wavelet packet decomposition and discrete packet conversion technology, compared with traditional time and frequency domain signals to explore the identification rate, identification speed and related issues. Experimental results show that using WPT combined with deep neural networks have good fault diagnosis and discrimination capabilities, training, and identification time is shorter than time-frequency domain signals."
+}

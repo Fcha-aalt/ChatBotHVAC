@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145879048,
+    "Title": "Reinforcement Learning Control for HVAC Energy Management System with Instant Operation by Selecting Virtual Building with Similar Environment",
+    "Author": "Aoki Y.",
+    "Journal": "IEEJ Transactions on Industry Applications",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1541/ieejias.143.27",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gifu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "This paper proposes a novel method for building multi-type air-conditioners, wherein the power management control system can automatically adapt to various air-conditioning environments using reinforcement learning. Our previous study reduced the learning period by pre-training on a virtual building and simulated the dynamic power characteristics of air-conditioners and room temperature. However, advantages of decreasing the learning period diminish when the difference between the virtual and actual buildings is significant. Therefore, our proposed method first performs pre-training on multiple virtual buildings with different environments. Subsequently, it selects the one whose environment is closest to that of the actual building based on the difference in average rewards."
+}

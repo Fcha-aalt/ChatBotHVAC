@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149258982,
+    "Title": "Integrated Design and Assessment for Indoor Heating, Ventilation and Air-Conditioning in Hot Summer and Cold Winter Area: A Case Study in China",
+    "Author": "Yang Y.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12111844",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Integrated design of the heating, ventilation and air-conditioning (HVAC) is indispensable to green design because the increasing demand for HVAC systems has led to the diversification of indoor terminals for residential buildings, either focusing on energy efficiency or specializing in creating comfortable indoor environments, and they have different impacts on architectural and engineering design. The paper discussed the assessment-based integration design of the HVAC system, and by introducing case experiences, the whole process of the collaboration between architects and engineers was explored. Various methods were used in the research. The analytic hierarchy process (AHP) was employed to develop the assessment structure and calculate weightings; employing fuzzy comprehensive evaluation (FCE), the social performances of HVAC systems were subjectively evaluated; simulation technology was used to calculate the energy performances; the final results were ranked by the order of preference by similarity to ideal solution (TOPSIS). The research perspective of the collaboration between architects and engineers contributed to the existing literature. Besides, different indoor terminals were analyzed from the two disciplines; an assessment tool (ATI) was conducted and could be referred to; the current green building rating tools were analyzed, and suggestions were proposed to promote the integrated design."
+}

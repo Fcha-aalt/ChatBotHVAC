@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091493472,
+    "Title": "RL-HEMS: Reinforcement learning based home energy management system for HVAC energy optimization",
+    "Author": "Kotevska O.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) is one of the major energy consumers in the residential sector. It is important to be able to monitor and control the energy consumed to provide utility services such as load shaping while satisfying the comfort and economic constraints of the homeowner. The objective of this work is to create the optimal schedule for HVAC operation to reduce the cost while satisfying the home-owner and equipment's constraints using a model-free Reinforcement Learning (KL)-based optimization. The specific goal is to find the right balance between reducing energy cost, consumption, and customer comfort level. Our research effort addresses this optimization problem using multiple components: the development of initial learning testbed and implementation of RL techniques on a real home. This will enable the rapid evaluation of the RL techniques and provide an early baseline to train before implementation on site. The RL algorithm is designed to learn the energy use patterns and generate the optimised schedule for HVAC within an acceptable time-interval to satisfy the homeowner's comfort and minimize the energy usage. Our preliminary results showed a 17% reduction in the total cost and a 15% reduction in the power utilization using our RL-based HVAC model-RL-HEMS."
+}

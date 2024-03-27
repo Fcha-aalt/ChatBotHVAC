@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141876386,
+    "Title": "Deep Forest-Based DQN for Cooling Water System Energy Saving Control in HVAC",
+    "Author": "Han Z.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12111787",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 5,
+    "Abstract": "Currently, reinforcement learning (RL) has shown great potential in energy saving in HVAC systems. However, in most cases, RL takes a relatively long period to explore the environment before obtaining an excellent control policy, which may lead to an increase in cost. To reduce the unnecessary waste caused by RL methods in exploration, we extended the deep forest-based deep Q-network (DF-DQN) from the prediction problem to the control problem, optimizing the running frequency of the cooling water pump and cooling tower in the cooling water system. In DF-DQN, it uses the historical data or expert experience as a priori knowledge to train a deep forest (DF) classifier, and then combines the output of DQN to attain the control frequency, where DF can map the original action space of DQN to a smaller one, so DF-DQN converges faster and has a better energy-saving effect than DQN in the early stage. In order to verify the performance of DF-DQN, we constructed a cooling water system model based on historical data. The experimental results show that DF-DQN can realize energy savings from the first year, while DQN realized savings from the third year. DF-DQN’s energy-saving effect is much better than DQN in the early stage, and it also has a good performance in the latter stage. In 20 years, DF-DQN can improve the energy-saving effect by 11.035% on average every year, DQN can improve by 7.972%, and the model-based control method can improve by 13.755%. Compared with traditional RL methods, DF-DQN can avoid unnecessary waste caused by exploration in the early stage and has a good performance in general, which indicates that DF-DQN is more suitable for engineering practice."
+}

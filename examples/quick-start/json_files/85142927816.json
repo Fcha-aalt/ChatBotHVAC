@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142927816,
+    "Title": "Distributed Reinforcement Learning for Decentralized Linear Quadratic Control: A Derivative-Free Policy Optimization Approach",
+    "Author": "Li Y.",
+    "Journal": "IEEE Transactions on Automatic Control",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/TAC.2021.3128592",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+    "Affliation Country": "United States",
+    "Cited by count": 16,
+    "Abstract": "This article considers a distributed reinforcement learning problem for decentralized linear quadratic (LQ) control with partial state observations and local costs. We propose a zero-order distributed policy optimization algorithm (ZODPO) that learns linear local controllers in a distributed fashion, leveraging the ideas of policy gradient, zero-order optimization, and consensus algorithms. In ZODPO, each agent estimates the global cost by consensus, and then conducts local policy gradient in parallel based on zero-order gradient estimation. ZODPO only requires limited communication and storage even in large-scale systems. Further, we investigate the nonasymptotic performance of ZODPO and show that the sample complexity to approach a stationary point is polynomial with the error tolerance's inverse and the problem dimensions, demonstrating the scalability of ZODPO. We also show that the controllers generated throughout ZODPO are stabilizing controllers with high probability. Last, we numerically test ZODPO on multizone HVAC systems."
+}

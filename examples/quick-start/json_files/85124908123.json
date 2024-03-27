@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124908123,
+    "Title": "Smart Thermostats for a Campus Microgrid: Demand Control and Improving Air Quality",
+    "Author": "Correia A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-02-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15041359",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Coimbra, Institute of Systems and Robotics",
+    "Affliation Country": "Portugal",
+    "Cited by count": 6,
+    "Abstract": "Achieving nearly zero-energy buildings (nZEB) is one of the main objectives defined by the European Union for achieving carbon neutrality in buildings. nZEBs are heavily reliant on distributed renewable generation energy sources, which create new challenges associated with their inherent intermittency. To achieve nZEB levels, demand management plays an essential role to balance supply and demand. Since up to two-thirds of the total consumed energy in buildings is dispended for Heating, Ventilation and Air Conditioning (HVAC) operations, intelligent control of HVAC loads is of utmost importance. The present work aims to offer a solution to improve a building microgrids’ flexibility by shifting thermal loads and taking advantage of room thermal inertia. Innovation is present in using the internet of things to link several decentralized local microcontrollers with the microgrid and in the applicability of different control algorithms, such as the pre-emptive heating/cooling of a room. The developed solution relies on smart thermostats, which can be integrated into a building management system, or in a microgrid, and are capable of fulfilling the occupants’ need for comfort while complementing the building with needed power flexibility. The equipment is capable of controlling several HVAC systems to guarantee thermal and air quality comfort, as well as coordinate with a building/microgrid operator to reduce energy costs by shifting thermal loads and enacting demand control strategies. The smart thermostat uses an algorithm to calculate room inertia and to pre-emptively heat/cool a room to the desired temperature, avoiding peak hours, taking advantage of variable tariffs for electricity, or periods of solar generation surplus. The smart thermostat was integrated into a university campus microgrid and tested in live classrooms. Since the work was developed during the COVID-19 pandemic, special attention was given to the air quality features. Results show that smart HVAC control is a viable way to provide occupant comfort, as well as contribute to the integration of renewable generation and increase energy efficiency in buildings and microgrids."
+}

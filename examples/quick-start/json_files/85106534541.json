@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106534541,
+    "Title": "Exploring possible issues with energy code plug load assumptions",
+    "Author": "Ouf M.",
+    "Journal": "ASHRAE Journal",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Building energy codes and standards are regularly updated to raise the minimum allowed efficiency of HVAC or building envelope systems. These updates can substantially decrease loads in newer buildings but may increase the contribution of occupant-related end uses to overall building energy consumption. Despite this issue, occupant-related end uses are typically treated with simple, fixed assumptions in most energy codes and standards. This article investigates the effect of occupant-related plug load assumptions on the results of building simulations of existing buildings that comply with recent versions of the Canadian National Energy Code for Buildings (NECB)."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072290199,
+    "Title": "Thermal zoning for building HVAC design and energy simulation: A literature review",
+    "Author": "Shin M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-11-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.109429",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Department of Civil, Construction and Environmental Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 61,
+    "Abstract": "Building energy simulation programs can be useful tools in evaluating building energy performance during a building's lifecycle, both at the design and operation stages. In addition, simulating building energy usage has become a key strategy in designing high performance buildings that can better meet the needs of society without consuming excess resources. Therefore, it is important to provide accurate predictions of building energy performance in building design and construction projects. Although many previous studies have addressed the accuracy of building energy simulations, very few studies of this subject have mentioned the importance of Heating, Ventilation, and Air-Conditioning (HVAC) thermal zoning strategies to sustainable building design. This research provides a systematic literature review of building thermal zoning for building energy simulation. This work also reviews previous definitions of HVAC thermal zoning and its application in building energy simulation programs, including those appearing in earlier studies of the development of new thermal zoning methods for simulation modeling. The results indicate that future research is needed to develop a well-documented and accurate thermal zoning method capable of assisting designers with their building energy simulation needs."
+}

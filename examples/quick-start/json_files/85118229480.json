@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118229480,
+    "Title": "Effect of different hvac control strategies on thermal comfort and adaptive behavior in high-rise apartments",
+    "Author": "Ryu J.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/su132111767",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kyungpook National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 2,
+    "Abstract": "In the residential sector, householders play an active role in regulating the indoor climate via diverse control measures such as the operation of air-conditioners or windows. The main research question asked in this paper is whether control decisions made by householders are rational and effective in terms of achieving comfort and energy efficiency. Based on a field study in South Korea, this paper explores how a HVAC control strategy for high-rise apartment buildings can affect occupant comfort and adaptive behavior. Two different control strategies: (1) occupant control (OC), where occupants were allowed to freely operate the HVAC system and (2) comfort-zone control (CC), where the operation of the HVAC system was determined by the researcher, based on a pre-defined comfort zone, were applied to, and tested within the participating households in summer. The impact of the two control strategies on indoor thermal environments, thermal comfort, and occupant adaptive behavior were analyzed. We find that the CC strategy is more energy/comfort efficient than OC because: (1) comfort was be achieved at a higher indoor temperature, and (2) unnecessary control behaviors leading to cooling load increase can be minimized, which have major implications for energy consumption reduction in the residential sector."
+}

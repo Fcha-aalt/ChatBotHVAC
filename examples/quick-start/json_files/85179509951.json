@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179509951,
+    "Title": "Comfort-aware HVAC Aggregation Method based on Deep Reinforcement Learning",
+    "Author": "Nonaka S.",
+    "Journal": "BuildSys 2023 - Proceedings of the10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2023-11-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1145/3600100.3626265",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Osaka University",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "Extracting demand-side flexibility is important to utilize renewable energy as much as possible with keeping the grid stable. Heating, ventilation, and air conditioning (HVAC) system takes a necessary role in our comfort life and consumes more than 40% energy consumption of typical office buildings. HVAC systems are known as potential resources to extract demand-side flexibility because of easy performance control. This paper proposes a comfort-aware HVAC aggregation method based on deep reinforcement learning to both maintain a comfortable temperature and extract flexibility. Experiments show the proposed method satisfies the given demand-response requirements and thermal comfort."
+}

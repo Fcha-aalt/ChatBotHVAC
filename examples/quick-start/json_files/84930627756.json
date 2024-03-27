@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84930627756,
+    "Title": "Unsupervised feature selection using swarm intelligence and consensus clustering for automatic fault detection and diagnosis in Heating Ventilation and Air Conditioning systems",
+    "Author": "Yuwono M.",
+    "Journal": "Applied Soft Computing Journal",
+    "Publication Date": {
+        "$date": "2015-06-08T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.asoc.2015.05.030",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Technology Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 52,
+    "Abstract": "Various sensory and control signals in a Heating Ventilation and Air Conditioning (HVAC) system are closely interrelated which give rise to severe redundancies between original signals. These redundancies may cripple the generalization capability of an automatic fault detection and diagnosis (AFDD) algorithm. This paper proposes an unsupervised feature selection approach and its application to AFDD in a HVAC system. Using Ensemble Rapid Centroid Estimation (ERCE), the important features are automatically selected from original measurements based on the relative entropy between the low- and high-frequency features. The materials used is the experimental HVAC fault data from the ASHRAE-1312-RP datasets containing a total of 49 days of various types of faults and corresponding severity. The features selected using ERCE (Median normalized mutual information (NMI) = 0.019) achieved the least redundancies compared to those selected using manual selection (Median NMI = 0.0199) Complete Linkage (Median NMI = 0.1305), Evidence Accumulation K-means (Median NMI = 0.04) and Weighted Evidence Accumulation K-means (Median NMI = 0.048). The effectiveness of the feature selection method is further investigated using two well-established time-sequence classification algorithms: (a) Nonlinear Auto-Regressive Neural Network with eXogenous inputs and distributed time delays (NARX-TDNN); and (b) Hidden Markov Models (HMM); where weighted average sensitivity and specificity of: (a) higher than 99% and 96% for NARX-TDNN; and (b) higher than 98% and 86% for HMM is observed. The proposed feature selection algorithm could potentially be applied to other model-based systems to improve the fault detection performance."
+}

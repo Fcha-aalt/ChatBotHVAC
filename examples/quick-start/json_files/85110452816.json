@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85110452816,
+    "Title": "Dynamic Predicted Mean Vote: An IoT-BIM integrated approach for indoor thermal comfort optimization",
+    "Author": "Zahid H.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.autcon.2021.103805",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität München",
+    "Affliation Country": "Germany",
+    "Cited by count": 35,
+    "Abstract": "The building sector is a major source of energy consumption mainly due to the use of Heat Ventilation and Air Conditioning (HVAC) systems, to achieve the indoor thermal comfort of occupants. To reach the optimal energy-efficient indoor temperature that satisfies thermal comfort, this paper describes an optimization approach named ‘DynamicPMV’ combining BIM (Building Information and Modeling) and IoT sensors (Internet of Things). This integration allows taking advantage of the geometric and parametric richness of BIM models and the real-time streaming of environmental data (humidity, temperature, etc.) collected by IoT sensors to optimize the indoor thermal comfort. First, the IoT measurements are interpolated according to a regular three-dimensional grid while considering inter-room heat exchanges using the parametric information of the BIM model. Then, DynamicPMV allows real-time 3D visualization of thermal comfort using the Predicted Mean Vote (PMV) index. Finally, the optimal temperature to ensure indoor thermal comfort is calculated."
+}

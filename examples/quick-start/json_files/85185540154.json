@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185540154,
+    "Title": "A Statistical Machine Learning Approach to Predict Residential HVAC Usage With Lagged Environmental Predictors",
+    "Author": "Baath J.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1115/IMECE2023-112141",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Wasteful energy uses, such as heating and cooling of unoccupied homes and rooms, inefficient appliances, and thermostat oversetting, contribute to at least 43% of total energy use in the residential sector. Accurate knowledge of domestic appliance-level electricity usage patterns can help energy modelers at electric utilities make informed decisions about residential load control and dynamic rate design. This study enhances an existing statistical machine learning approach to predict domestic appliance usage trends from overall energy consumption data obtained from Pecan Street Inc, by adding lagged environmental predictors. Five time-series on time-series regression models are explored, each with different combinations of lagged/current ambient temperature and relative humidity. The relative performances of the models are evaluated using the Akaike Information Criterion (AIC) value — a widely used model selection metric that determines the quality of a model by considering the data fit as well as model simplicity. Fifteen-minute interval data from two single-family detached homes in Austin, TX are used to demonstrate the methodology developed. Results indicate that while including lagged temperature and humidity as predictors enhances the quality of the energy consumption projections, there is not any significant difference among the models with various combinations of lagged/current environmental predictors."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123063415,
+    "Title": "Modelling of cooling radiant cubicle for an office room to test cooling performance, thermal comfort and energy savings in hot climates",
+    "Author": "Ismail N.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.energy.2022.123185",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qatar University",
+    "Affliation Country": "Qatar",
+    "Cited by count": 17,
+    "Abstract": "The building industry challenges have led researchers to develop a personalized conditioning system aiming to create a microclimate comfort zone around the occupant. Radiant cooling become prevalent due to their potential in affording both comfort and energy saving. Consequently, this study investigates the performance of a personalized cooling radiant cubicle (PCRC) combined with a conventional heating, ventilation, and air-conditioning (HVAC) system in an office room in hot climates. PCRC performance is assessed by introducing a novel model that combines computational fluid dynamics (CFD) and mathematical simulation based on two criteria: the ability in creating a thermal comfort zone near the occupant at high set-point temperatures and the economic feasibility in terms of energy savings and pay-back period. The results demonstrate that PCRC (i) maintains a comfortable personal thermal environment in the desired zone (ii) reduces the thermal asymmetry (iii) improves the corresponding predicted percentage of dissatisfied (PPD) index. When compared to published experiment, it is shown that the developed model is valid with a maximum relative error of 5% underlining its accuracy and eliminating the need of a full-physics based model. Moreover, implementing PCRC reduces cooling energy by 18% compared to conventional system with a payback period between 6 and 7 years."
+}

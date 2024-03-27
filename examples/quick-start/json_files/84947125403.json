@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84947125403,
+    "Title": "Free Cooling Investigation of SEECS Data Center",
+    "Author": "Hassan S.F.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.egypro.2015.07.233",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National University of Sciences and Technology",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 6,
+    "Abstract": "A major portion of energy consumption in data centers is attributed to data racks and HVAC equipment. An excellent alternative energy saving method is to utilize the environmental conditions to our benefit in the form of free cooling. In this study, the free cooling potential of Islamabad has been determined using the dry-bulb temperatures and humidity conditions by using meteorology data of the past sixteen years. This data is then used to optimize energy efficiency of the data center at the School of Electrical Engineering and Computer Sciences (SEECS), National University of Sciences and Technology (NUST), Pakistan. Using the load data obtained from detailed analysis of SEECS data center, it has been determined that significant savings in energy through free cooling can be achieved during the months of December, January, and February."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057356818,
+    "Title": "Comprehensive review on enhancement of stability in multimachine power system with conventional and distributed generations",
+    "Author": "Paital S.",
+    "Journal": "IET Renewable Power Generation",
+    "Publication Date": {
+        "$date": "2018-12-10T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1049/iet-rpg.2018.5401",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 25,
+    "Abstract": "A comprehensive review on stability analysis in multimachine power system is presented in this study. The increasing demand of power has led to the expansion of power system and complexity in design as well as operation. This threatens to deteriorate the stability and reliability in the power network. However, with the advances in semiconductor and power electronic control technology, various flexible AC transmission systems (FACTS) are designed to enhance the power system stability. Different power system configurations with the incorporation of conventional and distributed generations (DGs) are proposed whose stability is being tested in the presence of the FACTS controllers. The optimal damping of power system oscillations under transient operating conditions are studied in presence of HVAC and HVDC links with conventional as well as DG systems and energy storage options like battery, supercapacitors and so on. Different control approaches such as classical control, robust control, wide-area control along with soft computing approaches like neural networks, fuzzy logic control, adaptive neurofuzzy inference system, genetic algorithm, particle swarm optimisation and so on are broadly discussed. A comparative analysis of different methodologies is presented to establish a quick survey of the proposed solutions for stability enhancement."
+}

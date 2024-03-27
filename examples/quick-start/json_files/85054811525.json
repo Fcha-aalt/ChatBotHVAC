@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054811525,
+    "Title": "Determination of a Building's balance point temperature as an energy characteristic",
+    "Author": "Krese G.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2018-12-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.energy.2018.10.025",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Univerza v Ljubljani",
+    "Affliation Country": "Slovenia",
+    "Cited by count": 25,
+    "Abstract": "The building's balance point temperature represents the outdoor temperature at which no auxiliary energy is needed to ensure thermal comfort. Its estimation presents the main challenge of applying the degree day method for space cooling applications, since in addition to building thermal characteristics it also depends on internal and external heat gains. In this paper, a new approach for determining the instantaneous balance point temperature, based on an optimization-based grey-box modelling procedure, is presented. The developed grey-box model is built on an assumed functional dependency between the building thermal load and the power demand of its HVAC system. Its application requires only the use of basic building geometric parameters apart from the cooling electricity demand and corresponding meteorological data, which are utilized to estimate the model parameters using a derivate-free optimization procedure. Additionally, a new technique for visualizing and analyzing the behavior of the obtained instantaneous balance point temperature is introduced. The proposed methodology is verified on a set of artificially generated data, achieving an average prediction error of 5.2%, and its applicability demonstrated on a sample of real tertiary sector buildings. The results indicate that the presented methodology can be used to deduce building and corresponding HVAC system characteristics."
+}

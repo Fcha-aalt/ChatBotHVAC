@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184143342,
+    "Title": "High-accuracy people counting in large spaces using overhead fisheye cameras",
+    "Author": "Konrad J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2024-03-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.enbuild.2024.113936",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Boston University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Quantifying the number of people in various spaces of a commercial building is important for saving energy, optimizing space usage, and assisting with public safety. To accomplish these goals requires obtaining accurate, fine-grained counts in real time. However, existing methodologies are ineffective for covering large areas with high occupancy. We propose an occupancy-sensing system that uses multiple overhead fisheye cameras and state-of-the-art deep-learning algorithms to cover large spaces with high counting accuracy. Tested in a 2,000 ft2 space, our system shows 54% to 83% reduction in commonly-used error metrics compared to recent people-counting methods proposed for large-space scenarios. Our system is scalable to arbitrarily-large spaces; additional cameras can be integrated with minimal commissioning. We also introduce two new performance metrics for assessing counting accuracy that, unlike common metrics used to date, are independent of occupancy level and can be easily compared across different occupancy scenarios."
+}

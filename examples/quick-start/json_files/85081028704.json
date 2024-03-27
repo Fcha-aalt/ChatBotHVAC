@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081028704,
+    "Title": "Theoretical model of buoyancy-driven air infiltration during heating/cooling seasons in large space buildings",
+    "Author": "Liu X.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-04-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.106735",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 18,
+    "Abstract": "Air infiltration is common in large space buildings during heating and cooling seasons, which leads to thermal discomfort and high energy consumption. However, there still lacks a valid theoretical model to analyze its mechanism and influence factors. In this study, a theoretical model of buoyancy-driven air infiltration in large space buildings is established with the factors of heating, ventilation and air-conditioning (HVAC) systems. The prediction results agree well with the field measurement and the numerical simulation. This model is used to analyze the influences of HVAC systems on air infiltration (i.e., thermal stratification and mechanical fresh/exhaust air). A dimensionless buoyancy-driven force of air infiltration (CT) is defined to quantify the thermal stratification. Compared with other typical terminal devices, the radiant floor has the lowest CT in the heating and cooling conditions, which results in the lowest air infiltration rate. Besides, the air infiltration rate can theoretically decrease to zero with a sufficient mechanical fresh air rate of 1.4 times of the initial air infiltration rate, which is too large to realize in real buildings. This model helps to understand the air infiltration in large space buildings, which is beneficial to energy-efficient design and operation of HVAC systems."
+}

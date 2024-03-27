@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164677656,
+    "Title": "Energy-oriented control retrofit for existing HVAC system adopting data-driven MPC – Methodology, implementation and field test",
+    "Author": "Yue B.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-09-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113286",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Midea Group",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Energy conservation and carbon reduction of existing buildings have been receiving increasing attention with the proposed carbon neutrality goals. As presented in many studies, adopting model predictive control (MPC) for building HVAC system control is an effective means to realize building energy conservation. However, existing studies rarely addressed the critical challenges for practical applications and integration of MPC in existing Building Automation Systems (BASs). This study proposes a control retrofit approach, which is lightweight and replicable, to realize the improvement of energy efficiency of the existing building HVAC systems through integrating data-driven MPC into existing BASs. The critical challenges in the practical applications of MPC strategies, including MPC strategy development, large-scale data processing, strategy deployment and integration with existing BASs are addressed. The proposed approach was applied to the existing HVAC system of an actual airport terminal and the evaluation results indicate that the control retrofit approach is effective in achieving energy efficiency and thermal comfort improvement. The system daily energy consumption was reduced by 24.5% in average and the percentage of the discomfort time was reduced from 70.2% to 5.7% in average after the control retrofit. The proposed control retrofit approach, with the help of the scalability and distributed computing capabilities of the cloud computing platform, is expected to be able to realize lightweight control retrofit of large number of existing building HVAC systems."
+}

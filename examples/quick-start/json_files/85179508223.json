@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179508223,
+    "Title": "An Image Characterisation method for AHU Fault Diagnosis based on Residual Neural Networks",
+    "Author": "Deng Y.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1730",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Deep learning methods have been widely used in the field of fault diagnosis for Heating, Ventilation and Air Conditioning (HVAC) systems. However, the relatively shallow depth of the models developed for fault diagnosis using traditional data characterisation approaches limits their ultimate predictive performance. In this study, a fault diagnosis framework based on image characterisation and Residual neural network (ResNet) is proposed to enhance fault sample features and train a deeper network to improve the diagnostic performance. The fault dataset used is the simulated data of Air Handling Unit (AHU) for project ASHRAE 1312. The results show that the diagnostic accuracy improves as the image size increases, and when the image width is six times the number of features, 96 ×96 pixel points in this study, the diagnostic performance in ResNet with different depths is better and more stable, and the highest diagnostic accuracy of ResNet-34 reaches 97.37%, which is a 3% improvement compared with other methods. In conclusion, this paper explores the effects of different image sizes and network depths on the accuracy of AHU fault diagnosis based on ResNet models, and compares them with other classification methods to verify the good performance of the image characterisation and ResNet models in the field of AHU fault diagnosis, providing a reference for the design research of AHU fault diagnosis models."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114675427,
+    "Title": "Generation of aggregated plug load profiles in office buildings",
+    "Author": "Clemente S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111398",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "ITE EFFICACITY",
+    "Affliation Country": "France",
+    "Cited by count": 9,
+    "Abstract": "Plug loads are one of the most important energy consumption items in non-residential buildings and their weight is continuously increasing in new generation buildings with highly insulated envelopes and high efficiency HVAC systems. An accurate and realistic modeling of plug loads is therefore of paramount importance for building energy modeling and energy efficient operation, as well as for other emerging applications such as renewables integration and demand response. We present in the present paper a method for generating aggregated electric load profiles for plug loads in office buildings based on more than 6400 field-measured load profiles of individual appliances used in office buildings and a field survey covering more than 1000 office building occupants which provides the distribution of the considered appliances in office buildings. We show that the aggregated load curves scale up following different laws depending on the considered appliances. We also provide aggregated load curve stabilization thresholds for all appliances: 43 for desktop computers, 32 for computer screens, 127 for laptops and 204 for multifunction devices if we mention the main office appliances. Finally, by combining the individual appliances' aggregated load curves and the survey results, we propose a model for generating building-level aggregated plug load curves for three main building types defined through the survey data analysis. We show that the aggregated load curves scale up differently when the number of occupants increases depending on the building type and the day type. Obtained results provide unique insights on plug load aggregated load profile shapes and behaviors and can be very useful for researchers and engineers interested in non-residential building energy modeling."
+}

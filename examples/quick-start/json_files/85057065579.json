@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057065579,
+    "Title": "Machine learning method for real-time non-invasive prediction of individual thermal preference in transient conditions",
+    "Author": "Cosma A.C.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2019-01-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.buildenv.2018.11.017",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The George Washington University School of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 87,
+    "Abstract": "This work introduces a new technique that provides real-time feedback to a Heating, Ventilation, and Air Conditioning (HVAC) system controller with respect to the occupants' thermal preferences to avoid space overheating. We propose a non-invasive approach for automatic prediction of personal thermal comfort and mean time to warm discomfort using machine learning. The prediction framework described uses temperature information extracted from multiple local body parts to model an individual's thermal preference, with sensing measurements that capture local body part variance as well as differences between body parts. We compared the efficacy of using machine learning with classical measurements such as skin temperature along with our approach of using multi-part measurements and derived data. An analysis of the performance of machine learning shows that our method improved the accuracy of personal thermal comfort prediction by an average of 60%, and the accuracy of mean time to warm discomfort prediction by an average of 40%. The proposed thermal models were tested on subjects’ data extracted from an office setup with room temperature varying from low (21.11 °C) to high (27.78 °C). When all proposed features were used, personal thermal comfort was predicted with an accuracy higher than 80% and mean time to warm discomfort with more than 85% accuracy. Further analysis of the machine learning efficacy showed that temperature differences had the highest impact on performance of individual thermal preference prediction, while the proposed approach was found not sensitive to the actual machine learning algorithm."
+}

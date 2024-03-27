@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098161912,
+    "Title": "Integrated R744 unit for hotels: Analysis of field data",
+    "Author": "Smitt S.M.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.18462/iir.gl.2020.1056",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 0,
+    "Abstract": "This study investigates the performance of an integrated R744 HVAC and domestic hot water unit for a Norwegian hotel. The thermal system of the hotel is described and data from the first year of operation are analyzed. The heating and cooling capacities supplied by the integrated R744 unit are studied on a weekly and monthly basis to evaluate the seasonal behavior of the system. The hot water storage devices can hold an energy of 350 kWh at fully charged conditions and demonstrated peak demand reductions of more than 100 kW during a two-day period. The results show that the hot water usage accounts for 52 % of the annual heat load of the hotel. The energy efficiency analysis reveals an annual system COP of 2.90, and thus an untapped system improvement potential that can be exploited by re-evaluating the hot water charging strategy of the R744 unit."
+}

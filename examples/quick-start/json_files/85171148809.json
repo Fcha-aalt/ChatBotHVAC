@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171148809,
+    "Title": "Visualizing Automated HVAC Performance Analysis on Floor Plans for Meaningful Insights",
+    "Author": "Saadatifar S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Building Information Modeling (BIM) has been rapidly transforming the Architectural, Engineering, & Construction (AEC) industry throughout the lifecycle of the building. BIM functions as a single database of fully integrated and interoperable information that can be used by all members of the design and construction team and ultimately, by operators throughout a facility's lifecycle (Holenss G.V.R 2008). The advantages of utilizing BIM in the Facility Management (FM) stage have been well documented in the literature (Stravoravdis and Ashworth 2015.), (Gökstorp 2012.) & (Becerik-Gerber et al. 2012.). The initial hypothesis for this study was that the use of BIM by our in-house FM staff would significantly reduce the amount of time needed to locate HVAC equipment in the building that needs maintenance or repair. However, currently, BIM is not as widely implemented in the FM stage as it is in the design stage (Akcamete et al 2010.). Lack of or restricted access to the BIM model for multiple existing buildings is the first major challenge to BIM adoption for FM. The lack of BIM software experience for FM personnel and the high purchase cost of the software also presents significant challenges. Most of the latest Building Management Systems (BMS) inform the FM personnel about the problematic equipment through their equipment IDs but fail to locate the coordinates of that equipment. The FM personnel mostly use paper-based drawings and spend hours locating problematic equipment in the building that is flagged by the BMS. For many building managers and design professionals, the visualization of building information for analysis, benchmarking, and diagnostics remains a time-intensive, do-it-yourself undertaking (Lehrer 2010.). Hence, the goal of the study is to provide FM personnel with a simple-to-use spatial visualization dashboard that would save them time and money. This study showcases a methodology to spatially visualize the performance of buildings' HVAC systems systematically. The proposed workflow is tested on an existing office building in Utah and as part of the scope of the study, only the performance of Variable Air Volume (VAV) boxes is spatially visualized. An automated dashboard is created for visualizing the VAVs' performance score on a color-coded map. As the dashboard is automated to updated regularly, FM personnel can track the performance and exact location of the problematic VAVs just by opening the dashboard. FM personnel may now infer correlations in the equipment failure, by integrating the time and spatial relationships on the dashboard. Even though previous studies have already dealt with visualizing the sensor data, like temperature, on floor plans, the novel idea of this study is to visualize equipment's performance on an ongoing basis. Just visualizing the sensor data would not help FM personnel diagnose the issue. Future studies may investigate ways to scale up the scope of the study to large buildings. Future studies may also provide preventive maintenance recommendations on the dashboard by analyzing real-time and historical data using machine learning techniques."
+}

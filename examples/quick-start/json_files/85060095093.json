@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060095093,
+    "Title": "Early detection of faults in HVAC systems using an XGBoost model with a dynamic threshold",
+    "Author": "Chakraborty D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-02-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2018.12.032",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Cincinnati",
+    "Affliation Country": "United States",
+    "Cited by count": 105,
+    "Abstract": "Growing demand for energy efficient buildings requires robust models to ensure efficient performance over the evolving life cycle of the building. Energy management systems can prevent energy wastage in buildings without sacrificing occupant's comfort. However, their full capabilities have not been completely realized, partly due to their inability to quickly detect faults in HVAC systems. An accurate model and an appropriate threshold are the key factors in fault detection. The traditional method of setting a fixed threshold often leads to missed opportunities to detect faults, delayed detection of faults or false alarms. To improve the effectiveness of fault detection algorithms, we have first developed a data-driven model using extreme gradient boosting (XGBoost). We have then applied the proposed dynamic threshold method to determine occurrences of faults in real time. This method adjusts the threshold value dynamically according to the real-time moving average and moving standard deviation of the predictions. The results demonstrate the usefulness of our proposed method to detect faults early in the course. An average increase of 8.82% and 117.65%, in the F1 score, is achieved with the proposed method in comparison to the traditional fixed threshold method and an existing dynamic residual method."
+}

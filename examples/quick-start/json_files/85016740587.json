@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016740587,
+    "Title": "Simplified simulation of flows with turbulent macrostructure",
+    "Author": "Gumen O.M.",
+    "Journal": "Hydraulic Engineering IV - Proceedings of the 4th International Technical Conference on Hydraulic Engineering, CHE 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”",
+    "Affliation Country": "Ukraine",
+    "Cited by count": 6,
+    "Abstract": "We propose an approach for simplified simulation of turbulent subsonic flows with macrostructure such as jets and boundary layers between flows. Usually, we use Large Eddy Simulation (LES) by the same process as physical experiments but with virtual 3D models. Professor A. Tkachuk (Kyiv National University of Construction and Architecture) developed a theory for simulation of flows with small-scale turbulent structure. Based on the small influence of viscosity, he said that such flow can be considered as ideal liquid flow with foreign bodies—vortexes. We extend the theory for large-scale vorticity. This vorticity is more ordered because of geometric compatibility. We can simulate it using geometric and kinematic analysis avoiding differential equations. This work has a final list of assumptions and as an example results for jets in flows. The results can be used in atmospheric or reservoir flow simulation and calculation of energy-efficient and environmentally safe HVAC and sanitary technical systems."
+}

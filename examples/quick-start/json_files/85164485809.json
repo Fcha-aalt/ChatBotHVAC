@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164485809,
+    "Title": "Performance of Machine Learning Algorithms considering Spatial Effects Assessment for Indoor Personal Thermal Comfort in Air-Conditioned Workplace",
+    "Author": "Ahmad S.A.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2023-06-16T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1051/e3sconf/202339601064",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universiti Teknologi Malaysia Kuala Lumpur",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 0,
+    "Abstract": "Personal comfort models were developed to circumvent most of the constraints imposed by the Predicted Mean Vote (PMV) and present adaptive models, which consider the average response of a large population. Although there has been a lot of research into new input features for personal comfort models, the spatial data of the building, such as windows, doors, furniture, walls, fans, and heating, ventilation, and air conditioning (HVAC) systems, (the location of its occupants with those elements), have not been thoroughly examined. This paper investigates the impact of the spatial parameter in predicting personal indoor thermal comfort using various machine learning approaches in air-conditioning offices under hot and humid climates. The Decision Tree, Random Forest, Support Vector Machine, K-Nearest Neighbour, and Neural Network were trained using a field study dataset that was done in nineteen office spaces yielding 628 samples from 42 occupants. The dataset is divided randomly into training and testing datasets, with a ratio of 80% and 20%. This study examines how well machine learning predicts personal thermal comfort with spatial data compared to without spatial data; where the spatial parameters have shown a significant influence on model prediction accuracies, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE). The result shows the average MAE is decreased by 10.6% with the Random Forest (RF) getting the most MAE reduction by 23.8%. Meanwhile, the average RMSE is reduced by 11.8% with the RF giving the most RMSE cutback by 30.6%. Consequently, the spatial effect analysis also determines which area of the room has cold or heat clusters area that affects thermal comfort that contributes to the design of sustainable buildings."
+}

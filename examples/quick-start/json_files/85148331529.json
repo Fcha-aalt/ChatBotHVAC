@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148331529,
+    "Title": "An occupant-centric control strategy for indoor thermal comfort, air quality and energy management",
+    "Author": "Wang Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112899",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham Ningbo China",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Recently, Occupant-Centric Control (OCC) strategies have gained mounting interest. Previous studies made use of OCC strategies for adjusting the operation of heating/cooling systems, improving indoor thermal comfort and governing mechanical ventilation systems. However, a very limited number of studies have applied OCC strategies to natural ventilation systems. Further, the feasibility of establishing OCC strategies for controlling indoor thermal comfort, energy use and specifically air quality has received much less attention and investigation. This paper presented an Occupant-Centric Heating and Natural Ventilation Control (OCHNVC) strategy for enhancing indoor thermal comfort, building energy performance and indoor air quality. Firstly, real-time profiles of occupant behavior and window opening in a case study building were collected using artificial intelligence (AI)-powered cameras and deep vision algorithms. Secondly, shallow artificial-neural-networks predictive models were established for forecasting the responses of the studied building to different levels of occupant behavior and window opening behavior. Thirdly, an OCHNVC strategy tailored to the studied room was proposed and applied to the studied room. The strategy could lower heating energy consumption by between 0.6 % and 29.0 % and improve the level of indoor thermal comfort by between 0 % and 58.8 %, relative to a conventional control strategy. Moreover, the conventional window control strategy only maintained indoor CO2 concentrations below 1000 ppm for 59.7 % of the period that occupants were within the studied room, while the proposed controller could do so for 89.2 % of the period. Future works shall focus on experimentally deploying the strategy to real buildings and evaluating its performance."
+}

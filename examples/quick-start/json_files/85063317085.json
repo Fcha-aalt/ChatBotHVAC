@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063317085,
+    "Title": "H-Ahead Multivariate microclimate Forecasting System Based on Deep Learning",
+    "Author": "Elhariri E.",
+    "Journal": "Proceedings of 2019 International Conference on Innovative Trends in Computer Engineering, ITCE 2019",
+    "Publication Date": {
+        "$date": "2019-02-20T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ITCE.2019.8646540",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Faculty of Computers and Information",
+    "Affliation Country": "Egypt",
+    "Cited by count": 17,
+    "Abstract": "Monitoring indoor environmental quality is an essential aspect for resident comfort and preserving the indoor materials quality. Environmental quality affected by large continuous fluctuations in a lot of environmental variables. Reducing and optimizing the effect of this fluctuations needs to operate Heating, ventilation, and air conditioning (HVAC) system continuously resulting in large energy consumption. This paper aims to predict a well defined future plan that operates HVAC system, taking into consideration optimizing energy consumption. The key advantage of this plan is its dependency on h-ahead multivariate time series prediction using deep learning to predict the air quality of near future. Experimental results showed that Gated Recurrent Unit (GRU) model using the indoor microclimate parameters (Temperature, humidity, and CO2) has the best accuracy for the prediction the three parameters with average Root Mean Square error of 4.0474125 for all parameters."
+}

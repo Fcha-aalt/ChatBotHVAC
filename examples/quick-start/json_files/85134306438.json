@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134306438,
+    "Title": "Developing a Dynamic Control Algorithm to Improve Ventilation Efficiency in a University Conference Room",
+    "Author": "Caruso M.",
+    "Journal": "2022 Systems and Information Engineering Design Symposium, SIEDS 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/SIEDS55548.2022.9799313",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Virginia School of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "A robust heating, ventilation, and air conditioning (HVAC) system is needed to maintain a healthy and comfortable indoor environment. However, HVAC systems are responsible for significant energy usage in the United States, and enhancing current systems and implementing additional HVAC sensing are primary strategies for reducing energy consumption. This research developed an HVAC control algorithm (CA) that optimized ventilation operations within a conference room in the University of Virginia Link Lab. Using indoor air quality (IAQ), occupancy, weather, and HVAC operation data streams, the CA recommended a decision to ventilate or not ventilate the conference room every 15 minutes by comparing the cost of lost occupant productivity due to poor IAQ to the energy cost of ventilating the space. The ventilation decision with lower total cost was recommended. This project addressed scheduling inefficiencies of the current HVAC control system, which operates at full power throughout the day regardless of occupancy status. The CA reduced ventilation during unoccupied periods. The CA was tested over two months of historical data from October to December 2021 and recommended ventilating the conference room 15.13 percent of the time. During the same period, the standard system ventilated the conference room 49 percent of the time. Energy savings due to decreased operation were considerable and averaged 424 dollars per month, although these energy savings came at the cost of lost occupant productivity totaling 522 dollars per month. Future work on lost occupant performance will more accurately model the effects of reduced ventilation. However, annual energy savings of 5,000 dollars from a single conference room is encouraging, and scaling a similar CA to consider a set of rooms or an entire floor of a building could result in substantial energy conservation."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85013191470,
+    "Title": "Green Building Rating Systems and Whole-Building Life Cycle Assessment: Comparative Study of the Existing Assessment Tools",
+    "Author": "Al-Ghamdi S.G.",
+    "Journal": "Journal of Architectural Engineering",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1061/(ASCE)AE.1943-5568.0000222",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Swanson School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 60,
+    "Abstract": "There is a growing interest in integrating life cycle assessment (LCA) into building design decision making due to LCA's comprehensive and systemic approach to environmental evaluation. Many green building rating systems (GBRSs) use LCA to various degrees. In this paper, a comparative study was performed to evaluate the LCA software tools available to building designers. A whole-building LCA was performed for a large building using three software LCA tools. The software tools vary in key aspects, such as intended users (e.g., LCA experts or novices), design stage in which they can be used, and time. The evaluated LCA tools varied significantly in the possibility of their use in early design and decision making. Some of the applications rely on a bill of materials that changes constantly in design alterations. However, others showed a greater advantage in that they can be integrated from the beginning of the design process. The comparative LCA results indicated that the impact of LCA software is dependent on the impact category and the precision in the process of material quantities takeoff. The case study was influenced by the building type and its intense operational energy requirements. Conventional energy efficiency measures, such as increasing the lighting efficiency, far exceeded what can be done to mitigate the embedded impact of construction materials. Thus, advancing the requirements of the LCA baseline building and addressing the operational phase in a more comprehensive framework are discussed. Finally, this paper examines the traditional building's systems that are usually involved in LCA and the possibility of adding other systems, such as plumbing, HVAC, and electrical systems, using building information modeling (BIM)."
+}

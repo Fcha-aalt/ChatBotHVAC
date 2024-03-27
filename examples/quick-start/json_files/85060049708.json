@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060049708,
+    "Title": "Data-Driven evaluation of residential hvac system efficiency using energy and environmental data",
+    "Author": "Do H.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12010188",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Danang",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 18,
+    "Abstract": "In the U.S., the heating, ventilation, and air conditioning (HVAC) system is generally the largest electricity-consuming end-use in a residential building. However, homeowners are less likely to have their HVAC system serviced regularly, thus inefficiencies in operation are also more likely to occur. To address this challenge, this research works towards a non-intrusive data-driven assessment method using building assessors' data, HVAC electricity demand data, and outdoor environmental data. Building assessors' data is first used to estimate the HVAC system size, then estimate the electricity demand curve of the HVAC system. A comparison of the proposed electricity demand curve development method demonstrates strong agreement with physics-based HVAC model results. An HVAC efficiency rating is then proposed, which compares the model-predicted and actual performance data to define whether an HVAC system is operating as expected. As a case study, detailed data for 39 occupied, conditioned residential buildings in Austin, Texas, was used demonstrating the identification of the presence of potential HVAC inefficiencies. The results prove beneficial for utilities to help target residential HVAC systems in need of service or energy efficiency upgrades, as well as for homeowners as a continuous assessment tool for HVAC performance."
+}

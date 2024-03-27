@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042195962,
+    "Title": "Experimental testing of a system for the energy-efficient sub-zonal heating management in indoor environments based on PMV",
+    "Author": "Zampetti L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-05-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.02.019",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università Politecnica delle Marche",
+    "Affliation Country": "Italy",
+    "Cited by count": 30,
+    "Abstract": "A fine-grained regulation of the HVAC emitters, capable of providing heat and cool only where effectively needed, can lead to a significant energy saving. This paper presents the results from an experimental test of an energy-efficient sub-zonal heating management system, based on an innovative comfort sensor. The objective is to demonstrate how the real-time PMV (Predicted Mean Vote) measurement of different positions in a room can be used to apply optimal rules for the climate control. The case study is an office, located in Central Italy, equipped with two separately controllable electrical heaters. The heating system has been coupled with a low-cost, IR-based comfort sensor, named Comfort Eye, to regulate the heating output of each heater in function of the local comfort conditions. A PID (Proportional–integral–derivative) controller, tuned by fuzzy logic, uses the PMV measured in the respective sub-zone as controlled variable, regulates the power of each heater. The system ran for one winter day and results have been compared with a reference condition, representative of the typical ON/OFF control of the room. The reference condition has been created with the same heating system, but without the sub-zonal division. The comparison, considering the specific application presented, turned out that the sub-zonal control system could achieve an energy saving up to 17% with respect to the typical ON/OFF control with a slight improvement of thermal comfort, reduced deviation from the neutral condition (PMV = 0). This shows that the possibility of measuring comfort distributions is crucial to achieve optimal environmental control."
+}

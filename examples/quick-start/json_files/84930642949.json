@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84930642949,
+    "Title": "Development and analysis of sustainable energy systems for building HVAC applications",
+    "Author": "Khalid F.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2015-06-10T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.applthermaleng.2015.04.015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ontario Tech University",
+    "Affliation Country": "Canada",
+    "Cited by count": 41,
+    "Abstract": "The main HVAC applications considered in this paper are heating and cooling. Three newly developed systems for heating and cooling applications in buildings are proposed and assessed. Energy and exergy analyses are performed to assess the performance of heating, cooling and overall systems for each case, and the effects of various parameters on the energy and exergy efficiencies are examined. Also, the effect of changing the energy input for each system is also found in terms of overall efficiency. The overall system energy efficiency is found to be highest for the natural gas operated system with a vapour absorption chiller (system 1) at 27.5% and lowest for the photovoltaic (PV) and solar thermal operated system with vapour compression chiller (system 3) at 19.9%. The overall system exergy efficiency is found to be highest for the PV and solar thermal operated system with vapour compression chiller (system 3) at 3.9% and lowest for the PV and solar thermal operated system with heat pump (system 2) at 1.2%, respectively."
+}

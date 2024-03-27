@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072897631,
+    "Title": "Energy performance assessment of HVAC commissioning using long-term monitoring data: A case study of the newly built office building in South Korea",
+    "Author": "Kim D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.109465",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "EAN Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 25,
+    "Abstract": "Facing severe climate change, the rapid increase in building energy consumption has become the major challenge and much attention has been paid to reduce energy use by buildings and their components. Among factors relates the building components, HVAC (Heating, Ventilation, and Air-Conditioning) systems, and their operation have accounted for the largest share of total building energy consumption. The present study applied HVAC commissioning to a newly constructed office building in South Korea to investigate the impact on energy consumption. The energy demands for the case building were simulated by using data collected by BEMS and BAS and IPMVP Option D is used to calibrate the conditions of the energy simulation. Utilizing the calibrated energy model, several cases were created and examined to find out the energy effectiveness of the HVAC commissioning. Moreover, the cost-effectiveness of the case building with HVAC commissioning was analyzed. Implementing HVAC commissioning, about 2–6% of the total energy was reduced as per the occupancy rates and the payback period was also calculated. The obtained results of the present study showed the effectiveness of HVAC commissioning and the study can provide information for the development of HVAC commissioning for commercial buildings in Korea."
+}

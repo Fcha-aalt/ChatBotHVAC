@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169562579,
+    "Title": "Model-free MIMO control tuning of a chiller process using reinforcement learning",
+    "Author": "Rosdahl C.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/23744731.2023.2247938",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Automatic Control",
+    "Affliation Country": "Sweden",
+    "Cited by count": 0,
+    "Abstract": "The performance of HVAC equipment, including chillers, is continuing to be pushed to theoretical limits, which impacts the necessity for advanced control logic to operate them efficiently and robustly. At the same time, their architectures are becoming more complex; many systems have multiple compressors, expansion devices, evaporators, circuits, or other elements that challenge control design and resulting performance. In order to maintain respectful controlled speed of response, stability, and robustness, controllers are becoming more complex, including the move from thermostatic control, to proportional integrator (PI), and to multiple-input multiple-output (MIMO) controllers. Model-based control design works well for their synthesis, while having accurate models for numerous product variants is unrealistic, often leading to very conservative designs. To address this, we propose and demonstrate a learning-based control tuner that supports the design of MIMO decoupling PI controllers using online information to adapt controller coefficients from an initial guess during commissioning or operation. The approach is tested on a physics-based model of a water-cooled screw chiller. The method is able to find a controller that performs better than a nominal controller (two single PI controllers) in terms of decreasing deviations from the operating point during disturbances while still following reference changes."
+}

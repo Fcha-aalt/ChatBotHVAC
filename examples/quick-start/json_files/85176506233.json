@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85176506233,
+    "Title": "Performance Simulation of Desiccant Wheel under Dynamic Conditions: Comparison between Detailed and Simplified Models",
+    "Author": "Dugaria S.",
+    "Journal": "Building Simulation Applications",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Free University of Bozen-Bolzano",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "In the last few decades, European countries have been facing an increasing demand for active air-conditioning (cooling and dehumidification) in the summer period. As a good alternative to energy demanding vapor compression cooling-based air dehumidification, building HVAC systems integrating desiccant-based dehumidification has drawn increasing attention. These technologies offer the possibility to significantly reduce the energy requirement for air dehumidification and post-heating due to excessive cooling. In fact, air-conditioning systems that use solid or liquid desiccant offer the interesting capacity of separating dehumidification and sensible cooling of air and realizing high-energy-efficiency systems. However, the complexity perceived by technicians towards the design of air-conditioning systems based on these technologies actually limits their adoption in HVAC systems, mainly due to the difficulties in predicting the performance of the desiccant devices, which is the crucial component of the system. On the one hand, many simplified approaches commonly adopted to simulate and optimize the dehumidification performance are based on steady-state models and their reliability under unsteady conditions is questionable; on the other hand, accurate detailed models available for the design and development of components do not turn out to be particularly suitable for simulation of energy systems, due to their high computational cost. The present work focuses on desiccant wheels, whose performance is not only directly related to the properties of the sorption material, but also depends strongly on operating conditions, such as rotational speed, regeneration temperature and inlet air conditions, which are typically non-stationary in real application. In this context, the purpose of this paper is to assess the reliability of a simplified model to predict the behavior of a desiccant wheel under dynamic conditions. To do so, a detailed model of a desiccant wheel is developed and validated against experimental data available in the literature. Finally, a comparison between the developed detailed model and the simplified model under dynamic conditions is carried out."
+}

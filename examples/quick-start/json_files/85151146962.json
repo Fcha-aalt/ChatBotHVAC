@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151146962,
+    "Title": "Artificial Intelligent-Based System for Thermal Comfort Control in Smart Building",
+    "Author": "Boutahri Y.",
+    "Journal": "Lecture Notes in Networks and Systems",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-26254-8_33",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Moulay Ismaïl",
+    "Affliation Country": "Morocco",
+    "Cited by count": 0,
+    "Abstract": "Buildings consume a significant amount of the world’s energy. An important portion of this energy is utilized to maintain building thermal comfort. Since Heating Ventilation Air Condition (HVAC) systems consume the bulk of a building’s energy, it is vital to optimize this energy while preserving thermal comfort for occupants. The Predict Mean Vote (PMV) model is considered as one of the most important models describing the building’s thermal comfort. In this context, the accurate and real-time prediction of the PMV index is crucial. This paper proposes an artificial intelligence-based model to be integrated into HVAC systems to predict Predicted Mean Vote (PMV) using two Machine Learning (ML) algorithms, namely Random Forest (RF) and Artificial Neural Network (ANN). The performance of the investigated methods was tested using several evaluation metrics such as Root Mean Square Error (RMSE) and Correlation Coefficient (R2). The obtained results have revealed that random forest is more accurate with an RMSE = 0.075 and R2 = 0.965, in comparison with Artificial Neural Network (ANN) which shows an RMSE = 0,171 and R2 = 0.801. The proposed work will be an essential stage in the deployment of HVAC systems, to maintain thermal comfort of occupants and optimize energy consumption in smart buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124373281,
+    "Title": "Green Campus Establishment Through Carbon Emission and Energy Efficiency Control",
+    "Author": "Busaeri N.",
+    "Journal": "ICSGTEIS 2021 - 2021 International Conference on Smart-Green Technology in Electrical and Information Systems: Advancing Smart and Green Technologies Toward Society 5.0, Proceedings",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICSGTEIS53426.2021.9650356",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Siliwangi University",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 0,
+    "Abstract": "Campus greening has become an obsession for every University; even though being a green campus is not easy, it takes a long-term strategy to be implemented. This article discusses strategies to reduce carbon production and increase efficiency in the use of electrical energy. The campus control policy uses the standards used in the Climate Action Tracker (CAT) and the World Bank standard. While increasing the efficiency of electricity use by observing the annual electricity use of the building and then dividing it by the building area so that the actual energy efficiency index (EEI) identification value is obtained. The object of research is the University of Siliwangi (UNSIL). Data analysis uses field observation data with a range from 2015 to 2021. We use a regression approach to determine conditions in 2030. The results of the investigation on carbon and electricity emissions are divided into four scenarios. The analysis of the efficiency of the use of electrical energy focuses on two types of areas, namely areas with an HVAC system and areas without an HVAC system. The calculation results are recapitulated into six categories. The conclusion from our analysis, it appears that UNSIL needs a breakthrough and a solid commitment to reduce carbon production on campus, misconvert the use of electric vehicles in the campus environment, reduce car and motorcycle activities. The efficiency of electricity use can apply scenario two or scenario 3, which is to keep the electricity consumption rate per year at a minimum of 10%."
+}

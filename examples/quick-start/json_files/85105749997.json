@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105749997,
+    "Title": "Development of a novel energy recovery heat exchanger coupled with phase change materials for building temperature control",
+    "Author": "Hartz S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "US-EcoLogic",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Energy recovery ventilation (ERV) is an important tool to reduce the energy demands of building HVAC systems, which typically account for approximately 40 percent of overall building energy consumption. Many ERV designs are commercially available. However, there is an increasing need for more efficient energy recovery in buildings to further reduce carbon footprints. In this work, we investigated a novel rotary energy recovery ventilator coupled with phase change material (PCM), which can absorb both sensible and latent heat from the incoming air for the initial temperature and moisture control. It can utilize the large amount of latent heat of fusion of PCM during its phase change process to enhance the heat absorption/releasing to further improve the temperature regulation of the fresh air. This design features an energy wheel comprising aluminum honeycomb material, and bio-based PCM macroencapsulated in cylindrical spokes of the wheel. Through the heat transfer and computational fluid dynamics simulations using ANSYS Fluent, the optimal geometry of the PCM embedded wheel was determined to achieve the maximum temperature reduction for the incoming warm air. The proposed PCM integrated energy recovery ventilator prototype was manufactured based on the optimal designs. The fabricated prototype was tested to demonstrate its performance on the heat and moisture recovery. The heat recovery of the proposed ERV system is expected to be remarkably enhanced due to the presence of PCM for efficient building energy savings."
+}

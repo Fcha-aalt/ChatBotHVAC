@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107368554,
+    "Title": "Benefits of the inclusion of occupant behaviour profiles in the simulation of the energy performance of buildings",
+    "Author": "Cali D.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technical University of Denmark",
+    "Affliation Country": "Denmark",
+    "Cited by count": 2,
+    "Abstract": "With in the simulation of buildings' energy performance, Occupant Behavior is often modelled only through fixed and repeated profiles. The incorrect simulation of occupant behavior can however lead to the so called Energy Performance Gap both in new and retrofitted buildings. In this work, we demonstrate how integrating real occupants' profiles related to the opening and closing of windows can positively affect the results of the dynamic performance simulation of buildings. With in this scope, we modelled (Dymola, Modélica) two 10-apartments buildings and their HVAC systems, and simulated those under two main scenarios, one with a fixed air change rate through windows, one including opening and closing cycles as monitored in the real building. In - cluding realistic windows' ventilation can improve the simulation results, but a holistic occupant behavior is highly necessary to get reliable and accurate buildings' simulations."
+}

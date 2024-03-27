@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174344359,
+    "Title": "Transfer learning for occupancy-based HVAC control: A data-driven approach using unsupervised learning of occupancy profiles and deep reinforcement learning",
+    "Author": "Esrafilian-Najafabadi M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113637",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 2,
+    "Abstract": "Model-free heating, ventilation, and air conditioning (HVAC) control systems have demonstrated promising potential for adjusting indoor setpoint temperature based on dynamic occupancy patterns in smart buildings. Although these control systems offer the advantage of not needing building or occupancy models, the involved trial-and-error learning process can cause considerable thermal discomfort for occupants, particularly during the initial learning period. Given the critical importance of thermal comfort, this limitation is a major barrier to the practical implementation of such systems. To address this challenge, the present study proposes a framework to enhance the learning process of the model-free HVAC controllers. Specifically, a transfer learning (TL) technique is adopted based on a similarity analysis of occupancy patterns using an unsupervised learning of occupancy profiles. This control framework leverages a k-means clustering algorithm with dynamic time warping to match the most similar households in terms of occupancy patterns within 26 residential units. The results demonstrate that the proposed method significantly improves the performance of the HVAC control system. It enhances the jumpstart performance and total rewards by nearly 25% and 5%, respectively, compared to a conventional model-free controller. Furthermore, it reduces the deviation period and mean temperature deviation by approximately 4% and 68%, respectively. Overall, this framework presents a promising approach to enhancing the performance and practicality of model-free HVAC control systems by reducing the thermal discomfort during the learning process."
+}

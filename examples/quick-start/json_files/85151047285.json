@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151047285,
+    "Title": "Smart Home: Protocols, Platforms and Best Practices",
+    "Author": "Guetter D.",
+    "Journal": "Lecture Notes in Electrical Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-24963-1_5",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Berufsakademie Sachsen Staatliche Studienakademie Dresden",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "Emerging Networking (EmN) appears nowadays spontaneous and accompanies us in our everyday life as well as supports modern industry processes, ongoing digitalization of workflows and multiple Smart Home scenarios. This work is devoted to the Smart Home design: a brief smart survey of the used protocols, platforms and best practices under considering of price mirror, easy configuring and manageability, data security and privacy aspects as well as energy-efficiency. The practical problems for network and IoT components compatibility as well as cloud-independence are solved. The authors favor the open source and cloud-free solutions as it was shown in the presented case studies. Smart Applications become not only cloud-centric, but also container- and microservice-based."
+}

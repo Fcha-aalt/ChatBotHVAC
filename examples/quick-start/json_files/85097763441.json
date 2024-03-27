@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097763441,
+    "Title": "An Energy-saving Oriented Air Balancing Method based on the Extreme Learning Machine",
+    "Author": "Li B.",
+    "Journal": "IECON Proceedings (Industrial Electronics Conference)",
+    "Publication Date": {
+        "$date": "2020-10-18T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/IECON43393.2020.9254384",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nanyang Technological University",
+    "Affliation Country": "Singapore",
+    "Cited by count": 0,
+    "Abstract": "This paper proposes an energy-saving oriented air balancing method based on the extreme learning machine. First, the relationship between the design airflow and the damper angles of all terminals is modeled by the extreme learning machine. Then, a top-down searching method for the minimal required fan voltage is proposed. The optimal damper angles and the minimal required fan voltage can be determined. Under the minimal fan voltage, the energy consumption of the air balancing system can reach the smallest value for each case. This air balancing method can accurately adjust the airflow in each terminal to the design value. The effectiveness of this method is verified by the experiments."
+}

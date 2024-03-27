@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85104126062,
+    "Title": "Multi-objective optimization of low-GWP mixture composition and heat exchanger circuitry configuration for improved system performance and reduced refrigerant flammability",
+    "Author": "Li Z.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2021-06-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.ijrefrig.2021.01.003",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "The recently introduced hydrofluoroolefin (HFO) refrigerants, including R1234yf and R1234ze(E), have significantly lower global warming potentials (GWPs) than traditional hydrofluorocarbon (HFC) refrigerants like R410A. However, prior tests show that direct drop-in of pure R1234yf or R1234ze(E) into equipment designed for R410A results in a decrease in heat exchanger capacity and the system coefficient of performance. The primary reason is the lower in-tube heat transfer performance of R1234yf and R1234ze(E) compared with that of R410A. To address this issue, previous studies have mixed the mildly flammable HFC R32 with HFOs to improve system performance, with HFC R125 also added to suppress flammability. Previous studies selected compositions based on simple cycle analyses and did not consider modifications of the heat exchanger circuitry configuration to adapt to the new refrigerants. This study presents a novel multi-objective optimization approach to design a refrigerant composition that maximizes energy efficiency within flammability and GWP limits. The approach in this work simultaneously optimizes mixture composition and heat exchanger circuitry configuration. A case study on a rooftop unit indicates that, compared with mixture-only optimization, simultaneous optimization of mixture and heat exchanger circuitry yields a 5.9% improvement in cycle efficiency and a 48.6% reduction in refrigerant flammability with a GWP of 268. Circuitry optimization using refrigerants with different temperature glides shows that the larger the temperature glide is, the larger EER improvement is obtained. The results show that zeotropic blends with a large temperature glide are more sensitive to the refrigerant circuitry than pure refrigerants and may suffer significant performance degradation with subpar heat exchanger circuitry design. The proposed optimization approach is generally applicable to mixtures with any number of components. Using this approach to design a HVAC system can yield higher system efficiency within flammability and GWP constraints."
+}

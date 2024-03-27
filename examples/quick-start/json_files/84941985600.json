@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84941985600,
+    "Title": "Transient simulation and parametric study of solar-assisted heating and cooling absorption systems: An energetic, economic and environmental (3E) assessment",
+    "Author": "Shirazi A.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2016-02-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.renene.2015.09.014",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "UNSW Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 106,
+    "Abstract": "This paper presents energetic, economic, and environmental (3E) analyses of four configurations of solar heating and cooling (SHC) systems based on coupling evacuated tube collectors with a single-effect LiBr-H2O absorption chiller. In the first configuration (SHC1), a gas-fired heater is used as the back-up system, while a mechanical compression chiller is employed as the auxiliary cooling system in the second configuration (SHC2). The capacity of the absorption chiller is designed based on the maximum building cooling load in these configurations. The third and fourth configurations (SHC3 and SHC4) are similar to SHC2, but the absorption chiller size is reduced to 50% and 20%, respectively. The results show that the highest primary energy saving is achieved by SHC2, leading to a solar fraction of 71.8% and saving 54.51% primary energy as compared to a reference conventional HVAC system. The economic performance of all configurations is still unsatisfactory (without subsidies) due to their high capital costs. However, if a government subsidy of 50% is considered, the results suggest that SHC4 can be economically feasible, achieving a payback period of 4.1 years, net present value of 568,700 AUD and solar fraction of 43%, contributing to 27.16% decrease in the plant primary energy consumption."
+}

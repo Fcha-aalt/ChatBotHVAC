@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076261892,
+    "Title": "Sensitivity analysis of a simplified office building",
+    "Author": "Zeferina V.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2019-11-20T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1742-6596/1343/1/012129",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Manchester",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 1,
+    "Abstract": "The increase of thermal discomfort and the associated energy demand for the cooling of buildings further exacerbate the ongoing challenges for the design of new buildings and the adaptation measures of the current building stock to climate change. Dynamic, detailed and tailored building simulation methodologies are necessary to better understand and quantify the energy demand of buildings and consequences for supporting energy networks. The aim of this is to analyze the sensitivity of peak electricity demand for the provision of space cooling to different office building model parameters. In the research, two sensitivity methods, Morris Elementary Effect and Sobol, are used to evaluate the sensitivity of eight input model parameters. Relative to peak power consumption for cooling, the most important factor is the cooling set-point, followed by ventilation rate and internal heat gains, which are estimated to account for 38%, 26% and 25% of the variation. Regarding the annual cooling demand for the HVAC systems, these factors account for 35%, 33% and 58%, respectively."
+}

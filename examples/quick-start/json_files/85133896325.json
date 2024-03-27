@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133896325,
+    "Title": "Experimental investigation of heat and moisture transfer with ventilation through porous concrete with embedded coils for air conditioning",
+    "Author": "Rahman M.S.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-08-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109370",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "McGill University, Macdonald Campus",
+    "Affliation Country": "Canada",
+    "Cited by count": 4,
+    "Abstract": "Porous concrete permits air and water transfer, while providing the necessary structural strength required for some green building design elements. To determine the potential of porous concrete as a building material with HVAC control, the heating and cooling capacity of porous concrete with embedded heating cooling coils was investigated. In this study, a novel bio-compatible porous concrete substrate was cast into cylinders with embedded water circulation piping placed during casting to control heat and moisture content. Heating and cooling control were performed by circulating water (hot/cold) through two coils of polyethylene piping, and humidity was controlled by circulating water through perforated PVC piping. Maximum heat transfer rates of 152.3 W and −104.3 W were obtained, and maximum temperature changes of 30.0 °C, and 20.0 °C were observed for heating and cooling, respectively. During humidification, relative humidity of up to 99% was achieved with a maximum mass transfer rate of 0.0836 g s−1 and an energy transfer rate of 4.05 kJ kg−1. Dehumidification demonstrated similar mass and energy transfer rates but in a reverse transfer path. The porous concrete with embedded coil showed overall heat transfer effectiveness of 0.35, and mass transfer effectiveness of 1.002. These results highlight that this newly-designed system, combining porous concrete with heating and cooling coils, has the capacity to maintain ambient temperature (16-28 °C) when challenged with an outdoor temperature ranging from −20 °C to 50 °C, regardless of relative humidity. Its potential as an energy-efficient and dual purpose structural/HVAC component merits further study."
+}

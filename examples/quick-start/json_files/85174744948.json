@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174744948,
+    "Title": "An empirical model of a split-type inverter air conditioner for building energy simulation",
+    "Author": "Pizzatto L.R.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2024-01-10T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.applthermaleng.2023.121714",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pontifícia Universidade Católica do Paraná",
+    "Affliation Country": "Brazil",
+    "Cited by count": 0,
+    "Abstract": "The increasing adoption of air conditioning prompted by climate change and the fourth Industrial Revolution is poised to greatly influence the demand for energy consumption, especially in rapidly developing economies situated in the planet's hottest regions. The overwhelming majority of air conditioners (ACs) in use today around the globe are split systems, and the inverter technology is taking over the market for this kind of equipment, so it is extremely important for researchers to be able to simulate inverter air conditioners (IACs) behavior properly and demonstrate its energy efficiency benefit to help reduce energy consumption demand in the world. For energy performance assessment of buildings equipped with IACs, building energy simulation (BES) tools usually employ empirical models based on data provided by manufacturers to be able to simulate performance, however, even with the most updated standards in place, the data provided is not enough to provide a robust empirical model. The models available to predict IAC performance today are not well suited to be integrated with BES tools therefore this work aims to fulfill this gap by providing an empirical model built by adapting a methodology suggested by ASHRAE and based on 96 experimental tests variations to be able to simulate IAC performance more accurately, considering a wide range of temperature and humidity conditions and different compressor rotation speed values (30 Hz, 60 Hz and 90 Hz). All tests were carried out in a psychrometric calorimeter working according to an ISO standard and following the Air-Enthalpy Method. The paper provides a comprehensive breakdown of the calculation procedures used to ascertain and forecast total cooling capacity, sensible cooling capacity, and energy efficiency ratio, along with their associated uncertainties. This detailed explanation aims to facilitate the replication of the methodology by fellow researchers. The presented model exhibits a strong predictive capability for the tested IAC, boasting mean absolute errors of less than 5 % within an internal wet-bulb temperature range of 10–24 °C and an external dry-bulb temperature range of 25–40 °C. This level of accuracy makes it a suitable candidate for integration into various BES tools."
+}

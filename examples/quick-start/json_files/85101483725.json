@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101483725,
+    "Title": "Vision-based Individual Factors Acquisition for Thermal Comfort Assessment in a Built Environment",
+    "Author": "Liu J.",
+    "Journal": "Proceedings - 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition, FG 2020",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/FG47880.2020.00057",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Aalborg University",
+    "Affliation Country": "Denmark",
+    "Cited by count": 7,
+    "Abstract": "To maintain satisfactory chamber thermal environments for occupants, heating, ventilation and air conditioning (HVAC) systems have to work frequently. However, the room conditions especially the temperatures are usually set empirically which fail to consider occupants' real needs, not to mention personalized thermal comfort, therefore, the HVAC systems are underutilized and unavoidably induce energy waste. To solve this problem, a vision-based method to acquire multiple individual factors that are critical for assessing personalized thermal sensation is proposed. Specifically, with the indoor videos captured by a thermal camera as inputs, a convolutional neural network (CNN) is implemented to recognize an occupant's clothes and action type simultaneously. With a dataset of 20 persons, the experimental results show an average classification rate of 95.14parcent on 4 dataset partitions for a 15-category scenario, which prove the effectiveness of the proposed method."
+}

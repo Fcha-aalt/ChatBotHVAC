@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061263174,
+    "Title": "Energy efficient of Using Chilled Water System for Sustainable Health Care Facility Operating by Solar Photovoltaic Technology",
+    "Author": "Alahmer A.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.egypro.2018.11.092",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tafila Technical University",
+    "Affliation Country": "Jordan",
+    "Cited by count": 8,
+    "Abstract": "Hospitals and other healthcare facilities are complex environments that require a special consideration to HVAC design as in requirement a large amounts of ventilation, which leads to high amount of energy consumption. This manuscript presents a description of chilled water/ HVAC systems for health care facilities. A case study of a Farah hospital located in Amman/ Jordan was implemented to perform cooling load using radiant time series (RTS). This paper manipulates the effect of changing relative humidity with dry bulb temperature on the cooling load, power consumption and chiller selection using three types of building namely: commercial building, hospital building and green hospital building to choose the best indoor design conditions with minimum power consumption. To reduce the energy cost for chiller, a solar photovoltaic was proposed to overcome the portion of the air conditioning power requirement and reduce the demand on the electrical grid. A proposed solar photovoltaic technology unit was analyzed and modeled using a hybrid optimization model for renewable energies (HOMER) software. The results revealed that: (i) the applying green building criterion will lead to significant reduction in cooling load and power consumption up to 25%; (ii) A higher relative humidity and in design inside temperature, a lower cooling load and power consumption required, (iv) PV systems sizing depend on load data, solar radiation, battery data, inverter data and investment cost of the system, and finally (v) there is a potential to adopt solar PV as strategic and alternative option to reduce the cooling cost."
+}

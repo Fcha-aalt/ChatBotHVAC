@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109424515,
+    "Title": "Implications of passive energy efficiency measures on life cycle greenhouse gas emissions of high-rise residential building envelopes",
+    "Author": "Rivera M.L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-10-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111202",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 32,
+    "Abstract": "The building industry has been developing measures for reducing operational emissions in the fight against climate change. Some of these well-intentioned measures may result in higher embodied emissions, potentially more than offsetting reductions achieved during operation. This research evaluates the effectiveness of different levels of application of five passive energy efficiency measures to reduce life cycle greenhouse gas (GHG) emissions in high-rise residential buildings in Toronto, Canada, while considering projected future climate and GHG intensity of energy sources. Through combining and automating life cycle assessment and energy simulation on a visual programing interface, the study evaluates 16,128 envelope variants, examining 56 wall, 12 roof, 6 window assemblies and 4 window-to-wall ratios (WWRs). Decreasing the WWR is found to be the most effective measure to reduce total envelope related GHG emissions (by about 28%). Increasing wall and roof insulation with GHG intensive materials (e.g., extruded polystyrene [XPS]), and increasing spandrel wall insulation potentially augment total emissions, depending on the scenario. Higher trade-offs between embodied and operational emissions are found when highly efficient electric HVAC systems are implemented (e.g., heat pumps). Results demonstrate it is imperative to assess both embodied and operational emissions during the design process of building envelopes to effectively reduce GHG emissions."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182571568,
+    "Title": "Wall-mounted electric boilers on semiconductor thermistor PTC heating elements",
+    "Author": "Toropov A.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2023-12-07T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1051/e3sconf/202345801016",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "LLC Engineering Center \"April\"",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 0,
+    "Abstract": "The improvement of energy efficiency in HVAC equipment makes the greatest contribution to reducing the environmental impact of household technical equipment on the natural environment. Currently, electric water boilers with resistive heating elements have gained the widest popularity for autonomous household heating systems. Thermoresistive semiconductor heating elements (РТС) represent a new direction in the production of electric water heat generators. An experimental wall-mounted electric boiler with РТС thermoresistive heating elements, with a nominal thermal power of 8 kW-h, was investigated. The characteristic of the РТС heating element within the boiler's heat exchange unit was determined as a function of temperature. The energy efficiency in the power modulation range of 0.65-8.0 kW-h ranged from 0.983 to 0.988. The specific maximum power of the РТС element was 20 watts/cm2, and the hydraulic resistance of the boiler at a flow rate of 1.0 m3/h was 0.38 m.w.c. Electric indirect heating unit, installed in the design of the serial-produced electric boiler, passed the full test cycle and showed higher energy performance than when using a standard indirect electric heating unit with resistive ETH. Considering that РТС elements have significantly higher reliability and service life, it is recommended to release a trial batch of electric wall-mounted boilers for autonomous household heating systems and small industrial facilities."
+}

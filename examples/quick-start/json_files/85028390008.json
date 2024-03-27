@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85028390008,
+    "Title": "Simulating empirically-determined plug loads to improve knowledge of design loads and assess building performance improvement opportunities",
+    "Author": "Lueker J.",
+    "Journal": "ASHRAE and IBPSA-USA Building Simulation Conference",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Baumann Consulting",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The accurate prediction of internal heat gains from occupants, lighting, and plug loads inside a building is critical for mechanical engineers and energy modelers, with implications related to HVAC sizing, thermal comfort requirements, and energy efficiency. However, internal gain values are often misjudged, stemming from industry standard assumptions. This paper describes an empirical approach to calculate plug load density in office spaces, and the subsequent simulation of an active office building incorporating different internal gains assumptions. The outcome is a 24-hour plug load schedule in the form of W/ft2 that assists in predicting peak heating and cooling loads. The model underwent six iterations: five with a variety of plug load densities based on current design handbooks, and the last with improved values determined by this procedure. The simulation results are compared to reveal the impact of renewed plug load estimates on HVAC demand and energy use."
+}

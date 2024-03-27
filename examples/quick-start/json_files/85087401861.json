@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087401861,
+    "Title": "Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings",
+    "Author": "Lesage-Landry A.",
+    "Journal": "IEEE Control Systems Letters",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/LCSYS.2020.2989110",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "We extend the regret analysis of the online distributed weighted dual averaging (DWDA) algorithm from Hosseini et al. to the dynamic setting and provide the tightest dynamic regret bound known to date with respect to the time horizon for a distributed online convex optimization (OCO) algorithm. Our bound is linear in the cumulative difference between consecutive optima and does not depend explicitly on the time horizon. We use dynamic-online DWDA (D-ODWDA) and formulate a performance-guaranteed distributed online demand response approach for heating, ventilation, and air-conditioning (HVAC) systems of commercial buildings. We show the performance of our approach for fast timescale demand response in numerical simulations and obtain demand response decisions that closely reproduce the centralized optimal ones."
+}

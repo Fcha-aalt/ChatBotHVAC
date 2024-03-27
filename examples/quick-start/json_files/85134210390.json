@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134210390,
+    "Title": "Safe HVAC Control via Batch Reinforcement Learning",
+    "Author": "Liu H.Y.",
+    "Journal": "Proceedings - 13th ACM/IEEE International Conference on Cyber-Physical Systems, ICCPS 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICCPS54341.2022.00023",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, San Diego",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Buildings account for 30% of energy use worldwide, and approxi-mately half of it is ascribed to HVAC systems. Reinforcement Learning (RL) has improved upon traditional control methods in increasing the energy efficiency of HVAC systems. However, prior works use online RL methods that require configuring complex thermal simulators to train or use historical data-driven thermal models that can take at least 104 time steps to reach rule-based performance Also, due to the distribution drift from simulator to real buildings, RL solutions are therefore seldom deployed in the real world. On the other hand, batch RL methods can learn from the historical data and improve upon the existing policy without any interactions with the real buildings or simulators during the training. With the existing rule-based policy as the priors, the policies learned with batch RL are better than the existing control from the first day of deployment with very few training steps compared with online methods. Our algorithm incorporates a Kullback-Leibler (KL) regularization term to penalize policies that deviate far from the previous ones. We evaluate our framework on a real multi-zone, multi-floor building-it achieves 7.2% in energy reduction cf. the state-of-the-art batch RL method, and outperforms other BRL methods in occu-pants' thermal comfort, and 16.7% energy reduction compared to the default rule-based control."
+}

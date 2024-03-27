@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105031735,
+    "Title": "Fast Wasserstein-Distance-Based Distributionally Robust Chance-Constrained Power Dispatch for Multi-Zone HVAC Systems",
+    "Author": "Chen G.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/TSG.2021.3076237",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "State Key Laboratory of Internet of Things for Smart City",
+    "Affliation Country": "Macao",
+    "Cited by count": 25,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) systems play an increasingly important role in the construction of smart cities because of their high energy consumption and available operational flexibility for power systems. To enhance energy efficiency and utilize their flexibility, strategic operation is indispensable. However, finding a desirable control policy for multi-zone HVAC systems is a challenging task because of unavoidable forecasting errors of ambient temperature and heat loads. This paper addresses this challenge by proposing a fast power dispatch model for multi-zone HVAC systems. A distributionally robust chance-constrained approach, which does not require the exact probability distributions of uncertainties, is employed to handle the uncertainties from forecasting errors. Both the uncertainty propagation among zones and accumulation over time are explicitly described based on the delicate indoor thermal model. Wasserstein distance is employed for the construction of ambiguity sets to improve the solution optimality. To overcome the computational intractability of Wasserstein-distance-based method, we first develop a time-efficient inner approximation for the objective function. A separation approach is then proposed to achieve the off-line calculation of uncertain parts in chance constraints. Numerical experiments prove that the proposed model can effectively achieve optimal power dispatch for HVAC systems with high computational efficiency."
+}

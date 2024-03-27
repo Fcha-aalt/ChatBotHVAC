@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84960807572,
+    "Title": "Operational energy use and power demands in European HVAC components",
+    "Author": "Knight I.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2016-03-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1177/0143624415613954",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cardiff University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 1,
+    "Abstract": "This paper is presented in the context of a gradual move from energy management at a Building level to energy management at Component level. This move requires specific energy consumption and power demand benchmarks to allow measured component energy use and power demands to be put into context. The paper presents a methodology for collecting and collating the data needed for producing these benchmarks from measured operational data. This methodology was tested in the European iSERVcmb project. Example benchmarks from iSERVcmb are provided along with links to the full published data. The paper concludes that large scale measurement and comparison of detailed operational data are possible and useful in support of achieving operationally low energy buildings. Practical application: The explosion of low-cost operational data availability at the level of individual components can be used to improve understanding of their operational energy efficiency in the context of the overall efficiency of a building. The paper shows this data can: • Be collected from all types of buildings across all EU Member States • Produce benchmark ranges of operational energy consumption and power demands at the level of individual components serving given activities Applying this benchmarked data in the design and operation of buildings will: • Improve their operational energy efficiency, • Enable legislation using this data to show compliance."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185228235,
+    "Title": "Towards Safe Model-Free Building Energy Management using Masked Reinforcement Learning",
+    "Author": "Kumar S.R.",
+    "Journal": "IEEE PES Innovative Smart Grid Technologies Conference Europe",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ISGTEUROPE56780.2023.10407781",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Grenoble Alpes",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "Autonomous control of building energy resources including HVAC and battery storage systems has the potential to optimize operations and achieve objectives such as cost minimization. Existing approaches either require an explicit mathematical model of the building, or resort to simple rule-based controls (RBC) which may be sub-optimal. Model-free reinforcement learning (RL) is a promising method to overcome these limitations - however, it often requires a large number of interactions with the real environment before learning a functional policy. In this work, we investigate’Action Masking’, a technique to improve the learning efficiency of RL algorithms while respecting safety rules during the learning phase. Our solution achieves a cost reduction of 6% compared to a baseline rule-based controller, and also outperforms a popular transfer learning strategy. This suggests that model-free RL approaches are feasible and practical for problems in this domain."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118896569,
+    "Title": "Development of an Efficient Energy Management Strategy to Reduce Energy Consumption of Office Building Equipment",
+    "Author": "Soni P.",
+    "Journal": "Wireless Personal Communications",
+    "Publication Date": {
+        "$date": "2022-05-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/s11277-021-09336-9",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SRM Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "The cost of digitizing smart cities is high, but it is unavoidable. The aim of this paper is to optimise energy usage and increase energy savings for an office building. In Indian season’s where climate is hot and humid in most of month of the year, a Simulink model has been developed to compare various energy management strategies based on usage, working time, occupancy, various electrical load and weather conditions of all Indian seasons. To develop a realistic strategy the data has been collected from the actual site and simulation is done by considering actual working conditions. Power consumption capacity and electrical load calculations done based on the standard rating of electrical and electronics equipment. Based on the above consideration efficient energy management strategic model has been developed. The normal working condition of equipments has been compared with controlled working conditions. In both the conditions results are compared and the overall saving in controlled condition has been derived in terms of energy consumption per year. The adoption of energy-efficient building controls will drastically reduce electricity consumption."
+}

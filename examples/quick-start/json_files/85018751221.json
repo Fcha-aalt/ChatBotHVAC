@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85018751221,
+    "Title": "A state of art review on methodologies for control strategies in low energy buildings in the period from 2006 to 2016",
+    "Author": "Wang Y.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-07-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.04.066",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "London South Bank University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 40,
+    "Abstract": "Building sector accounts for significant portion of total final energy use in most countries. One way to reduce significantly building energy consumption is to adopt energy efficiency technologies and strategies. Due to environmental concerns and high cost of energy in current years there has been a renewed interest in building energy efficiency. Advanced control strategies provide a more efficient way of minimizing energy demand of buildings and maintaining indoor environmental quality in accordance with global principle of sustainability, which has also proven reliable for diverse applications such as Heating, Ventilation and Air Conditioning (HVAC) control and thermal comfort control etc. The objective of this paper is to review the control strategies in buildings, particularly focusing on low energy buildings (LEB), in recent 10 years. Present work consists of why to use control strategies in buildings, categories of control strategies, research literature for building performance affected by diverse control strategies from the perspective of theoretical modelling, physical experimental study and numerical simulation investigation. Following that, more than 20 parameters affecting control performance have been analyzed and evaluated. The literature has illustrated that the best overall performance of control strategy is proportional integral derivative control-model predictive control (PID-MPC); the effects of those parameters on control performance are completely different, depending on which exact initial conditions and the interaction between different factors."
+}

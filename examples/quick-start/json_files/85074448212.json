@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074448212,
+    "Title": "Developing window behavior models for residential buildings using XGBoost algorithm",
+    "Author": "Mo H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-12-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.109564",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 75,
+    "Abstract": "Buildings account for over 32% of total society energy consumption, and to make buildings more energy efficient dynamic building performance simulation has been widely adopted during the buildings’ design to help select most appropriate HVAC (Heating Ventilation and Air Conditioning) systems. Due to the lack of good behavioral models in current simulation packages, many researchers have tried to develop useful behavioral models to improve simulation accuracy, including window behavior models, using field data collected from real buildings. During this work, many mathematical and machine learning methods have been used, and some level of prediction accuracy has been achieved. XGBoost is a recently introduced machine learning algorithm, which has been proven as very powerful in modeling complicated processes in other research fields. In this study, this algorithm has been adopted to model and predict occupant window behavior, aiming to further improve the modeling accuracy from a globally accepted modeling approach, namely, Logistic Regression Analysis. Field data in terms of both occupant window behavior and relevant influential factors were collected from real residential buildings during transitional seasons. Both XGBoost and Logistic Regression Analysis were used to build window behavior models, after a feature selection work, and their prediction performances on an independent dataset were compared. The comparison revealed that XGBoost has solid advantages in modeling occupant window behavior, over Logistic Regression Analysis, and it is expecting that the same finding would be obtained for other behavioral types, such as blind control and air-conditioner operation."
+}

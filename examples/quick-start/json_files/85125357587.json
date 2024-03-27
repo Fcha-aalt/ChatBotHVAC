@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125357587,
+    "Title": "Smart Home's Energy Management Through a Clustering-Based Reinforcement Learning Approach",
+    "Author": "Zenginis I.",
+    "Journal": "IEEE Internet of Things Journal",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/JIOT.2022.3152586",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Iquadrat Informatica S.L.",
+    "Affliation Country": "Spain",
+    "Cited by count": 12,
+    "Abstract": "Smart homes that contain renewable energy sources, storage systems, and controllable loads will be key components of the future smart grid. In this article, we develop a reinforcement-learning (RL)-based scheme for the real-time energy management of a smart home that contains a photovoltaic system, a storage device, and a heating, ventilation, and air conditioning (HVAC) system. The objective of the proposed scheme is to minimize the smart home's electricity cost and the residents' thermal discomfort by appropriately scheduling the storage device and the HVAC system on a daily basis. The problem is formulated as a Markov decision process, which is solved using the deep deterministic policy gradient (DDPG) algorithm. The main contribution of our study compared to the existing literature on RL-based energy management is the development of a clustering process that partitions the training data set into more homogeneous training subsets. Different DDPG agents are trained based on the data included in the derived subsets, while in real time, the test days are assigned to the appropriate agent, which is able to achieve more efficient energy schedules when compared to a single DDPG agent that is trained based on a unified training data set."
+}

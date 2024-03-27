@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128889325,
+    "Title": "Are Residential Energy Efficiency Upgrades Effective? An Empirical Analysis in Southern California",
+    "Author": "Chuang Y.",
+    "Journal": "Journal of the Association of Environmental and Resource Economists",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1086/718529",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 3,
+    "Abstract": "We analyze multiple subsidy programs for residential energy efficiency upgrades from 2010 to 2015 using electricity billing records of more than 11 million households in Southern California. We find that adopting these upgrades reduces overall electricity usage by 4%. However, there are significant differences in savings between upgrades. Pool pump and refrigeration upgrades generate the largest savings (13% and 6%, respectively). Lighting and HVAC retrofits generate the smallest savings (less than 1%). Some upgrades lead to concerns of rebound effects, such as dishwasher and clothes washer upgrades, and building envelope upgrades. Program impact varies by time of the year and building type. Furthermore, we find that energy savings are inconsistent with the engineering estimates. These results indicate that policy makers should consider the allocation of program funding not simply based on engineering projections but also based on measured electricity consumption such as those described in this study."
+}

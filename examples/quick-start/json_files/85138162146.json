@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138162146,
+    "Title": "Joint probability distribution of air temperature and global solar radiation for outdoor design conditions based on copula approach",
+    "Author": "Jiao Z.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1177/01436244221100599",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Osaka Metropolitan University",
+    "Affliation Country": "Japan",
+    "Cited by count": 2,
+    "Abstract": "In the common method of compiling outdoor design conditions by annual cumulative frequency of occurrence, the probability of simultaneous occurrence of the selected meteorological elements is not considered, which may lead to an overestimation of air-conditioning equipment capacity design. This paper aims at developing a novel approach for producing the outdoor design conditions, taking into consideration the dependency between the air temperature and global solar radiation, which have a strong influence on the HVAC capacity design. These two meteorological elements are analyzed for specific simultaneous occurrence probability based on the joint distribution. For this purpose, the copula approach which can describe the dependence between these two meteorological elements is used for modeling the joint distribution function. We investigated copula family selection for air temperature and global solar radiation at each hour of hourly weather data for 10 years from 2001 to 2010 in Osaka, Japan. The Joe-Frank copula has the best fitting results for the dependence between the air temperature and global solar radiation. According to the comparison of original exceeding probability and simultaneous occurrence probability, the results show that the design conditions based on the common method can significantly exceed that of the simultaneous occurrence probability method. Practical Application: Outdoor design conditions are used in the building design stage to estimate building performance and select the appropriate air conditioning equipment capacity. Excessive air-conditioning capacity may lead to a large amount of unnecessary energy wastage. Insufficient capacity may lead to not meeting the desired indoor environment conditions of utilization in extreme weather conditions, especially for large office buildings. Therefore, this paper provides a new approach to generate more realistic meteorological conditions for air-conditioning design to improve building energy efficiency."
+}

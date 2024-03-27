@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082694235,
+    "Title": "A chance-constrained stochastic model predictive control for building integrated with renewable resources",
+    "Author": "Wang X.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.epsr.2020.106348",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sichuan University",
+    "Affliation Country": "China",
+    "Cited by count": 14,
+    "Abstract": "Efficient operation of a building energy system integrated with renewable energy resources is one of the main challenges associated with economic and flexible discussions. This work focuses on a chance-constrained stochastic model predictive control (c-SMPC) based scheme to optimally schedule heating, ventilating and air conditioning system (HVAC) and electric storage system (ESS) coordinately, to enable the highly efficient utilization of solar power and economic energy conservation in the building. Specifically, adaptive control modes provided for HVAC according to the time-varying occupancy status offer the building more energy flexibility whilst maximally guarantee the inside thermal comfort with no physical constraint violation. In addition, the uncertain factors, e.g., environment condition disturbances, are integrated into the optimization model by using affine disturbance feedback and chance constraints formulation, providing the c-SMPC controller with tractability and tunability in its temporal receding optimization process. The case of an office building integrated with solar panels and ESS is studied to validate the proposed method, and results show that the method enables an efficient and cost-effective mechanism of optimally coordinating the energy usage of the building. Compared with the baseline controller, the proposed c-SMPC controller can achieve up to 46.6% energy cost reduction and less comfort violation."
+}

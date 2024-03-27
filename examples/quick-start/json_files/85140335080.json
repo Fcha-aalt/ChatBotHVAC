@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140335080,
+    "Title": "Automatic model calibration for coupled HVAC and building dynamics using Modelica and Bayesian optimization",
+    "Author": "Martinez-Viol V.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109693",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 4,
+    "Abstract": "In recent years, increasing the energy efficiency of the building has become one of the objectives of facility managers. In this sense, monitoring-based commissioning and automated fault detection have demonstrated to be effective ways to reduce the overall building energy consumption. Machine learning strategies provide accurate results in the field, but in many applications, the historical data available, especially related to faults, is just not enough. Therefore, the use of a physics-based model of the facility can be useful to generate synthetic data for a fault detection scheme. or be used for the monitoring of the system. However, the calibration of these models is usually done manually based on domain knowledge of the modeller and detailed information about the facility. In this study, a methodology for the calibration of an integrated model with the coupled interaction between the building and HVAC dynamics using Heteroscedastic Evolutionary Bayesian Optimization (HEBO) is presented. The proposed framework is demonstrated in a real use case by simultaneously calibrating 45 different parameters for a Modelica model of an air-handling unit coupled to a building using 15 days of data gathered from the building management system. The results obtained show accurate predictions when compared to the real measured data, with a temperature CV(RMSE) error of 0.38% and a MAE below 1 °C, which is under the common value found in other studies."
+}

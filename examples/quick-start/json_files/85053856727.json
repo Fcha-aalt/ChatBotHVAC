@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053856727,
+    "Title": "A reference architecture for the integration of automated energy performance fault diagnosis into HVAC systems",
+    "Author": "Taal A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-11-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.08.031",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hague University of Applied Sciences",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 18,
+    "Abstract": "Automated energy performance diagnosis systems are seldom applied in practice, leading to excessive energy use and poor indoor environment. One reason for this is that HVAC and energy performance diagnosis systems are designed separately by different experts. Current frameworks for energy performance diagnosis are not consistent with (or based on) HVAC schematic diagrams, as used by HVAC designers to design and operate these systems. We propose a generic reference architecture that decreases the gap between the design of systems for HVAC and energy performance diagnosis. The detection of symptoms and the diagnosis of faults finds place separately. In the first stage, symptom detection, generic symptoms are used and the complete list of possible symptoms is generated during the construction of the HVAC diagrams and their control systems. In the second stage, the diagnosis itself, possible faults are identified by listing all components, controls and models in the HVAC diagram. Symptoms and faults are then connected to each other in a Diagnostic Bayesian Network (DBN) that estimates automatically the fault probabilities leading to the observed symptoms. The diagnose takes place simultaneously through all levels of the system. A case study with actual measurements shows the capabilities of the reference architecture."
+}

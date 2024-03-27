@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135725328,
+    "Title": "Thermal radiative switching interface for energy-efficient temperature control",
+    "Author": "Wang X.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.renene.2022.07.143",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Rensselaer Polytechnic Institute",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Materials with dynamically switchable optical properties can modulate their interaction with sunlight, potentially saving significant energy for heating and air-conditioning if used as building exteriors. This study proposes a new technique for solar-thermal regulation using porous polytetrafluoroethylene (PTFE) layers integrated with a spectrally-selective absorber (PTFE-SS). This multilayered structure can provide tunable optical properties by wetting or dewetting the porous PTFE with a refractive index-matching liquid, allowing a highly reversible change in solar transmittance of 0.62. This variation allows the multilayered structure to switch between highly reflecting and absorbing states that is tunable using different PTFE thicknesses. With this multilayered structure as building exteriors, sunlight can be reflected or absorbed to reduce dependence on conventional heating and cooling systems driven by non-renewable primary energy sources. When exposed to 1 sun illumination under ideal conditions, this variation allows a 51 °C change in PTFE-SS steady temperatures. When applied to buildings as roofing materials, the PTFE-SS promises significant energy reduction with annual cooling and heating savings of around 77% and 27%, respectively. Hence, the proposed PTFE-SS structure presents a new paradigm for passive thermal management of buildings by controlling their interaction with sunlight and decreasing our dependence on fossil fuels."
+}

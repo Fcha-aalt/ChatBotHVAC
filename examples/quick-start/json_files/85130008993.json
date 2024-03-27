@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130008993,
+    "Title": "Evaluating Meta-Reinforcement Learning through a HVAC Control Benchmark (Student Abstract)",
+    "Author": "Grewal Y.S.",
+    "Journal": "35th AAAI Conference on Artificial Intelligence, AAAI 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Monash University",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "Meta-Reinforcement Learning (RL) algorithms promise to leverage prior task experience to quickly learn new unseen tasks. Unfortunately, evaluating meta-RL algorithms is complicated by a lack of suitable benchmarks. In this paper we propose adapting a challenging real-world heating, ventilation and air-conditioning (HVAC) control benchmark for meta-RL. Unlike existing benchmark problems, HVAC control has a broader task distribution, and sources of exogenous stochasticity from price and weather predictions which can be shared across task definitions. This can enable greater differentiation between the performance of current meta-RL approaches, and open the way for future research into algorithms that can adapt to entirely new tasks not sampled from the current task distribution."
+}

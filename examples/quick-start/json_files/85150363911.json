@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150363911,
+    "Title": "ASSESSING THE PERFORMANCE OF THE NEURAL NETWORK-BASED CONTROL TO MANAGE BOILERS THROUGH A REDUCED-ORDER BUILDING'S MODEL",
+    "Author": "Savadkoohi M.",
+    "Journal": "Proceedings from the International Congress on Project Management and Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "There is a growing need to optimize the heating ventilation and air conditioning (HVAC) systems during building operations due to its high contribution to buildings' energy consumption and the willingness to meet the international energy and climate changes targets. Predictive and adaptive controls have arisen as proper tools to reduce the HVAC's energy consumption. They can predict future scenarios and determine the optimal strategy to manage HVAC systems. In this regard, control strategies based on neural networks (NN) to manage boilers and control the temperature setbacks are attracting significant attention. This study aims to use the reduced-order building descriptions as a benchmark model for building energy simulation to demonstrate an NN-based control's effectiveness in managing boilers in buildings. Reduced-order buildings will be simulated with different meteorological locations from various climate zones to determine if the proposed control system is more efficient than a schedule-based control or if certain zones have more potential to save energy. To carry out this analysis, a set of KPIs will be used to assess the performance of the proposed control and compare the results within the different scenarios and the baseline scenario, the scheduled-based control."
+}

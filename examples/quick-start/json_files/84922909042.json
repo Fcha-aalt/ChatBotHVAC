@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84922909042,
+    "Title": "Cyclic blackout mitigation through HVAC shifted queue optimization",
+    "Author": "Al-Salim K.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/978-3-319-15786-3_3",
+    "Source Type": "Book Series",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Strathclyde",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 0,
+    "Abstract": "The increasing global demand for power has resulted in frequent blackouts in many geographies. The cost of domestic standby generation is prohibitive and novel strategies to provision measures that manage blackouts are becoming much sought after. In some scenarios certain amounts of surplus power can be identified, with the mix of available generation not being fully utilized. The paper presents a strategy that harnesses the aggregated superfluous power to fulfil essential demand in residential areas during cyclic blackouts. The solution has at its foundation, a multi-agent distributed demand management system with a supply-demand matching capability. Power is not distributed fairly to each user, and appliances which consume the most significant levels of power such as air conditioners are serviced according to the available superfluous power. The approach is evaluated through an extensive emulation framework and results show that the proposed system is capable of providing an acceptable Quality-of-Service (QoS) level during cyclic blackout periods and at the same time succeeds in smoothing demand profiles."
+}

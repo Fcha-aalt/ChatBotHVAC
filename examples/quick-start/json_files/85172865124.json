@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172865124,
+    "Title": "Analysis of the Influence of Office Building Operating Characteristics on Carbon Emissions in Cold Regions",
+    "Author": "Wang W.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su151813342",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "China Academy of Building Research",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Reducing buildings’ operational carbon dioxide emissions has become a crucial element in China’s efforts to achieve carbon peak and carbon neutrality targets. This study focus on the influence of office building operating characteristics on carbon emissions in cold regions. By utilizing DesignBuilder v7.0.0.096 to conduct numerical simulations of 10 different operating conditions for heating, ventilation and air-conditioning (HVAC) and lighting systems, this study solves the problems in the past of poor comfort and high energy consumption with manual management and achieves a win-win situation for health and environmental protection. The study shows that by implementing a mixed mode of mechanical ventilation and natural ventilation based on outdoor climate conditions and design requirements, unsatisfied hours can be reduced by 202 h compared to the traditional air condition heating operation mode for both winter and summer seasons. Furthermore, compared to a year-round HVAC operation mode, the air-conditioning energy consumption can be reduced by 19%, resulting in a carbon emissions reduction of 1.45 kg CO (Formula presented.) /(m (Formula presented.) ·a). Additionally, for every 2 °C increase in the outdoor temperature, the cooling energy consumption decreases by 2–5%. In terms of lighting, the intelligent lighting mode can reduce energy consumption by 31.04%, leading to a carbon emissions reduction of 3.04 kg CO (Formula presented.) /(m (Formula presented.) ·a). The coupling operation characteristics of mixed mode, intelligent lighting, and energy-saving lamps can achieve a maximum saving of 83.46 MWh of electricity and approximately CNY 72,000 every year, with a static payback period of approximately 2.7 years. This operational strategy, which fully considers the utilization of natural ventilation and daylighting in conjunction with traditional design approaches, improves indoor air quality and ventilation conditions, while also maximizing the energy-saving and carbon reduction potential. The study results provide valuable design and operational guidance for new and existing office buildings in cold regions, to effectively reduce carbon emissions, while offering significant investment returns."
+}

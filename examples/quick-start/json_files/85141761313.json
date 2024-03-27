@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141761313,
+    "Title": "Comparative study on deep transfer learning strategies for cross-system and cross-operation-condition building energy systems fault diagnosis",
+    "Author": "Li G.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2022.125943",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Wuhan University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 24,
+    "Abstract": "Timely and accurate fault diagnosis (FD) in building energy systems (BESs) can promote energy efficiency and sustainable development. Especially the heating, ventilating, and air-conditioning (HVAC) systems are diverse and operate under complex and variable operation conditions. System and operation differences lead to great differences in operational data which causes poor adaptability of data-driven FD models that are developed using data from a single HVAC system or limited operation condition. To improve diagnostic performance across different HVAC systems and operation conditions, this study proposes high-adaptability FD models using three deep transfer learning (DTL) strategies including network-based fine-tuning (FT), mapping-based domain-adaptive neural network (DaNN) and adversarial-based domain adversarial neural network (DANN). The effectiveness of DTL-based FD is validated by fault datasets of two typical BESs: one is a 703-kW screw chiller while the other is the 316-kW centrifugal chiller from ASHRAE RP-1043. Two types of TL scenarios (cross-system and cross-operation-condition fault diagnosis) are set up consisting of eight TL tasks. For DTL strategies, both FD performance and transferability are evaluated using metrics like accuracy and accuracy improvement degree (AID). Results indicate that FT obtains 93% FD accuracy averagely for all tasks of the two TL scenarios considered, which is an average 55% AID compared with the non-transfer benchmark model convolutional neural network (CNN). Further, the impacts of source and target data volumes, and TL tasks are analyzed. For cross-operation-condition scenario, DTL-based FD accuracy grows with the increase of target data volume. For cross-system scenario, FT still show high FD performance with less training data. The reason why FT outperforms DANN and DaNN is explained by visualizing classification scatterplots of the last NN layers. Practical application issues of the DTL-based FD strategy for building energy systems are discussed at last."
+}

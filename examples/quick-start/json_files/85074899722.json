@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074899722,
+    "Title": "Impacts of Zero Net Energy Buildings on Customer Energy Savings and Distribution System Planning",
+    "Author": "Liang M.",
+    "Journal": "2019 IEEE PES Innovative Smart Grid Technologies Asia, ISGT 2019",
+    "Publication Date": {
+        "$date": "2019-05-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ISGT-Asia.2019.8881425",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "NC State College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "This paper presents a customer-oriented, data-driven distribution system planning method for quantifying impacts of Zero-Net-Energy (ZNE) buildings on customer energy savings and distribution system operation. A ZNE building refers to a building whose total amount of energy consumed is roughly equal to self-generated energy on an annual basis. By replacing old appliances with new energy efficient appliances, a retrofit building is called 'ZNE ready'. By installing rooftop photovoltaics (PV) systems together with energy storage devices, a building can be converted to 'ZNE'. Smart meter data collected from 5000 buildings at 30-minute resolution in 2016 are used as the baseline energy consumption. To create 'ZNE ready' load profiles, water heater and air conditioning loads are first separated from the total building energy consumption so they can be replaced by energy efficient water heaters and air conditioner load profiles. To create 'ZNE' load profiles, the size of the PV system is calculated and the PV outputs are subtracted from the 'ZNE ready' load profile. By studying the power flow changes before and after ZNE technology is implemented, impacts of ZNE buildings on customer payments and on distribution system operation are quantified using the actual feeder topology and network data in Duke Energy North Carolina service areas."
+}

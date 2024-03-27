@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164287727,
+    "Title": "Real-Time predictive management of a multi-unit HVAC system based on heuristic optimization. A health center case study",
+    "Author": "Schierloh R.M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-09-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113315",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad Tecnologica Nacional",
+    "Affliation Country": "Argentina",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems have a high energy consumption, so their control and management strategies have an important role today to improve the efficiency and reduce cost of power systems. This work proposes an optimal real-time management scheme for multi-units HVAC systems based on a predictive control that seeks to maximize thermal comfort while minimizing electric energy cost, applicable to multi-zone buildings and useful for low-cost implementations. The optimization problem is formulated to be solved with a heuristic approach using simple variable prediction models of outdoor temperature, room occupancy and load demand, developed using level reconciliation with average profiles. The scheme is applied to the study case of a radiotherapy and medical imaging center HVAC system, in Argentina. The performance of the strategy is evaluated using variable prediction models (real forecasting), perfect prediction (ideal forecasting), and different prediction horizons (of 1, 2 and 3 h) for the predictive controller. Additionally, the strategy is compared against an improved on–off control by temperature bands with and without peak clipping, showing that the proposed strategy improves the thermal comfort (up to 47 %) and achieves a low electrical cost, particularly compared to the strategy without peak clipping (23 % decrease)."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073937236,
+    "Title": "Bringing energy efficiency for hospital building through the conservative and preventive measures",
+    "Author": "Reddy S.",
+    "Journal": "International Journal of Innovative Technology and Exploring Engineering",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.35940/ijitee.L2470.1081219",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Symbiosis International (Deemed University)",
+    "Affliation Country": "India",
+    "Cited by count": 7,
+    "Abstract": "The energy consumption of hospital buildings, have increased due to embedment of sophisticated equipment pertaining to advent of technology. Factors affecting energy consumptions are air quality monitoring, high maintenance of sophisticated machineries, accurate sanitization of premises, high load of patients to doctor ratio in India which is 1596:1 as compared to regulation of 1000:1 prescribed by World Health Organization (WHO). Confederation of Indian Industry (CII) reported that nearly 60% of health care services and hospitals do not meet the minimum of Energy Performance Index (EPI) criteria. Energy Conservation Building Code (ECBC) of India shows that hospitals in India have a potential to achieve 42% energy saving by implementing energy efficient measures. Hence, there is a dire need to assess the parameters contributing to heavy energy consumption and the conservative and preventive measures need to be addressed. Literature indicates incorporation of efficient domestic water heating techniques, boilers, usage of renewable energies, thermal insulation improvement, optimal building design, improvement of air conditioning and heating systems, optimizing electric energy installations etc as possible techniques for achieving energy efficiency. A compile of best practices proposed from literature as compared to the regulations made by ECBC, CII, MEDA, and GBC (Green building council) is made in this paper. HVAC being the highest contributing system for energy consumption, IoT based working models are prepared and proposed for application; suitability of adoption of the system is discussed."
+}

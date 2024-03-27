@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149218352,
+    "Title": "Bayesian Optimization Framework for HVAC System Control",
+    "Author": "Lin X.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13020314",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Inc",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "The use of machine-learning algorithms in optimizing the energy efficiency of HVAC systems has been widely studied in recent years. Previous research has focused mainly on data-driven model predictive controls and reinforcement learning. Both approaches require a large amount of online interactive data; therefore, they are not efficient and stable enough for large-scale practical applications. In this paper, a Bayesian optimization framework for HVAC control has been proposed to achieve near-optimal control performance while also maintaining high efficiency and stability, which would allow it to be implemented in a large number of projects to obtain large-scale benefits. The proposed framework includes the following: (1) a method for modeling HVAC control problems as contexture Bayesian optimization problems and a technology for automatically constructing Bayesian optimization samples, which are based on time series raw trending data; (2) a Gaussian process regression surrogate model for the objective function of optimization; (3) a Bayesian optimization control loop, optimized for the characteristics of HVAC system controls, including an additional exploration trick based on noise estimation and a mechanism to ensure constraint satisfaction. The performance of the proposed framework was evaluated by using a simulation system, which was calibrated by using trending data from a real data center. The results of our study showed that the proposed approach achieved more than a 10% increase in energy-efficiency savings within a few weeks of optimization time compared with the original building automation control."
+}

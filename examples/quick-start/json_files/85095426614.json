@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095426614,
+    "Title": "Identifying models of HVAC systems using ARIMAX",
+    "Author": "Feng F.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "In recent years, Model Predictive Control (MPC) has received a lot of attention for controls of HVAC systems because of significant improvement of the energy efficiency while respecting occupant comfort. MPC relies on dynamic models of building and HVAC systems to predict the system states for a specified time horizon and then applies optimisation algorithms to minimise the cost functions. This paper presents the procedures of implementing ARIMAX model to develop control-oriented models for the thermal zones in buildings."
+}

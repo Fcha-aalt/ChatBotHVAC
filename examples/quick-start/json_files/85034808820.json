@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034808820,
+    "Title": "Work-in-progress: Driving behavior modeling and estimation for batery optimization in electric vehicles",
+    "Author": "Vatanpavar K.",
+    "Journal": "Proceedings of the 12th IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis Companion, CODES 2017",
+    "Publication Date": {
+        "$date": "2017-10-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1145/3125502.3125542",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Henry Samueli School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Battery and energy management methodologies such as automotive climate controls have been proposed to address the design challenges of driving range and battery lifetime in Electric Vehicles (EV). However, driving behavior estimation is a major factor neglected in these methodologies. In this paper, we propose a novel context-aware methodology for estimating the driving behavior in terms of future vehicle speeds that will be integrated into the EV battery optimization. We implement a driving behavior model using a variation of Artificial Neural Networks (ANN) called Nonlinear AutoRegressive model with eXogenous inputs (NARX). We train our novel context-aware NARX model based on historical behavior of real drivers, their recent driving reactions, and the route average speed retrieved from Google Maps in order to enable driver-specifiic and self-adaptive driving behavior modeling and long-term estimation. Our methodology shows only 12% error for up to 30-second speed prediction which is improved by 27% compared to the state-of-the-art. Hence, it can achieve up to 82% of the maximum energy saving and battery lifetime improvement possible by the ideal methodology where the future vehicle speed is known."
+}

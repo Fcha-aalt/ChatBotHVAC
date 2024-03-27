@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140474178,
+    "Title": "Enhancing the Building's Energy Performance through Building Information Modelling—A Review",
+    "Author": "Shah D.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-2145-2_20",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Pandit Deendayal Energy University",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "Building Information Modelling (BIM) is a technique that facilitates the Architect, Engineering, Construction, and Operation (AECO) practitioners to model the building with detailed information in the early design phase. BIM is increasingly in demand as it provides a reliable platform for deciding the life cycle of a building at any time. We can say that BIM is the process of building a building twice. In the planning phase, the building is created in the virtual environment. All the procurement management phases, i.e., planning, building, scheduling, costing, operating and managing are simulated. The operation phase of any building has different aspects such as locating building components, facilitating real-time data access, space management, energy management, demolition and renovation. This paper focuses on the energy management segment. With ongoing increases in energy costs, rising climatic consequences and updating building guidelines worldwide, AECO practitioners progressively have to consider the building’s energy performance while planning. The buildings’ energy utilization pattern depends upon various factors like daylight, HVAC system, location, orientation, resident’s behaviour, building material and weather. Current energy analysis systems are satisfactory up to limited levels; hence, there is a need for more efficient energy simulation systems. BIM-integrated energy simulation techniques can play a crucial role in efficiently analysing the building’s performance and enhancing it. These methods are termed as Building Energy Modelling (BEM). Different BEM tools work based on input data and considerations, significantly affecting a particular tool's capacity. In this paper, different techniques are discussed accordingly. The energy modelling process is carried out by transferring the building data to a BEM tool in an acceptable file format. This research provides deep insights into the advantages and disadvantages of various methods that contribute to future research and development of advanced methods and software programs."
+}

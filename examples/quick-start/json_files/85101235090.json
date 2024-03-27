@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101235090,
+    "Title": "SIMULATION of VENTILATION FLOW at DIFFERENT CONDITIONS through A TWO-DIMENSIONAL ROOM INCORPORATED with PHASE CHANGE MATERIALS",
+    "Author": "Reyes-Cubas A.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1115/IMECE2020-23407",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Technology Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 1,
+    "Abstract": "Climate change and global warming have raised many concerns, highlighting the necessity to reduce energy consumption associated with the building sector. HVAC systems account to almost 40% of the building's energy consumption. Natural ventilation is the process of supplying and removing air through an indoor space by natural means. Windcatchers have been used over centuries for providing natural ventilation using wind power. Moreover, it is an effective passive method to provide healthy and comfortable indoor environment by decreasing moisture content in the air and reducing pollutants concentration significantly. Materials that change phase at certain temperature are frequently referred to as Phase Change Materials (PCMs). Phase Change Materials, also known as Thermal Energy Storage (TES), are substances with high latent heat storage capacity which absorb or release the heat from or to the surrounding environment. PCMs could be used in passive cooling systems and they are directly related to building energy efficiency. This study investigates air flow through a windcatcher into a two-dimensional room incorporated with phase change materials (PCMs). The temperature change in the room implementing PCM is analyzed to monitor the PCMs' performance. To achieve this, Computational Fluid Dynamics (CFD) tool is used to simulate the air flow through a twodimensional standard room (3 m x 5 m) fitted with a windcatcher at its roof. Ansys Fluent is utilized to simulate and display the contours of temperature, liquid fraction, and velocity of both PCM and air. The energy model as well as the solidification and melting model are employed, and the KEpsilon turbulence model is implemented. PCM is placed at the right and left walls of the room, as well as at its bottom. The inlet velocity ranges between 1 m/s and 7 m/s, simulating the average wind speeds in Sydney-Australia during summer [1]. Different inlet temperatures are used, specifically at 302 K and 310 K. The effect of the phase change material presence on the air flow pattern is also investigated."
+}

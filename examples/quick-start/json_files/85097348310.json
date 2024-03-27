@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097348310,
+    "Title": "Fuzzy Based Particle Swarm Optimization for Modeling Home Appliances towards Energy Saving and Cost Reduction under Demand Response Consideration",
+    "Author": "Parvin K.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ACCESS.2020.3039965",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universiti Tenaga Nasional",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 27,
+    "Abstract": "Recently, homes consume around 40% of world power and produce 21% of the total greenhouse gas emissions. Thus, the proper management of energy in the domestic sector is a vital element for creating a sustainable environment and cost reduction. In this study, an intelligent home energy management system (HEMS) is developed to control domestic appliances load. The motivation of this work is reduced the electricity cost and power consumption from all the appliances by maintaining the customer's high comfort level using an efficient optimized controller. The domestic household appliances such as heating ventilation and air conditioning (HVAC), electric water heater (EWH) and lighting were modelled and analysed using Simulink/Matlab. The developed models analysed the appliances' energy consumption and cost sceneries during peak, off-peak and both peak and off-peak hours. Fuzzy logic controller (FLC) was developed for the HEMS to perform energy utilization estimation and cost analysis during these periods taking the Malaysian tariff for domestic use into consideration. To improve the FLC outcomes and the membership function constraint, particle swarm optimization (PSO) is developed to ensure an optimal cost and power consumption. The results showed that the developed FLC controller minimized the cost and energy consumption for peak period by 19.72% and 20.34%, 26.71% and 26.67%, 37.5% and 33.33% for HVAC, EWH, and dimmable lamps, respectively. To validate the optimal performance, the obtained results shows that the FLC-PSO can control the home appliances more significantly compared to FLC only. In this regard, the FLC-PSO based optimum scheduled controller for the HEMS minimized power and cost by 36.17%-36.54%, 54.54%-55.76%, and 62.5%-58% per day for HVAC, EWH, and light, respectively. In sum, the PSO shows good performance to reduce the cost and power consumption toward efficient HEMS. Thus, the developed fuzzy-based heuristic optimized controller of HEMS is beneficial towards sustainable energy utilization."
+}

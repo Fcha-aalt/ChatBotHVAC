@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130511649,
+    "Title": "Decision-Making Model for Energy Efficiency with Building Envelope Design",
+    "Author": "Kaur J.",
+    "Journal": "ECS Transactions",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1149/10701.10449ecst",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "SPA",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "A building envelope, comprising of Opaque (Walls, Roofs, basement walls) and Transparent (Fenestrations) components, acts as physical barrier in preventing the ingress and impact of harsh outdoor climatic conditions on indoor comfort levels, which are mostly maintained by means of HVAC systems accounting for almost 55% of total energy consumption in a typical office building in India. These buildings show a potential energy reduction from 20% to 50% with efficient designs, which involve decisions related to parameters of envelope Form, Orientation, Windows, Shading and Materials. Since high solar radiation remains major concern for 2/3rd part of year in composite climate, therefore envelope design in this climate requires logical values for design parameters, instead of thumb rules. The aim of this paper is to bring out quantified energy efficiency potential of individual and combinations of design parameters, and to present results in the form of hand-held model offering choice of decisions."
+}

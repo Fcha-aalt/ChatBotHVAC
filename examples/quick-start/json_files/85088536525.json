@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088536525,
+    "Title": "MARCO - Multi-Agent Reinforcement learning based COntrol of building HVAC systems",
+    "Author": "Nagarathinam S.",
+    "Journal": "e-Energy 2020 - Proceedings of the 11th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2020-06-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3396851.3397694",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indian Institute of Technology Madras",
+    "Affliation Country": "India",
+    "Cited by count": 36,
+    "Abstract": "Optimal control of building heating, ventilation, air-conditioning (HVAC) equipment has typically been based on rules and model-based predictive control (MPC). Challenges in developing accurate models of buildings render these approaches sub-optimal and unstable in real-life operations. Model-free Deep Reinforcement Learning (DRL) approaches have been proposed very recently to address this. However, existing works on DRL for HVAC suffer from some limitations. First, they consider buildings with few HVAC units, thus leaving open the question of scale. Second, they consider only air-side control of air-handling-units (AHUs) without taking into the water-side chiller control, though chillers account for a significant portion of HVAC energy. Third, they use a single learning agent that adjusts multiple set-points of the HVAC system. We present MARCO - Multi-Agent Reinforcement learning COntrol for HVACs that addresses these challenges. Our approach achieves scale by transfer of learning across HVAC sub-systems. MARCO uses separate DRL agents that control both the AHUs and chillers to jointly optimize HVAC operations. We train and evaluate MARCO on a simulation environment with real-world configurations. We show that MARCO performs better than the as-is HVAC control strategy. We find that MARCO achieves performance comparable to an MPC Oracle that has perfect system knowledge; and better than MPC suffering from systemic calibration uncertainties. Other key findings from our evaluation studies include the following: 1) distributed agents perform significantly better than a central agent for HVAC control; 2) cooperative agents improve over competing agents; and 3) domain knowledge can be exploited to reduce the training time significantly."
+}

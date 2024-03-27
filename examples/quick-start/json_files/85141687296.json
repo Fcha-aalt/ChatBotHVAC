@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141687296,
+    "Title": "MODELLING AND OPTIMIZATION OF A HOSPITAL GAS TURBINE-BASED COGENERATION SYSTEM",
+    "Author": "Zini M.",
+    "Journal": "Proceedings of the ASME Turbo Expo",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/GT2022-80828",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Firenze",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "Hospitals are among the most energy-intensive commercial buildings in the service industry and their energy demand is characterized by specific features, being operative 24 hours a day, 365 days a year. Moreover, several activities performed inside the building require strict control of the indoor climate conditions to ensure comfort and security standards. Often, they present complex HVAC systems that need various energy forms like electricity and thermal energy in the form of hot water, chilled water and steam. Consequently, hospitals and healthcare facilities are ideal application to exploit the cogeneration systems potential. Indeed, the number of hospitals using CHP systems has grown steadily in past years. Hospitals that use CHP take advantage of favourable rate structures and protect themselves from rising electricity prices. Since CHP uses waste heat to produce thermal energy for heating and cooling, hospitals using CHP systems are more energy-efficient, leading also to a reduction of the global emissions connected to the hospital activity. The present study involves the development of a numerical model of the gas turbine-based cogeneration system installed in a hospital facility. The realized model has been used to define the system management strategies that enabled two achievements. The minimization of the main global emissions parameters of the system as CO and NOx and the maximization of operational CHP parameters as total efficiency and primary energy saving (PES). The present work describes in detail the realized model and its exploitation, leading to define the optimal system management strategy based on control parameters applicable to the real test case management system."
+}

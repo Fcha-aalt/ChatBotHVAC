@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099584844,
+    "Title": "Interval-valued features based machine learning technique for fault detection and diagnosis of uncertain HVAC systems",
+    "Author": "Gharsellaoui S.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ACCESS.2020.3019365",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Texas A&amp;M University at Qatar",
+    "Affliation Country": "Qatar",
+    "Cited by count": 14,
+    "Abstract": "The operation of heating, ventilation, and air conditioning (HVAC) systems is usually disturbed by many uncertainties such as measurement errors, noise, as well as temperature. Thus, this paper proposes a new multiscale interval principal component analysis (MSIPCA)-based machine learning (ML) technique for fault detection and diagnosis (FDD) of uncertain HVAC systems. The main goal of the developed MSIPCA-ML approach is to enhance the diagnosis performance, improve the indoor environment quality, and minimize the energy consumption in uncertain building systems. The model uncertainty is addressed by considering the interval-valued data representation. The performance of the proposed FDD is investigated using sets of synthetic and emulated data extracted under different operating conditions. The presented results confirm the high-efficiency of the developed technique in monitoring uncertain HVAC systems due to the high diagnosis capabilities of the interval feature-based support vector machines and k-nearest neighbors and their ability to distinguish between the different operating modes of the HVAC system."
+}

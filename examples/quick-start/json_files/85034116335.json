@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034116335,
+    "Title": "Simplified daily models for estimating energy consumption impacts of changing office building ventilation rates",
+    "Author": "Ben-David T.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2017.11.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "This work presents simplified daily energy models to predict changes in office building electricity and natural gas energy consumption due to changes in the ventilation rate. The models provide day-resolved estimates based on 21 building and weather condition inputs. They use a “gray box” approach, with their functional form derived from physical principles of heat transfer and energy conservation, but with the values of 13 model coefficients estimated empirically. The training data was taken from 15,000 detailed office building simulations, comprising a dataset designed statistically represent the U.S. office sector in terms of location, building size, and building characteristics, and providing 3.78 million day-resolved data points. For electricity and natural gas energy consumption, the model fits resulted in R2 = 0.89 and R2 = 0.95, respectively. A case study in New York City indicated that the simplified models are useful screening tools for evaluating the energy implications of increasing ventilation rates, which can be desirable, for example, for enhancing workforce productivity in high performance buildings."
+}

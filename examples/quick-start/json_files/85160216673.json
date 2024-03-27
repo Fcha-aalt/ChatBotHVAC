@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160216673,
+    "Title": "Development of a sustainability matrix for plant selection &amp; analysis of the use of landscaping to promote energy efficiency and thermal comfort in the built environment",
+    "Author": "Gooroochurn M.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-05-05T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1063/5.0127978",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Mauritius",
+    "Affliation Country": "Mauritius",
+    "Cited by count": 0,
+    "Abstract": "Due to the progressive rate of urbanization, green spaces are being reduced in built environments. In a survey carried out by the Ministry of Finance and Economic Development of Mauritius in 2018, the number of houses was reported to be around 311,500 and this number has since increased and will continue to do so at the expense of green areas. The compound effect of the heat island effect caused by hardscapes and global warming due to GHG emissions has led to increased installation and use of air-conditioning during the summer period and this has had a negative impact on the grid and the micro-climates around buildings. Action is needed to limit, if not reverse, the negative impact built-up areas are having, through a conscious and committed attempt to restore the characteristics of the ecosystem existing prior to the construction, and it is no secret that this can be done by combining landscaping with built-up areas. Studies conducted in various countries have shown that the use of trees in cities and towns have been very beneficial for the residents in providing an improvement in air quality and thermal comfort. The foliage of trees helps to decrease ambient temperature by evapotranspiration from the leaves and they provide shading for built-up surfaces. Moreover, the shortwave radiation from the atmosphere are absorbed by the leaves as part of the photosynthesis process. Given the tropical climate of Mauritius, landscaping can play a big part in achieving a comfortable indoor environment with minimal use of active HVAC systems. This paper presents the development of a sustainability matrix to guide in the selection of plant species for building projects, which is applied for the tropical climate of Mauritius. A list of plants that can reach maturity within three years maximum was selected, and representative tree was modelled on the Albero module of Envi-Met® software and simulated in Designbuilder® to quantify the reduction in cooling load and improvement in thermal comfort. The simulations were run for various orientations to understand and quantify the heat dynamics involved., for which a layout with a 3x3 array of spaces was developed. The results obtained provided interesting insights on the implication of trees for different contexts of building interior spaces. The contribution of heat gains through flat roofs was subsequently simulated and the benefit of using a green roof combined with surrounding trees was investigated. This allowed to recommend measures in order of priority to deal with layouts dictated by practical constraints such as plot geometry, which does not represent a necessarily optimum scenario from a thermal comfort and building energy performance perspective."
+}

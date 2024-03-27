@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048159496,
+    "Title": "How outdoor microclimate mitigation affects building thermal-energy performance: A new design-stage method for energy saving in residential near-zero energy settlements in Italy",
+    "Author": "Castaldo V.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2018-11-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.renene.2018.04.090",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Perugia",
+    "Affliation Country": "Italy",
+    "Cited by count": 67,
+    "Abstract": "Key research effort was dedicated toward zero-energy buildings. Recent interest is switching from single-building to inter-building scale, to enhance the whole district economic-environmental sustainability. This upscaling opens the doors to further optimization strategies thanks to outdoor microclimate mitigation aimed at reducing winter thermal losses and summer overheating. This work proposes a novel design-stage replicable method for multiscale microclimate improvement correlated to building thermal-energy analysis in a residential near-zero-energy district in central Italy. Cool surface installation and conscious greenery design in the outdoors were used in the district of single-family houses. Therefore, a microclimate simulation was performed to elaborate realistic weather files to be used in the second-stage dynamic thermal-energy simulation at building level, in order to evaluate the impact of the local microclimate on building thermal-energy performance and renewables’ production. Microclimate analysis demonstrated how local conditions affect outdoor comfort and that they may be considered in the same way as traditional energy-efficiency improvement early-stage design strategies at building scale, being able to reduce building energy need for HVAC up to 10% in the studied conditions. Therefore, new potentialities of inter-building scale analyses for energy efficiency enhancement and renewable energy exploitation are expected while downscaling microclimate assessment toward building thermal-energy performance."
+}

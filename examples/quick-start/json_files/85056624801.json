@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056624801,
+    "Title": "Fusing TensorFlow with building energy simulation for intelligent energy management in smart cities",
+    "Author": "Vázquez-Canteli J.R.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.scs.2018.11.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Cockrell School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 135,
+    "Abstract": "Buildings account for 35% of the global final energy demand. Efficiency improvements and advanced control strategies have a significant impact in the reduction of energy costs and CO2 emissions. Building energy simulation is widely used to help planners, contractors, and building owners analyse diverse options regarding the planning and management of energy consumption in buildings. Furthermore, recent advances in data processing and computing have led to the development of sophisticated machine learning algorithms that can learn from large datasets, e.g., sensor data from buildings, and use them to develop building-specific adaptive and automatic energy controllers. Control algorithms, such as deep reinforcement learning can tune themselves, are model-free, and economical to implement. In this paper, we introduce an integrated simulation environment that combines CitySim, a fast building energy simulator, and TensorFlow, a platform for efficient implementation of advanced machine learning algorithms. The integration is achieved via Keras—an API for TensorFlow—and a set of text and csv files for data transfer between the applications. This new environment will allow researchers to investigate novel learning control algorithms, and demonstrate their robustness and potential for diverse applications in the built environment. We present two case studies for energy savings and demand response, respectively."
+}

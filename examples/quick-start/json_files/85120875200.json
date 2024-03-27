@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120875200,
+    "Title": "Distributed Optimal Control for HVAC Systems Adopting Edge Computing - Strategy, Implementation, and Experimental Validation",
+    "Author": "Su B.",
+    "Journal": "IEEE Internet of Things Journal",
+    "Publication Date": {
+        "$date": "2022-07-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/JIOT.2021.3132033",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 1,
+    "Abstract": "Internet of Things (IoT) has found increasing applications in industry, including the building automation field. Edge computing, a distributed computing paradigm using the computing resources of edge devices that are close to the sources of data, is an effective means for dealing with the network traffic caused by the centralized structure and rapid growth of IoT devices. This article proposes a distributed optimal control strategy for building heating, ventilation, and air conditioning systems adopting edge computing. The proposed distributed optimal control strategy is designed for the deployment on the smart sensor nodes in the IoT-enabled field control networks of building automation systems. A complex optimization task with high computational complexity is decomposed into several simple tasks, which can be handled by coordinating the agents implemented on the sensor nodes. In this manner, the computing resources of smart sensors are used collectively to optimize the subsystem operation locally. Compared with centralized optimal control strategies, the distributed form of the proposed strategy allows better generality and flexibility. A hardware-in-the-loop simulator is constructed as a realistic test environment for real control devices. Being implemented on a wireless IoT sensor network integrated in the simulator, the applicability and the performance of the proposed strategy are validated and evaluated. The experience and test results show that the IoT sensing network has the capacity to implement the distributed optimal control strategy and handle the decomposed optimization tasks effectively. The energy performance of the proposed distributed optimal control strategy is almost the same as that of the perfect solutions."
+}

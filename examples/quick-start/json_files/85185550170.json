@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185550170,
+    "Title": "Data-Driven Control for a Building Heating System",
+    "Author": "Afsharardekani F.",
+    "Journal": "11th RSI International Conference on Robotics and Mechatronics, ICRoM 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICRoM60803.2023.10412388",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sharif University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 0,
+    "Abstract": "One of the crucial ways to reduce the energy costs of buildings is to improve the energy efficiency of HVAC systems. Heating, Ventilation, and Air Conditioning (HVAC) systems are used to regulate the heating and cooling within a building. Controlling these systems is of great importance due to their significant energy consumption. Various control methods have demonstrated the potential for substantial savings in building operation costs. In this paper, we apply a Model Predictive Controller (MPC) to optimize control actions. MPC offers numerous opportunities to enhance energy efficiency in HVAC system operation, as it can consider constraints, predict disturbances, and balance multiple conflicting objectives, such as reducing building energy consumption while maintaining indoor thermal comfort. To implement MPC effectively, an appropriate model is required, and data-driven approaches have proven to be more practical and computationally efficient for modeling. In this study, we utilize Multiple Linear Regression (MLR) as a subset of the data-driven approach for system modeling. When compared to Rule-Based controllers (RBC), our proposed method demonstrates a significant reduction in energy consumption, with savings of up to 17%."
+}

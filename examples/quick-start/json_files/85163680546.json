@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163680546,
+    "Title": "Assessment of Dynamic Photovoltaic Shading Systems on Energy Performance of Commercial Buildings",
+    "Author": "Alwelayti D.",
+    "Journal": "Journal of Engineering for Sustainable Buildings and Cities",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/1.4056394",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In this paper, the energy benefits of dynamic photovoltaic (PV)-integrated overhang systems are evaluated for office buildings. The benefits of dynamic PV-integrated overhangs combined energy efficiency by decreasing both heating and cooling energy demand and on-site renewable power generation by deploying tracking PV panels. The energy performance of dynamic PV-integrated overhangs is considered for various design and operation conditions. Specifically, the impacts of various design features are considered such as overhang depth, window size, glazing type, and heating, ventilation, and air conditioning (HVAC) system type. Moreover, the effects of operating conditions are assessed including the location of the building and the control strategy of the dynamic PV-integrated systems such as load-tracking, demand-tracking, and PV-tracking. The results of the various analyses indicate that the heating and cooling energy demands of the dynamic overhangs are mostly affected by the window glazing type and window overhang depths. The analysis shows that the use of demand-tracking maximizes the energy performance of the dynamic PV-integrated overhangs when deployed to US office buildings."
+}

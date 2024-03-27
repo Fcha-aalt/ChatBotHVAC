@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85162953239,
+    "Title": "Squaring and lowpass filtering data-driven technique for AC faults in AC/DC lines",
+    "Author": "Mehdi A.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.epsr.2023.109581",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sungkyunkwan University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "Transient events that result from the incorporation of HVDC into the HVAC power transmission system make fault identification a difficult task. To minimize transient power outages, anomalies must be identified and categorized as quickly as feasible using robust schemes. In the proposed scheme, the multi-classification of AC faults in hybrid transmission lines is performed. A neural network has been employed for the correct recognition and classification of AC faults. The proposed scheme initially uses squaring and lowpass filtering techniques along with, transient energy, negative sequence of voltage, and current as features to pre-process the fault voltage and current signals. The extracted features are then used to form the neural network's input for training and testing. We performed a complete assessment study on the developed AC/DC test system employing MATLAB/Simulink software to ensure the stability and reliability of the presented technique. The technique is verified under noise-added data and compared with other schemes to ensure efficacy. The test result shows that the proposed technique has successfully classified the AC faults with an accuracy of 99.3% in AC/DC transmission lines."
+}

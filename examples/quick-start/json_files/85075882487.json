@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075882487,
+    "Title": "Predictive chiller operation: A data-driven loading and scheduling approach",
+    "Author": "Sala-Cardoso E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109639",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 27,
+    "Abstract": "The proper sequencing and optimal loading of chillers is one of the major avenues for energy efficiency improvement in existing heating, ventilating and air conditioning installations. The main enabler for the success of such applications is the access to accurate chiller performance maps that allow to operate the equipment in optimal conditions. However, current solutions are excessively reliant on maps obtained through suboptimal means, such as manufacturer datasheets, extensive instrumentation campaigns or burdensome modelling and simulation methodologies. Furthermore, recent studies show that strategies based on model-predictive control may lead to increased savings by anticipating the future cooling demand and scheduling the operation of the chillers, selecting the optimal operation configuration and extending the remaining life by reducing switching. In this regard, this study presents a novel data-driven and multi-criteria chiller orchestration strategy that combines a chiller performance characterization stage for obtaining performance maps based on a neural network-based learning methodology and a state-of-the-art hybrid load forecasting scheme for calculating the future load profiles. The effectiveness of the proposed methodology is tested with experimental data from a multi-chiller installation in a tertiary sector building, where nearly a 20% average performance increase is achieved compared to the standard real-time controller of the HVAC installation."
+}

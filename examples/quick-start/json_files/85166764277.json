@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85166764277,
+    "Title": "Averaging Thermal Dynamics for Nearly-optimal and Adaptive Energy Management of Multi-zone Homes",
+    "Author": "Chen X.",
+    "Journal": "IEEE Transactions on Consumer Electronics",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TCE.2023.3300883",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Managing Heating, Ventilation and Air-Conditioning (HVAC) optimally with respect to energy efficiency and adaptively with respect to uncertainties is a recognized bottleneck for multi-zone buildings. This work proposes a management approach where HVAC operation is approximated using averaged thermal dynamics. By doing this, energy management becomes effective due to the linear form of the averaged dynamics, making it possible to use optimal and adaptive control tools. The proposed approach exhibits favorable features for implementation in energy management programs: minimal parameters to be estimated (only those directly related to the thermal coefficients); preservation of the distributed multi-zone topology (only the thermal coefficients with neighboring rooms need to be estimated); simplicity of imposing positivity and controllability properties. Optimality and adaptation are studied analytically in the framework of adaptive linear quadratic control. Numerical validations show that the proposed approach strikes optimal trade-offs between energy consumption and thermal comfort, while handling unknown and possibly time-varying parameters. Improved trade-offs span 3-12% with respect to PID control, 14-47% with respect to non-adaptive control, and 1-20% with respect to alternative adaptation methods proposed in the literature."
+}

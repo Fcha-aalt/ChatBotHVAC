@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095109857,
+    "Title": "An event-driven approach for changing user behaviour towards an enhanced building’s energy efficiency",
+    "Author": "Yfanti S.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/buildings10100183",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hellenic Mediterranean University",
+    "Affliation Country": "Greece",
+    "Cited by count": 5,
+    "Abstract": "Worldwide, buildings are one of the main energy consumers and the improvement of their energy performance has attracted great interest and has been typically related to the optimisation, both design and operational, of Heating, Ventilation, and Air Conditioning (HVAC), lighting and DHW systems, to innovation in building materials, as well as to the integration of renewable technology in buildings. More recently, occupant behaviour has received increasing attention. Occupants’ interactions with the building systems influence their energy consumption in diverse ways. Their behaviour may affect energy use just as the systems and materials may do. Researchers identified and highlighted various aspects of this occupant behaviour and were gradually led to the conclusion that its effect might be worth investigating. This study has a twofold aim. First, to present a general conceptual framework to define, monitor and eventually change user behaviour in buildings. This framework is called “event-driven”; events are distinct moments in time associated with a potentially problematic behaviour, and the framework aims at tracking, acting upon and reporting on these events. Second, we aim to demonstrate and discuss the application and the savings achieved by means of our proposed approach and in the case of such behavioural events, in the Challenger building of Bouygues, in France."
+}

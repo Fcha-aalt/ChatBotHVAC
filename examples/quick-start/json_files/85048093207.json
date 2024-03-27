@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048093207,
+    "Title": "Historical buildings in protected areas in Italy: A re-design study of a rural building",
+    "Author": "Cellura M.",
+    "Journal": "Building Simulation Applications",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Palermo",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Historic and traditional buildings, including rural ones, are a territorial resource in Europe and constitute an integral part of the European cultural heritage. However they are often characterized by poor energy performance and a large potential for energy retrofit actions. On the other hand, the hardest part in retrofitting such buildings is the limited invasiveness that such actions need to have on the historical and heritage value of the building itself. The paper describes an experience of re-design of an existing rural building located in Sicily, inside the ancient Greek Valley of the Temples. An energy audit was performed on the building, its energy uses thoroughly investigated. A building model was developed in the TRNSYS environment and its performances validated. The validated model was used for redesign studies aimed towards the improvement of the energy performances of the building in compliance with the legislation. The best performing solutions to be applied to a case-study like the Sanfilippo House are those regarding the management of the building, as in the case of the natural ventilation and the HVAC setpoints that would allow a large impact (up to a 10 % reduction in energy uses) on the energy performances of the building with no invasiveness, and those with very limited invasiveness and high impact on the energy efficiency of the building, as in the lighting scenario (up to 30 % energy use reduction). The most invasive actions can only be justified in case of high energy savings as with the insulation of the roof, otherwise they should be disregarded."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179650979,
+    "Title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
+    "Author": "Xiong R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.buildenv.2023.111053",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems in large-scale buildings often struggle to ensure satisfactory thermal comfort for diverse occupants while minimizing energy waste. Achieving this goal requires developing reliable prediction models that capture the changing and varied occupant thermal perceptions in different spaces. Despite their widespread use, many machine learning (ML) based prediction models suffer from subjective data biases and model predictive uncertainties, causing inaccurate estimation for occupant needs and leading to suboptimal building controls. The authors propose a data-model integration method that identifies and calibrates the inherent uncertainties of existing ML models in both data and model dimensions, ensuring reliable thermal perception predictions. This method introduces the Multidimensional Association Rule Mining (M-ARM) algorithm to identify biased human responses by exploring interrelationships among four perception metrics: thermal sensation, comfort, acceptability, and preference. Our method reveals significant performance enhancements in seven ML models, enhancing the F1-score by up to 5.53%. By leveraging reliability diagrams and Expected Calibration Error (ECE) scores, we also expose the models’ vulnerability to miscalibration and the need for calibrated predictions. We further evaluate six calibration techniques (e.g., Platt Scaling and Isotonic Calibration) on these models and uncover their potential to enhance prediction reliability performance, highlighting a reduction of up to 80.66% in ECE scores. The authors also investigated the impacts of dataset sizes, classifiers, and calibration methods on the proposed method. Our research offers insight into creating robust data-driven strategies for thermal perception predictions, ultimately contributing to optimized occupant comfort and energy efficiency in buildings."
+}

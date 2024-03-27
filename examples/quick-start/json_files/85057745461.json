@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057745461,
+    "Title": "Inverted HVAC: Greenifying older buildings, one room at a time",
+    "Author": "Abbas S.",
+    "Journal": "ACM Transactions on Sensor Networks",
+    "Publication Date": {
+        "$date": "2018-11-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3229063",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lahore University of Management Sciences",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 4,
+    "Abstract": "Emerging countries predominantly rely on room-level air conditioning units (window ACs, space heaters, ceiling fans) for thermal comfort. These distributed units have manual, decentralized control leading to suboptimal energy usage for two reasons: excessive setpoints by individuals and inability to interleave different conditioning units for energy savings. We propose a novel inverted HVAC approach: cheaply retrofitting these distributed units with “on-off” control and providing centralized control augmented with room and environmental sensors. Our binary control approach exploits an understanding of device consumption characteristics and factors this into the control algorithms to reduce consumption. We implement this approach as Hawadaar in a prototype 180ft2 room to evaluate its efficacy over a 7-month period experiencing both hot and cold climates. Through a post analysis, we show that our on-off algorithms are not far from a theoretically optimal approach based on a priori information that precisely knows the optimal control points to minimize consumption. We collect enough evidence to plausibly scale our empirical evaluation, demonstrating countrywide benefits: with just 20% market penetration, Hawadaar can save up to 6% of electricity per capita in residential and commercial sectors-resulting in a substantial countrywide impact."
+}

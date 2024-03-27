@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097423298,
+    "Title": "Interpretable Deep Attention Model for Multivariate Time Series Prediction in Building Energy Systems",
+    "Author": "Gangopadhyay T.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-61725-7_13",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Iowa State University",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Multivariate time series prediction has important applications in the domain of energy-efficient building technology. With the buildings consuming large amounts of electrical energy, it is critical to reducing energy consumption and economic costs while ensuring a better quality of urban living standards. As sensor-actuator rich, smart buildings are becoming complex dynamic data-driven applications systems (DDDAS), accurate and interpretable data-driven decision-making tools can have immense value. In this context, we develop a novel deep learning model that can explicitly capture the temporal correlations through LSTM layers. The model can isolate the important timesteps in the input time series for prediction. Also, it is critical to identify the contributions of different variables in the multivariate input. Our proposed model based on attention mechanisms can simultaneously learn important timesteps and variables. We demonstrate the results using a public multivariate time series dataset collected from an air handling unit in a building heating, ventilation, and air-conditioning (HVAC) system. The model with enhanced interpretability does not compromise with the prediction accuracy. The interpretations are validated from a domain knowledge perspective."
+}

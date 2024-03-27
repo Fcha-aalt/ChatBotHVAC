@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057187206,
+    "Title": "Case study results: fault detection in air-handling units in buildings",
+    "Author": "Deshmukh S.",
+    "Journal": "Advances in Building Energy Research",
+    "Publication Date": {
+        "$date": "2020-07-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/17512549.2018.1545143",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "MIT School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 14,
+    "Abstract": "The building sector of the U.S. currently consumes over 40% of the U.S. primary energy supply. This paper presents analytical methods embodied within useful software tools to quickly identify and evaluate selected building system faults that cause large building energy inefficiencies. These contributions are particularly unique in their treatment of models and the careful consideration of user interests in fault evaluation. As a first step to developing this general framework for fault detection, first-order faults such as simultaneous heating and cooling and imbalanced airflows within several large air-handling units were targeted. Savings of around $22,500 were predicted when the fault of simultaneous heating and cooling occurred over an entire month in an air handler. An example of the potential energy savings in a large hospital that has been monitored. Yearly savings of around $24,000 were predicted by correcting the operation of the circulation pump in an air-handler heat recovery loop. User testing and experiments show that embracing uncertainty within HVAC fault detection and evaluation is not only paramount to judicious fault inference but it is also central to gaining the trust and buy-in of system users who ultimately can apply fault detection information to actually fix and improve building operations."
+}

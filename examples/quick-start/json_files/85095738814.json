@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095738814,
+    "Title": "The Effect of High Efficiency Building Technologies and PV Generation on the Energy Profiles for Typical US Residences",
+    "Author": "Jones E.S.",
+    "Journal": "9th International Conference on Renewable Energy Research and Applications, ICRERA 2020",
+    "Publication Date": {
+        "$date": "2020-09-27T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICRERA49962.2020.9242665",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Kentucky",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "The penetrations of high efficiency technologies and photovoltaic (PV) generation are increasing in the residential sector. Technologies such as improved insulation and efficient HVAC systems significantly affect the energy profile of a house. This effect varies due to climate characteristics, i.e. temperature, solar radiation, relative humidity, and wind speeds. The effect of other technologies, such as efficient water heaters, lighting, or kitchen appliances, is mainly governed by human behavior, which may be represented by a schedule. This paper studies the performance of both climate-influenced and scheduled household devices among different levels of efficiency through combined computational and experimental methods. Three houses were constructed by the Tennessee Valley Authority and were outfitted with robots that mimicked the occupation of a family. The houses represented three categories of residences, namely, typical builder, retrofit, and near net-zero-energy. With the energy and weather data collected from 2009 to 2014, a total of four house energy models were developed to account for equipment changes throughout the years. The studies performed using these models considered the behavior of the HVAC systems, PV system, and water heaters as well as climate effects."
+}

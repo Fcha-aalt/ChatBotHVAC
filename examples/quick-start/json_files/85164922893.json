@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164922893,
+    "Title": "Self-Powered Airflow Sensor Based on Energy Harvesting of Ventilation Air in Buildings",
+    "Author": "Chung M.H.",
+    "Journal": "Advanced Fiber Materials",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s42765-023-00308-1",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Institute of Energy Research",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems account for one-third of the total energy consumption in office buildings. The use of airflow measurements to control the operation of HVAC systems can reduce energy consumption; thus, a sensor capable of monitoring airflow in a duct system is critical. Triboelectric nanogenerators (TENGs) can be utilized as self-powered sensors in airflow-driven TENGs (ATENGs) as self-powered sensors. By employing ferroelectric materials and surface modifications, the surface charges of TENGs can be increased. In this study, fibrous-mat TENGs were prepared using ferroelectric materials consisting of poly (vinylidene fluoride-co-trifluoroethylene) (PVDF-TrFE) and polyamide 11 (nylon-11). And these materials were subsequently investigated. Poly (3,4-ethylenedioxythiophene):poly(styrenesulfonate) was added to PVDF-TrFE to enhance the ferroelectric crystalline phase. X-ray diffraction analysis revealed that this incorporation affects the β phase. In addition, the surface of nylon-11 was modified using the electrospray technique for post-treatment, thereby improving the interfacial adhesion between the fibers. These materials were then utilized in fibrous-mat ATENGs (FM-ATENGs) to demonstrate their practical application. The FM-ATENGs can be effectively used in an Arduino airflow-check sensor, showcasing their potential for application in HVAC systems, to enhance airflow control and energy efficiency. Graphical Abstract: [Figure not available: see fulltext.]."
+}

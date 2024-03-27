@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85080864999,
+    "Title": "Application of Deep Reinforcement Learning in Residential Preconditioning for Radiation Temperature",
+    "Author": "Morinibu T.",
+    "Journal": "Proceedings - 2019 8th International Congress on Advanced Applied Informatics, IIAI-AAI 2019",
+    "Publication Date": {
+        "$date": "2019-07-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/IIAI-AAI.2019.00120",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Daikin Industries, Ltd.",
+    "Affliation Country": "Japan",
+    "Cited by count": 2,
+    "Abstract": "In Heating, Ventilation, and Air Conditioning (HVAC) control, there are many studies to control air conditioners to improve comfort when people are present, but this paper proposes a method of pre-air conditioning. It is to control the radiant temperature of a room in advance by controlling wind directions of an air conditioner. It has been investigated how the fixed wind direction control of the air conditioner causes the radiation temperature non-uniformity in the room. Reinforcement learning is used as a method to solve it, the effectiveness of which has been verified in the residential environment. Here, thermography is adopted as a sensor for acquiring the state. The proposed method has reduced the nonuniformity of radiation temperature in the room more than the random and normal control. The feature of this study is that all learning and verifications are performed in a real environment, and image data is taken as an input value."
+}

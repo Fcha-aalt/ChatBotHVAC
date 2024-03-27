@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145867327,
+    "Title": "Modeling Liquid Thermal Conductivity of Low-GWP Refrigerants Using Neural Networks",
+    "Author": "Pierantozzi M.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/app13010260",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of G. d'Annunzio Chieti and Pescara",
+    "Affliation Country": "Italy",
+    "Cited by count": 3,
+    "Abstract": "The thermal conductivity of refrigerants is needed to optimize and design the main components of HVAC&R systems. Consequently, it is crucial to have reliable models that are able to accurately calculate the temperature and pressure dependence of the thermal conductivity of refrigerants. For the first time, this study presents a neural network specifically developed to calculate the liquid thermal conductivity of various low-GWP-based refrigerants. In detail, a feed-forward network algorithm with 5 input parameters (i.e., the reduced temperature, the critical pressure, the acentric factor, the molecular weight, and the reduced pressure) and 1 hidden layer was applied to a large dataset of 3404 experimental points for 7 halogenated alkene refrigerants. The results provided by the neural network algorithm were very satisfactory, achieving an absolute average relative deviation of 0.389% with a maximum absolute relative deviation of 6.074% over the entire dataset. In addition, the neural network ensured lower deviations between the experimental and calculated data than that produced using different literature models, proving its accuracy for the liquid thermal conductivity of the studied refrigerants."
+}

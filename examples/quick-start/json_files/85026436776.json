@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85026436776,
+    "Title": "An energy-efficient predictive control for HVAC systems applied to tertiary buildings based on regression techniques",
+    "Author": "Manjarres D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-10-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.07.056",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "TECNALIA",
+    "Affliation Country": "Spain",
+    "Cited by count": 50,
+    "Abstract": "Heating ventilation and air conditioning (HVAC) systems represent an important amount of the total energy use in office buildings, accounting for near 30%. Moreover, in countries affected by extreme climates HVAC systems’ contribution to energy demand increases up to 50%. Therefore, the automation of energy efficient strategies that act on the Building Energy Management System (BEMS) in order to improve building energy use becomes increasingly relevant. This paper delves into the devising of a novel HVAC optimization framework, coined as Next24h-Energy, which consists on a two-way communication system, an enhanced database management system and a set of machine learning algorithms based on random forest (RF) regression techniques mainly focused on providing an energy-efficient predictive control of the HVAC system. Therefore, the proposed framework achieves optimal HVAC ON/OFF and mechanical ventilation (MV) schedule operation that minimizes the energy consumption while keeps the building between a predefined indoor temperature margins. Simulation results assess the performance of the proposed Next 24 h-Energy framework at a real office building named Mikeletegi 1 (M1) in Donostia-San Sebastian (Spain) yielding to excellent results and significant energy savings by virtue of its capability of adapting the parameters that control the HVAC schedule in a daily basis without affecting user comfort conditions. Specifically, the energy reduction for the test period is estimated in 48% for the heating and 39% for the cooling consumption."
+}

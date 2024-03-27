@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071282109,
+    "Title": "Artificial intelligence assisted heating ventilation and air conditioning control and the unmet demand for sensors: Part 2. Prior information notice (PIN) sensor design and simulation results",
+    "Author": "Cheng C.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/s19153440",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 5,
+    "Abstract": "The study continues the theoretical derivation from Part 1, and the experiment is carried out at a bus station equipped with six water-cooled chillers. Between 2012 and 2017, historical data collected from temperature and humidity sensors, as well as the energy consumption data, were used to build artificial intelligence (AI) assisted heating ventilation and air conditioning (HVAC) control models. The AI control system, in conjunction with a specifically designed prior information notice (PIN) sensor, was used to improve the prediction accuracy. This data collected between 2012 and 2016 was used for AI training and PIN sensor testing. During the hottest week of 2017 in Taiwan, the PIN sensor was used to conduct temperature and humidity data predictions. A model-based predictive control was developed to obtain air conditioning energy consumption data. The comparative results between the predictive and actual data showed that the temperature and humidity prediction accuracies were between 95.5 and 96.6%, respectively. Additionally, energy savings amounting to 39.8% were achieved compared to the theoretical estimates of 44.6%, a difference of less than 5%. These results show that the experimental model supports the theoretical estimations. In the future, a PIN sensor will be installed in a chiller to further verify the energy savings of the AI assisted HVAC control."
+}

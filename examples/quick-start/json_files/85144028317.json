@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144028317,
+    "Title": "A New Framework for Multivariate Time Series Forecasting in Energy Management System",
+    "Author": "Uremovic N.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TSG.2022.3224559",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Univerza v Mariboru Fakultete za Elektrotehniko, Računalništvo in Informatiko",
+    "Affliation Country": "Slovenia",
+    "Cited by count": 0,
+    "Abstract": "This paper introduces a new integrated framework for short-term time series forecasting used as decision logic support in Energy Management Systems (EMS). The proposed framework defines data preprocessing, forecast model training, and adaptation techniques. For data preprocessing, Gaussian and Kalman filtering were used in offline learning on historical data and online (real-time) forecasting. Optimal parametrisation for both filters was selected based on the forecast accuracy. Next, a multiple-input, single-output forecast model based on the Long Short-Term Memory (LSTM) neural network was tuned for each device. The forecast horizon is single-step, and chaining of predictions was used for longer horizons. Finally, the best model was adapted to the changes in the time series data. A significant drop was observed in the forecast accuracy on the past data after adapting the model to the new data using a naive approach. Due to this drop, a novel sample rehearsal selection strategy for adaptation of the model is proposed and compared to other different strategies. All the techniques are demonstrated based on the examples of forecasting multivariate time series for different household devices: a water heater, a refrigerator and an HVAC device. The use of data preprocessing improved the forecast accuracy by up to 56% compared to no preprocessing. Moreover, by introducing a sample rehearsal, knowledge retention was improved by up to 76.6% compared to the naive approach, and by up to 62% compared to the random selection of samples."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096409991,
+    "Title": "Robust and Lightweight Control System for IoT Networks: Enabling IoT for the Developing World",
+    "Author": "Panicker J.G.",
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-981-15-7234-0_8",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Institute of Technology, Warangal",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "The proliferation of smart automated control systems in contemporary environments has led to the realization of various smart and connected products/solutions. For a true “Smart City”, it is of paramount importance to have secure, stable, smart and automated control systems in commercial domains as well as residential domains. Domotics/Home Automation, is the enabling of residential spaces to constitute smartly controlled devices or appliances, say the lighting systems or the HVAC systems, which may have their parameters varied with little to no human intercession. The alteration of their variable parameters may be done based on human action, timers, inputs from sensors or the combination of multiple such triggers. This may be actualized by IoT-enabled devices and appliances that can interact/communicate with the control systems or each other. The solutions available presently provide with excellent utilitarian features that can empower the users to automate much of their daily chores/tasks and, if not completely automatized, at least can reduce human effort by a considerable degree. However, majority of the solutions suffer from certain major drawbacks. They require live Internet to employ the cloud-based APIs that the systems utilize. This paper proposes a secure and robust speech-based automation and control system that functions with or without Internet. The single-board-computer (SBC)-based central automation and control system wirelessly communicates with the connected devices and appliances through local and private low-latency MQTT links. The proposed system does not compromise on its feature set, providing AI-based attributes at reasonable cost factors, and is resistant to total failures, with multiple backup layers."
+}

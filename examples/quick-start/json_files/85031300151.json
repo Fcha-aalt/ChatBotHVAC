@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85031300151,
+    "Title": "Innovative technologies for energy retrofit of historic buildings: An experimental validation",
+    "Author": "Schibuola L.",
+    "Journal": "Journal of Cultural Heritage",
+    "Publication Date": {
+        "$date": "2018-03-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.culher.2017.09.011",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università IUAV di Venezia",
+    "Affliation Country": "Italy",
+    "Cited by count": 41,
+    "Abstract": "Refurbished buildings should also increase their energy efficiency, according with current regulation; however, in case of historical buildings, preservation orders are so strict to hamper usual energy efficient interventions on the building envelope side. As a consequence, in historical buildings, HVAC (Heating, Ventilation and Air-Conditioning) systems and control strategies should be further improved, since they are the only true means for energy efficiency. This paper presents the set of technologies implemented in the frame of the refurbishment of an historical building in the very center of Venice, in order to lower energy consumption and increase occupants’ comfort. The refurbishment consisted mainly in the application of the following technologies: Surface Water Heat Pump (SWHP), Demand Controlled Ventilation (DCV) and trigeneration. Furthermore, the paper proves the achieved energy savings by comparing the actual energy consumption against detailed building energy simulations for baseline HVAC system configurations. For such a purpose, the authors take advantage of the installed extensive building management system (BMS), which is able to record detailed data about flow rates (of air and water), temperature and humidity for all of the key devices of the HVAC system. The building used as a case study is very significant because of its energy intensive intended use as well as for the very strict preservation orders acting on it. In particular, global primary energy savings equal to 36% have been calculated, if compared with a traditional baseline HVAC system."
+}

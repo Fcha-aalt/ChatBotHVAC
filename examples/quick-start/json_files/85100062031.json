@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100062031,
+    "Title": "Thermodynamics Reloaded: Experiencing Heating, Ventilation and Air Conditioning in AR",
+    "Author": "Arntz A.",
+    "Journal": "Proceedings - 2020 IEEE International Conference on Artificial Intelligence and Virtual Reality, AIVR 2020",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/AIVR50618.2020.00064",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Applied Sciences Ruhr West",
+    "Affliation Country": "Germany",
+    "Cited by count": 5,
+    "Abstract": "Augmented Reality (AR) has great potential for new didactic concepts in teaching. Environments, information and objects can be comprehensively and dynamically represented, supporting self-paced and holistic learning. This paper presents an implementation of a multimodal AR-application for the purpose of teaching complex features and mechanics of a 'Heating, Ventilation and Air Conditioning System' in a situated and engaging way. The application was designed and implemented by an interdisciplinary team and evaluated in a mixed-methods approach. Results show a high usability and acceptance of the application. Students recognized the benefit of the application regarding their motivation and learning gains and made suggestions for further improvements."
+}

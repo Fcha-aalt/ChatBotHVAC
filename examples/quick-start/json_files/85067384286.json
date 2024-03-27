@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067384286,
+    "Title": "Digital human updated: Merging the thermal layers with the 3D anthropometric model",
+    "Author": "Latorre-Sánchez C.",
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-20216-3_48",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Instituto de Biomecanica de Valencia",
+    "Affliation Country": "Spain",
+    "Cited by count": 2,
+    "Abstract": "This paper proposes a relational model able to predict thermal comfort/discomfort from users’ attributes and environmental conditions. The model uses a new subject attribute: the “thermotype”, which synthesizes its climatic preferences, body shape and thermal response using Artificial Intelligence (AI). A thermal avatar was created by mapping thermal layers to a 3D body representation, derived from the same infrared images. The result is a Digital Human Model that permits associate the perception to the thermal comfort preferences, integrating both the thermotype and the thermal avatar. We have evaluated the model with real subjects in a thermal chamber simulating different environmental conditions that can be found in vehicles equipped with Heating and Ventilation Air Conditioning (HVAC) systems. Our model can provide product design and evaluation strategies to companies, to personalize intelligent self-adjustable thermal systems to achieve thermal comfort predictions."
+}

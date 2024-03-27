@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048532567,
+    "Title": "Interdisciplinary multi-criteria optimization using hybrid simulation to pursue energy efficiency through production planning",
+    "Author": "Sihn W.",
+    "Journal": "CIRP Annals",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.cirp.2018.04.059",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Fraunhofer Austria Research GmbH",
+    "Affliation Country": "Australia",
+    "Cited by count": 15,
+    "Abstract": "An energy-efficient production is imperative and can reduce costs. Despite the acknowledged potential to increase energy efficiency in production systems through production planning and control (PPC), adequate planning methods are lacking. This article presents an interdisciplinary approach for a simulation-based multi-criteria optimization, integrating energy efficiency into PPC objectives. The method considers production equipment together with HVAC and technical building services. It features a novel integrated hybrid discrete/continuous simulation method enabling to accurately capture dynamic interactions between material and energy flows. The approach is evaluated in a case study on the food industry, indicating potential energy efficiency gains of up to 30%."
+}

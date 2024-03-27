@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142096857,
+    "Title": "Multi-Physics and Artificial Intelligence Models for Digital Twin Implementations of Residential Electric Loads",
+    "Author": "Poore S.B.",
+    "Journal": "11th IEEE International Conference on Renewable Energy Research and Applications, ICRERA 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICRERA55966.2022.9922831",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Kentucky",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) and electric water heating (EWH) represent residential loads. Simulating these appliances for electric load forecasting, demand response (DR) studies, and human behavior analysis using physics-based models and artificial intelligence (AI) can further advance smart home technology. This paper explains the background of residential load modeling, starting with the concept of digital twin (DT) as well as the different types of methods. Two major types of appliance load monitoring (ALM) and their advantages/disadvantages are then discussed. This is followed by a review of multiple studies on residential load modeling, particularly for HVAC, EWH, and human behavior. Further examples of electric load forecasts and DR case studies using experimental smart homes are provided. The results and impact of these studies are discussed, as well as their contribution to the advancement of smart home technology and large-scale application."
+}

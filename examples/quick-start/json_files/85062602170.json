@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85062602170,
+    "Title": "Artificial intelligence-assisted heating ventilation and air conditioning control and the unmet demand for sensors: Part 1. problem formulation and the hypothesis",
+    "Author": "Cheng C.C.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-03-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/s19051131",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 25,
+    "Abstract": "In this study, information pertaining to the development of artificial intelligence (AI) technology for improving the performance of heating, ventilation, and air conditioning (HVAC) systems was collected. Among the 18 AI tools developed for HVAC control during the past 20 years, only three functions, including weather forecasting, optimization, and predictive controls, have become mainstream. Based on the presented data, the energy savings of HVAC systems that have AI functionality is less than those equipped with traditional energy management system (EMS) controlling techniques. This is because the existing sensors cannot meet the required demand for AI functionality. The errors of most of the existing sensors are less than 5%. However, most of the prediction errors of AI tools are larger than 7%, except for the weather forecast. The normalized Harris index (NHI) is able to evaluate the energy saving percentages and the maximum saving rations of different kinds of HVAC controls. Based on the NHI, the estimated average energy savings percentage and the maximum saving rations of AI-assisted HVAC control are 14.4% and 44.04%, respectively. Data regarding the hypothesis of AI forecasting or prediction tools having less accuracy forms Part 1 of this series of research."
+}

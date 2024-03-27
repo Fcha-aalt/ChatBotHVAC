@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073913207,
+    "Title": "An energy-Aware wireless sensor network for data acquisition in smart energy efficient building",
+    "Author": "Naji N.",
+    "Journal": "IEEE 5th World Forum on Internet of Things, WF-IoT 2019 - Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/WF-IoT.2019.8767308",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Ibn Tofail",
+    "Affliation Country": "Morocco",
+    "Cited by count": 15,
+    "Abstract": "extending the battery life-Time of Internet of Things (IoT) devices is still a challenging research question. A lot of work has been done to optimize IoT wireless sensors in terms of hardware architecture, operating system, along with the usage of low power data acquisition techniques and energy aware routing protocols. In Smart Energy Efficient Building (SEEB), Energy Management System (EMS) uses WSN for data acquisition to monitor energy consumption and to track user behaviour. For EMS, context recognition is a key element for HVAC (Heating, Ventilation and Air Conditioning system) control. Therefore, the more the context is precise, the more the decision that will be taken, by the EMS, is accurate. In most SEEB, sensor nodes are configured to send data periodically. Thus, unnecessarily increasing battery-energy consumption as sensor nodes keep sending redundant data (e.g., when context did not change). To solve this issue, we propose an Energy Aware Context Recognition Algorithm (EACRA) that dynamically configures sensors to send specific data under specific conditions and at a specific time, thus avoiding redundant data transmissions. This algorithm uses SEEB declared knowledge, and forcing the sensor node to send data only when context changes. The experiment results shows the difference between the periodic sampling and sampling using EACRA in terms of energy consumption."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081244046,
+    "Title": "Fault detection and diagnosis for indoor air quality in DCV systems: Application of 4S3F method and effects of DBN probabilities",
+    "Author": "Taal A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2019.106632",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hague University of Applied Sciences",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 16,
+    "Abstract": "In this article a generic fault detection and diagnosis (FDD) method for demand controlled ventilation (DCV) systems is presented. By automated fault detection both indoor air quality (IAQ) and energy performance are strongly increased. This method is derived from a reference architecture based on a network with 3 generic types of faults (component, control and model faults) and 4 generic types of symptoms (balance, energy performance, operational state and additional symptoms). This 4S3F architecture, originally set up for energy performance diagnosis of thermal energy plants is applied on the control of IAQ by variable air volume (VAV) systems. The proposed method, using diagnosis Bayesian networks (DBNs), overcomes problems encountered in current FDD methods for VAV systems, problems which inhibits in practice their wide application. Unambiguous fault diagnosis stays difficult, most methods are very system specific, and finally, methods are implemented at a very late stage, while an implementation during the design of the HVAC system and its control is needed. The IAQ 4S3F method, which solves these problems, is demonstrated for a common VAV system with demand controlled ventilation in an office with the use of a whole year hourly historic Building Management System (BMS) data and showed it applicability successfully. Next to this, the influence of prior and conditional probabilities on the diagnosis is studied."
+}

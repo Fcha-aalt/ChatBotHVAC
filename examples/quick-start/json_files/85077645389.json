@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077645389,
+    "Title": "Empirical validation of building energy modeling for multi-zones commercial buildings in cooling season",
+    "Author": "Im P.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.apenergy.2019.114374",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 26,
+    "Abstract": "Recent nationwide efforts have provided reliable empirical data for ASHRAE standard 140, “Standard Method of Test for the Evaluation of Building Energy Analysis Computer Programs,” to enable improved accuracy of building energy modeling (BEM) engines and improved characterization of their accuracy. Use of reliable empirical validation datasets in the evaluation of BEM tools will lead to more consistent and validated simulation engines across all software vendors. This will expedite the use of BEM in designing new buildings and retrofitting existing buildings, which delivers more energy-efficient buildings. In this study, a set of validation tests was performed in an occupancy-emulated small office building during a cooling season based on the test plan carefully designed per ASHRAE standard 140. Without making any calibration effort, major building simulation modules such as main heating, ventilation, and air conditioning (HVAC) system and infiltration model are validated with actual experimental data. Finally, an EnergyPlus simulation model was built based on as-built drawings, HVAC specifications, and measured data. Hourly simulation outputs were compared with the measured datasets from the tests to examine the goodness of fit. The generated experimental datasets and model input documentation of the test building will help industries and researchers to validate new BEM tools and improve their simulation engines. The validated simulation models can be leveraged as a rigorously validated benchmark commercial building."
+}

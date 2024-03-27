@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84953874085,
+    "Title": "A predictive preference model for maintenance of a heating ventilating and air conditioning system",
+    "Author": "Tehrani M.M.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2015-05-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.ifacol.2015.06.070",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "École de Technologie Supérieure",
+    "Affliation Country": "Canada",
+    "Cited by count": 9,
+    "Abstract": "Predicting next failure of the filter's differential pressure of heating ventilating and air conditioning (HVAC) system provides for a higher performance of the system. There exist various fluctuating parameters that contribute in this paramount prediction. In the current study, the traditional method of linear regression and artificial neural network are applied as means of prediction, and it is shown that the performance is improved when supplemented with a decision tree approach. The outcome reveals which one can more effectively predict trends and behavioral patterns as well as maintenance requirement of such systems with limited considered attributes. Hence, the empirical data is retrieved and a new method for predictive maintenance illustrated using HVAC system of École de technologie supérieure (ÉTS)."
+}

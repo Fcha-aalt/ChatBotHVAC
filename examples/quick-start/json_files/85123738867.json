@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123738867,
+    "Title": "HVAC Load Forecasting in Office Buildings Using Machine Learning",
+    "Author": "Zheng J.",
+    "Journal": "2021 6th International Conference on Power and Renewable Energy, ICPRE 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICPRE52634.2021.9635310",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "State Grid Hubei Electric Power Research Institute",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Accurate short-term load forecasting can be used to optimize the control and operation of the heating, ventilation and air-conditioning (HVAC) systems for energy conservation. Deep learning is becoming increasingly popular in load forecasting due to its excellent capacity to handle non-linear problems. In this study, a load forecasting model using long short-term memory (LSTM) neural network based on wavelet analysis is developed. This algorithm combines the ability of LSTM to capture time series characteristics and the ability of wavelet analysis to optimize data samples. The performance of the proposed method is compared with LSTM and back propagation neural network. The implementation of the proposed method in an office building shows that the model can realize the load forecast accurately with root mean squared errors of less than 124.7kW and the coefficient of variance of the root mean square errors (CVRMSE) of less than 24.4%. The CVRMSE of the proposed model is improved by 2.5% and 1.8% in summer and 2.3% and 0.3% in winter respectively, compared with back propagation neural network and traditional LSTM neural network."
+}

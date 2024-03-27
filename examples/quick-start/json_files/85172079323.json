@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172079323,
+    "Title": "Model-Free HVAC Optimizer based on Reinforcement Learning",
+    "Author": "Marantos C.",
+    "Journal": "IEEE International Symposium on Industrial Electronics",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ISIE51358.2023.10227979",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Technical University of Athens (NTUA)",
+    "Affliation Country": "Greece",
+    "Cited by count": 0,
+    "Abstract": "Recently, there is a continues demand for embedded systems that automate buildings' operation, such as the control of Heating Ventilation and Air-Conditioning system (HVAC) operation. These systems exhibit increased complexity and their operation relies less on human decision-making and more on computational intelligence. The efficiency of these systems is usually bounded by the orchestrators' flexibility to optimize simultaneously multiple, and usually contrary, objectives. This paper introduces a novel framework for designing model-free orchestrators targeting to optimize the operation of HVAC systems, is introduced. The proposed orchestrator relies on Reinforcement Learning in order to support self-adaptive customization. Experimental results highlight the superiority of introduced orchestrator, as it achieves comparable performance to state-of-the-art relevant controllers without any prior detailed modeling."
+}

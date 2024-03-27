@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107941088,
+    "Title": "A deep learning approach towards the detection and recognition of opening of windows for effective management of building ventilation heat losses and reducing space heating demand",
+    "Author": "Tien P.W.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.renene.2021.05.155",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 35,
+    "Abstract": "Building ventilation accounts for up to 30% of the heat loss in commercial buildings and 25% in industrial buildings. To effectively aid the reduction of energy consumption in the building sector, the development of demand-driven control systems for heating ventilation and air-conditioning (HVAC) is necessary. In countries with temperate climates such as the UK, many buildings depend on natural ventilation strategies such as openable windows, which are useful for reducing overheating prevalence during the summer. The manual opening and adjustment of windows by occupants, particularly during the heating season, can lead to substantial heat loss and consequent energy consumption. This could also result in the unnecessary or over ventilation of the space, or the fresh air is more than what is required to ensure adequate air quality. Furthermore, energy losses build up when windows are left open for extended periods. Hence, it is important to develop control strategies that can detect and recognise the period and amount of window opening in real-time and at the same time adjust the HVAC systems to minimise energy wastage and maintain indoor environment quality and thermal comfort. This paper presents a vision-based deep learning framework for the detection and recognition of manual window operation in buildings. A trained deep learning model is deployed into an artificial intelligence-powered camera. To assess the proposed strategy's capabilities, building energy simulation was used with various operation profiles of the opening of the windows based on various scenarios. Initial experimental tests were conducted within a university lecture room with a south-facing window. Deep learning influenced profile (DLIP) was generated via the framework, which uses real-time window detection and recognition data. The generated DLIP were compared with the actual observations, and the initial detection results showed that the method was capable of identifying windows that were opened and had an average accuracy of 97.29%. The results for the three scenarios showed that the proposed strategy could potentially be used to help adjust the HVAC setpoint or alert the occupants or building managers to prevent unnecessary heating demand. Further developments include enhancing the framework ability to detect multiple window opening types and sizes and the detection accuracy by optimising the model."
+}

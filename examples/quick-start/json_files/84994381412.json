@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84994381412,
+    "Title": "An experimental study on energy saving analysis in the defrost cycle of residential heat pumps with the use of reverse air flow during defrost",
+    "Author": "Muthusubramanian K.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2017-05-19T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1080/23744731.2016.1239469",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "A. James Clark School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Defrosting outdoor coils of residential heat pumps in an energy efficient manner remains an active area of research in the HVAC industry. Inverting the cycle to reject heat from the outdoor coils is the most common method used currently. However, this method is energy intensive. The current study proposes a novel method that can substantially reduce the energy consumed during defrost cycles. It involves the controlled use of reverse airflow on the outdoor coil surface during the defrost cycle, which cleans the coil surface more thoroughly by improving the draining of the melted frost. It also removes portion of frost without needing to melt it. This process results in decreased number of defrost cycles needed for a given duration of heat pump operation. Energy savings of 56% and 31% were demonstrated experimentally for the above-freezing and below-freezing environments, respectively, as compared to a baseline that represents the ASHRAE recommended operating conditions."
+}

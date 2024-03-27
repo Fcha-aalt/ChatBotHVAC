@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84939208060,
+    "Title": "Cost-effective technologies to control indoor air quality and comfort in energy efficient building retrofitting",
+    "Author": "Revel G.M.",
+    "Journal": "Environmental Engineering and Management Journal",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.30638/eemj.2015.160",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università Politecnica delle Marche",
+    "Affliation Country": "Italy",
+    "Cited by count": 26,
+    "Abstract": "This paper presents a toolset for the efficient control of the indoor air quality and thermal comfort in retrofitted buildings. The refurbishment of existing buildings, compliant to actual regulations, often leads to airtightness and the consequent poor conditions for the occupants that could cause low productivity and even sickness. For this reason, the CETIEB (Cost Effective Tools for Better Indoor Environment in Retrofitted Energy Efficient Buildings) project developed innovative low-cost solutions to monitor and control the indoor air quality and thermal comfort. Among the technologies developed, this paper presents ad-hoc sensors for the monitoring of Total Volatile Organic Components (TVOC), CO2 and thermal comfort together with a control logic that, using measured data, provides the optimal rules to actuate the control devices (ventilation, heating/cooling, windows opening, shutters operation and so on). The application and validation of the integrated solution, monitoring plus control logic, was performed in a laboratory building to compare the performance of the proposed solution with the traditional system employed in buildings. The results turned out to show sensors performances comparable with commercial solutions but with a significant reduction of costs. Moreover, the application of the integrated solution showed an improvement of the indoor air quality and comfort with a 15% of energy saving, compared to the traditional thermostatic control."
+}

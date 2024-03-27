@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84958755510,
+    "Title": "Optimizing whole house deep energy retrofit packages: A case study of existing Chicago-area homes",
+    "Author": "Leinartas H.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.3390/buildings5020323",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Illinois Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 13,
+    "Abstract": "Improving the energy efficiency of the residential building stock plays a key role in mitigating global climate change. New guidelines are targeting widespread application of deep energy retrofits to existing homes that reduce their annual energy use by 50%, but questions remain as to how to identify and prioritize the most cost-effective retrofit measures. This work demonstrates the utility of whole building energy simulation and optimization software to construct a \"tool-box\" of prescriptive deep energy retrofits that can be applied to large portions of the existing housing stock. We consider 10 generally representative typology groups of existing single-family detached homes built prior to 1978 in the Chicago area for identifying cost-optimal deep energy retrofit packages. Simulations were conducted in BEopt and EnergyPlus operating on a cloud-computing platform to first identify cost-optimal enclosure retrofits and then identify cost-optimal upgrades to heating, ventilation, and air-conditioning (HVAC) systems. Results reveal that prescriptive retrofit packages achieving at least 50% site energy savings can be defined for most homes through a combination of envelope retrofits, lighting upgrades, and upgrades to existing HVAC system efficiency or conversion to mini-split heat pumps. The average upfront cost of retrofits is estimated to be ~$14,400, resulting in average annual site energy savings of ~54% and an average simple payback period of ~25 years. Widespread application of these prescriptive retrofit packages across the existing Chicago-area residential building stock is predicted to reduce annual site energy use by 3.7 × 1016 J and yield approximately $280 million USD in annual energy savings."
+}

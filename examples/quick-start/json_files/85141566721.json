@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141566721,
+    "Title": "Heating Control Strategy Based on Dynamic Programming for Building Energy Saving and Emission Reduction",
+    "Author": "Qin H.",
+    "Journal": "International Journal of Environmental Research and Public Health",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/ijerph192114137",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hebei University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Finding the optimal balance between end-user’s comfort, lifestyle preferences and the cost of the heating, ventilation and air conditioning (HVAC) system, which requires intelligent decision making and control. This paper proposes a heating control method for HVAC based on dynamic programming. The method first selects the most suitable modeling approach for the controlled building among three machine learning modeling techniques by means of statistical performance metrics, after which the control of the HVAC system is described as a constrained optimization problem, and the action of the controller is given by solving the optimization problem through dynamic programming. In this paper, the variable ‘thermal energy storage in building’ is introduced to solve the problem that dynamic programming is difficult to obtain the historical state of the building due to the requirement of no aftereffect, while the room temperature and the remaining start hours of the Primary Air Unit are selected to describe the system state through theoretical analysis and trial and error. The results of the TRNSYS/Python co-simulation show that the proposed method can maintain better indoor thermal environment with less energy consumption compared to carefully reviewed expert rules. Compared with expert rule set ‘baseline-20 °C’, which keeps the room temperature at the minimum comfort level, the proposed control algorithm can save energy and reduce emissions by 35.1% with acceptable comfort violation."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096924924,
+    "Title": "Supervisory control and distributed optimization of building energy systems",
+    "Author": "Jiang Z.",
+    "Journal": "Journal of Dynamic Systems, Measurement and Control, Transactions of the ASME",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1115/1.4047448",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Iowa State University",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Energy consumption in commercial buildings is significantly affected by the performance of heating, ventilation, and air-conditioning (HVAC) systems, which are traditionally operated using centralized controllers. HVAC control requires adjusting multiple setpoints such as chilled water temperatures and supply air temperature (SAT). Supervisory control framework in a distributed setting enables optimal HVAC operation and provides scalable solutions for optimizing energy across several scales from homes to regional areas. This paper proposes a distributed optimization framework for achieving energy efficiency in large-scale building energy systems. It is highly desirable to have building management systems that are scalable, robust, flexible, and are low cost. For addressing the scalability and flexibility, a modular problem formulation is established that decouples the distributed optimization level from local thermal zone modeling level. We leverage a recently developed generalized gossip algorithm for robust distributed optimization. The supervisory controller aims at minimizing the energy input considering occupant comfort. For validating the proposed scheme, a numerical case study based on a physical testbed in the Iowa Energy Center is presented. We show that the distributed optimization methodology outperforms the typical baseline strategy, which is a rulebased controller to set a constant supply air temperature. This paper also incorporates a software architecture based on the VOLTTRON platform, developed by the Pacific Northwest National Laboratory (PNNL), for practical implementation of the proposed framework via the BACnet system. The experimental results show that the supervisory control framework proposed in this paper can save energy by approximately 11%."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85037618053,
+    "Title": "Architectures and algorithms for building automation—An industry view",
+    "Author": "Stluka P.",
+    "Journal": "Advances in Industrial Control",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1007/978-3-319-68462-8_2",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Honeywell ACS Global Laboratories",
+    "Affliation Country": "Czech Republic",
+    "Cited by count": 9,
+    "Abstract": "Most of the content of this volume highlights new research developments in building automation, with an emphasis on heating, ventilation, and air conditioning (HVAC) control. This research is motivated by important industry and societal imperatives for improving the energy efficiency, carbon footprint, occupant comfort, and economics of building operation. Much needs to be done and control scientists and engineers have an important role to play. In this chapter, we hope to “ground” the research. The chapter consists of two primary parts. We first discuss the systems aspect of building automation systems (BASs). State-of-the-art BASs are large, complex, distributed systems. They connect to sensors, actuators, and low-level controllers; provide interfaces for operational, engineering, and management staff; and, increasingly, interconnect with other computer systems for enterprise-level applications such as facility management, energy management, and computerized maintenance management systems. A trend we highlight is the move toward “connected” buildings—in today’s Internet-of-Things (IoT) age the BAS extends to the cloud. Interoperability is another driving force in building automation; solutions that enable building owners and operators to combine equipment and applications from different suppliers—to avoid vendor lock-in—are also discussed. The content in this part of the chapter is relevant across the buildings sector. For illustration purposes, we discuss Honeywell systems that we are familiar with, especially the Enterprise Building Integrator (EBI) platform and the Tridium Niagara framework. The penetration of modern BASs is still largely limited to medium- and large-scale commercial buildings. Few light commercial buildings have systems of this sophistication (and cost). We also outline typical building control systems in use for light commercial. This building sector represents a major opportunity for new innovation—advanced control promises huge impact on energy efficiency, for example, provided that the technology can be delivered at low cost and is easy to deploy and operate by non-control-experts. The second part of the chapter discusses recent research projects in advanced control and related technologies that we have been involved with, most of which have now matured to the point of being deployed in buildings. Results from operational installations are described where available. We believe the controls research community can benefit from being better informed about the state of the art in building automation and control, with regard to the system platform as it exists and how it is evolving as well as to the algorithmic innovations that are being explored and applied in industry. We hope that, within the limitations of our experience and understanding, the content of this chapter will serve this purpose."
+}

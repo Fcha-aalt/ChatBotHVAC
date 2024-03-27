@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042636605,
+    "Title": "Fault detection and diagnosis for nonlinear systems: A new adaptive Gaussian mixture modeling approach",
+    "Author": "Karami M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-05-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.02.032",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Physical Sciences",
+    "Affliation Country": "United States",
+    "Cited by count": 52,
+    "Abstract": "In heating, ventilation and air-conditioning (HVAC) systems, early detection and diagnosis of faults are of critical importance to save energy and improve the performance of system components. The challenge is developing an automatic fault detection and diagnosis algorithm for monitoring of multi-mode nonlinear systems. This paper proposes a novel adaptive Gaussian mixture model (AGMM) approach for automatic fault detection and diagnosis in nonlinear systems. The concept of this method relies on developing a time-varying probabilistic machine-learning model for non-linear systems. In this study, Gaussian mixture model regression (GMMR) technique is used to model a nonlinear system based on measurement data. Unscented Kalman filter (UKF) is then integrated with GMMR for adjusting the model parameters based on the feedback of residuals between observation and model prediction. The proposed algorithm is able to detect and diagnose simultaneous faults in systems from monitoring variations of key GMMR parameters. The application of AGMM method is demonstrated for detection and diagnosis of common faults in a water-cooled multi-chiller plant system. Faults including energy efficiency degradation in chillers were tested with the proposed method. Results indicate that the AGMM approach is successful in detection and diagnosis of simultaneous faults."
+}

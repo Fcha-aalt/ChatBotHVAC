@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85165361235,
+    "Title": "Optimizing the use of natural ventilation while reducing energy cost_case study for retrofitting an old residential apartment in a Mediterranean city",
+    "Author": "Yeretzian A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113371",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "American University of Beirut",
+    "Affliation Country": "Lebanon",
+    "Cited by count": 1,
+    "Abstract": "This study investigates the effects of using a hybrid natural ventilation (NV) and HVAC system in old residential buildings in the Mediterranean city of Beirut. The system operates with a control strategy that maximizes the reliance on NV and reduces the energy cost when the HVAC system is needed. To maximize the performance of the proposed system, this work proposes the addition of insulation panels and the modification of the windows glazing type according to the orientation of the exposed walls. An optimization procedure is carried out to optimize the performance of the insulation layers and the glazing material for each external wall orientation and for the current Mediterranean climate. To this aim, a model to predict the hours of NV, the corresponding penetrating outdoor airflow rate as well as the energy consumption and the average indoor temperature is developed and calibrated using the EnergyPlus software. A genetic algorithm is used to optimize the life cycle cost equation. It was found that depending on the wall orientation, the optimal thermal insulation thickness varied between 20 mm and 40 mm while the glazing U-value varied between 1.7 W/m2·K and 3.2 W/m2·K. These retrofitting strategies and methods resulted in 22% energy savings and 20% more hours of NV per year with respect to the reference case when no retrofit strategies were used."
+}

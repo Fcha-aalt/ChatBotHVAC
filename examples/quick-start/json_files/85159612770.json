@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85159612770,
+    "Title": "Research on Carbon Emission of Household Air Conditioners Based on DLCA",
+    "Author": "Cui Z.",
+    "Journal": "Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3969/j.issn.0253-4339.2023.02.061",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "In this study, we utilize the life cycle assessment method to examine the relationship between the change in the energy efficiency ratio of air conditioners and the energy structure over the course of its operational years. We then develop a carbon emission model for air conditioners based on the dynamic life cycle assessment (DLCA). The carbon emissions of scroll-compressor-based household air conditioners filled with R410A refrigerant are studied. The results show that the introduction of dynamic parameters during operation has a significant impact on the life cycle carbon emissions. Unlike in the static assessment model, the changes in the energy efficiency ratio and energy structure can cause the total carbon emissions to fluctuate by 19.0% and -9.1%, respectively. The annual carbon emissions at the end of the air conditioning service life of the dynamic and static assessment models are 1.71 and 0.80 times the initial annual carbon emissions, respectively. The life cycle carbon emissions of air conditioners are mainly produced during the operation stage, accounting for 91.8% of the total emissions; 75.0% of the total carbon emissions in the life cycle is caused by the power consumption of equipment operation and 23.0% is from refrigerant leakage. Parameters such as the indoor temperature setpoint, refrigerant leakage rate, and refrigerant GWP have a significant impact on carbon emissions during the life cycle of an air conditioner. This study will contribute to the further optimization of carbon emission evaluation models in the HVAC field."
+}

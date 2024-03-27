@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129335920,
+    "Title": "The efficiency of hybrid ventilation on cooling energy savings in NZEBs",
+    "Author": "Stasi R.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.104401",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Bari",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "Proper design of the ventilation system is strategic to achieve nearly zero energy building (NZEB) target while providing high IAQ standards. This paper investigates a multi-family complex of eight dwellings NZEB in Italy built on a former industrial shed. The planned HVAC system foresees the combined use of primary ventilation with fan-coil units fed by ground source heat pumps. Three hybrid ventilation strategies are compared to evaluate the potential cooling energy saving: the first one explores the use of an earth-to-air heat exchanger (EAHX), the second one proposes night hybrid ventilation from 10 p.m. to 6 a.m., and the last one analyzes the implementation of free cooling mode in mechanical ventilation. Cooling energy saving, thermal comfort, CO2 reduction and cost-effectiveness of three approaches comparing with the base case were evaluated. EAHX generatesa cooling energy saving of 20.7%. Combined use of night ventilation with mechanical ventilation system reduces the cooling energy demand by 14.4%, while free cooling produces a less effective decrease in the electricity consumption of 7.7% only. Moreover, the influence of climatic conditions on hybrid ventilation strategies efficiency is assessed in three cities. This analysis shows that EAHX is the hybrid ventilation strategy which produces the greatest energy saving in all Italian climatic zones showing an energy saving from 33.7% in Milan to 9.8% in Palermo. Free cooling and night ventilation generate more benefits in the middle-season when lower minimum outdoor temperatures occur."
+}

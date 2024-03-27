@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151065187,
+    "Title": "A novel method based on thermal image to predict the personal thermal comfort in the vehicle",
+    "Author": "Miao Z.",
+    "Journal": "Case Studies in Thermal Engineering",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.csite.2023.102952",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huaqiao University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "A passenger-centered Heating, Ventilation, and Air Conditioning (HVAC) system is an urgent need with the innovative development of intelligent vehicles. A prerequisite for such a system is precise real-time estimation of human thermal comfort. This paper introduces a new method based on deep learning to predict the personal thermal comfort in the vehicle via facial thermal image. Specifically, a deep learning-based ResNet34 coupled with a spatial attention mechanism (SAM-ResNet34) is designed for feature extraction from the facial thermal image. Unlike the existing methods, this method extracts the gray features from the different areas of facial thermal images instead of measuring the facial skin temperature to predict the thermal comfort states. The thermal comfort data were collected from the experiment with 22 subjects. It has highlighted that the model trained with the thermal image dataset can achieve an accuracy as high as 93.75% in the test set. The result suggests that the non-invasive method proposed in this study could accurately predict personal thermal comfort in the vehicular environment and holds great potential to be applied to the HVAC control system of a vehicle in the future."
+}

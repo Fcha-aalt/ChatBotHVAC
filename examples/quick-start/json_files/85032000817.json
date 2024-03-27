@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032000817,
+    "Title": "The application of the Pinch method for the analysis of the heat exchangers network in a ventilation system of a building",
+    "Author": "Misevičiūtė V.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2018-01-25T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.applthermaleng.2017.10.051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Vilniaus Gedimino Technikos Universitetas",
+    "Affliation Country": "Lithuania",
+    "Cited by count": 14,
+    "Abstract": "Intensive use of energy is related to the inefficient use of processes in building engineering systems. In well-insulated non-residential buildings ventilation systems are among the most energy intensive HVAC systems. The main components of an energy (and exergy) efficient ventilation system are heat exchangers. The paper presents the analysis of process integration possibilities in a ventilation system. Only air heating for ventilation purposes is analysed. The method of Pinch technology, mostly used for industrial process integration, is adopted for a ventilation system of a building for the first time. In the paper, several different cases of integration are analysed by using actual BMS data of a shopping centre. The results confirmed that process integration influences the thermodynamic efficiency of the system and that integrated systems consume less energy and exergy in comparison with the non-integrated ones. The case study shows that the seasonal energy demand of the system before integration is 26% higher compared to integrated system and the exergy demand is 45% higher."
+}

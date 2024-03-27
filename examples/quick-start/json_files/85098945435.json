@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098945435,
+    "Title": "In-situ application of an ANN algorithm for optimized chilled and condenser water temperatures set-point during cooling operation",
+    "Author": "Hee Kang W.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-02-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2020.110666",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 22,
+    "Abstract": "In this study, an artificial neural network (ANN) based real-time predictive control and optimization algorithm for a chiller based cooling system was developed and applied to an actual building to analyze its cooling energy saving effects through in-situ application and actual measurements. For this purpose, we set the cooling tower's condenser water outlet temperature and the chiller's chilled water outlet temperature as the system control variables. To evaluate the algorithm performance, we compared and analyzed the electric consumption and the COP when the chilled and condenser water temperatures were controlled conventionally and controlled based on the ANN. As a result, the ANN model's accuracy was high, with a Cv(RMSE) of 4.9%. In addition, the ANN based control algorithm's energy analysis showed that the average energy saving rate for the chiller was 24.7% and that the total average energy saving effect for the chiller and cooling towers was 7.4%. The results confirmed that the proposed MPC algorithm could contribute to improved HVAC energy efficiency in commercial buildings."
+}

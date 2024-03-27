@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081577572,
+    "Title": "A multi‐facet retrofit approach to improve energy efficiency of existing class of single‐family residential buildings in hot‐humid climate zones",
+    "Author": "Kwame A.B.O.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13051178",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Florida Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Targeting existing residential buildings for retrofit improvement presents significant prospects for global reduction of energy‐usage and carbon footprints. Energy consumption of the existing single‐family building in the hot‐humid climate zone needs to be targeted for improvement due to their potential energy‐savings and sizeable market share. This paper proposes and evaluates energy savings and cost‐effectiveness of a whole building retrofit package for single‐family residential buildings built between 1950 and 1970. The study outlined a survey conducted using the clustering data mining technique on Florida Single‐Family Residential (SFR) homes to determine the essence of the building envelope, patterns of construction, and Heating, Ventilation, and Air-Conditioning (HVAC) systems. The evaluation of the energy efficiency measures (EEMs) effectiveness is performed utilizing Autodesk Revit and a Six‐Step modeled framework. This framework consists of baseline model development, validation of the model with an actual case study building, identification of potential EMMs, evaluation of EEMs individually and incorporating the selected EMMs into retrofit package and maximizing the energy‐saving and cost-effectiveness of the proposed retrofit package. The study develops proposed retrofit improvement package detailing replacement & improvement EEMs, implementation cost, annual energy savings (kWh), cost‐saving ($), and payback period (years) for each individual EEM as well as the combined/total energy improvement package. The paper further explored the usage of solar photovoltaics (PV) energy generation options to offset the remaining energy‐use after the implementation of the proposed retrofit package."
+}

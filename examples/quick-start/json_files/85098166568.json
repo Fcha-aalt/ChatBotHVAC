@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098166568,
+    "Title": "Field assessment of the performance of a state-of-the-art CO<inf>2</inf> integrated system for supermarket with distributed HVAC terminals in the shopping area",
+    "Author": "Tosato G.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.18462/iir.iccc.2020.292847",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Consiglio Nazionale delle Ricerche",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Pushed by sustainability drivers, commercial refrigeration is now strongly oriented towards CO2 based systems, and, amongst them, integrated solutions are gaining market share, as they offer an environmental friendly, all-in-one solution serving the entire supermarket thermal energy needs. The EU H2020 Project MultiPACK aims at proving integrated CO2 systems performance in the South European Climate by field measurements. In this paper, the most recently installed MultiPACK unit is presented: its major peculiar lies in the fact of combining a state of the art CO2 layout, including parallel compression, expansion by ejectors and overfed evaporators, with distributed heating and cooling terminals for localized AC in the shopping area. Winter and summer operations are presented, taking care of both refrigerating unit and display cabinets performances."
+}

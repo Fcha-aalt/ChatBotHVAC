@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84983411917,
+    "Title": "Learning-based occupancy behavior detection for smart buildings",
+    "Author": "Zhao H.",
+    "Journal": "Proceedings - IEEE International Symposium on Circuits and Systems",
+    "Publication Date": {
+        "$date": "2016-07-29T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ISCAS.2016.7527400",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 10,
+    "Abstract": "In this article, we propose a novel method to detect the occupancy behavior of a building through the temperature and/or possible heat source information, which can be used for energy reduction, security monitoring for emerging smart buildings. Our work is based on a realistic building simulation program, EnergyPlus, from Department of Energy. EnergyPlus can model the various time-series inputs to a building such as ambient temperature, heating, ventilation, and air-conditioning (HVAC) inputs, power consumption of electronic equipment, lighting and number of occupants in a room sampled in each hour and produce resulting temperature traces of zones (rooms). The new approach is based on a learning based approach in which a recurrent neutral network (RNN) is trained to detect the number of people in a room based on the room temperature and other information such as ambient temperature, and other related heat sources. We applied the Elman's recurrent neural network (ELNN), which has local feedbacks in each layer. We use an empirical formula to calculate the RNN layer number and layer size to configure RNN architecture to avoid overfitting and under-fitting problems. Experimental results from a case study of a 5-zone building show that ELNN can lead to very accurate occupancy behavior estimation. The error level, in terms of number of people, can be as low as 0.0056 on average and 0.288 at maximum when we consider ambient, room temperatures and HVAC powers as detectable information. Without knowing HVAC powers, estimation error can still be 0.044 on average, and only 0.71% estimated points have errors greater than 0.5."
+}

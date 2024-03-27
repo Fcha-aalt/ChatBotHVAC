@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117316290,
+    "Title": "Minimum Airflow Rate Algorithm for VAV Systems",
+    "Author": "Xing T.",
+    "Journal": "Chinese Control Conference, CCC",
+    "Publication Date": {
+        "$date": "2021-07-26T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.23919/CCC52363.2021.9550078",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Variable Air Volume (VAV) system is a widely used scheme for Heating Ventilating and Air-Conditioning (HVAC) systems in large buildings. PID based methods are still widely used in VAV systems because of the simplicity. These control methods have disadvantages of poor anti-disturbance ability, slow response speed, and high energy consumption. Predictive control methods for VAV systems have been studied and implemented in recent decades. Although the control effect of predictive control method is better than PID, zone airflow rates remain relatively large, which increases the cooling energy consumption of the system. In this paper, focusing more on energy efficiency, we proposed a Minimum Airflow Rate (MAR) algorithm for VAV systems. The MAR follows the framework of predictive control and further optimizes the airflow rates of VAV zones while meeting indoor climate constraints. PID with predictor, conventional predictive control, and MAR algorithm are tested in a three-zone VAV system by simulations. Results show that, compared with conventional methods, the MAR algorithm maintains the advantages of predictive control algorithms and further reduces the cooling energy consumption in the control process."
+}

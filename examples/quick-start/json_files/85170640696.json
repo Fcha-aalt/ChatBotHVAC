@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85170640696,
+    "Title": "Enhancing the detection performance of a vision-based window opening detector",
+    "Author": "Tien P.W.",
+    "Journal": "Cleaner Energy Systems",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.cles.2022.100038",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 2,
+    "Abstract": "In favorable climates and building types, employing natural ventilation can lead to significant energy savings and health benefits. However, in cold climates or conditions, the use of natural ventilation could result in significant heat loss and, consequently, excessive heating bills. This is further exacerbated when windows are left unintentionally open by occupants during the heating season, causing unnecessary energy consumption and wastage, which compromises the heating, ventilation and air-conditioning (HVAC) efficiency. Occupant behavior influences and shapes the building's energy use and indoor environment quality. In particular, the occupant's interaction with the building and its elements, such as window openings, has a considerable effect on the air change rate and the thermal load for ventilation. Studies have shown that real-time occupancy information can improve the operation of HVAC, lighting and utilization of building zones or spaces by coupling it with demand-driven control and occupant-centric strategies. The present study introduces a computer vision and deep learning-based detection approach for the real-time monitoring and recognition of the opening and closing of windows. The study aims to use the detection approach to reduce the energy demand by correctly controlling the HVAC or alerting the building users/operators during periods when windows are left open, minimizing the unwanted air change rates and heating or cooling loads. The study will take an in-depth look into the performance of the detection model, in particular, the influence of data curation, labelling and training employed. Four types of window detectors were configured and evaluated based on the detection of a set of windows within a case study building, which will help seek the most accurate detection and recognition of window opening status. The impact of the detection method on building energy demand was investigated through a series of building energy simulation (BES) scenarios. Simulations were conducted using predefined fixed profiles, along with the window detection and ‘actual’ profiles. The study has shown that the detection and recognition ability of the models ultimately influenced the prediction of the ventilation heat loss and heating energy demand."
+}

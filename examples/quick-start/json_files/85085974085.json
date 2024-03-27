@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085974085,
+    "Title": "Cabin and battery thermal management of connected and automated hevs for improved energy efficiency using hierarchical model predictive control",
+    "Author": "Amini M.R.",
+    "Journal": "IEEE Transactions on Control Systems Technology",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/TCST.2019.2923792",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Michigan, Ann Arbor",
+    "Affliation Country": "United States",
+    "Cited by count": 73,
+    "Abstract": "Incorporating traffic information in power management optimization process for electrified and connected vehicles offers opportunities for improving fuel economy. Integrating the management of thermal load (such as those used for heating, ventilation, & air conditioning (HVAC) of the passenger compartment, and for the battery cooling) with the power management process can provide even greater benefits for connected and automated vehicles (CAVs). However, given the relatively slow dynamics associated with the thermal subsystems, the lack of reliable power and thermal loads prediction over an extended prediction horizon is the main challenge for efficient thermal management using model predictive control (MPC). This paper presents a hierarchical two-layer MPC scheme which exploits vehicle speed and traffic preview predictions over short and long prediction horizons to schedule optimal thermal trajectories for the cabin and battery cooling in hybrid electric vehicles (HEVs) via a novel intelligent online constraint handling (IOCH) approach. These trajectories are next incorporated into the vehicle-level controller to determine the proper power split between electric motor and internal combustion engine (ICE). We present the development and experimental validation of control-oriented models used for prediction of the vehicle thermal dynamics and loads over a long planning horizon. Compared to a more traditional single-layer MPC approach, the proposed two-layer MPC shows that depending on the driving cycle and traffic conditions, 2.2% to 5.3% reductions in HEV fuel consumption can be achieved for urban driving and congested city driving cycles, respectively, in CAV operation scenario. This fuel economy improvement is a direct result of taking proactive actions through real-time prediction and optimization to avoid conservative and inefficient thermal responses, while enforcing cabin and battery operating constraints."
+}

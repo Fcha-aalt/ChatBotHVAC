@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088088972,
+    "Title": "A conditional value-at-risk-based dispatch approach for the energy management of smart buildings with HVAC systems",
+    "Author": "Feng W.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.epsr.2020.106535",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hohai University",
+    "Affliation Country": "China",
+    "Cited by count": 25,
+    "Abstract": "The urgent need for low-carbon societies calls for efficient energy management of smart buildings. This paper proposes a two-stage conditional value-at-risk (CVaR) model to determine the optimal day-ahead dispatch of smart buildings with heating, ventilation, and air-conditioning (HVAC) systems. A detailed physical model of HVAC systems with realistic working conditions is established. In the two-stage model, the first stage dispatch is to minimize the electricity consumption one day in advance and the second stage is to reduce power exchange fluctuations with external grids in the real-time dispatch. Besides, uncertainties in both photovoltaic power output and outdoor temperature are accommodated by the CVaR approach. Finally, the numerical results of an actual smart building validate the effectiveness and economy of the proposed approach."
+}

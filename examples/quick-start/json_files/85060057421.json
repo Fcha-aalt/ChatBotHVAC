@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060057421,
+    "Title": "Computational Investigation of Lightweight Aero-Gel Insulation Materials and Gas Filled Panels (GFP) for Improved Occupant Thermal Comfort",
+    "Author": "Kandasamy N.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2019-01-09T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.4271/2019-26-0263",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tata Technologies Ltd., India",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Energy efficient HVAC System is getting a significant attention from the automotive industries. By reducing environmental thermal load, it is expected to achieve a vehicle climate control system that requires less AC power on a vehicle while maintaining the occupant thermal comfort. In order to accomplish this, several technologies to reduce the environmental thermal load are required that includes a glazing system with solar reflecting glasses, highly effective thermal insulation materials, and vehicle interior weight reduction strategies. The structure of a vehicle can absorb a significant amount of heat when exposed to hot climate conditions. 50-70% of this heat penetrates through the glazing and raises both the internal cabin air and the interior trim surface temperature [1]. The new polyurethane-based aerogel material and Gas filled panels are one of the effective method and does the same job as conventional materials in half the space and providing high thermal insulation and maintaining its durability. This foam could be incorporated into the door frames, the hood and the roof of the vehicle. High performance thermal insulation reduces the amount of heat transfer between surfaces and helps to maintain the cabin temperature at the desired level to provide better passenger comfort. Since automotive industries try to reduce the HVAC power consumption due to the tightening fuel economy, it has become necessary to develop a methodology to predict the impact of various design choices in early design. The computational methodology been developed to simulate the passenger compartment thermal environment conditions during soak and cool-down process. The goal of the investigation is to present a comprehensive assessment of the technical, economic aspects of high performance insulation materials, study the sensitivity interior thermal mass and different glazing impacts."
+}

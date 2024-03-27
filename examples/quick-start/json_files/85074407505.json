@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074407505,
+    "Title": "Simulation-based analysis of optimized PCM to improve building energy performance and indoor thermal environment",
+    "Author": "Hun Park J.",
+    "Journal": "IOP Conference Series: Materials Science and Engineering",
+    "Publication Date": {
+        "$date": "2019-10-23T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1757-899X/609/4/042056",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Yonsei University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "The objective of this paper is to evaluate the optimized PCM melting temperature installed in the building models by DesignBuilder and analyze the building energy performance depending on the different climate conditions in South Korea. The building model was followed the residential construction standard house established by the Korea Rural Community Corporation. The total floor area of building is 41.92 m2, and the window-To-wall ratio is 30 %. The HVAC conditions were set to \"simple HVAC\" which is the basic load calculation algorithms to minimize the heating and cooling loads. Set-point temperatures set to the comfort temperature range, and set-back temperatures are based on the recommendation of the Ministry of Trade, Industry, and Energy of South Korea (MOTIE). The climate conditions to evaluate the simulation analysis were based on the Köppen-Geiger climate classification, which classifies the general climate of the world depending on temperature and precipitation. As a result of the simulation analysis, the maximum energy savings were shown by PCM with melting point of (22.39-24.47)°C in cooling, and PCM with (19.73-21.38) °C in heating. Consequently, the maximum total energy savings were achieved for PCM with (22.39-24.47) °C, which means that the best optimized PCM according to the four seasons."
+}

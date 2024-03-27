@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131223556,
+    "Title": "Real time side-by-side experimental validation of energy and comfort performance of a zero net energy retrofit package for small commercial buildings",
+    "Author": "Fernandes L.L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112183",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Making buildings zero-net energy (ZNE) is one of the major strategies for achieving carbon emission reduction goals. For this strategy to be successful, it entails a very significant reduction in energy use – 50% or more. In small commercial buildings, however, owners and building management teams usually have limited resources for identifying, analyzing, and procuring appropriate retrofit measures for reducing such use. An approach to overcome this limitation is the development of bundles of energy efficiency measures that can be presented to building owners/operators as a comprehensive package. The research presented in this paper focuses on an experimental evaluation of the impacts of a retrofit package developed for small office buildings in California. Performing this evaluation in a full-scale whole-building integrated systems test facility allowed a side-by-side evaluation in real time, against a reference case, of the impact of the retrofit package not only on energy use but also on visual and thermal comfort. The retrofit package evaluated is comprised of a combination of HVAC, lighting (including daylighting), and plug load measures. The evaluation occurred at different times of the year in order to account for seasonal variations in environmental conditions, including solar angles and weather. The experimental facility allowed testing for two different façade orientations: south and west. Results show that the proposed ZNE retrofit package can save significant amounts of energy for small commercial buildings. During cooling-prevalent periods, total energy savings were 65% for south orientation and 68% for west orientation; during heating-prevalent periods total energy savings were 22% for south orientation and 25% for west orientation. Measurements indicate that the ZNE retrofit package resulted in small but not very significant changes in comfort levels for building occupants."
+}

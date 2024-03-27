@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85112823671,
+    "Title": "A comparative study for fault location detection in bipolar HVDC transmission systems using wavelet transform and artificial neural networks",
+    "Author": "Sourashtriya A.",
+    "Journal": "2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021",
+    "Publication Date": {
+        "$date": "2021-05-13T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICSPC51351.2021.9451746",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Malwa Institute of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The present work proposes a WT-ANN-based model for fault location estimation of HVDC transmission line, for providing faster response time of estimation. HVDC has many advantages over its counterpart for long-distance transmission of power like it has fewer transmission losses and better power quality. But it lacks technological development in the field of fault location detection and clearance as compared to HVAC.The work is aimed to develop a model based on wavelet transform and self-learning technique i.e ANN algorithm to estimate the fault location of any HVDC transmission line. Wavelet transform is performed on the data obtained from the prepared model on PSCAD/EMTDC software for different fault locations at a difference of 1KM. Data from both rectifier and inverter end has been collected. Wavelet transform will help in extracting features from data for better learning of the ANN-based model. Both wavelet transform and ANN implementation are done using Matlab software.Four features obtained post wavelet transform (3 detailed coefficients and 1 approx. coefficient) will be used to train four different ANN models based on LM BR model. The final prediction of fault location is done by adding the result obtained from the above 4 models. The results obtained are proved to be very reliable with an error of near 1- 1.5 KM for the WTANN combination."
+}

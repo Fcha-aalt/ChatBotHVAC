@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129868726,
+    "Title": "The Energy Efficiency Post-COVID-19 in China’s Office Buildings",
+    "Author": "Duarte C.C.",
+    "Journal": "Clean Technologies",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/cleantechnol4010012",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculdade de Arquitectura, Universidade de Lisboa",
+    "Affliation Country": "Portugal",
+    "Cited by count": 6,
+    "Abstract": "China promptly took the leading step to mitigate the spread of COVID-19, producing the first scientific guidelines assuming health above energy consumption and significantly changing HVAC/AHU operation. The research intended to fulfill the gap by measuring the impact of the guidelines on energy use intensity, CO2 emissions, and energy operation costs related to workplaces. The guidelines are long-term sector and industry trends following occupants’ health and safety concerns, and today they are applied to nursing homes. The research extended the study to post-COVID-19 scenarios by crossing those settings with published reports on telework predictions. The methodology resorts to Building Energy Simulation software to assess the Chinese standard large office building on 8 climate zones and 17 subzones between pre-and post-COVID-19 scenarios under those guidelines. The outcomes suggest an upward trend in energy use intensity (11.70–12.46%), CO2 emissions (11.13–11.76%), and costs (9.37–9.89%) for buildings located in “warm/mixed” to “subarctic” climates, especially in colder regions with high heating demands. On the other hand, the figures for “very hot” to “hot/warm” climates lower the energy use intensity (14.76–15.47%), CO2 emissions (9%), and costs (9.64–9.77%)."
+}

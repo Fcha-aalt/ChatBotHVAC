@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172312862,
+    "Title": "Strategies for reducing energy consumption in public buildings: the Garzota Research Case",
+    "Author": "Guamán W.P.",
+    "Journal": "Proceedings of the LACCEI international Multi-conference for Engineering, Education and Technology",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad Técnica de Cotopaxi",
+    "Affliation Country": "Ecuador",
+    "Cited by count": 0,
+    "Abstract": "In this paper, the energy modeling of the utility building Garzota in Guayaquil, Ecuador, was performed using OpenStudio tools and the EnergyPlus calculation engine. We applied the methodology defined by ASHRAE to create and validate the reference model. Then, three strategies were proposed to increase building energy efficiency. First, apply sunscreen film to the windows to reduce the solar heat input to the building envelope. Second, increase the efficiency of the building's cooling and air-conditioning systems. This is consistent with the Ecuadorian Manual on Energy Efficiency in Public Buildings recommendations. Finally, we propose installing a photovoltaic system on the roof of the buildings to generate electricity on-site while reducing heat gain from the roof. These three measures can reduce building power consumption, significantly cooling power consumption, by 9.67%. This is an added value for installing photovoltaic systems in public buildings."
+}

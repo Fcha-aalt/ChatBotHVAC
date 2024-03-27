@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081315113,
+    "Title": "ZNE codes: getting there with performance trade-offs",
+    "Author": "Contoyannis D.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/s12053-019-09785-z",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NORESCO",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "To achieve zero net energy (ZNE) building codes, this paper proposes a model for building code regulators to consider that refocuses requirements from the efficiency of specific measures to the overall building energy performance. Using California’s Building Energy Efficiency Standards (Title 24, Part 6) as an example, the proposal presents a framework that establishes code compliance on whole-building performance using either the performance approach (energy simulations) or a new “simplified performance trade-off” pathway that achieves equivalent performance levels. An example of a simplified performance approach has been developed with the intention of allowing simple buildings to determine compliance with the energy code by specifying only a few building and efficiency parameters, including renewable energy system capacity. Building on these results, detailed trade-offs for low-rise office buildings are presented that utilize a selection of specific efficiency parameters that collectively achieve targeted performance levels. All major building components (e.g., HVAC, lighting, and fenestration) are represented and the selection of a less efficient design option triggers a requirement for higher efficiency in other areas such that the desired energy performance is achieved. Finally, we present our recommendations for developing simplified performance trade-offs for a larger set of building types and how our results could inform future code development activities."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096708784,
+    "Title": "Research on Demand Response Strategy of HVAC Based on Deep Reinforcement Learning",
+    "Author": "Nan Y.",
+    "Journal": "2020 5th International Conference on Power and Renewable Energy, ICPRE 2020",
+    "Publication Date": {
+        "$date": "2020-09-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICPRE51194.2020.9233115",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Shanghai University of Electric Power",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Due to the considerable \"HVAC load\"of the heating, ventilation, and air-conditioning (HVAC) system, HVAC can be introduced to the power demand response problem as a demand response resource. For the difficulty of precise modeling, an optimizing strategy for HVAC based on model-free deep reinforcement learning (DRL) is proposed in this paper. Considering the complex status observation, the deep deterministic policy gradient (DDPG) is chosen to solve the demand response problem, which does not require the mathematical model. Firstly, the HVAC environment model is established while the constraint equations are defined. Secondly, the demand response for HVAC is described as a Markov Decision Process (MDP). The proper state action, control signals and reward function are designed to accelerate the optimization process. In the end, to verify the feasibility of the DRL based optimizing strategy, the simulation and load-reduction potential analysis are introduced under scenarios of pre-cooling, global temperature control strategy, and integrated control strategy, respectively. The results show that under the control of the DDPG method, the HVAC system exhibits better demand response characteristics."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85065664451,
+    "Title": "Modeling and performance evaluation of an air-soil exchange system in energy efficient buildings",
+    "Author": "Kharbouch A.",
+    "Journal": "Proceedings of 2018 6th International Renewable and Sustainable Energy Conference, IRSEC 2018",
+    "Publication Date": {
+        "$date": "2018-07-02T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/IRSEC.2018.8702975",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "International University of Rabat",
+    "Affliation Country": "Morocco",
+    "Cited by count": 9,
+    "Abstract": "Heating, Ventilation and Air Conditioning systems (HVAC) are the main electricity consuming systems in buildings. However, they are the most used systems for maintaining thermal comfort inside buildings. Therefore, approaches that increase occupants' comfort while reducing energy consumption of these systems are highly required. Renewable energies represent a great alternative considering its significant impact in reducing electricity consumption, thus, minimizing harmful gas emissions. Increased emphasis has been recently put on geothermal energy for heating, ventilation and air conditioning. For instance, Earth to Air heat exchangers (EAHE) could be used for extracting heat from the ground for either cooling or heating. It could have a significant impact on energy saving and bills while maintaining occupants' comfort. EAHE is basically a buried pipe at a certain depth in the ground where air exchanges heat with soil during its time pass. In the present work, a modeling and sizing study of an open-loop horizontal EAHE system has been conducted to first highlight the required material and its characteristics. An experimental system was deployed in order to investigate the performance and the effectiveness of the system in terms of power consumption. Experiments have been conducted and results are reported to show the precision of the EAHE model."
+}

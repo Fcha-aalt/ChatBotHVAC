@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172250359,
+    "Title": "Advancing Fault Detection in HVAC Systems: Unifying Gramian Angular Field and 2D Deep Convolutional Neural Networks for Enhanced Performance",
+    "Author": "Tun W.",
+    "Journal": "Sensors",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/s23187690",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Technology Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 2,
+    "Abstract": "Efficiency and comfort in buildings rely on on well-functioning HVAC systems. However, system faults can compromise performance. Modern data-driven fault detection methods, considering diverse techniques, encounter challenges in understanding intricate interactions and adapting to dynamic conditions present in HVAC systems during occupancy periods. Implementing fault detection during active operation, which aligns with real-world scenarios and captures dynamic interactions and environmental changes, is considered highly valuable. To address this, utilizing the dynamic simulation system HVAC SIMulation PLUS (HVACSIM+), an HVAC fault model was developed using 194 sensor signals from each HVAC component within a single-story, four-room building. The advanced HVAC fault detection framework, leveraging simulated HVAC operational scenarios with the Gramian angular field (GAF) and two-dimensional convolutional neural networks (GAF-2DCNNs), offers a robust and proactive solution. By utilizing the GAF capacity to convert time-series sensor data into informative 2D images, integrated with 2DCNN for automated feature extraction, hidden temporal relationships within 1D signals are captured. After training on nine significant HVAC faults and normal conditions during occupancy, the effectiveness of the proposed GAF-2DCNN is evaluated through comparisons with support vector machine (SVM), random forest (RF), and hybrid RF-SVM, one-dimensional convolutional neural networks (1D-CNNs). The results demonstrates an impressive overall accuracy of 97%, accompanied by precision, recall, and F1 scores that surpass 90% for individual HVAC faults. Through the introduction of the unified approach that integrates HVACSIM+ simulated data and GAF-2DCNN, a notable enhancement in robustness and reliability for handling substantial HVAC faults is achieved."
+}

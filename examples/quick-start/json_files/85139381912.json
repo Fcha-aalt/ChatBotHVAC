@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139381912,
+    "Title": "An Ontology-Driven Approach to Support Data Analysts with Thermal Comfort Problems in the Built Environment",
+    "Author": "Esnaola-Gonzalez I.",
+    "Journal": "CEUR Workshop Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Fundación Tekniker",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "Since we spend most of our time within buildings it is of utmost importance to feel comfortable while staying indoors. However, research shows that HVAC systems only ensure occupants’ satisfaction in the 11% of the commercial buildings. The advancing spread of the Internet of Things (IoT) and the maturity of Knowledge Discovery in Databases (KDD) may contribute to develop accurate predictive models which address this challenge. But data analysts in charge of developing these predictive models may feel overwhelmed if they have insufficient domain expertise. In this article, the ontology-driven approach proposed by the EEPSA (Energy Efficiency Prediction Semantic Assistant) is presented, in which data analysts can benefit from previously captured domain knowledge. Therefore, this article proposes the exploitation of Semantic Technologies to support data analysts in the discovery of the variables that should be considered for making accurate predictive models for thermal comfort problems within buildings. Compared with the existing tools or methods, the EEPSA is able to suggest variables that may not necessarily be included in the set of data available. This fact has a big potential nowadays, where the Linked Open Data and the third-party repositories can be exploited to incorporate relevant information."
+}

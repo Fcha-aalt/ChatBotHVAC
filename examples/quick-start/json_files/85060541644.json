@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060541644,
+    "Title": "Moore vs. Murphy: Tradeoffs between complexity and reliability in distributed energy system scheduling using software-as-a-service",
+    "Author": "Dutton S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-03-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2019.01.067",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Software-based optimization of building control strategies, including scheduling, has the potential to improve the performance of existing complex heating, ventilation, and air conditioning (HVAC), storage, and other systems—especially if temporally variable energy production, such as solar thermal or photovoltaics, is included. If reductions in energy bills can be achieved using optimized control strategies that take advantage of cost-saving opportunities, such as time-of-use pricing, the additional bill savings can cover further efficiency investment costs. As computer processing becomes cheaper over time (Moore's Law), opportunities to perform complex control optimization become more abundant, and these can be performed remotely as software-as-a-service (SaaS). However, by “perfecting” our control strategies, we run an increased risk that when something unexpected happens (Murphy's Law), the consequences of failure are greater. This study used simulation to explore the potential benefits of HVAC schedule optimization, delivery, and implementation using a SaaS paradigm, at various levels of complexity. Implementing optimal schedules in a model of an efficient building's HVAC system, the study predicts energy cost savings of up to 10% compared to the naïve reference control strategy. Optimizing more system control variables increases the potential energy cost savings; however, these savings could be compromised by failures in communication inherent in delivering schedules via SaaS. The additional cost of energy resulting from the risk of increased demand charges generally increased with increased communication failure to a much larger extent than the risk of increased energy use charges. This work suggests that moderate improvements in performance, achieved at low cost by simple means, may be more effective than highly optimized schemes, which are more susceptible to failure due to their dependence on complex interactions between systems."
+}

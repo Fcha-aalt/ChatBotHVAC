@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123829110,
+    "Title": "Outlier detection via multiclass deep autoencoding Gaussian mixture model for building chiller diagnosis",
+    "Author": "Tra V.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-03-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.111893",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia Institute for Information Systems Engineering",
+    "Affliation Country": "Canada",
+    "Cited by count": 14,
+    "Abstract": "In HVAC systems, the application of fault detection and diagnosis (FDD) for chillers has brought many benefits to building utilities, i.e., indoor thermal comfort, energy saving, and energy consumption management. Although recent studies have achieved great progress on chiller fault diagnostic problem, some serious issues have been raised in these studies and need to be resolved comprehensively. In that context, two problems are listed and studied in this paper namely outliers detection and the insufficiency of labeled data. To deal with outliers mixed in chiller data, this paper proposes a supervised multiclass deep autoencoding Gaussian mixture model (S-DAGMM) algorithm which is an ensemble model of individual unsupervised DAGMMs. This mechanism helps S-DAGMM to detect ambiguous outliers in both training and testing data. In addition, this paper proposes to use DAGMM to pretrain a deep neural network (DNN). Since DAGMM can learn the data distribution from the unlabeled data, it can prevent DNN from getting stuck on local optima. Comprehensive experimental results in this study have proved the outstanding performance of the proposed approach, compared with state-of-the-art rival methods."
+}

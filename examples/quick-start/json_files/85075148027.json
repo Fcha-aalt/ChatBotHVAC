@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075148027,
+    "Title": "Deep learning technology for chiller faults diagnosis",
+    "Author": "Yan K.",
+    "Journal": "Proceedings - IEEE 17th International Conference on Dependable, Autonomic and Secure Computing, IEEE 17th International Conference on Pervasive Intelligence and Computing, IEEE 5th International Conference on Cloud and Big Data Computing, 4th Cyber Science and Technology Congress, DASC-PiCom-CBDCom-CyberSciTech 2019",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/DASC/PiCom/CBDCom/CyberSciTech.2019.00027",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "China Jiliang University",
+    "Affliation Country": "China",
+    "Cited by count": 10,
+    "Abstract": "In order to timely detect the faults of the chillers and simultaneously reduce energy consumption, manpower and maintenance costs, this paper takes advantage of deep learning technology to accurately diagnose various chiller faults for centralized heating ventilation air-conditioning (HVAC) systems. Using the benchmark chiller data collected by the ASHRAE project 1043-rp, and long short-term memory (LSTM) neural network, we build a two-layer LSTM fault detection and diagnosis model for various chiller faults in different severity levels. The deep learning model parameters are optimized and cross-validated. In this way, the optimal model parameters are determined, resulting in the outperformance of the proposed deep learning neural network over existing machine learning techniques. In the experimental section, the proposed method is compared with the traditional recurrent neural network (RNN) and gated recurrent unit (GRU) neural network, over five different air conditioning fault severity, the proposed method generally outperforms the two traditional RNN frameworks with higher detection and diagnosis accuracy."
+}

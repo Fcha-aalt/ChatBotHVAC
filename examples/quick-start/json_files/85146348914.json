@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146348914,
+    "Title": "A Critical Review on Smart Maintenance Decision Support System based on IIoT technology",
+    "Author": "Mak S.L.",
+    "Journal": "Proceedings of the IEEE International Conference on Industrial Technology",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICIT48603.2022.10002806",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Hong Kong Metropolitan University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 0,
+    "Abstract": "The preventive and predictive maintenances are methods for improving the efficiency of building services equipment and minimize the chance of break down. This paper is to review the application of smart maintenance decision support system (SMDSS) based on IIoT technology. The preventive and predictive maintenances were introduced. Secondly, the maintenance cost of HVAC system was discussed. The challenging in developing and maintaining SMDSS and its industrial standards were further explained. Then the IIoT technology was reviewed with its potential security problems. Finally the application of decision system was discussed before the conclusion."
+}

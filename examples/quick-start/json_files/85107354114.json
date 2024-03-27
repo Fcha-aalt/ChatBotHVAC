@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107354114,
+    "Title": "A method for automated generation of HVAC distribution subsystems for building performance simulation",
+    "Author": "Bres A.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.26868/25222708.2017.413",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Austrian Institute of Technology",
+    "Affliation Country": "Austria",
+    "Cited by count": 1,
+    "Abstract": "Building performance simulation (BPS) may provide valuable support to the planning of more energy efficient buildings, but the effort needed to create a complete model can hinder this potential. In particular, an idealized representation of HVAC systems is often used instead of a more explicit and insightful model, because of the difficulty of creating the latter. While automated methods are available for the translation of building geometry for BPS, or for the sizing of delivery components, there is no generally accepted way of determining the HVAC distribution subsystems. This paper presents a method allowing models of these subsystems to be automatically created for the purpose of energy simulation. Based on an input consisting of a zoned building model and sized delivery components, networks of potential distribution components are determined and components corresponding to subsets of these networks are created and sized. The output is a component-based model of delivery and distribution HVAC systems, to be completed with generation components and translated into an input for a building performance simulation engine. The method is tested in a case study where its results are compared to an existing heating system for an office building."
+}

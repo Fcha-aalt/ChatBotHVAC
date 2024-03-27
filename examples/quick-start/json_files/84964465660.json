@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964465660,
+    "Title": "Learning based compact thermal modeling for energy-efficient smart building management",
+    "Author": "Zhao H.",
+    "Journal": "2015 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 2015",
+    "Publication Date": {
+        "$date": "2016-01-05T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICCAD.2015.7372604",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "In this article, we propose a new behavioral thermal modeling method for fast building performance analysis, which is critical for energy-efficient smart building control and management. The new approach is based on two recurrent neutral network architecture to obtain the compact nonlinear thermal models for complicated building. We start with a more realistic building simulation program, EnergyPlus, from Department of Energy, to model some practical buildings such as office buildings and data centers. EnergyPlus can model the various time-series inputs to a building such as ambient temperature, heating, ventilation, and air-conditioning (HVAC) inputs, power consumption of electronic equipment, lighting and number of occupants in a room sampled in each hour and produce resulting temperature traces of zones (rooms). In this work, we apply two recurrent neural network (RNN) architectures to build the non-linear compact thermal model of the building: one is non-linear state-space RNN architecture (NLSS), which has global feedbacks, and the other one is Elman's RNN architecture (ELNN), which has local feedbacks in each layer. We give a simple formula to calculate the RNN layer number, layer size to configure RNN architecture to avoid overfitting and underfitting problems. A cross-validation based training technique is further applied to improve predictable accuracy of models. Experimental results from a case study of three buildings show that ELNN and NLSS can both build very accurate building thermal models for the 2-zone and 5-zone building cases: both of them have average errors from around 1% to 1.5% for the two buildings. For the more complex 6-zone building case, ELNN outperforms NLSS with maximum errors 16% against 23%. But both methods have 2.2% average errors."
+}

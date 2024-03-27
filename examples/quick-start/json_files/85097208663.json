@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097208663,
+    "Title": "C-HVAC: A practical tool for assessing ventilation capacity for HVAC systems during the COVID-19 Pandemic",
+    "Author": "Kharvari F.",
+    "Journal": "BuildSys 2020 - Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2020-11-18T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3408308.3431133",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 6,
+    "Abstract": "Although many health organizations are advising commercial and public sectors to maximize the outdoor air circulation and ventilation rates, such actions may not be completely feasible and impose a significant energy load on the HVAC systems. While the social distancing measures are being implemented, the aim of this paper is to present a feasible and practical solution for various stakeholders to calculate the maximum number of people that can occupy buildings during the COVID-19 pandemic when the HVAC systems of buildings work based on outside air or a combination of outside and recirculated air. As a result, C-HVAC, as an easy-to-use tool, was developed using thermodynamic principles that can calculate the maximum number of people that can occupy buildings during the COVID-19 pandemic based on ASHRAE's Building Readiness recommendations. The current paper is part of ongoing research on preventing the spread of highly infectious airborne diseases such as COVID-19 in indoor environments. The beta version of the tool is made publicly available through this article."
+}

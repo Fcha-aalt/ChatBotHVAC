@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060347990,
+    "Title": "Dynamic exergetic assessment of heating and cooling systems in a complex building",
+    "Author": "Sayadi S.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2019-03-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enconman.2018.12.090",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität Berlin",
+    "Affliation Country": "Germany",
+    "Cited by count": 22,
+    "Abstract": "The objective of this paper is to carry out a dynamic exergetic assessment of a large complex building. Results in this paper show that although the building and its Heating, Ventilation, and Air Conditioning (HVAC) systems with an energetic efficiency of 122.6% meet energy performance regulations, their overall exergetic efficiency is extremely low (3.68%). This emphasizes the importance of exergy analysis in buildings to improve the quality match between energy supply and demand, and consequently, to increase the sustainability of the building energy system. From the exergy point of view, the main sources of thermodynamic inefficiencies in the considered building are energy conversion systems, energy distribution layer, and energy released to the environment with 54, 21 and 16% of the total exergy destruction, respectively. However, among these sources of inefficiency, only the last one can be detected through an energy analysis. The exergetic efficiency of the system decreases when the exergy demand decreases, but the same energy sources are used to fulfill the demand. This reveals a potential to improve the efficiency of the building's energy system through the implementation of an exergy-based control strategy. The high-temperature heating network provides around 26% of the low-temperature heating demand. From the exergy point of view, however, this share is approximately 46%. This indicates that the quality of the supplied energy from the high-temperature heating network is much higher than required and the heat transfer from the high-temperature to the low-temperature heating network decreases the exergetic efficiency of the building."
+}

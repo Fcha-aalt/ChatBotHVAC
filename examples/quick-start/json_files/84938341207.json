@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938341207,
+    "Title": "Energy Efficiency Impact of Localized Cooling/Heating for Electric Vehicle",
+    "Author": "Chen K.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2015-04-14T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.4271/2015-01-0352",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "General Motors",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "The present paper reports on a study of the HVAC energy usage for an EREV (extended range electric vehicle) implementation of a localized cooling/heating system. Components in the localized system use thermoelectric (TE) devices to target the occupant's chest, face, lap and foot areas. A novel contact TE seat was integrated into the system. Human subject comfort rides and a thermal manikin in the tunnel were used to establish equivalent comfort for the baseline and localized system. The tunnel test results indicate that, with the localized system, HVAC energy savings of 37% are achieved for cooling conditions (ambient conditions greater than 10 °C) and 38% for heating conditions (ambient conditions less than 10 °C), respectively based on an annualized ambient and vehicle occupancy weighted method. The driving range extension for an electric vehicle was also estimated based on the HVAC energy saving."
+}

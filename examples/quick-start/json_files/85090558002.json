@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090558002,
+    "Title": "Energy management via anomaly detection for manufacturing enterprises",
+    "Author": "Parvathy S.",
+    "Journal": "2020 International Conference for Emerging Technology, INCET 2020",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/INCET49848.2020.9153989",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "EPK-EC",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "Dominant share of Indian production sector lacks knowledge in energy efficiency measures and transparency of energy flow. Work force employed in the unit are usually semiskilled. As a result, erroneous operations and minor electrical faults may advance to device failures and energy loss further leading to reduced production quality, quaintly and enhanced production cost. This paper explains the approach for the detection of electrical and operational anomalies of connected loads in the manufacturing unit under consideration via analyzing electrical parameters collected through installed energy meters at load level. The gathered data is subjected to clustering and classification algorithms for anomaly detection. Effective conclusions are drawn and economic recommendations are made from the analysis and are reported to the facility management."
+}

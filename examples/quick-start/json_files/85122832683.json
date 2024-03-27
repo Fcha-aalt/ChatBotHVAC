@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122832683,
+    "Title": "Comparing multi-step ahead building cooling load prediction using shallow machine learning and deep learning models",
+    "Author": "Chalapathy R.",
+    "Journal": "Sustainable Energy, Grids and Networks",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.segan.2021.100543",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 23,
+    "Abstract": "Accurate building cooling load prediction is beneficial in managing optimal operation to conserve energy user and operational cost. Several physics-based and data-driven models proposed to forecast building cooling load focus on one-step-ahead prediction. Deep learning-based Long-term memory (LSTM) models are shown to perform well for one-step short-term (1Hour Ahead) building cooling load prediction. However, no prior studies have examined the prediction performance of shallow machine learning methods over deep learning models to forecast building cooling demand over multi-steps across diverse real-world datasets. A multi-step model learns a single parametric function from input time series and forecasts an array of building cooling load values (multi-step) simultaneously. A comprehensive study has been carried out to evaluate the performance of six data-driven models (2 shallow learning, 3 deep sequential learning, and 1 heuristic method) to predict multi-step long-term (1Day Ahead) building cooling load. Our results demonstrate variant of the LSTM model, the Recurrent Neural Network Multi-Input Multi-Output (RNN-MIMO) network architecture, performs consistently well compared to its deep learning counterparts and shallow machine learning techniques, both tree boosting and support vector regression. Notable conclusions from results obtained are twofold: Firstly, Long short-term memory (LSTM) based RNN-MIMO architecture performs well in both short-term (1Hour Ahead) and long-term (1Day Ahead) multi-step forecast horizon. RNN-MIMO is up to 33% more accurate, on average, in terms of mean absolute error over existing, state-of-the-art shallow machine learning models both Support Vector Regression (SVR) and tree boosting techniques (XGBoost). Our findings have significant implications for practice. Notably, machine learning models trained on one-step-ahead predictions cannot be deployed readily to predict multiple time steps into the future since longer prediction horizons impose additional training and fine-tuning efforts over each of the multiple steps. RNN-MIMO model's ability to predict multiple time steps simultaneously eliminates the need for manual fine-tuning of individual models for each required forecast horizon."
+}

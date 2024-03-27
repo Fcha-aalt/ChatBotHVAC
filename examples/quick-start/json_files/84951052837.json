@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951052837,
+    "Title": "Indoor thermal comfort control through fuzzy logic PMV optimization",
+    "Author": "Ciabattoni L.",
+    "Journal": "Proceedings of the International Joint Conference on Neural Networks",
+    "Publication Date": {
+        "$date": "2015-09-28T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/IJCNN.2015.7280698",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università Politecnica delle Marche",
+    "Affliation Country": "Italy",
+    "Cited by count": 21,
+    "Abstract": "Control and monitoring of indoor thermal conditions represent crucial tasks for people's satisfaction in working and living spaces. Among all standards released, predicted mean vote (PMV) is the international index adopted to define users thermal comfort conditions in thermal moderate environments. PMV is a nonlinear function of various quantities, which generally limits its applicability to the heating, ventilation, and air conditioning (HVAC) control problem. Furthermore this index does not consider explicitly outdoor weather conditions. In order to overcome both problems, we introduce a novel fuzzy controller for HVAC systems. The control, considering PMV index value as well as outdoor weather conditions, has been experimentally tested in a working space in the central east coast of Italy. Furthermore temperature regulation performances have been compared with those of a classical PID."
+}

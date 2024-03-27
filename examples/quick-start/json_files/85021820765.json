@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85021820765,
+    "Title": "Energy saving in an air conditioning system using modified HVAC unit as an energy reducer",
+    "Author": "Mageshwaran G.",
+    "Journal": "International Journal of Ambient Energy",
+    "Publication Date": {
+        "$date": "2018-10-03T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1080/01430750.2017.1318790",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sathyabama Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 11,
+    "Abstract": "Nowadays, global warming, environment pollution, and limitations in energy resources have appeared as a serious global crisis. Therefore, energy efficiency and energy conservation are necessary in all energy-consuming devices, such as heating, ventilating, and air conditioning (HVAC) systems. The aims of this project are to evaluate the performance and energy conservation of a conventional air conditioning system and also compare its performance with the proposed HVAC system, which consists of a heat recovery unit to reduce the initial capital cost and electricity consumption of the system. Through hour-by-hour simulations, the annual energy consumptions of these two systems have to be calculated and analysed. A CO2-based demand controlled ventilation strategy offers a great opportunity to reduce additional energy consumption in the above HVAC systems, while providing the required ventilation."
+}

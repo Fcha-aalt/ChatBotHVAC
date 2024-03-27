@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151455127,
+    "Title": "Dual-objective building retrofit optimization under competing priorities using Artificial Neural Network",
+    "Author": "Zhan J.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106376",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shandong Jianzhu University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Building retrofit has received renewed interests in recent years, driven by energy-savings and indoor environmental quality goals. Digital technologies such as building performance simulation and optimization algorithms have been used to identify optimal retrofit schemes, yet the existing approaches are limited by the slow running speed of physics-based models and sub-optimal results. This study describes a novel framework, the Building Performance Optimization using Artificial Neural Network (BPO-ANN), which can automatically identify optimal building retrofit schemes. A robust Artificial Neural Network model was developed and validated as a surrogate to rapidly assess building performances, which was then connected to a genetic algorithm in search of Pareto optimal. The impact of key design attributes on building performances have been assessed using sensitivity analysis. The BPO-ANN framework has been tested in a high-performing campus building in Northern China under two competing objectives: building energy demand and occupant thermal comfort. It can automatically identify optimal design schemes, which were expected to achieve an energy-savings of 4% and reduce the annual thermal discomfort percentage by 4%. Sensitivity analysis suggested that window-to-wall ratio and HVAC setpoint have contributed the most to the performances of the campus building, followed by the roof U-value and wall U-value. The study has contributed methodologically to simulation-based optimization method, with novelties in the use of neural network algorithms to accelerate the otherwise time-consuming physics-based simulation models. It has also contributed a robust procedure in the tuning of hyperparameters in neural network models, with marked improvements in model prediction and computational efficiency."
+}

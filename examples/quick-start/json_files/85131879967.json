@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131879967,
+    "Title": "End-to-End Deep Reinforcement Learning Control for HVAC Systems in Office Buildings",
+    "Author": "Zhong X.",
+    "Journal": "Designs",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/designs6030052",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lishui University",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "The heating, ventilation, and air conditioning (HVAC) system is a major energy consumer in office buildings, and its operation is critical for indoor thermal comfort. While previous studies have indicated that reinforcement learning control can improve HVAC energy efficiency, they did not pro-vide enough information about end-to-end control (i.e., from raw observations to ready-to-implement control signals) for centralized HVAC systems in multizone buildings due to the limitations of reinforcement learning methods or the test buildings being single zones with independent HVAC systems. This study developed a model-free end-to-end dynamic HVAC control method based on a recently proposed deep reinforcement learning framework to control the centralized HVAC system of a multizone office building. By using the deep neural network, the proposed control method could directly take measurable parameters, including weather and indoor environment conditions, as inputs and control indoor temperature setpoints at a supervisory level. In some test cases, the proposed control method could successfully learn a dynamic control policy to reduce HVAC energy consumption by 12.8% compared with the baseline case using conventional control methods, without compromising thermal comfort. However, an over-fitting problem was noted, indicating that future work should first focus on the generalization of deep reinforcement learning."
+}

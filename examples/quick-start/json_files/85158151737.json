@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85158151737,
+    "Title": "Actively-exploring thermography-enabled autonomous robotic system for detecting and registering HVAC thermal leaks",
+    "Author": "Cai W.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.autcon.2023.104901",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The inefficiency, labor-intensity, and possibility of automation of the current practice of HVAC system inspections, which heavily relies on human inspectors, are being questioned. This paper describes a lightweight and reproducible robotic system dubbed AcTEA-bot, that automatically detects and locates thermal leaks in ceiling environments while self-navigating. AcTEA-bot is designed and built upon three modules, including an active visual SLAM module, a thermal leak detection module, and a thermal leak registration module. To evaluate the effectiveness of AcTEA-bot, a true-to-scale ceiling environment containing five thermal leaks is built, and 30 experiments are conducted where AcTEA-bot starts with different poses and conducts the inspection task. Results demonstrate that thermal leaks of multiple types in ceiling environments can be accurately detected and located."
+}

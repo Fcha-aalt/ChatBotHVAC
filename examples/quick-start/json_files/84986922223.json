@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84986922223,
+    "Title": "Establishing an image-based ground truth for validation of sensor data-based room occupancy detection",
+    "Author": "Petersen S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-10-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.09.009",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aarhus Universitet",
+    "Affliation Country": "Denmark",
+    "Cited by count": 46,
+    "Abstract": "Occupancy controlled heating, ventilation and air condition in offices are a mean to avoid energy waste due to over-conditioning of rooms. Occupancy detection methods based on sensor data that is already available in a building for other reasons than occupancy detection are therefore of great interest. However, such methods need to be validated according to a ground truth. This paper presents an image-based method for automatic establishment of a reliable and anonymous ground truth at entrance areas where the room height only allow the camera to be installed at 2.3–3.0 m above the floor. The method deploys various image processing techniques to infrared depthframe images recorded with a ceiling-mounted Kinect camera to anonymously detect and track persons entering or leaving a room and, consequently, counting the number of occupants in the room. The method demonstrated an accuracy of more than 98% in a stress test, 100% in a range of relevant function test and 99% in a three week long room occupancy test."
+}

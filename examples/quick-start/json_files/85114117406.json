@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114117406,
+    "Title": "Healthy and faulty experimental performance of a typical HVAC system under italian climatic conditions: Artificial neural network-based model and fault impact assessment",
+    "Author": "Rosato A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14175362",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi della Campania Luigi Vanvitelli",
+    "Affliation Country": "Italy",
+    "Cited by count": 9,
+    "Abstract": "The heating, ventilation, and air conditioning (HVAC) system serving the test room of the SENS i-Lab of the Department of Architecture and Industrial Design of the University of Campania Luigi Vanvitelli (Aversa, south of Italy) has been experimentally investigated through a series of tests performed during both summer and winter under both normal and faulty scenarios. In partic-ular, five distinct typical faults have been artificially implemented in the HVAC system and ana-lyzed during transient and steady-state operation. An optimal artificial neural network-based system model has been created in the MATLAB platform and verified by contrasting the experimental data with the predictions of twenty-two different neural network architectures. The selected artificial neural network architecture has been coupled with a dynamic simulation model developed by using the TRaNsient SYStems (TRNSYS) software platform with the main aims of (i) making available an experimental dataset characterized by labeled normal and faulty data covering a wide range of operating and climatic conditions; (ii) providing an accurate simulation tool able to generate operation data for assisting further research in fault detection and diagnosis of HVAC units; and (iii) evaluating the impact of selected faults on occupant indoor thermo-hygrometric comfort, temporal trends of key operating system parameters, and electric energy consumptions."
+}

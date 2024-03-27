@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85046711260,
+    "Title": "A quick auto-calibration approach based on normative energy models",
+    "Author": "Qiu S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.04.053",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 30,
+    "Abstract": "When modeling the energy performance of existing buildings, model calibration always serves as an essential and necessary step to ensure the accuracy and applicability of building models. Model calibration for detailed energy models, which is also known as calibrated simulation (CS), refers to the process of tuning model's input parameters to narrow down the mismatch between the simulation result and the real-monitored data of building energy consumptions. Two major problems of current CS are: (1) a successful calibration requires HVAC domain knowledge of modelers. (2) Traditional building calibration process is labor-intensive and time-consuming. To solve these problems, a normative energy modeling based quick auto-calibration approach is proposed in this study. This approach is able to reduce the modeling time and simplify the calibration procedures. Firstly, this paper demonstrates the working principles and the credibility of Normative Energy Modeling (NEM). Then, the methodology of the proposed quick auto-calibration approach is elaborated. The energy performance model of a large hotel located in Shanghai, China with NEM is used as a case study to investigate the effectiveness of the proposed quick auto-calibration approach. The simulation result of the case study suggests that the proposed approach can significantly simplify the procedures of model calibrations while still achieve a good accuracy specified by ASHRAE Guideline 14 [1]. Besides, the results further confirm that such method requires much less time and computational power for modeling, compared with other counterparts (e.g., “Autotune” calibration [2]). With the advantage of speed and accuracy, the auto-calibration proposed in this paper is promising to be applied in both engineering and research field."
+}

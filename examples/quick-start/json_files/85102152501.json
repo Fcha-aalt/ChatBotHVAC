@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102152501,
+    "Title": "Effect of main-stage filter media selection on the loading performance of a two-stage filtration system",
+    "Author": "Tian X.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-05-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107745",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Resources and Civil Engineering, Northeastern University",
+    "Affliation Country": "China",
+    "Cited by count": 14,
+    "Abstract": "This study experimentally evaluates the performance of a two-stage indoor air filtration system with the focus on main-stage filter media selection. The impact of the main-stage filter media properties on the effectiveness of adding a pre-stage filter media is compared among three main-stage filter media types commonly used in heating, ventilation, and air conditioning (HVAC) filtration system: cellulose, melt-blown, and expanded PTFE membrane. The pre-stage filter media effectiveness was found to be significantly affected by the incoming aerosol size distribution. Although counter-intuitive, having an additional pre-stage filter was found to cause a service lifetime drop for cellulose-type main-stage filters depending on incoming aerosol size distribution, while universally enhanced life spans were found for melt-blown and PTFE membrane-coated main-stage filters. The mechanism that causes a shortened service life of cellulose main-stage filter with the presence of a pre-stage filter was explored in detail and was found to be associated with the special particle loading behavior of conventional cellulose media. The rapid pressure drop increase of cellulose media in depth and transitional filtration regimes was strongly affected by the incoming aerosol size distribution, with a steeper slope (faster pressure drop increase) associated with finer particles penetrating more deeply into the inhomogeneous pores of cellulose media. The pre-stage filter alters the particle size distribution of the main-stage faces, with an increased fraction of fine particles that negatively impacts the main-stage filter loading behavior. This observation and mechanism analysis are the first time being reported, which suggests a careful selection of the combination of pre-stage and main-stage filter types with the consideration of incoming contaminant properties. It is essential for researchers and engineers in designing energy-efficient two-stage filtration systems."
+}

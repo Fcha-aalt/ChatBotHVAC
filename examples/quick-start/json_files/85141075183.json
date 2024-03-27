@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141075183,
+    "Title": "Comparing human and algorithmic anomaly detection for HVAC systems applications",
+    "Author": "Borrison R.",
+    "Journal": "Proceedings - IEEE 8th International Conference on Big Data Computing Service and Applications, BigDataService 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/BigDataService55688.2022.00032",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "ABB Corporate Research, Heidelberg",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "This paper reports the first results of a comparison of human and algorithmic anomaly detection. We are interested in how human and automated anomaly detection can be combined in the most beneficial way to improve how fault detection is practiced in building maintenance. Open source datasets with sensor data were annotated by persons with low subject matter experience, and compared with a Convolutional Autoencoder Neural Network (CAE) as well as a dedicated time series algorithm (DeepAnT), and detection metrics of human and algorithmic procedures are compared. Future comparisons will include higher levels of expertise on the human side, and more sophistication/training amount on the algorithm side. We close by discussing the advantages and caveats of our approach."
+}

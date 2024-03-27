@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84919665099,
+    "Title": "Integrated analysis of CFD data with K-means clustering algorithm and extreme learning machine for localized HVAC control",
+    "Author": "Zhou H.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2015-02-05T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.applthermaleng.2014.10.004",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nanyang Technological University",
+    "Affliation Country": "Singapore",
+    "Cited by count": 36,
+    "Abstract": "Maintaining a desired comfort level while minimizing the total energy consumed is an interesting optimization problem in Heating, ventilating and air conditioning (HVAC) system control. This paper proposes a localized control strategy that uses Computational Fluid Dynamics (CFD) simulation results and K-means clustering algorithm to optimally partition an air-conditioned room into different zones. The temperature and air velocity results from CFD simulation are combined in two ways: 1) based on the relationship indicated in predicted mean vote (PMV) formula; 2) based on the relationship extracted from ASHRAE RP-884 database using extreme learning machine (ELM). Localized control can then be effected in which each of the zones can be treated individually and an optimal control strategy can be developed based on the partitioning result."
+}

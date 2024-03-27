@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124800800,
+    "Title": "Distributed Multienergy System Flexibility Management using Advanced Optimization Techniques",
+    "Author": "Tomin N.",
+    "Journal": "Proceedings - ICOECS 2021: 2021 International Conference on Electrotechnical Complexes and Systems",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICOECS52783.2021.9657473",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Melentiev Energy Systems Institute of Siberian Branch of the Russian Academy of Sciences",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 0,
+    "Abstract": "Multi-energy systems (MES), in which multiple energy vectors are integrated and optimally operated, can be key assets in flexibility management in the near future. Moreover, multienergy interactions of distributed energy resources via different energy networks generate the distributed MES (DMES), which can provide great flexibility potential for the power system by shifting across different energy vectors. The flexibility potential in DMES strongly depends on several impacting factors: user behavior, heating demand profiles (e.g. for CHP units and heat pumps) and the state-of-the-art dimensioning (rated power, el. and thermal storage capacity). Since these, in practice stochastic influencing factors, determine the individual flexibility potential of units, a realistic stochastic simulation of these factors is crucial. This article presents promising solutions of stochastic optimization of operating modes of various types of DMES, such as integrated heat/electricity transmission system, a multi-HVAC system for smart buildings, in order to extract additional flexibility potential for electric power systems."
+}

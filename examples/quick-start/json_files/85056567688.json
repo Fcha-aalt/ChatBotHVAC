@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056567688,
+    "Title": "Energy Performance Improvements in Historic Buildings by Application of Green Walls: Numerical Analysis of an Italian Case Study",
+    "Author": "Zazzini P.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.egypro.2018.08.028",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Univ. G. d'Anunzio",
+    "Affliation Country": "Italy",
+    "Cited by count": 9,
+    "Abstract": "The most commonly used interventions for energy requalification of buildings aim to increase the thermal resistance of the perimeter walls and ceiling and the efficiency of the HVAC system. Windows replacement is also usually foreseen. Moreover, the energy saving strategies have to reduce the energy consumption of the building, taking into account economic aspects and thermo-hygrometric comfort conditions of the occupants. In the case of historic buildings, some architectonical and urban planning restrictions impose to adopt only a few solutions that are well suited with the valuable architectural qualities of the building. In Italy, there are many historic buildings. They are often located in small towns, such as the case study of this paper, a public historic building, the library \"G. Pascoli\" placed in S. Severo (FG). In this paper, the authors propose an energy saving intervention, which consists in the application of a green wall on the back side of the building, being the principal façade subjected to architectural restrictions. The most suitable technological solution for the building considered has been proposed and a numerical analysis of the building's energy performance has been carried out by the software DesignBuilder. The results are satisfactory, being the energy consumptions significantly reduced both in summer and winter conditions."
+}

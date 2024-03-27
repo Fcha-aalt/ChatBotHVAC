@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184117135,
+    "Title": "Selection of Optimal Phase Change Material (PCM) Properties Based on Different Climates to Reduce Energy Consumption in Buildings",
+    "Author": "Al Jebaei H.",
+    "Journal": "Computing in Civil Engineering 2023: Resilience, Safety, and Sustainability - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1061/9780784485248.031",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Texas A&amp;M University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "This study aims to provide material scientists and building designers with valuable insights regarding the properties of shape-stabilized phase change material (SSPCM)-cement composites to maximize building energy efficiency. To this end, the energy-saving potential of SSPCM composites is evaluated using the Department of Energy's (DOE) reference commercial building for small office buildings, and energy simulations are conducted through EnergyPlus. A parametric study is conducted to investigate the impact of peak melting and solidification temperatures on the heating, cooling, and total heating; ventilation; and air conditioning (HVAC) energy consumption in two representative cities, Houston and Chicago. The results indicate that the optimal peak melting temperature and optimal solidification temperature in hot climates are higher than those in cold climates. Furthermore, the study reveals that heating dominant climates exhibit a higher sensitivity to the choice of peak melting temperature, while cooling dominant climates are more sensitive to peak solidification temperature. These findings have significant implications for building designers interested in maximizing energy efficiency. Specifically, the selection of peak melting temperature is crucial in cooling dominant climates, while the selection of peak solidification temperature is more critical in heating dominant climates. Overall, this study emphasizes the importance of considering regional climatic conditions when developing and implementing SSPCM composites in buildings for optimal energy performance."
+}

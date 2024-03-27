@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125190565,
+    "Title": "Detection and Diagnosis of Dependent Faults That Trigger False Symptoms of Heating and Mechanical Ventilation Systems Using Combined Machine Learning and Rule-Based Techniques",
+    "Author": "Bezyan B.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15051691",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for Zero Energy Building Studies",
+    "Affliation Country": "Canada",
+    "Cited by count": 6,
+    "Abstract": "Detection and diagnosis of the malfunction of the heating, ventilation, and air conditioning (HVAC) systems result in more energy efficient systems with a higher level of indoor comfort. The information from the system combined with the artificial intelligence methods contributes to powerful fault detection and diagnosis. The paper presents a novel method for the detection and diagnosis of multiple dependent faults in an air handling unit (AHU) of HVAC system of an institutional building during heating season. The proposed method guided the search for faults, by using the information and operation flow between sensors. Support vector regression (SVR) models, developed from building automation system (BAS) trend data, predicted air temperature of two target sensors, under normal operation conditions without known problems. The fault symptom was detected when the residual of measured and predicted values exceeded the threshold. The recurrent neural network (RNN) models predicted the normal operation values of regressor sensors, which were compared with measurements, as the first step for the identification of fault symptoms. Rule-based models were used for fault diagnosis of sensors or equipment. Results from a case study of an existing building showed the quality of proposed method for the detection and diagnosis of the multiple dependent faults."
+}

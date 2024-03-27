@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174825745,
+    "Title": "Non-invasive human thermal comfort assessment based on multiple angle/distance facial key-region temperatures recognition",
+    "Author": "Li K.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110956",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Jiangsu University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Accurate monitoring of human thermal comfort is crucial in optimizing HVAC system control scheme and enhancing building energy efficiency. The method based on facial temperature infrared recognition is a non-invasive and real-time thermal comfort predictive strategy, which has been proven great application potential. In response to the limitations of previous fixed-position facial infrared detection in practical applications, this study aims to explore a less restrictive non-intrusive method for assessing human thermal comfort. The temperature features of multiple regions on human face are identified by an infrared camera, and six temperature-sensitive regions are selected through skin thermal sensitivity analysis. Thirty subjects participate in a series of field experiments. To reduce the measurement limitations caused by human postures, the correlation between these six facial regions, indoor air temperature, thermal sensation votes (TSV), and thermal comfort votes (TCV) are analyzed in details to determine two key facial regions for the non-intrusive thermal comfort assessment. By applying the YOLOv5 algorithm, the real-time extraction of facial region temperatures from multiple angles and distances is achieved. On this basis, a data-driven thermal comfort predictive strategy based on facial temperature and optimized SVM model is designed. Results indicate that the method achieves a general accuracy of 85.68% in predicting thermal comfort based on its successful recognition rate of 88.7% for facial key regions."
+}

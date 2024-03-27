@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84932619188,
+    "Title": "EnergyPlus and CHAMPS-Multizone co-simulation for energy and indoor air quality analysis",
+    "Author": "Chen Y.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2015-08-29T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/s12273-015-0211-1",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 35,
+    "Abstract": "This paper presents a co-simulation method using EnergyPlus and CHAMPS-Multizone for combined energy efficiency and indoor air quality (IAQ) analysis. The energy simulation estimates the energy consumption of HVAC systems, lights, and electrical equipment. The Indoor Environmental Quality (IEQ) simulation predicts the indoor contaminate concentrations for IAQ, the zone air temperature and relative humidity for controlled zone conditions, the Predicted Mean Vote (PMV) and Predicted Percentage Dissatisfied (PPD) for thermal comfort, and the illumination for daylighting performance. The energy, thermal comfort, and daylighting simulation are performed by EnergyPlus while the CHAMPS-Multizone is used for the IAQ simulation. In each time step, the CHAMPS-Multizone simulates the pollutant balance, and the ventilation rate required to control the contaminant concentrations under pre-established threshold values. EnergyPlus uses the ventilation rate to simulate the heat, air, and moisture balance, and the energy and daylighting performance. The Building Controls Virtual Test Bed is used for the run-time data exchange. Simulation cases using a 3-zone building are used to validate and demonstrate the benefit of the method. The co-simulation model is developed and implemented in a Virtual Design Studio (VDS) software framework with graphical user interface for integrated building system design. The co-simulation method is found to be especially useful in analyzing the interaction between IAQ and energy efficiency measures."
+}

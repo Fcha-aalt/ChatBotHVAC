@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141501602,
+    "Title": "Toward QoS Prediction Based on Temporal Transformers for IoT Applications",
+    "Author": "Hameed A.",
+    "Journal": "IEEE Transactions on Network and Service Management",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/TNSM.2022.3217170",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "École de Technologie Supérieure",
+    "Affliation Country": "Canada",
+    "Cited by count": 3,
+    "Abstract": "Internet of Things (IoT) devices generate a tremendous amount of time series data that is extremely dynamic, heterogeneous and time dependent. Such types of data introduce significant challenges for the real-time prediction of QoS metrics of IoT applications with different traffic characteristics. To this end, in this paper, we propose a temporal transformer model and a unified system to predict several QoS metrics of heterogeneous IoT applications when they communicate with the Edge of the network. The transformer model also leverages an attention module to provide a solution for both short-term and long-term sequence prediction of QoS metrics that allows to better extract any time dependencies. In particular, in our framework, we firstly generate a set of datasets containing real-time traffic information of five different IoT applications such as Heating, Ventilation, and Air Conditioning (HVAC), lighting, Voice over Internet Protocol (VoIP), surveillance and emergency response using the 802.15.4 access technology and the RPL routing protocol. Following, we perform the data cleaning, downsampling and pre-processing of the datasets and we construct the QoS datasets, which include four QoS metrics, namely throughput, packet delivery ratio, packet loss ratio and latency. Finally, we evaluate the transformer model through extensive experimentation using both short-term and long-term dependencies and we show that our model can guarantee a robust performance and accurate QoS prediction."
+}

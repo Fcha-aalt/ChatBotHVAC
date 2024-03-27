@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84931567585,
+    "Title": "Predictive modeling and optimization of a multi-zone HVAC system with data mining and firefly algorithms",
+    "Author": "Zeng Y.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2015-06-15T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.energy.2015.04.045",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Iowa",
+    "Affliation Country": "United States",
+    "Cited by count": 87,
+    "Abstract": "This research applies a data-driven approach to investigate energy savings of a multi-zone HVAC (heating, ventilating, and air conditioning) system. The predictive models of the HVAC energy consumption and the environment conditions of multiple zones are constructed by data mining algorithms. Two major environment conditions, the room temperature and the relative room humidity, are considered. Two variables of operating the HVAC system, the supply air temperature set point and the supply air static pressure set point, in the predictive models are optimized with respect to minimizing the HVAC energy while maintaining the predefined environment conditions of each zone. A novel heuristic search algorithm, the firefly algorithm, is utilized to solve the data-driven predictive models and derive the optimal settings of two set points under required HVAC operational constraints. The firefly algorithm is compared with the particle swarm optimization and evolutionary strategy to demonstrate its advantages in solving the proposed optimization problem. HVAC energy saving with the proposed data-driven framework is examined in the computational studies. A sensitivity analysis of the potential of energy saving based on different types of environment condition constraints is conducted."
+}

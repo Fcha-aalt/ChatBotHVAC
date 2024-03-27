@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168801913,
+    "Title": "Impacts of climate change and building energy efficiency improvement on city-scale building energy consumption",
+    "Author": "Chen Y.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107646",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Facing global warming, the construction industry, as one of the main sources of carbon emissions, is facing challenges. Assessing the changes in urban building energy consumption and the potential for energy savings is crucial. This paper evaluated the impacts of climate change and building energy conservation measures (ECMs) on the energy consumption of 59,332 urban buildings in Changsha, China. Firstly, the weather files in 2050 and 2080 of Changsha City under the future low-emission scenario are obtained using the Weather Morph. Secondly, the benchmark model for large office buildings was established by OpenStudio-Standards. Then the models of urban buildings in Changsha were created to expand the research scope, including 22 types of buildings using AutoBPS. Finally, four ECMs and rooftop photovoltaic (PV) systems were added according to the energy saving standards, including envelope, heating, ventilation and air conditioning (HVAC) system, lighting, and equipment. The results indicated that the annual total primary source energy use intensity (EUI) of large office buildings in the base year, 2050 and 2080 are 365.93, 372.99, and 374.89 kWh/m2, respectively. And for the urban buildings is 47,862.22, 49,387.34, and 50,043.90 GWh, with an increase of 3.19% and 4.56%, respectively. Taking the base year as an example, when combined with four ECMs and PV systems, the EUI of large office buildings can be reduced to 211.61 kWh/m2, achieving an energy saving rate of 46.67%. And when all four ECMs were applied, the EUI for the urban building model could be reduced by 22,278.56 GWh (46.55%). These results can provide valuable insights for urban energy planning to address future climate change and reduce carbon emissions."
+}

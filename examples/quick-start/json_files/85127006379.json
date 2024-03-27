@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127006379,
+    "Title": "Multi-regional building energy efficiency intelligent regulation strategy based on multi-objective optimization and model predictive control",
+    "Author": "Du Y.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2022-05-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jclepro.2022.131264",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 10,
+    "Abstract": "With the improvement of occupants’ requirements for quality of life, the functions and regions of buildings are becoming more and more refined. Large-scale buildings with multi-regional function come out increasingly. The traditional uniform constant temperature design and operation management technology can no longer meet the needs of occupants, as the dynamic thermal comfort level of human body in different regions has great discrepancy. This paper conducts the whole chain regulation model for large multi-regional buildings from demand level, application level and control level. Aiming to reduce the load reasonably on the premise of thermal comfort, a model of dynamically adjusting the set point temperature in different regions is established on demand level. As load demand refers to the energy provided by the operation of HVAC system, the controlled parameters values are obtained by adopting the intelligent optimization strategy for the application level. On the bottom control level, the optimized parameters are managed by model predictive control (MPC), which has great advantage of rapid response. It is found that the strategy of dynamically adjusting the temperature set point in typical day can reduce the load demand by 6.16% without sacrificing the comfort of indoor personnel. Based on the load demand optimization, the operation optimization and MPC strategy is further adopted for application and control level by simulation, and can realize the total energy saving of HVAC system by 12.78%."
+}

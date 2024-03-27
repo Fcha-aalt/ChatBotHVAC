@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138123526,
+    "Title": "Software Architecture For Integrating Devs Simulation Into BIM",
+    "Author": "Patel M.",
+    "Journal": "Proceedings of the 2022 Annual Modeling and Simulation Conference, ANNSIM 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.23919/ANNSIM55834.2022.9859473",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Building performance is just as important as designing and constructing buildings that are aesthetically appealing. Modern buildings should be more energy efficient in terms of long-term sustainability and energy use. A high-performance building requires proper design and construction, with more energy-efficient HVAC systems, while keeping human comfort in mind. Reconstruction will be difficult and expensive if the performance measures are not achieved after the building is constructed. As a result, evaluating a building's performance in the pre-design phase and simulating the building before construction can be beneficial. We present a solution that combines the Discrete Event System Specification (DEVS) with Building Information Modeling (BIM) to predict building efficiency. We present two case studies using simulations to show how the proposed approach helps in enhancing the building's performance."
+}

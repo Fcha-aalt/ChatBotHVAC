@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034666571,
+    "Title": "Field test and simulation evaluation of variable refrigerant flow systems performance",
+    "Author": "Lee J.H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2017.10.077",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Samsung Electronics Co. Ltd.",
+    "Affliation Country": "South Korea",
+    "Cited by count": 16,
+    "Abstract": "This study aims to compare a performance of Variable Refrigerant Flow (VRF) system with Roof Top Unit (RTU) variable-air-volume (VAV) system through field tests and energy simulations. The field test was conducted at the same conditions as much as possible between two systems such as the installation and operating environments of heating, ventilation and air conditioning (HVAC) system including internal heat gain and outdoor conditions including buildings to compare the performance of two systems accurately. A VRF system and RTU were installed at the test building located in Tennessee Oak Ridge in the USA and the same internal heat gain was generated at the same operating time of the two systems using lighting, electric heater, and humidifier inside the building. The HVAC system was alternately operated between cooling and heating operations to acquire energy performance data and compare energy usage. Furthermore, an hourly building energy simulation model was developed with regard to the VRF system and RTU and then the model was calibrated using actual measured data. Then, annual energy consumptions of the two systems were compared and analyzed using the calibrated model. Moreover, additional analysis was conducted also when the control of discharge air temperature in the RTU was changed. The field test result showed that when energy consumptions of two systems were compared at the same outdoor conditions using the weather-normalized model, the VRF system exhibited energy reduction by 17% during cooling operation and by 74% during heating operation approximately. A comparison on the annual energy consumption using simulations showed that the VRF system reduced more energy consumption than that of the RTU by 60%. When a discharge air temperature in the RTU was controlled according to an outdoor air temperature, energy consumption of RTU was reduced by 6% in cooling temperature and 18% in heating operation, respectively. As a result, energy consumption of the VRF system was reduced more than that of the RTU by 55% approximately."
+}

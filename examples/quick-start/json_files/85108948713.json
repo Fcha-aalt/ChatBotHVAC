@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85108948713,
+    "Title": "Outdoor Temperature Estimation Using ANFIS for Soft Sensors",
+    "Author": "Pezeshki Z.",
+    "Journal": "Journal of Autonomous Intelligence",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.32629/jai.v2i3.58",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Islamic Azad University",
+    "Affliation Country": "Iran",
+    "Cited by count": 1,
+    "Abstract": "In recent years, several studies using smart methods and soft computing in the field of HVAC systems have been provided. In this paper, we propose a framework which will strengthen the benefits of the Fuzzy Logic (FL) and Neural Fuzzy (NF) systems to estimate outdoor temperature. In this regard, Adaptive Neuro Fuzzy Inference System (ANFIS) is used in effective combination of strategic information for estimating the outdoor temperature of the building. A novel versatile calculation focused around ANFIS is proposed to adjust logical progressions and to weaken the questionable aggravation of estimation information from multisensory. Due to ANFIS accuracy in specialized predictions, it is an effective device to manage vulnerabilities of each experiential framework. The NF system can concentrate on measurable properties of the samples throughout the preparation sessions. Reproduction results demonstrate that the calculation can successfully alter the framework to adjust context oriented progressions and has solid combination capacity in opposing questionable data. This sagacious estimator is actualized utilizing Matlab and the exhibitions are explored. The aim of this study is to improve the overall performance of HVAC systems in terms of energy efficiency and thermal comfort in the building."
+}

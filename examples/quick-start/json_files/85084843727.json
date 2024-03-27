@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084843727,
+    "Title": "Improving energy efficiency of commercial buildings by Combined Heat Cooling and Power plants",
+    "Author": "Catrini P.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.scs.2020.102157",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Palermo",
+    "Affliation Country": "Italy",
+    "Cited by count": 26,
+    "Abstract": "Commercial buildings play a key-role in the energy consumption of the building sectors. Recent statistics have shown that as the number of commercial buildings is continuously increasing, their effects on energy consumption are expected to grow. These buildings are characterized by high energy demand mainly due to lighting and HVAC requirements. Rooms of energy saving exist by considering that: (i) electricity demands and HVAC requirements occur simultaneously during the day and (ii) both demands are currently satisfied by using separate energy systems. It is apparent that the adoption of polygeneration systems could represent a valid solution to achieve energy savings. To this aim, the paper investigated the profitability of a trigeneration system for commercial buildings, considering a big Do It Yourself shop located in the northern part of Italy, as case study. The analysis was based on (i) energy consumption data collected by energy-audits and (ii) a profit-oriented management strategy for the trigeneration systems proposed in literature. Results showed that trigeneration represents a profitable energy conversion system thanks to revenues achieved by selling surplus electricity and the support of financial mechanism for “High-Efficient” eligibility. In comparison with the currently adopted energy conversion systems, important reductions in energy consumption and CO2 emissions are observed."
+}

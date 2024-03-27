@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85038867528,
+    "Title": "Mathematical modeling and performance evaluation of a desiccant coated fin-tube heat exchanger",
+    "Author": "Jagirdar M.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2018-02-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.apenergy.2017.12.038",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Multi-Disciplinary Laboratory Blk E3",
+    "Affliation Country": "Singapore",
+    "Cited by count": 69,
+    "Abstract": "A solid-desiccant system that utilizes low grade heat is potentially a viable add-on to conventional HVAC systems since it can help reduce power consumption significantly, for achieving indoor thermal comfort conditions. In contrast to desiccant wheels which carry out adiabatic dehumidification, isothermal dehumidification process that may be realized by a cross-flow heat exchanger is much more efficient. In this paper, a novel mathematical model is developed to simulate heat and mass exchange phenomena of a desiccant coated fin tube heat exchanger (DCFTHX). This model takes solid side mass transfer resistance as well as fin efficiency into consideration. The model is validated using experimental results in the literature. It is also compared against simplified models to establish its utility. A parametric study is then conducted to investigate the effects of geometrical parameters as well as mass flow rate of water and air velocity on dehumidification and adsorption heat removal performance of the DCFTHX as well as the performance of the augmented air-conditioning system under warm and humid ambient conditions. Under the range of parameters and conditions simulated, if low grade waste heat (50 °C hot water) is available for regeneration, integration of DCFTHX sub-system with a conventional air conditioning system can yield as high as 31% energy savings (even when the additional power consumed by pumps and blower fans is accounted for)."
+}

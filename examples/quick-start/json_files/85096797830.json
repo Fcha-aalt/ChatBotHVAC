@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096797830,
+    "Title": "Miniaturized CO<inf>2</inf> gas sensor based on photoacoustic spectroscopy",
+    "Author": "Gassner S.",
+    "Journal": "MikroSystemTechnik Kongress 2019 - Mikroelektronik MEMS-MOEMS Systemintegration - Saulen der Digitalisierung und kunstlichen Intelligenz, Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Infineon Technologies AG",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "In the course of the continual energy optimization of automobiles, in particular the HVAC system (Heating, Ventilation, Air Conditioning) has moved into the focus of development, especially with respect to future electrically powered vehicles. It is expected that carbon dioxide (CO2) in the form of the refrigerant R744 will be used in future systems due to its high energy saving potential [1]. In the event of a traffic accident or technical malfunction, the CO2 can escape from the HVAC system and pose a hazard to passengers [2]. Apart from this, an increased concentration of CO2 caused by the breathing of the passengers can also have a negative effect on the driver’s decision making performance [3]. For these reasons, monitoring the concentration of CO2 in vehicles is extremely important for passenger safety. This work presents a new CO2 sensor based on the principle of non-resonant photoacoustic spectroscopy. The sensor can be manufactured using established technologies and components that enable the production of reliable, miniaturized and cost-effective gas sensors. The sensor design includes a microstructured broadband infrared emitter and a miniaturized photoacoustic detector cell encapsulated in TO-metal (transistor outline) packages with sapphire windows. The infrared emitter is based on a Si-membrane with sputtered-on nano-amorphous carbon (NAC) [4]. The detector consists of a highly sensitive MEMS (micro-electro-mechanical) microphone, a photodiode and a thermistor. All components were glued in, bonded with gold wires and then hermetically sealed in a CO2 atmosphere in a roll seam process. Both TO components were combined in a compact, cylindrical module with the dimensions 14.5 mm × 19 mm and then evaluated together. The fundamental characterization of the sensor has shown that the concept of photoacoustic spectroscopy offers great potential for accurate CO2 measurements with a relatively low mechanical sensor complexity. The detection limit (LoD) of the evaluated sensors depends on the absorption distance and lies between LoD = 48 ppm for l = 15 mm and LoD = 91 ppm for l = 5 mm. An investigation of possible signal drifts during a four-month long-term test showed no significant changes in sensor sensitivity."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087971130,
+    "Title": "Deepclass: Edge based class occupancy detection aided by deep learning and image cropping",
+    "Author": "Tse R.",
+    "Journal": "Proceedings of SPIE - The International Society for Optical Engineering",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1117/12.2572948",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Macao Polytechnic University",
+    "Affliation Country": "Macao",
+    "Cited by count": 7,
+    "Abstract": "Detecting people's presence, monitoring their flows, and their activities, counting how many persons are in a specific place can be strategic goals in different contexts, providing useful insights for different purposes, including those ones related to the management of staying quality in indoor environments. In particular, having information about the actual and current occupancy of a specific room, in specific hours, could be strategic in providing interesting and helpful information for smart building management. In fact, this information could be needed to adequately set the Heat, Ventilation and Air Conditioning (HVAC), the alarm, the lighting systems, and other management issues also. In this context, the Internet of Things paradigm, together with the diffusion of the availability of sensors and smart objects, can provide significant support in monitoring and detecting daily life activities in various situations. Moreover, advancements and specific analysis in image processing can play a strategic role in guaranteeing and improving accuracy, whenever cameras are involved in these situations, to get pictures from the monitored environments. In this paper, we present a people counting approach we have defined and adopted to monitor persons' presence in smart campus classrooms, which is based on the use of cameras and Raspberry Pi platforms. Such an approach has been improved thanks to specific image processing strategies, to be generalized and adopted in different indoor environments, without the need for a specific training phase. The paper presents some evaluation tests we have conducted, showing the accuracy of our approach."
+}

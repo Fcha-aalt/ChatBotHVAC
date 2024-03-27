@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077014301,
+    "Title": "Application of artificial neural network for the optimum control of hvac systems in double-skinned office buildings",
+    "Author": "Seo B.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-12-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12244754",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NC State University",
+    "Affliation Country": "United States",
+    "Cited by count": 14,
+    "Abstract": "Double Skin Façade (DSF) systems have become an alternative to the environmental and energy savings issues. DSF offers thermal buffer areas that can provide benefits to the conditioned spaces in the form of improved comforts and energy savings. There are many studies conducted to resolve issues about the heat captured inside DSF. Various window control strategies and algorithms were introduced to minimize the heat gain of DSF in summer. However, the thermal condition of the DSF causes a time lag between the response time of the Heating, Ventilation, and Air-Conditioning (HVAC) system and cooling loads of zones. This results in more cooling energy supply or sometimes less than required, making the conditioned zones either too cold or warm. It is necessary to operate the HVAC system in consideration of all conditions, i.e., DSF internal conditions and indoor environment, as well as proper DSF window controls. This paper proposes an optimal air supply control for a DSF office building located in a hot and humid climate. An Artificial Neural Network (ANN)-based control was developed and tested for its effectiveness. Results show a 10.5% cooling energy reduction from the DSF building compared to the non-DSF building with the same HVAC control. Additionally, 4.5% more savings were observed when using the ANN-based control."
+}

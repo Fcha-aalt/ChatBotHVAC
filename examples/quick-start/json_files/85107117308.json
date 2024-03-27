@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107117308,
+    "Title": "Business processes and comfort demand for energy flexibility analysis in buildings",
+    "Author": "Karatzas S.K.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-12-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13246561",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Patras",
+    "Affliation Country": "Greece",
+    "Cited by count": 1,
+    "Abstract": "Occupant behavior and business processes in a building environment constitute an inseparable set of important factors that drives energy consumption. Existing methodologies for building energy management lag behind in addressing these core parameters by focusing explicitly on the building’s structural components. Additional layers of information regarding indoor and outdoor environmental conditions and occupant behavior patterns, mostly driven by everyday business processes (schedules, loads, and specific business activities related to occupancy patterns and building operations), are necessary for the effective and efficient modeling of building energy performance in order to establish a holistic energy efficiency management framework. The aim of this paper was to develop a context-driven framework in which multiple levels of information regarding occupant behavior patterns resulting from everyday business processes were incorporated for efficient energy management in buildings. A preliminary framework evaluation was performed in a multifaceted university building involving a number of spaces, employees, business processes, and data from sensors and metering devices. The results derived by linking operational aspects and environmental conditions (temperature, humidity, and luminance) to occupant behavior underlying business processes and organizational structures indicated the potential energy savings: A max of 7.08% for Heating, ventilation, and air conditioning (HVAC), 19.46% for lighting and a maximum of 6.34% saving related to office appliances."
+}

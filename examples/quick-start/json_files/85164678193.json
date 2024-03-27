@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164678193,
+    "Title": "Fault data seasonal imbalance and insufficiency impacts on data-driven heating, ventilation and air-conditioning fault detection and diagnosis performances for energy-efficient building operations",
+    "Author": "Zhong F.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2023.128180",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 4,
+    "Abstract": "The heating, ventilation and air-conditioning fault impacts vary with different seasonal climatic conditions, but the fault data may not be available under some seasons in real buildings due to the frequency and span of fault occurrences. This study evaluates the fault detection and diagnosis (FDD) performance differences of the proposed convolutional and recurrent neural networks under limited seasonal fault data scenarios and an ideal scenario covering climatic conditions from multiple seasons. The fault and normal data were gathered from fault simulations using a verified prototype building EnergyPlus model and two real fault datasets. Four different data experiments based on the simulated dataset were implemented to assess FDD performance differences, and two sets of further experiments based on each real fault dataset were conducted to verify the findings from previous experiments. The results show that the FDD architectures, trained on sufficient fault data under a certain season(s), indicate poor generalization ability to identify faults under unseen seasons. Moreover, the coverage of fault data under different seasons is more crucial in enhancing FDD performances than the amount of fault data under each season. These findings will help researchers consider this practical issue when evaluating new or existing data-driven FDD methods."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058244051,
+    "Title": "Ioccupancy: An Investigation of Online Occupancy-driven HVAC Control in Campus Classrooms",
+    "Author": "Chen C.",
+    "Journal": "CitiFog 2018 - Proceedings of the 1st Workshop on Smart Cities and Fog Computing, Part of SenSys 2018",
+    "Publication Date": {
+        "$date": "2018-11-04T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3277893.3277900",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "South China University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Accurate and timely occupancy data is critical for occupancy-driven energy efficiency in smart building management. This paper presents an on-going project iOccupancy which elaborates the practice of employing a CNN-based object detection algorithm YOLOv3 (version 3) for occupancy counting using images from surveillance cameras and online occupancy-driven HVAC control in campus classrooms. Our experiments show that counting occupants with the YOLOv3 object detector can only achieve an accuracy around 60% in large classrooms with a single camera located at the back of classrooms, indicating that more than one cameras might be needed for practical usage. Energy saving opportunities are also justified in real use cases of classrooms, comparing to fixed HVAC scheduling (e.g. using course time tables)."
+}

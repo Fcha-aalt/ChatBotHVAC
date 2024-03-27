@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138987620,
+    "Title": "HVAC Control Systems for a Negative Air Pressure Isolation Room and Its Performance",
+    "Author": "Hamdani H.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/su141811537",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Syiah Kuala",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 2,
+    "Abstract": "The controlled environment room, called an isolation room, has become a must have for medical facilities, due to the spreading of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), to isolate the high risk infected patients. To avoid the transmission of the virus through airborne routes, guidelines were published by the government and the association. A medical facility must comply with this document for high-risk patient treatment. A full-scale N class isolation room was built at Syiah Kuala University to investigate the performance in terms of the controller, temperature, pressure, humidity, and energy consumption. The isolation room was equipped with a proper capacity heating, ventilating, and air conditioning (HVAC) system, which consisted of an air conditioning compressor and a negative pressure generator (NPG), and its installation was ensured to fulfil the guidelines. Since the current NPG was controlled manually, a computer-based control system was designed, implemented, and compared with the manual control. The results showed that the computer-based control outputs better stability of pressure and electric power. For that reason, a computer-based control was chosen in the real case. To investigate the performance of the isolation room, a 24 h experiment was carried out under different parameter setups. The results showed that improvement of the control strategy for temperature and humidity is still necessary. The energy consumption during the activation of the NPG for the recommended negative pressure was slightly different. An additional piece of equipment to absorb the heat from the exhaust air would be promising to improve the energy efficiency."
+}

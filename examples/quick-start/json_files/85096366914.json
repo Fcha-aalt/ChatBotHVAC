@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096366914,
+    "Title": "Performance comparison of tube and plate-fin circular and elliptic heat exchangers for HVAC-R systems",
+    "Author": "Matos R.S.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2021-02-05T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.applthermaleng.2020.116288",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Federal do Parana",
+    "Affliation Country": "Brazil",
+    "Cited by count": 8,
+    "Abstract": "This work seeks to improve HVAC-R systems technology by experimentally quantifying energy efficiency increase due to the utilization of elliptic instead of circular tubes in the evaporator. For that, a performance comparison is conducted in a 12000-Btu h−1 split air conditioning system. A finned elliptic tubes evaporator was built in the laboratory, based on the optimized geometry found in previous studies published by the same authors for maximum heat transfer density, i.e., S/2b, e,φfopt≅(0.5, 0.6, 0.094), which accounts for tube-to-tube spacings, tube eccentricity and fin density. The finned circular tubes evaporator (e = 1) was also built in the laboratory to replace the original component made by the equipment manufacturer, with S/2b = S/D, e,φfopt≅(0.5, 1, 0.094), i.e., same tube-to-tube spacings, and fin density as the elliptic evaporator. In this way, the two heat exchangers had the same shape to minimize their geometric differences. Additionally, the evaporators were designed to fit in the same evaporator unit as the original evaporator, with exactly the same external shape and number of tubes, thus the refrigerant circuit was the same, being the only component to be replaced in the experimental apparatus for comparing the two systems. The objective functions utilized for performance comparisons were the coefficient of performance, COP, and the dimensionless heat transfer volumetric density, q~. The experiment was carried out through the operation of the system installed as specified by the manufacturer, with the evaporation unit placed inside a test chamber, and the condenser unit in a surrounding environmentally controlled ambient. The compressor energy consumption was directly measured by an electric power meter. The results indicate that the optimized elliptic in comparison to the circular geometry shows a gain of approximately 13 and 15% in Q̇evap, 9 and 13.5% in COP, 12.5% and 19.2% in qevap″, 13% and 16.6% in h¯, 14.3% and 16.7% in St¯, and 11.4 and 14.5% in q~, for Re2b = 1030 and 2060, respectively. In conclusion, the sole gain due to the elliptic with respect to the circular geometry is significant. An empirical correlation was introduced to extend the validity range of a previous one to 1030⩽ReD=Re2b⩽10600, and was made available for design engineers in order to predict heat transfer performance. The more the heat exchanger geometry departs from the optimized one, i.e., in terms of tube-to-tube spacings and fin density, the higher the gains are expected to be."
+}

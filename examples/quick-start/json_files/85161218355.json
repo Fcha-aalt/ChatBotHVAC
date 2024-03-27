@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161218355,
+    "Title": "Research on Low Carbon and Energy Saving Technology Path of Nuclear Power HVAC System",
+    "Author": "Li Y.",
+    "Journal": "Springer Proceedings in Physics",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-8899-8_12",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Hualong International Nuclear Power Technology Co. Ltd.",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Nuclear power is the most realistic choice to cope with climate change and low-carbon transformation of energy structure, and it is also the inevitable trend for China to achieve the “double carbon goal”. At present, the design task of nuclear power HVAC is not only to meet the functional requirements of users, but also to fulfill the tasks of efficient use of resources, environmental protection, energy saving and emission reduction. This paper discusses several “low carbon” technology paths that can be researched, developed and selected in the design process, including cold storage, pipeline optimization, cooling heat recovery, cold and hot air distribution, etc., analyzes the main problems and applicable conditions, and provides reference suggestions for the sustainable development of HVAC design and operation of nuclear power in China."
+}

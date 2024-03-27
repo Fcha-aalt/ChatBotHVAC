@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072393583,
+    "Title": "Simple thermal storage tank for improving the energy efficiency of an existing air-conditioning system",
+    "Author": "Maruyama K.",
+    "Journal": "Journal of Environmental Engineering (Japan)",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3130/aije.84.679",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nagoya City University",
+    "Affliation Country": "Japan",
+    "Cited by count": 1,
+    "Abstract": "We proposed a system that adds a 1 m3 TES tank called simple TES on the bypass pipe of the existing HVAC system, and it can charge/discharge within short-term less than an hour instead of a day. By simulation, it is found that the simple TES can improve energy efficiency of HVAC system because of increasing the partial load ratio of the heat-source equipment reduces its energy consumption and reducing operation time of the primary chilled water pumps, and then it can be achieved reduction of the energy consumption by 30% compared to conventional system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84925867606,
+    "Title": "Energy-efficient control of under-actuated HVAC zones in commercial buildings",
+    "Author": "Brooks J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2015-04-15T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enbuild.2015.01.050",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Florida",
+    "Affliation Country": "United States",
+    "Cited by count": 73,
+    "Abstract": "An occupancy-based feedback control algorithm is proposed for variable air volume HVAC systems that is applicable to the \"under-actuated\" case in which multiple rooms share the same HVAC equipment. The proposed algorithm is scalable to buildings of arbitrary size without increase in complexity. Experimental results in five rooms show 29-80% energy savings potential. Despite the inability to condition rooms independently due to the shared HVAC equipment, comfort was found to be well maintained - even when one room was warmer and another was cooler."
+}

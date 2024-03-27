@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077788435,
+    "Title": "Sensor Fault Diagnosis of Multi-Zone HVAC Systems Using Auto-Associative Neural Network",
+    "Author": "Elnour M.",
+    "Journal": "CCTA 2019 - 3rd IEEE Conference on Control Technology and Applications",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/CCTA.2019.8920554",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Qatar University",
+    "Affliation Country": "Qatar",
+    "Cited by count": 5,
+    "Abstract": "This paper presents a data-driven sensor fault diagnosis algorithm for multi-zone Heating, Ventilation, and Air conditioning (HVAC) systems based on an Auto-Associative Neural Networks (AANNs) framework. The proposed method can be used for both single and multiple sensor faults diagnosis by comparing the input of the network with the output and then identifying and isolating the fault based on the generated residuals. The implementation of the proposed method and the evaluation results are presented and demonstrated thoroughly in the paper for a simple 2-zone HVAC system using the transient systems simulation program (TRNSYS) considering single and multiple bias and drift sensor faults. The performance of the AANN-based approach is compared with a Principle Component Analysis (PCA)-based method and the results show a significant improvement in terms of the diagnosis accuracy."
+}

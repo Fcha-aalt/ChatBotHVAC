@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107502625,
+    "Title": "A diagnostic Bayesian network method to diagnose building energy performance",
+    "Author": "Taal A.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Hague University of Applied Sciences",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 2,
+    "Abstract": "In this paper the implementation of a diagnostic Bayesian network (DBN) method is presented which helps to overcome the problem that automated energy performance diagnosis in building energy management systems (BEMS) are seldom applied in practice despite many proposed methods in studies about this subject. Based on the 4S3F framework, which contains 4 types of symptoms and 3 types of faults, an energy performance diagnosis model can be built in a DBN tool to simulate the probabilities of faults based on the presence and absence symptoms which are related to conservation laws, energy performance and operational state of the heating, ventilation and air condition (HVAC) systems. Symptoms of all kinds of detection methods, based on models and rules or data-driven, can also be implemented. The structure of the building energy performance DBN models consists of symptom and fault nodes which are linked to each other by arcs. At diagnosis the probabilities of faults can be estimated by the presence of symptoms. This paper demonstrates how these DBN models can be setup using schematics for HVAC systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147849508,
+    "Title": "A New Type in TRNSYS 18 for Simulation of Borehole Heat Exchangers Affected by Different Groundwater Flow Velocities",
+    "Author": "Antelmi M.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16031288",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Milano",
+    "Affliation Country": "Italy",
+    "Cited by count": 5,
+    "Abstract": "Heating ventilating air-conditioning (HVAC) systems have been increasingly widespread in Italy: they can exploit renewable energies, are energy efficient systems, do not directly consume fossil fuels, and in the post-pandemic era, have also been subject to incentive processes by the Italian government. In South Tyrol, subject to harsh climates in both the winter and summer seasons, ground-source heat pump (GSHP) systems can be an excellent solution for the air conditioning of buildings. Unfortunately, too often, the design of HVAC systems with borehole heat exchangers (BHEs) is not adequate, and therefore, an innovative and expeditious numerical solution is proposed. A new numerical element (named Type285), written in Fortran code, was developed for TRNSYS 18 and able to implement the main features of BHEs and the surrounding aquifer. Type285 was compared with numerical models present in the literature (using hydrogeological software such as MODFLOW) and validated with the experimental data. The demonstration of the exchanged energy increase between the BHE and subsoil due to the increase in the groundwater flow velocity was carried out and evaluated. The choice to simulate BHE in TRNSYS using Type285 can be a fast and advantageous solution for HVAC system design."
+}

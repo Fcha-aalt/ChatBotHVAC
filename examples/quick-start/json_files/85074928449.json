@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074928449,
+    "Title": "Towards optimal control of air handling units using deep reinforcement learning and recurrent neural network",
+    "Author": "Zou Z.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-01-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2019.106535",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NYU Tandon School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 90,
+    "Abstract": "Optimal control of heating, ventilation and air conditioning systems (HVACs) aims to minimize the energy consumption of equipment while maintaining the thermal comfort of occupants. Traditional rule-based control methods are not optimized for HVAC systems with continuous sensor readings and actuator controls. Recent developments in deep reinforcement learning (DRL) enabled control of HVACs with continuous sensor inputs and actions, while eliminating the need of building complex thermodynamic models. DRL control includes an environment, which approximates real-world HVAC operations; and an agent, that aims to achieve optimal control over the HVAC. Existing DRL control frameworks use simulation tools (e.g., EnergyPlus) to build DRL training environments with HVAC systems information, but oversimplify building geometrics. This study proposes a framework aiming to achieve optimal control over Air Handling Units (AHUs) by implementing long-short-term-memory (LSTM) networks to approximate real-world HVAC operations to build DRL training environments. The framework also implements state-of-the-art DRL algorithms (e.g., deep deterministic policy gradient) for optimal control over the AHUs. Three AHUs, each with two-years of building automation system (BAS) data, were used as testbeds for evaluation. Our LSTM-based DRL training environments, built using the first year's BAS data, achieved an average mean square error of 0.0015 across 16 normalized AHU parameters. When deployed in the testing environments, which were built using the second year's BAS data of the same AHUs, the DRL agents achieved 27%–30% energy saving comparing to the actual energy consumption, while maintaining the predicted percentage of discomfort (PPD) at 10%."
+}

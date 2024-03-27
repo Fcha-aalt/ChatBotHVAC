@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175325277,
+    "Title": "Data-Driven Modeling of HVAC Systems for Operation of Virtual Power Plants Using a Digital Twin",
+    "Author": "Park H.A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16207032",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Electrotechnology Research Institute",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "Confronted with the climate crisis, the world is making tremendous efforts in energy transition, such as expanding renewable energy that does not emit carbon. The importance of virtual power plant (VPP) operation technology has emerged to secure grid flexibility in response to the expanding renewable energy implemented due to these efforts. Accordingly, VPPs, which include photovoltaics, wind turbines, heating, ventilation, and air conditioning (HVAC), load, and EV, have been constructed. HVAC, one of the component resources, is a system that controls and regulates temperature, humidity, and airflow. Since it responds sensitively to the building’s heat capacity and changes in the external environment, it requires continuous and stable control. In this paper, we used data-based modeling to implement the HVAC required for the optimal operation of VPP. Since accurately creating an equation-based HVAC model was difficult considering building information modeling and external environment variables, we used historical HVAC operation data to perform data-based modeling. The model was implemented using nonlinear regression and machine learning, such as a support vector machine and artificial neural network. Then, the data-based HVAC and the actual HVAC operation results were comparatively analyzed based on a case study, and the model’s goodness-of-fit was evaluated based on performance metrics. Model performance indicators confirmed that the ANN-based HVAC model was most similar to the actual HVAC system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041388198,
+    "Title": "Using artificial neural networks to assess HVAC related energy saving in retrofitted office buildings",
+    "Author": "Deb C.",
+    "Journal": "Solar Energy",
+    "Publication Date": {
+        "$date": "2018-03-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.solener.2018.01.075",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National University of Singapore",
+    "Affliation Country": "Singapore",
+    "Cited by count": 59,
+    "Abstract": "This study aims to develop prediction models for HVAC related energy saving in office buildings. The data-driven modelling makes use of data gathered from several energy audit reports. These reports entail building and energy consumption data for 56 office buildings in Singapore. The two models are developed using Multiple Linear Regression (MLR) and Artificial Neural Network (ANN). The methodology to select the most appropriate input variables forms the essence of this study. This variable selection procedure involves 819,150 iterations, taking all possible combinations of the 14 input variables to determine the most accurate model. The dependent variable is taken as the change in energy use intensity (EUI, measured in kWh/m2.year) between pre- and post-retrofit conditions. The results show that the ANN model is more accurate with a mean absolute percentage error (MAPE) of 14.8%. The best combination of variables to achieve this comprises of gross floor area (GFA), air-conditioning energy consumption, operational hours and chiller plant efficiency. The information on these four variables, along with the prediction model can be used to predict HVAC related energy savings in office buildings to be retrofitted."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85000868592,
+    "Title": "The lean energy and the reduction of energy cost and GHG emissions: A proven approach",
+    "Author": "Paradis J.",
+    "Journal": "IEEE Cement Industry Technical Conference (Paper)",
+    "Publication Date": {
+        "$date": "2016-11-11T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/CITCON.2016.7742675",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Stantec Inc., Canada",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The processes of lean energy (i.e. tools for continuous improvement) expand the boundaries of energy efficiency. Inspired by the Toyota method, this proven approach allows companies to optimize systems already installed, before considering new investments. Systems already installed in cement plants that can lend themselves to energy optimization include crushing, milling, pyroprocessing and pneumatic transport. Non-production systems can include HVAC, lighting and cooling water."
+}

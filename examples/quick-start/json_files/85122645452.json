@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122645452,
+    "Title": "An approach to select an energy-efficient shading device for the south-oriented façades in heritage buildings in Alexandria, Egypt",
+    "Author": "Ahmad R.M.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.egyr.2021.06.024",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 8,
+    "Abstract": "The different shading devices originally used in heritage buildings (if existed) might not be the optimal shading device to conserve the electrical energy consumed by the heating, ventilation, and air conditioning systems (HVAC). However, finding a suitable shading device that can improve thermal comfort without compromising the electrical energy consumption is considered a challenge since utilizing an inappropriate one could result in consuming more electrical energy than it should. This study aimed to propose an approach to selecting the best shading device between external and internal alternatives with controlling the HVAC system temperature setpoint to increase energy efficiency and achieve thermal comfort in south-oriented façades of heritage buildings in Alexandria in Egypt. The results showed that using the external horizontal blinds and microlouvre at certain HVAC temperature setpoints could save up to 46% and 35% of the HVAC annual electrical energy consumption and achieving thermal comfort on 228 and 261 days, respectively. Meanwhile, applying the optimal annual operating schedule approach achieved 365 thermally comfortable days, saving around 35% of the HVAC annual electrical energy consumption."
+}

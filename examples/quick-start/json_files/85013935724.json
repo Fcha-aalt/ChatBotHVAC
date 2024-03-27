@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85013935724,
+    "Title": "Chiller savings using the automatic tube cleaning system (ATCS)",
+    "Author": "Ross D.",
+    "Journal": "39th World Energy Engineering Conference, WEEC 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Pangolin Assoc.",
+    "Affliation Country": "Australia",
+    "Cited by count": 1,
+    "Abstract": "The successful operation of a water-cooled HVAC chiller requires controlling the growth of biofilm and deposition of scale on the internal tubes of the condenser heat exchange surface. The formation of fouling reduces heat transfer efficiency and subsequently increases chiller work loads and energy consumption. This paper presents case studies of energy savings obtained using a sponge ball Automatic Tube Cleaning System (ATCS) in Class A commercial buildings and hospitals located in Sydney, Australia. By using hydro mechanical principals, the system circulates sponge balls through the condenser water tubes in preset 30- minute intervals. The physical results from the installation of an ATCS are revealed when annual AS/NZS-3788 pressure equipment inspections and/or \"expected\" maintenance tube cleans are performed. Furthermore, comparing chiller performance before and after ATCS installation has shown a minimum 24.5% reduction in electrical energy consumption of the chillers. Demand savings (kVA) are also realized."
+}

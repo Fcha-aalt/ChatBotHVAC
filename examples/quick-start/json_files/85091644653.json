@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091644653,
+    "Title": "The potential role of trans-critical CO<inf>2</inf> heat pumps within a solar cooling system for building services: The hybridised system energy analysis by a dynamic simulation model",
+    "Author": "Lo Basso G.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2021-02-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.renene.2020.09.098",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 20,
+    "Abstract": "The rotary desiccant wheels application in the air conditioning systems are used for the air dehumidification by means of hygroscopic layers for water vapor adsorption. Nevertheless, external heat sources are required for water desorption to close the air treatment cycle. This paper investigates on the possibility to integrate in that cycle a new component, such as the trans-critical CO2 heat pump, to reduce the contribution of external thermal sources. In so doing, the high temperature waste heat discharged by the heat pump hot sink can be fruitfully exploited. Additionally, a PV array has been added to the typical layout based on the solar collectors, in order to assure the heat pump electrical driving. The energy analysis is carried out by calculating the energy performance indicators of the whole cooling system, simulating it by a dynamic model built in the MATLAB SIMULINK environment. Specifically, an air handling unit has been properly sized to supply cooling load to a reference conference hall of 1200 m3, with changes in boundary conditions (i.e. solar radiation, daily temperature and relative humidity variations). Indeed, three different cities representing the most typical Italian climatic zones, have been considered for assessing the proposed technical option suitability."
+}

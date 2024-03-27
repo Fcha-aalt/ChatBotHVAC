@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103653990,
+    "Title": "Occupancy-based HVAC control systems in buildings: A state-of-the-art review",
+    "Author": "Esrafilian-Najafabadi M.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-06-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107810",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 88,
+    "Abstract": "Intelligent buildings have drawn considerable attention due to rapid progress in communication and information technologies. These buildings can utilize current and historical data, collected from occupancy detection and monitoring networks, to predict occupancy profiles and adjust heating, ventilating, and air conditioning (HVAC) operations accordingly. This adjustment aims to minimize the energy consumption of HVAC systems while maintaining an acceptable level of thermal comfort and indoor air quality. To provide a trade-off between these conflicting objectives, a variety of occupancy-based control strategies have been proposed in the literature. The present article aims to review the research works concerning occupancy-based control systems, classify them based on the integration of occupancy information with control systems and identify their strengths and limitations. Finally, research gaps in this field are discussed from different aspects, including performance evaluation metrics, control methods, occupancy models and buildings types. Future research directions are also proposed to fill the identified gaps."
+}

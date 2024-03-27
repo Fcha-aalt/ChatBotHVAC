@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144956414,
+    "Title": "Real-time energy performance benchmarking of electric vehicle air conditioning systems using adaptive neural network and Gaussian process regression",
+    "Author": "Guo F.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2023-03-05T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.applthermaleng.2022.119931",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 6,
+    "Abstract": "One major concern of the electric vehicle is the limited driving range per charge. Among its auxiliary systems, the heating, ventilation, and air conditioning (HVAC) system consumes the largest amount of electricity and can have a significant impact on the driving range when operational faults occur. This paper proposes a real-time benchmarking method to continuously evaluate the energy performance of a large number of electric vehicle air conditioning systems. Each system is benchmarked based on the energy consumption of its peer systems. Considering the energy consumption is influenced by several impact factors including the ambient environment and the cooling capacity, this study encodes the impact factors with an Autoencoder to measure the similarities between operating conditions. Also, considering the difference in operating conditions between a system and its peers, the uncertainties in energy performance benchmarks of the peer systems are quantified by the Gaussian process given its probabilistic nature. For each peer system, a Gaussian process regression model is developed as a benchmark, and the performance of the target system is assessed by comparing its measured energy consumption with the averaged benchmarks of all its comparable peers, accounting for the uncertainties. With the continual learning algorithm adopted, the Autoencoder can be updated periodically to adapt to real-time operational data with minimal computational cost. The real-time benchmarking method is applied to electric bus air conditioners in Haikou and Sanya, China, and can effectively identify malfunctioning systems. This method can be conveniently deployed on cloud for smart health management of public electric vehicles in smart cities."
+}

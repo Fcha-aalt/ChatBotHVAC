@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091218301,
+    "Title": "Description of HVAC System and Identification of Flow Rates and Pressures in HVAC Based on Collective Intelligence System",
+    "Author": "Li H.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2020-08-28T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1088/1755-1315/555/1/012112",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "China Academy of Building Research",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "The efficient control of the HVAC system is important for the reduction of energy consumption in buildings. The water and air distribution network of HVAC system not only consume energy but also determine whether the cold and heat are delivered properly in the building according to the cooling and heating loads. The optimal control of the HVAC distribution system is complex due to the scale of the network and the coupling effects between HVAC devices. This paper proposes a novel distributed control system using standard computing process nodes, which is called the Collective Intelligence System (CIS). The proposed method is validated using a typical HVAC system in a real office building. The description of the HVAC system and the identification of flow rates and pressures of the distribution network is demonstrated using the decentralized identification algorithm."
+}

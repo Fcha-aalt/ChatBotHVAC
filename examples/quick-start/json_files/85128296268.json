@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128296268,
+    "Title": "IEQ Applications: Reducing Airborne Contamination, Transmission &amp; Migration - Inspirations From Cleanroom HVAC Technologies",
+    "Author": "Sun W.",
+    "Journal": "ASHRAE Journal",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Engsysco, Inc.",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "HVAC technologies used in cleanrooms can achieve ultralow airborne contamination, transmission and migration to meet industrial specifications. Traditionally, people assume cleanrooms consume high levels of energy, and their technologies and associated costs are only justified for high-tech sectors. However, emerging design concepts and approaches are becoming more cost-effective and energy efficient while achieving excellent airborne cleanliness performance. Many mitigation strategies have been studied to tackle COVID-19 challenges in airborne contamination control. Cleanrooms' unique and mature air handling, distribution, cascading, segregation and filtration techniques may encourage experimenting with some of its concepts for commercial spaces to achieve better airborne infectious disease transmission control where applicable and cost-effective."
+}

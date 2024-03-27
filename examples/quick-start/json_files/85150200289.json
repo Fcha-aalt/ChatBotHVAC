@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150200289,
+    "Title": "A critical investigation of the readiness of VAV systems to adopt grid-interactive capabilities",
+    "Author": "Vindel E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112974",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Commercial buildings can be flexible demand resources through load shedding and shifting of variable air volume (VAV) heating ventilation and air conditioning (HVAC) systems. Given that this technology is still in its nascent stages, most of the existing methods and analyses are tested and validated through simulation. And yet, the value of this technology is contingent on the seamless technology transfer to the existing building population. In this work, we explore the complications that exist in the deployment of grid-interactive technologies in VAV systems. To do this, we systematically analyze the operational signatures and design characteristics using a dataset of existing VAV systems located in the Midwest region of the United States to determine the common challenges observed in the adoption of this technology. We focus on five control loops fundamental to the operation of the system: zone temperature, zone airflow, air distribution, supply air temperature, and chilled water. Our main finding suggests the possibility that buildings, as designed and operated, face significant challenges in the adoption of advanced grid-interactive technologies. In particular, we find the following challenges are prevalent in existing systems: systematic oversizing, mismatch between design and operational conditions, the prevalence of faults, and conflicting objectives with comfort and energy efficiency. We then present a discussion of the solutions and technologies that can address the identified challenges, thereby increasing the future flexibility of these systems."
+}

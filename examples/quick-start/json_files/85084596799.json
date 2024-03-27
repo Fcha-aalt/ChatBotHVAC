@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084596799,
+    "Title": "HEAT - Human Embodied Autonomous Thermostat",
+    "Author": "Li D.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.106879",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Clemson University College of Engineering, Computing and Applied Sciences",
+    "Affliation Country": "United States",
+    "Cited by count": 23,
+    "Abstract": "The lack of thermal comfort among occupants is a common problem in built environments. Recent studies have investigated various physiological sensing and modeling approaches and demonstrated more robust thermal comfort prediction than the Predicted Mean Vote and participatory sensing methods. However, such physiological sensing approaches only work with iterative and passive Heating, Ventilation, and Air Conditioning (HVAC) control schemas which can lead to problems including uncertainties in setpoint control outcomes and interruptions to building occupants. To address this critical limitation, this paper proposes a new paradigm named Human Embodied Autonomous Thermostat (HEAT) that considers human occupants as an embodiment of smart and connected thermostats where physiological measurements in form of facial skin temperature can be used to directly communicate with and control HVAC operations for improved thermal satisfaction and reduced energy use while maintaining comfort in multi-occupancy spaces. This paradigm leverages occupants' skin temperature responses under different thermal environments and integrates two types of personal models - thermal comfort model and physiological predictive model to determine occupants’ comfort, which can be represented as the thermal comfort zone and comfort probability. Based on these two metrics, three HVAC strategies are compared to demonstrate thermal comfort optimization for a group of occupants. The result suggests different setpoint options as a trade-off between overall comfort and energy use. The proposed HEAT framework can conceptually make wall-mounted physical thermostats redundant by serving as a basis for automated environment control based directly on human measurements to improve personalized human experience, well-being, and building energy efficiency."
+}

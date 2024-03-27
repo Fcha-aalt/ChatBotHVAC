@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091594040,
+    "Title": "Thermal comfort modeling when personalized comfort systems are in use: Comparison of sensing and learning methods",
+    "Author": "Aryal A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.107316",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "USC Viterbi School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 61,
+    "Abstract": "Centralized HVAC systems are usually unable to cater to individual requirements when multiple occupants are present in the same zone. Personalized Comfort Systems (PCS) such as local fans and heaters, heated/cooled chairs, local ventilation systems, have shown to be useful for maintaining comfortable thermal conditions by creating a microclimate around each occupant. Previous studies have mostly focused on personalized thermal comfort modeling under regular HVAC operations, and there is a lack of work that focuses on personalized thermal comfort modeling when PCS devices are in use. In this study, we compare different sensing and machine learning methods to build personal comfort models when a local fan or heater is in use. The experiment was conducted in a controlled environment with three segments: regular (no fan/heater), fan on, and heater on. Our results indicate that the data from environmental sensors results in 2%–5% higher prediction accuracy compared to using a wearable device to monitor wrist skin temperature or thermal imaging to monitor skin temperature from different regions of the face. Furthermore, environmental sensors are more affordable and have relatively fewer privacy concerns compared to the physiological sensors. Overall, the results of this study support the use of environmental sensors for building personalized thermal comfort models with or without PCS. Furthermore, the results also highlight the need for building separate personalized thermal comfort models when PCS devices are in use, and when PCS devices are not in use."
+}

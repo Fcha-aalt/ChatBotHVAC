@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142922258,
+    "Title": "Numerical Simulation of Roof Mounted Rail AC Unit",
+    "Author": "Baruah M.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2022-11-09T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.4271/2022-28-0436",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Subros Limited",
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "Indian Railways, often described as the \"transport lifeline of the nation\", is the fourth largest railway network in the world, from suburbs to urban transit, the Indian rail network covers the length and breadth of the country. To make the journeys easier and memorable it is very much important to provide adequate comfort and easy access to every facilitates. For better comfort inside the coach as well as in the drivers' cabin, air-conditioning system has to be quite effective and energy efficient. While it is too expensive to go with prototypes at the initial stage, numerical simulation comes very handy in helping and optimizing the unit and come out with viable design concept within very short time. The present study provides a methodology for the numerical simulation of a drivers' cabin AC to determine the volumetric airflow rate. The unit is designed for the drivers' cabin and it is mounted on roof. Numerical simulation was performed with the help of 3D Computational Fluid Dynamics (CFD) using STAR-CCM+ software for both the evaporator and condenser side. The axial fan in condenser section was numerically simulated using fan interface method and the centrifugal fan in the blower was simulated using Multiple Reference Frame (MRF) modelling. The heat exchangers were modelled as porous media. Such an approach for numerical simulation can also be extended to different Heating Ventilation and Air Conditioning (HVAC) models for passenger vehicles and other commercial vehicles."
+}

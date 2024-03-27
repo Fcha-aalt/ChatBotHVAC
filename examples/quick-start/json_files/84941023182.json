@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84941023182,
+    "Title": "Phase change materials and thermal energy storage for buildings",
+    "Author": "De Gracia A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2015-09-15T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enbuild.2015.06.007",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Universidad de Antofagasta",
+    "Affliation Country": "Chile",
+    "Cited by count": 485,
+    "Abstract": "It is well known that there is a need to develop technologies to achieve thermal comfort in buildings lowering the cooling and heating demand. Research has shown that thermal energy storage (TES) is a way to do so, but also other purposes can be pursued when using TES in buildings, such as peak shaving or increase of energy efficiency in HVAC systems. This paper reviews TES in buildings using sensible, latent heat and thermochemical energy storage. Sustainable heating and cooling with TES in buildings can be achieved through passive systems in building envelopes, Phase Change Materials (PCM) in active systems, sorption systems, and seasonal storage."
+}

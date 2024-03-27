@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177186792,
+    "Title": "ADVANCES IN DATA-DRIVEN FAULT DETECTION AND DIAGNOSIS FOR HVAC SYSTEMS: A REVIEW OF RECENT DEVELOPMENTS",
+    "Author": "Rajabi F.",
+    "Journal": "Proceedings of the European Conference on Computing in Construction",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.35490/EC3.2023.199",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Building performance can degrade precipitously after commissioning without adequate maintenance. HVAC system malfunctions can result in excessive energy consumption, associated CO2 emissions, poor indoor environmental quality, and productivity loss. Fault Detection and Diagnosis (FDD) algorithms using sensor networks and IoT devices are a topic of significant research. This paper presents a comprehensive literature review of HVAC FDD applications using machine learning methods, including supervised classification, unsupervised learning, regression, statistics-based, and hybrid approaches. Each is discussed with respect to their state of development, relative advantages and limitations."
+}

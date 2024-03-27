@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056749014,
+    "Title": "Achieving natural ventilation potential in practice: Control schemes and levels of automation",
+    "Author": "Chen Y.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2018.11.016",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "State Key Laboratory of Fluid Power and Mechatronic Systems",
+    "Affliation Country": "China",
+    "Cited by count": 72,
+    "Abstract": "A major challenge to fully achieve the natural ventilation (NV) potential in green buildings is the control and coordination of windows and the HVAC system. Three main types of control schemes with increasing levels of automation were examined in this study: spontaneous occupant control driven by thermal comfort, informed occupant manual control that follows instructional signals, and the fully automatic window/HVAC control system governed by either rule-based heuristic control criteria or a computational backend for model predictive control (MPC). Energy saving performance, indoor thermal comfort, and frequency of operation were used as metrics to evaluate various control schemes. We assessed the effectiveness of these control schemes using five representative climates in China that range from hot to severely cold. Our results demonstrated the advantage of fully automatic system, especially integrated with MPC, which showed energy savings of 17–80% with zero discomfort degree hours. In contrast with MPC, the fully automatic system with heuristic control showed 10–66% energy savings and the same discomfort degree hours. Neither the informed nor the spontaneous occupant control cases studied were able to maintain the indoor air temperature within the comfort range at all times. The informed occupant control in particular resulted in thousands of discomfort degree hours in the worst cases. The spontaneous occupant control showed moderate to no energy savings, whereas the informed occupant control introduced excessive energy usage in certain cases. Overall, the fully automatic NV control system exhibited the best energy saving performance and occupant satisfaction among studied control schemes despite of the additional initial investment. It is particularly true in climates where NV control has a considerable impact on building energy performance and employing improper NV control can cause energy waste and excessive thermal discomfort. In the selection of natural ventilation control system, our analysis suggests that developers and building owners should not only consider the initial system investment and maintenance cost, but also take into account the annual energy savings and occupant satisfaction to fully realize natural ventilation potential."
+}

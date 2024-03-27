@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061813588,
+    "Title": "Some aspects of improving the efficiency of air treatment in the contact units of HVAC systems",
+    "Author": "Gvozdkov A.",
+    "Journal": "10th International Conference on Environmental Engineering, ICEE 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.3846/enviro.2017.258",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Volgograd State Technical University",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 1,
+    "Abstract": "One of the main issues of improving the efficiency of air treatment in ventilation and air conditioning systems (HVAC systems) is development of methodology for the realization of energy-efficient air treatment processes in the contacting units. This paper investigates the thermodynamic models of “air-water” system, considering some features of the transition area at the interface, including surface phases and boundary layers of air and water. It has a great impact on the efficiency of processes of heat and moisture exchange in the contact units HVAC systems. The paper presents the results of experimental studies to determine the air-water interfaces temperature when achieving a state of thermodynamic balance condition in contacting media (air and water) in the working space of contact units. It was found that the surface temperature is determined by state of the surface phase and depends on the direction process of heat and moisture exchange (condensation or evaporation). The temperature factor k = Tdry/Ts as a criterion for determining the effect of the state transition area on the processes of heat and moisture exchange, was used. Processing of results from experimental researches in the processes of heat and mass transfer is presented in the form of criterial equations for Nu, Nu θ . Results of the performed research are the basis for the formulation of theoretical ideas about the energy efficient processes and the development of a new method for calculation of the contact units HVAC systems."
+}

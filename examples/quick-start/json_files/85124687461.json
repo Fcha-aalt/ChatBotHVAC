@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124687461,
+    "Title": "Exploring Deep Learning and Tree-Based Ensemble Models for Chiller Energy Consumption Predictions",
+    "Author": "Kanewala U.",
+    "Journal": "2021 IEEE 16th International Conference on Industrial and Information Systems, ICIIS 2021 - Proceedings",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICIIS53135.2021.9660662",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Peradeniya",
+    "Affliation Country": "Sri Lanka",
+    "Cited by count": 0,
+    "Abstract": "During the past century, the energy consumption of the entire planet has drastically increased due to various factors, including technological and population-based. Therefore increasing energy efficiency is of great importance to achieve overall sustainability. Energy consumption of buildings regarding Heating, Ventilation, and Air Conditioning (HVAC) plays a significant role in commercial buildings. Predicting the energy consumption of a building aids tremendously when optimizing its energy consumption. Knowing the energy consumption of the building beforehand provides the advantage to make informed decisions for enhanced energy efficiency by facility managers and utilities. At present, Machine Learning (ML) and Deep Learning (DL) play an essential role in making predictions using past data. This paper presents a comparative analysis of using Feedforward Neural Networks (FNN), Random Forest (RF) and Recurrent Neural Network (RNN) models for predicting energy data of a chiller system and introduces best practices to improve the model performances."
+}

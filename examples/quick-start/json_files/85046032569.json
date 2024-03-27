@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85046032569,
+    "Title": "Analysis and optimization of HVAC control systems based on energy and performance considerations for smart buildings",
+    "Author": "Homod R.Z.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2018-10-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.renene.2018.03.022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Basra University for Oil and Gas",
+    "Affliation Country": "Iraq",
+    "Cited by count": 49,
+    "Abstract": "The most distinctive properties of the HVAC systems are their large-scale nonlinear systems that contain large thermal inertia, time variability, nonlinear constraints, uncertain disturbance factors, multivariate systems and coupled properties for both temperature and humidity. This paper considers a novel control algorithm that could handle such intricate characteristics by using hybridization layers between the physical parameters’ memory and the neural networks’ weight, which is well-structured by the Takagi-Sugeno-Kang Fuzzy inference strategy. The application of nonlinear regression to the offline hybrid layers construction and online fine-tuning methods are conducted by using the Gauss-Newton Method in order to achieve fast tuning operation. The feedforward strategy is adopted, so as to boost the stability of the overall system in addition to increasing the control precision and its response speed. Moreover, the effects of disturbances and uncertainty are eradicated by online tuning. The tracking control goal takes full advantage of mature strategies regarding the predicted mean vote (PMV) to address high thermal inertia, to save energy and to tackle coupling problem. The proposed control performance results are analysed and compared to hybrid PID cascade control, where both strategies are tested individually and simultaneously through the use on the HVAC system. The obtained results showed that Feedforward Hybrid Layers Control (FHLC) led to effective advantages regarding optimal performance, adaptation, precision and robustness. Furthermore, adopted the adaptive structural control algorithm for FHLC to improve indoor thermal comfort, whereas the significant energy reduction is achieved. The prospective scope for future work is to expand the control structure for full building control by adding more controlled elements, such as lighting, ventilation, security, fire protection and other building appliances."
+}

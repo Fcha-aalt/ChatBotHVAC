@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061979832,
+    "Title": "Air distribution and air handling unit configuration effects on energy performance in an air-heated ice rink arena",
+    "Author": "Taebnia M.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-02-20T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12040693",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aalto University",
+    "Affliation Country": "Finland",
+    "Cited by count": 11,
+    "Abstract": "Indoor ice rink arenas are among the foremost consumers of energy within building sector due to their exclusive indoor conditions. A single ice rink arena may consume energy of up to 3500 MWh annually, indicating the potential for energy saving. The cooling effect of the ice pad, which is the main source for heat loss, causes a vertical indoor air temperature gradient. The objective of the present study is twofold: (i) to study vertical temperature stratification of indoor air, and how it impacts on heat load toward the ice pad; (ii) to investigate the energy performance of air handling units (AHU), as well as the effects of various AHU layouts on ice rinks’ energy consumption. To this end, six AHU configurations with different air-distribution solutions are presented, based on existing arenas in Finland. The results of the study verify that cooling energy demand can significantly be reduced by 38 percent if indoor temperature gradient approaches 1 ◦ C/m. This is implemented through air distribution solutions. Moreover, the cooling energy demand for dehumidification is decreased to 59.5 percent through precisely planning the AHU layout, particularly at the cooling coil and heat recovery sections. The study reveals that a more customized air distribution results in less stratified indoor air temperature."
+}

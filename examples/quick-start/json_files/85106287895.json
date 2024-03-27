@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106287895,
+    "Title": "Double-target based neural networks in predicting energy consumption in residential buildings",
+    "Author": "Moayedi H.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14051331",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Duy Tan University",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 33,
+    "Abstract": "A reliable prediction of sustainable energy consumption is key for designing environmentally friendly buildings. In this study, three novel hybrid intelligent methods, namely the grasshopper optimization algorithm (GOA), wind-driven optimization (WDO), and biogeography-based optimization (BBO), are employed to optimize the multitarget prediction of heating loads (HLs) and cooling loads (CLs) in the heating, ventilation and air conditioning (HVAC) systems. Concerning the optimization of the applied algorithms, a series of swarm-based iterations are performed, and the best structure is proposed for each model. The GOA, WDO, and BBO algorithms are mixed with a class of feedforward artificial neural networks (ANNs), which is called a multi-layer perceptron (MLP) to predict the HL and CL. According to the sensitivity analysis, the WDO with swarm size = 500 proposes the most-fitted ANN. The proposed WDO-ANN provided an accurate prediction in terms of heating load (training (R2 correlation = 0.977 and RMSE error = 0.183) and testing (R2 correlation = 0.973 and RMSE error = 0.190)) and yielded the best-fitted prediction in terms of cooling load (training (R2 correlation = 0.99 and RMSE error = 0.147) and testing (R2 correlation = 0.99 and RMSE error = 0.148))."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102262264,
+    "Title": "An Efficient Decision-Making Approach for Short Term Indoor Room Temperature Forecasting in Smart Environment: Evidence from India",
+    "Author": "Pandey K.",
+    "Journal": "International Journal of Information Technology and Decision Making",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1142/S0219622021500164",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Xavier University Bhubaneswar",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "\"Smart cities\"start with \"Smart Buildings\"that improve the quality of urban services while ensuring sustainability. The current scenario in India reveals that the corporate and residential building structures are incorporating various self-sustainable techniques. Out of the multiple factors governing the comfort of smart buildings, indoor room temperature is an important one, since it drives the need of cooling or heating through controlling systems. Around one-third of total energy consumption of commercial buildings in India is attributed to Heating, Ventilation and Air Conditioning (HVAC) systems. Accurate prediction of indoor room temperature helps in creating an efficient equilibrium between energy consumption and comfort level of the building, thus providing opportunities for efficient decision making for energy optimization. Considering Indian climatic and geographical conditions, this paper proposes an efficient decision making approach using Bayesian Dynamic Models (BDM) for short-term indoor room temperature forecasting of a corporate building structure. The results obtained from Bayesian Dynamic linear model, using Expectation Maximization (EM) algorithm, have been compared to standard Auto Regressive Integrated Moving Average (ARIMA) model, and have been found to be more accurate. Forecasting of indoor room temperature is a highly nonlinear phenomenon, so to further improve the accuracy of the linear models, a hybrid modeling approach has been proposed. The inclusion of state-of-the-art nonlinear models such as Artificial Neural Networks (ANNs) and Support Vector Regression (SVR) improves the forecasting accuracy of the linear models significantly. Results show that the hybrid model obtained using BDM and ANN is the best fit model."
+}

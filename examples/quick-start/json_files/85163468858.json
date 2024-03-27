@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163468858,
+    "Title": "Predictive control optimization of chiller plants based on deep reinforcement learning",
+    "Author": "He K.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107158",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "The energy consumption of HVAC systems is enormous, with chiller plants accounting for more than 50% of it. To improve energy efficiency, chiller systems are typically optimized at fixed intervals based on real-time building cooling loads, which usually assumes that the cooling load remains constant within the control interval. However, in many real applications, the current optimal control may be changed when the cooling load suddenly fluctuates. Although this issue can be addressed by shortening the control intervals, more frequent control can damage the equipment or increase energy consumption. To tackle this problem, this paper proposes a model-free predictive control method based on Reinforcement Learning (RL) control and Long Short-Term Memory (LSTM) prediction networks. The LSTM network aims to predict the future cooling load based on historical cooling load data, while the RL is used to make the best control for all chiller plants. By this way, the chilled water supply temperature setpoints can be optimized with the consideration of both instantaneous and predicted cooling loads to minimize energy consumption. In order to validate the effectiveness of the proposed method, an experimental simulation model was constructed based on actual chiller system parameters. Experimental results show that the energy-saving performance of the proposed method is superior to rule-based control (9% improvement), closely comparable to the model predictive control (0.73% difference), and further enhances energy-saving effects compared to non-predictive RL control without shortening the control interval. Additionally, the proposed method just learns by continuously interacting with the environment and does not require any accurate equipment models, making it a viable alternative for buildings when lacking extensive sensors and device information."
+}

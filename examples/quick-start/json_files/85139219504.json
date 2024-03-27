@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139219504,
+    "Title": "Interaction of hybrid energy systems with the power grid on the example of an industrial company",
+    "Author": "Lagler M.A.",
+    "Journal": "CIRED - Open Access Proceedings Journal",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1049/oap-cired.2021.0089",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technische Universitat Graz",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "Low- and medium-voltage networks are facing new challenges due to the increased use of distributed energy generation and storage units, the integration of electric vehicles, the coupling of thermal and electrical energy systems (hybrid energy systems, heat pumps, HVAC) and also the increased use of information and communications technology (ICT) in networks and at the consumer/prosumer level. Hybrid energy systems are systems that combine different energy sources and supply systems as well as energy distribution and storage systems in a compact system. The basis for an optimal and energy-efficient system is a knowledge of the interaction of the system components and their interdependencies and interactions. Previously systems were designed mainly based on empirical data of non-hybrid systems. The interdependencies and the number of influencing factors relevant for system design and operation were not considered. This contribution presents the results of a developed optimising hybrid energy management model consisting of a co-simulation between the thermal system modelled in TRNSYS and the electrical systems modelled in MATLAB."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139446742,
+    "Title": "Time-efficient Strategic Power Dispatch for District Cooling Systems Considering Evolution of Cooling Load Uncertainties",
+    "Author": "Chen G.",
+    "Journal": "CSEE Journal of Power and Energy Systems",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.17775/CSEEJPES.2020.06800",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "State Key Laboratory of Internet of Things for Smart City",
+    "Affliation Country": "Macao",
+    "Cited by count": 6,
+    "Abstract": "District cooling system (DCS) provides centralized chilled water to multiple buildings for air conditioning with high energy-efficiency and operational flexibility. It is one of the most popular cooling systems for large buildings in modern cities and an important demand response source for power systems. In order to enhance its energy efficiency and utilize its flexibility, strategic operation is indispensable. However, finding an optimal policy for DCS operation is a challenging task because of the high inter-connectivity among components. The evolution of cooling load uncertainties further increases the difficulties. This paper addresses the aforementioned challenges by proposing a novel optimal power dispatch model for DCS. The proposed model optimizes water temperature and mass flow rates simultaneously to improve the energy efficiency as much as possible. It also explicitly describes the uncertainty accumulation and propagation. Chance-constrained programming is employed to guarantee the cooling service quality. We further propose a more time-efficient formulation to overcome the computational intractability caused by the non-smooth and non-convex constraints. Numerical experiments based on a real DCS confirm that a time-efficient formulation can save about half of solution time with negligible cost increase."
+}

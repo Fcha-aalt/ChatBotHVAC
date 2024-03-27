@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85066011084,
+    "Title": "Opportunistic occupancy-count estimation using sensor fusion: A case study",
+    "Author": "Hobson B.W.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2019-07-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.buildenv.2019.05.032",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 98,
+    "Abstract": "Estimation of occupancy counts in commercial and institutional buildings enables enhanced energy-use management and workspace allocation. This paper presents the analysis of cost-effective, opportunistic data streams from an academic office building to develop occupancy-count estimations for HVAC control purposes. Implicit occupancy sensing via sensor fusion is conducted using available data from Wi-Fi access points, CO2 sensors, PIR motion detectors, and plug and light electricity load meters, with over 200 h of concurrent ground truth occupancy counts. Multiple linear regression and artificial neural network model formalisms are employed to blend these individual data streams in an exhaustive number of combinations. The findings suggest that multiple linear regression models are the superior model formalism when model transferability between floors is of high value in the case study building. Wi-Fi enabled device counts are shown to have high utility for occupancy-count estimations with a mean R2 of 80.1–83.0% compared to ground truth counts during occupied hours. Aggregated electrical load data are shown to be of higher utility than separately submetered plug and lighting load data."
+}

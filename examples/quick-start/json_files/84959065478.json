@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84959065478,
+    "Title": "IProgram: Inferring smart schedules for dumb thermostats",
+    "Author": "Iyengar S.",
+    "Journal": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Publication Date": {
+        "$date": "2015-11-04T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1145/2821650.2821653",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Massachusetts Amherst",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) accounts for over 50% of a typical home's energy usage. A thermostat generally controls HVAC usage in a home to ensure user comfort. In this paper, we focus on making existing \"dumb\" programmable thermostats smart by applying energy analytics on smart meter data to infer home occupancy patterns and compute an optimized thermostat schedule. Utilities with smart meter deployments are capable of immediately applying our approach, called iProgram, to homes across their customer base. iProgram addresses new challenges in inferring home occupancy from smart meter data where i) training data is not available and ii) the thermostat schedule may be misaligned with occupancy, frequently resulting in high power usage during unoccupied periods. iProgram translates occupancy patterns inferred from opaque smart meter data into a custom schedule for existing types of programmable thermostats, e.g., 1-day, 7-day, etc. We implement iProgram as a web service and show that it reduces the mismatch time between the occupancy pattern and the thermostat schedule by a median value of 44.28 minutes (out of 100 homes) when compared to a default 8am-6pm weekday schedule, with a median deviation of 30.76 minutes off the optimal schedule. Further, iProgram yields a daily energy savings of 0:42kWh on average across the 100 homes. Utilities may use iProgram to recommend thermostat schedules to customers and provide them estimates of potential energy savings in their energy bills."
+}

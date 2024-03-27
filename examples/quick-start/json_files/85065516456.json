@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85065516456,
+    "Title": "Eco-friendly, energy- A nd cost-efficient A/C system with heat pump functionality using R744 for rail applications",
+    "Author": "Schrank P.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.18462/iir.nh3-co2.2019.0034",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virtual Vehicle Research Center",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "Within the national R&D project \"eco2jet\" an environmentally friendly A/C system with heat pump functionality is being investigated. The system will be evaluated on a test rig as well as in regular operation in a train of the national railway operator (Austrian Federal Railways-ÖBB). The use of the natural refrigerant R744 (CO2) means a future-oriented technology for railway applications because of its negligible GWP and favourable thermodynamic properties for heat pump applications. Compared to conventional A/C systems, the eco2jet A/C system increases the energy efficiency significantly. The primary objective is to meet the comfort criteria of the passengers in a wide operating range with low environmental impact by using novel heat exchangers, an advanced system architecture and intelligent control strategy in the future. Furthermore, predictive maintenance strategies shall help to reduce the operating and maintenance costs. The manuscript describes the system design, first test rig measurements and simulation results of the eco2jet A/C system with heat pump functionality."
+}

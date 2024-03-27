@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127930239,
+    "Title": "Cyberattacks Against Critical Infrastructure Facilities and Corresponding Countermeasures",
+    "Author": "Vähäkainu P.",
+    "Journal": "Computational Methods in Applied Sciences",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-030-91293-2_11",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Jyväskylä",
+    "Affliation Country": "Finland",
+    "Cited by count": 0,
+    "Abstract": "Critical infrastructure (CI) is a vital asset for the economy and society’s functioning, covering sectors such as energy, finance, healthcare, transport, and water supply. Governments around the world invest a lot of effort in continuous operation, maintenance, performance, protection, reliability, and safety of CI. However, the vulnerability of CI to cyberattacks and technical failures has become a major concern nowadays. Sophisticated and novel cyberattacks, such as adversarial attacks, may deceive physical security controls providing a perpetrator an illicit entry to the smart critical facility. Adversarial attacks can be used to deceive a classifier based on predictive machine learning (ML) that automatically adjusts the heating, ventilation, and air conditioning (HVAC) of a smart building. False data injection attacks have also been used against smart grids. Traditional and widespread cyberattacks using malicious code can cause remarkable physical damage, such as blackouts and disruptions in power production, as attack vectors to manipulate critical infrastructure. To detect incoming attacks and mitigate the performance of those attacks, we introduce defensive mechanisms to provide additional detection and defense capabilities to enhance the inadequate protection of a smart critical facility from external."
+}

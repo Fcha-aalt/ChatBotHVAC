@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174443366,
+    "Title": "Multi-indicator adaptive HVAC control system for low-energy indoor air quality management of heritage building preservation",
+    "Author": "Zhang J.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110910",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hong Kong University of Science and Technology",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 1,
+    "Abstract": "Regenerated commercial heritage buildings employ heating, ventilation, and air conditioning (HVAC) systems that significantly increase their energy consumption, necessitating a methodology that supports low-energy operation to achieve a sustainable built environment. Poor indoor air quality (IAQ) management can cause irreversible damage to heritage buildings. However, there are risks of the destruction of inherent heritage values if energy-efficiency approaches are implemented without considering the visual impacts and multiple IAQ parameters in heritage buildings. To preserve heritage buildings, this study developed a multi-indicator adaptive ventilation control system for IAQ management using digital twin technology, which consisted of triggers and feedback. A digital representation of heritage buildings was established using Heritage Building Information Modelling (HBIM) with sensors to trigger adjustments in ventilation system settings. The sensor placement rules for IAQ monitoring and HVAC control of heritage buildings were demonstrated using computational fluid dynamics (CFD) simulations. The relationships among the HVAC inlet velocity, multiple IAQ parameters, and energy consumption were quantified using CFD and energy simulations. Simulation data were used to generate responsive charts for adaptive ventilation control, and the sensor data provided feedback to the ventilation system. The optimal ventilation system control strategy achieved up to 30% energy savings in the illustrative example. The proposed multi-indicator adaptive HVAC control system contributes significantly to the timely reduction of multiple air pollutants, IAQ parameter adjustments for the preservation of heritage buildings with minimal structural and visual impacts, and the need for more autonomous and energy-efficient HVAC systems."
+}

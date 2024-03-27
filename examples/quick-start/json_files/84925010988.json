@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84925010988,
+    "Title": "A new model predictive control scheme for energy and cost savings in commercial buildings: An airport terminal building case study",
+    "Author": "Huang H.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2015-07-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.buildenv.2015.01.037",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Adelaide",
+    "Affliation Country": "Australia",
+    "Cited by count": 122,
+    "Abstract": "Predictive control technology for heating, ventilation and air conditioning (HVAC) systems has been proven to be an effective way to reduce energy consumption and improve thermal comfort within buildings. Such methods rely on models to accurately predict the thermal dynamics of a specific building to achieve the optimal control. Implementing a predictive control at the building level faces several challenges, since buildings' thermal dynamics are nonlinear, time-varying, and contain several uncertainties. This paper presents a hybrid model predictive control (HMPC) scheme, which can minimise the energy and cost of running HVAC systems in commercial buildings. The proposed control framework combines a classical MPC with a neural network feedback linearisation method. The control model for the HMPC is developed using a simplified physical model, while the nonlinearity associated with HVAC process is handled independently by an inverse neural network model. To achieve the maximum energy saving, the proposed MPC integrates several advanced air-conditioning control strategies, such as an economizer control, an optimal start-stop control, and a load shifting control. This approach has been tested at the check-in hall of the T-1 building of the Adelaide Airport, through simulations and a field experiment. The merits of the proposed method compared to the existing control method are analysed from both the energy saving and cost saving points of view. The result shows that the proposed HMPC scheme performs reasonably well, and achieves a considerable amount of savings without violating thermal comfort."
+}

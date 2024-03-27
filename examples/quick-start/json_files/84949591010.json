@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84949591010,
+    "Title": "Artificial neural network model for forecasting sub-hourly electricity usage in commercial buildings",
+    "Author": "Chae Y.T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2015.11.045",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Cheongju University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 301,
+    "Abstract": "Short-term load forecasting of building electricity usage is of great importance for anomaly detection on electricity usage pattern and management of building energy consumption in an environment where electricity pricing is dynamically determined based on the peak energy consumption. In this paper, we present a data-driven forecasting model for day-ahead electricity usage of buildings in 15-minute resolution. By using variable importance analysis, we have selected key variables: day type indicator, time-of-day, HVAC set temperature schedule, outdoor air dry-bulb temperature, and outdoor humidity as the most important predictors for electricity consumption. This study proposes a short-term building energy usage forecasting model based on an Artificial Neural Network (ANN) model with Bayesian regularization algorithm and investigates how the network design parameters such as time delay, number of hidden neurons, and training data effect on the model capability and generality. The results demonstrate that the proposed model with adaptive training methods is capable to predict the electricity consumption with 15-minute time intervals and the daily peak electricity usage reasonably well in a test case of a commercial building complex."
+}

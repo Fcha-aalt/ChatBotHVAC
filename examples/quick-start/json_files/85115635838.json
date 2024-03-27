@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115635838,
+    "Title": "HVAC energy saving strategies for public buildings based on heat pumps and demand controlled ventilation",
+    "Author": "Franco A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14175541",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 19,
+    "Abstract": "The paper analyzes and compares the perspectives for reducing the energy consumption associated to the operation of Heating Ventilation and Air Conditioning system for climatic control of large-size non-residential buildings. Three different control strategies are considered comparing the use of boiler and heat pumps as heating systems and analyzing the use of demand-controlled ventilation, operating on the effective occupancy of the building. The control strategies are applied to two different educational buildings with shapes representative of typical educational structures. The results of the analysis show how the energy consumption can be reduced up to 70%, shifting from the actual values of the energy intensity of over 300 kWh/m2 for year to values of less than 100 kWh/m2 per year. The significance of the energy savings achieved in such different buildings has led to the identification of a possible benchmark for HVAC systems in the next future years which could help reach the environmental targets in this sector."
+}

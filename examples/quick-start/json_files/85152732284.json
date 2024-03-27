@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152732284,
+    "Title": "Modelling energy performance of residential dwellings by using the MARS technique, SVM-based approach, MLP neural network and M5 model tree",
+    "Author": "García Nieto P.J.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.121074",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Oviedo",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "Several previous studies indicate that the energy consumption of buildings has increased steadily during the last decades all over the world. Residential dwellings in European countries are lawfully required to meet the suitable minimum needs concerning energy efficiency according to the European Directives. Specifically heating, ventilation and air conditioning (HVAC) devices represent most of the energy use in dwellings as they have a principal purpose in controlling the inner climate. Hence, one manner to relieve the constantly growing request for supplementary energy supply is to carry more efficient dwelling designs from the energy point of view, which is to say, with superior energy conservation properties. In this sense, an accurate estimation of the heating load (HL) and cooling load (CL) is needed to calculate the detailed descriptions of the heating and cooling device needed to support comfortable indoor air conditions. The goal of this investigation was to acquire some foretold models to achieve a tangible calculation of the HL and CL (output variables) as a function of 8 specific input variables (concretely, relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area and glazing area distribution) at residential dwellings. These eight input factors have been often employed in the literature about the energy performance of dwellings (EPB) to analyse energy-related themes in dwellings. Moreover, a support vector machines (SVM) approach with distinct kernels, an artificial neural network (ANN) of multilayer perceptron network (MLP) kind and M5 model tree were adjusted to the observed data for evaluation of differences. The outcomes of the current investigation are two-fold. First, the importance (or strength) of each input variable on the HL and CL (output variables) is presented through the MARS model. Secondly, the MARS-relied approximation was the most excellent predictor of the EPB. Indeed, a MARS regression was conducted and coefficients of determination equal to 0.9961 for the HL estimation and 0.9651 for the CL estimation were gotten when this approach was employed to 768 diverse residential buildings, respectively. The concordance between the observed data and those predicted with the MARS approximation verified the satisfactory performance of the latter. Finally, the conclusions of this original investigation are summarised."
+}

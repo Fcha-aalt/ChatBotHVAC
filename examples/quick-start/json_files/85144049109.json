@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144049109,
+    "Title": "Cognitive Systems for Energy Efficiency and Thermal Comfort in Smart Buildings",
+    "Author": "Scarcello L.",
+    "Journal": "Internet of Things",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-15160-6_15",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Istituto Di Calcolo E Reti Ad Alte Prestazioni, Rende",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "The management of thermal comfort in a building is a challenging and multi-faced problem because it requires considering subjective parameters, such as human preferences and behaviors, and also objective parameters, which can be related to other environmental aspects like the reduction of energy consumption. This chapter exploits cognitive technologies, based on deep reinforcement learning (DRL), for automatically learning how to control the HVAC system in an office. The goal is to develop a cyber-controller able to minimize both the perceived thermal discomfort and the needed energy. The learning process is driven through the definition of a cumulative reward, which includes and combines two reward components that consider, respectively, user comfort and energy consumption. Moreover, a human reward, inferred by the frequency of user interactions with the HVAC system, helps the DRL controller learn the requirements of users and readily adapt to them. Simulation experiments are performed to assess the impact that the two components of the reward have on the behavior of the DRL controller and on the learning process."
+}

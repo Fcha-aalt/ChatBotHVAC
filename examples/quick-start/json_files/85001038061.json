@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85001038061,
+    "Title": "Ahorrar: Indoor occupancy counting to enable smart energy efficient office buildings",
+    "Author": "Jain S.",
+    "Journal": "Proceedings - 2016 IEEE International Conferences on Big Data and Cloud Computing, BDCloud 2016, Social Computing and Networking, SocialCom 2016 and Sustainable Computing and Communications, SustainCom 2016",
+    "Publication Date": {
+        "$date": "2016-10-26T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/BDCloud-SocialCom-SustainCom.2016.75",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Graduate Center",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Office buildings have a vast carbon footprint from the energy consumed for heating/cooling, ventilation (HVAC) and lighting. The basic limitation in becoming more energy efficient is in the management of these operations. In particular, the ventilation has been the \"holy grail\" in building operations and occupancy based control of ventilation can lead to sizeable reduction in energy use. However, building occupancy sensors. generally, report presence or not of occupants and not actual numbers of occupants in the different building zones rather than real occupancy numbers. Hence, ventilation is set to expected, rather than actual, occupancy levels leading to very inefficient building operation. None of the available occupancy based solutions for building automation fully meet the needs of maintenance free adequate accurate occupancy estimation at sufficiently low cost. In this paper, we present Ahorrar, a framework that uses sustainable techniques to inform the occupancy levels in HVAC zone to the building automation system (BAS). Using existing infrastructure and capabilities of consumer devices, Ahorrar can use participatory sensing to compute a real time occupant distribution map within the office building and enable energy saving without additional hardware. In this position paper, we present the building blocks of Ahorrar and the research results that can support the implementation of a sufficiently accurate occupancy mapping system."
+}

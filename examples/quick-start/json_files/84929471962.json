@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84929471962,
+    "Title": "Energy retrofit of an educational building in the ancient center of Benevento. Feasibility study of energy savings and respect of the historical value",
+    "Author": "Ascione F.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2015-05-15T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enbuild.2014.10.072",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 141,
+    "Abstract": "The paper proposes a method for reliable energy diagnoses, aimed at integrated design of energy refurbishment of existing buildings, with reference to historical architectures. The approach is structured according to three main phases: (a) the building performance assessment, by combining in situ monitoring and documental information; (b) the numerical studies by hourly energy simulations with a deepening about the calibration methodology; (c) the investigation of potential energy savings, environmental benefits and economical profitability of selected energy efficiency measures. The case study is an educational building of the University of Sannio, located in the ancient center of Benevento (Southern Italian city). The knowledge of the historical energy requests, combined with several measurements (e.g., schedules of indoor temperatures, activation of HVAC system) and with in situ investigation (e.g., infrared thermography and heat flow measures) allowed the calibration of the numerical model. Moreover, several actions for the energy rehabilitation have been implemented, by taking into account the historical value of the building and of its context. The achieved results show that the selection of the energy efficiency measures is a multi-objective optimization problem and - even if heritage buildings require respect of several constraints - however satisfactory energy savings are available."
+}

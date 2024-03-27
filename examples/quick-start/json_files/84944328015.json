@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84944328015,
+    "Title": "An energy-aware, agent-based maintenance-scheduling framework to improve occupant satisfaction",
+    "Author": "Cao Y.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.autcon.2015.09.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Georgia Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 33,
+    "Abstract": "Facility management has become increasingly challenging due to complex building systems that generate more diverse and complex maintenance issues. Facility managers and staff must deal with many daily maintenance requests despite various limitations, such as limited budgets and staff, which can cause delay in responding to some maintenance requests. A scheduling framework is proposed in this paper to assist in improving facility management. In practice, maintenance work is scheduled according to various priorities. For example, facility managers first consider the impact of each problem in terms of system failure and safety. In addition to those two factors, the framework proposed in this paper considers both energy efficiency and occupant satisfaction. It first quantified occupant satisfaction with data from current building maintenance work. An empirical study on occupant satisfaction was done based on classical disconfirmation theory and referenced post-occupancy evaluation (POE) research. A survey was designed to collect data to quantify occupant satisfaction. Based on the disconfirmation theory, an agent-based model was then developed to prioritize maintenance work to achieve maximum occupant satisfaction. Subsequently, a building energy model was simulated in EnergyPlus to quantify the impact of different aspects of a faulty HVAC system on energy consumption. Finally, the framework was tested through simulation and the results showed that occupant satisfaction level and building energy efficiency were improved by 30 and 97%, respectively, when using the framework."
+}

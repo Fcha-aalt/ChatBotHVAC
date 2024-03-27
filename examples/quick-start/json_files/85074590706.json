@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074590706,
+    "Title": "Novel swarm-based approach for predicting the cooling load of residential buildings based on social behavior of elephant herds",
+    "Author": "Moayedi H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109579",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ton-Duc-Thang University",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 43,
+    "Abstract": "Sustainable consumption of energy is a crucial task in the building sector. In this paper, a novel hybrid technique, namely elephant herding optimization (EHO) is used to optimize the heating ventilation and air conditioning (HVAC) system through analyzing the relationship between the cooling load (CL) and key factors. In other words, the EHO algorithm is combined with a multi-layer perceptron neural network (MLP) to predict the CL. Two metaheuristic algorithms of ant colony optimization (ACO) and Harris hawks optimization (HHO) are also used as benchmark models. Based on the carried out sensitivity analysis, the EHO with population size = 200 suggests the best-fitted computational parameters of the MLP. The findings revealed that metaheuristic algorithms can develop efficient MLPs for the mentioned objective. However, the proposed EHO-MLP (Error = 2.1284 and Correlation = 0.8934) presents the most accurate perdiction of the CL, followed by the HHO-MLP (Error = 2.3265 and Correlation = 0.8829) and ACO-MLP (Error = 2.6011 and Correlation = 0.8721). Based on the obtained results, the EHO-MLP can be a reliable alternative to traditional models for estimating the CL."
+}

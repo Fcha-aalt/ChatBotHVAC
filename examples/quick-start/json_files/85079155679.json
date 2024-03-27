@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079155679,
+    "Title": "Multivariate features extraction and effective decision making using machine learning approaches",
+    "Author": "Gharsellaoui S.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13030609",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "École Nationale Supérieure d'Ingénieurs de Tunis",
+    "Affliation Country": "Tunisia",
+    "Cited by count": 14,
+    "Abstract": "Fault Detection and Isolation (FDI) in Heating, Ventilation, and Air Conditioning (HVAC) systems is an important approach to guarantee the human safety of these systems. Therefore, the implementation of a FDI framework is required to reduce the energy needs for buildings and improving indoor environment quality. The main goal of this paper is to merge the benefits of multiscale representation, Principal Component Analysis (PCA), and Machine Learning (ML) classifiers to improve the efficiency of the detection and isolation of Air Conditioning (AC) systems. First, the multivariate statistical features extraction and selection is achieved using the PCA method. Then, the multiscale representation is applied to separate feature from noise and approximately decorrelate autocorrelation between available measurements. Third, the extracted and selected features are introduced to several machine learning classifiers for fault classification purposes. The effectiveness and higher classification accuracy of the developed Multiscale PCA (MSPCA)-based ML technique is demonstrated using two examples: synthetic data and simulated data extracted from Air Conditioning systems."
+}

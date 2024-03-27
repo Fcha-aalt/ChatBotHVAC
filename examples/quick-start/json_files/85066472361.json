@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85066472361,
+    "Title": "A novel method based on neural networks for designing internal coverings in buildings: Energy saving and thermal comfort",
+    "Author": "Orosa J.A.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-05-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/app9102140",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade da Coruña",
+    "Affliation Country": "Spain",
+    "Cited by count": 8,
+    "Abstract": "Although several papers define energy saving and thermal comfort optimization with internal coverings materials, none of them deal with predictive models to improve design in building constructions. Thus, artificial intelligence (AI) procedures were applied in this paper. In particular, neural networks (NNs) were designed for indoor ambiences with internal covering materials in different buildings, were trained and employed to predict indoor ambiences (indoor temperature and relative humidity as a function of weather conditions), and, based on these procedures, local thermal comfort conditions and energy consumption, due to the type of internal covering permeability level, were calculated. Results from this original methodology showed a better acceptability of indoor ambiences when permeable coating materials were used, in agreement with previous research works. At the same time, with permeable coverings, a lower energy consumption of 20% in the heating, ventilation, and air conditioning (HVAC) systems was needed to reach more comfortable conditions during the summer season in the first hours of occupation. Finally, all these results suggest an original methodology to optimize indoor ambiences based on the design of internal coverings by NN."
+}

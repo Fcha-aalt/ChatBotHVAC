@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138211912,
+    "Title": "Energy-efficient control of thermal comfort in multi-zone residential HVAC via reinforcement learning",
+    "Author": "Ding Z.K.",
+    "Journal": "Connection Science",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/09540091.2022.2120598",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "Energy efficient control of thermal comfort has been already an important part of residential heating, ventilation, and air conditioning (HVAC) systems. However, the optimisation of energy saving control for thermal comfort is not an easy task due to the complex dynamics of HVAC systems, the dynamics of thermal comfort and the trade-off between energy saving and thermal comfort. To solve the above problem, we propose a deep reinforcement learning-based thermal comfort control method in multi-zone residential HVAC. In this paper, firstly we design a SVR-DNN model, consisting of Support Vector Regression and a Deep Neural Network to predict thermal comfort value. Then, we apply Deep Deterministic Policy Gradient (DDPG) based on the output of the SVR-DNN model to achieve an optimal HVAC thermal comfort control strategy. This method can minimise energy consumption while satisfying occupants' thermal comfort. The experimental results show that our method can improve thermal comfort prediction performance by 20.5% compared with DNN; compared with deep Q-network (DQN), energy consumption and thermal comfort violation can be reduced by 3.52% and 64.37% respectively."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057527083,
+    "Title": "Optimization of buildingSenergy consumption by designing sliding mode control for multizone VAV air conditioning systems",
+    "Author": "Shah A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2018-11-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/en11112911",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southwest Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "Variable air volume (VAV) is the most common installation among heating ventilating and air conditioning (HVAC) systems. To maintain the comfort level and lessen energy utilization, there is a pressing need for its effective control. In this study, a lumped parameter model composed of multizone VAV is considered, and sliding mode control (SMC) is designed to guarantee robust operation in the presence of uncertainties. For comparison of the proposed controller performance, a proportional integral derivative (PID) controller is additionally designed. The indoor temperature of zones is controlled by positioning the supply air dampers. Tracking objectives of controllers are inspected via two practical cases of desired temperature setpoints including (a) sinusoidal waveform and (b) the combination of steps. Results obtained using SMC ensure the robust operation of the VAV system against parametric uncertainties. In addition, SMC is more energy efficient than PID in terms of overshoot and settling time."
+}

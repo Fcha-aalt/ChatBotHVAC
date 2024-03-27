@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105924633,
+    "Title": "Transfer learning based methodology for migration and application of fault detection and diagnosis between building chillers for improving energy efficiency",
+    "Author": "Zhu X.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107957",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 54,
+    "Abstract": "Faulty operation of HVAC chillers may result in increased energy usage, reduced thermal comfort, and increased maintenance costs. Establishing reliable fault detection and diagnosis (FDD) methods can effectively avoid these adverse effects. Most existing FDD studies only focus on training specific fault diagnostic models for particular chillers. Very few works have been found to address the issue of how to transfer FDD between different chillers, which is a promising but challenging task. This paper presents a generic framework for transferring the prior knowledge of an information-rich source chiller to build the diagnostic model for a new target chiller. Heterogeneous data standardization is firstly presented to standardize the original datasets of different chillers. Domain adaption transfer learning is then applied to overcome the domain shift introduced by the differences of feature distribution across chillers, and domain adversarial neural network is used to generate the diagnostic model for the target chiller where only easy-to-collect normal operation data of the target chiller and the prior knowledge are used for training. To verify the presented transfer learning, two screw chillers are used as the source and target chillers accordingly, and large quantities of fault simulation experiments are performed on them. Results indicate that the transferred diagnostic model for the target chiller yields decent diagnostic performance, the accuracy for the first and second cycles are 81.27% and 74.93%, respectively. In comparison with five conventional machine learning models with accuracy less than 55%, the proposed transfer learning approach has significant performance advantages and practical application potential."
+}

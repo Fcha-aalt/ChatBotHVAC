@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169886510,
+    "Title": "Performance assessment of solar-driven indirect evaporative cooling with a novel wet channel: An experimental study",
+    "Author": "Tripathi R.J.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107674",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Madan Mohan Malaviya University of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "The expanding energy requirements for cooling underscore the urgency of technological upheaval. Evaporative cooling emerges as a promising solution, offering an eco-friendly alternative that consumes significantly less energy. A novel wet channel of solar-driven indirect evaporative cooling system for HVAC is constructed and tested. IEC can cool the air without increasing humidity to the process air. In CFIEC, the multi-tubular wet channel is a novel objective for construction that can work in hot and dry climate conditions. In this work, the experimental setup was developed to evaluate the performance of a system based on temperature drop, Cooling capacity, and wet bulb effectiveness at the inlet condition of flow variables (velocity, humidity, and temperature) for process or working air, wet bulb depression and CO2 emission analysis. The results found that cooling capacity ranged between 124.31 W and 1083.2 W and wet bulb efficiency between 59% and 90%. The experimental test was conducted in the AC lab room of MMMUT Gorakhpur (26.7606° N, 83.3732° E), Uttar Pradesh, from March 27, 2023 to April 27, 2023. Results explained that the wet bulb effectiveness for CFIEC with novel wet channels is very high under different inlet conditions. The results of the experiments were assessed towards energy-efficient and eco-friendly cooling solutions. The results of the experiments work were compared with previous work in the literature."
+}

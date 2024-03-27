@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125772640,
+    "Title": "Co-designing Intelligent Control of Building HVACs and Microgrids",
+    "Author": "Masburah R.",
+    "Journal": "Proceedings - 2021 24th Euromicro Conference on Digital System Design, DSD 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/DSD53832.2021.00075",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indian Institute of Technology Kharagpur",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "Building loads consume roughly 40% of the energy produced in developed countries, a significant part of which is invested towards building temperature-control infrastructure. Therein, renewable resource-based microgrids offer a greener and cheaper alternative. This communication explores the possible co-design of microgrid power dispatch and building HVAC (heating, ventilation and air conditioning system) actuations with the objective of effective temperature control under minimised operating cost. For this, we attempt control designs with various levels of abstractions based on information available about microgrid and HVAC system models using the Deep Reinforcement Learning (DRL) technique. We provide control architectures that consider model information ranging from completely determined system models to systems with fully unknown parameter settings and illustrate the advantages of DRL for the design prescriptions."
+}

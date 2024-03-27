@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016023494,
+    "Title": "A thorough assessment of China's standard for energy consumption of buildings",
+    "Author": "Yan D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-05-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.03.019",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 55,
+    "Abstract": "China's Design Standard for Energy Efficiency of Public Buildings (the Design Standard) is widely used in the design phase to regulate the energy efficiency of physical assets (envelope, lighting, HVAC) in buildings. However, the standard does not consider many important factors that influence the actual energy use in buildings, and this can lead to gaps between the design estimates and actual energy consumption. To achieve the national energy savings targets defined in the strategic 12th Five-Year Plan, China developed the first standard for energy consumption of buildings GB/T51161-2016 (the Consumption Standard). This study provides an overview of the Consumption Standard, identifies its strengths and weaknesses, and recommends future improvements. The analysis and discussion of the constraint value and the leading value, two key indicators of the energy use intensity, provide insight into the intent and effectiveness of the Consumption Standard. The results indicated that consistency between China's Design Standard GB 50189-2015 and the Consumption Standard GB/T51161-2016 could be achieved if the Design Standard used the actual building operations and occupant behavior in calculating the energy use in Chinese buildings. The development of an outcome-based code in the U.S. was discussed in comparison with China's Consumption Standard, and this revealed the strengths and challenges associated with implementing a new compliance method based on actual energy use in buildings in the U.S. Overall, this study provides important insights into the latest developments of actual consumption-based building energy standards, and this information should be valuable to building designers and energy policy makers in China and the U.S."
+}

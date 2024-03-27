@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151144492,
+    "Title": "HVAC Optimal Control Based on the Sensitivity Analysis: An Improved SA Combination Method Based on a Neural Network",
+    "Author": "Zhao L.",
+    "Journal": "CMES - Computer Modeling in Engineering and Sciences",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.32604/cmes.2023.025500",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Aiming at optimizing the energy consumption of HVAC, an energy conservation optimization method was proposed for HVAC systems based on the sensitivity analysis (SA), named the sensitivity analysis combination method (SAC). Based on the SA, neural network and the related settings about energy conservation of HVAC systems, such as cooling water temperature, chilled water temperature and supply air temperature, were optimized. Moreover, based on the data of the existing HVAC system, various optimal control methods of HVAC systems were tested and evaluated by a simulated HVAC system in TRNSYS. The results show that the proposed SA combination method can reduce significant computational load while maintaining an equivalent energy performance compared with traditional optimal control methods."
+}

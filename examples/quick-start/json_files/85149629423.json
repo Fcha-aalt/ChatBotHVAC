@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149629423,
+    "Title": "Data-driven predictive control for smart HVAC system in IoT-integrated buildings with time-series forecasting and reinforcement learning",
+    "Author": "Zhuang D.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-05-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.120936",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 30,
+    "Abstract": "Optimising HVAC operations towards human wellness and energy efficiency is a major challenge for smart facilities management, especially amid COVID situations. Although IoT sensors and deep learning were applied to support HVAC operations, the loss of forecasting accuracy in recursive prediction largely hinders their applications. This study presents a data-driven predictive control method with time-series forecasting (TSF) and reinforcement learning (RL), to examine various sensor metadata for HVAC system optimisation. This involves the development and validation of 16 Long Short-Term Memory (LSTM) based architectures with bi-directional processing, convolution, and attention mechanisms. The TSF models are comprehensively evaluated under independent, short-term recursive, and long-term recursive prediction scenarios. The optimal TSF models are integrated with a Soft Actor-Critic RL agent to analyse sensor metadata and optimise HVAC operations, achieving 17.4% energy savings and 16.9% thermal comfort improvement in the surrogate environment. The results show that recursive prediction leads to a significant reduction in model accuracy, and the effect is more pronounced in the temperature-humidity prediction model. The attention mechanism significantly improves prediction performance in both recursive and independent prediction scenarios. This study contributes new data-driven methods for smart HVAC operations in IoT-enabled intelligent buildings towards a human-centric built environment."
+}

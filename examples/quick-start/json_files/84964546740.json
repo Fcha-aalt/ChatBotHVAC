@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964546740,
+    "Title": "Context-aware energy efficiency management for smart buildings",
+    "Author": "Kamienski C.",
+    "Journal": "IEEE World Forum on Internet of Things, WF-IoT 2015 - Proceedings",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/WF-IoT.2015.7389139",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade Federal do ABC",
+    "Affliation Country": "Brazil",
+    "Cited by count": 20,
+    "Abstract": "The importance of energy in our society has been growing drastically but still, public buildings are very inefficient when it comes to managing energy. Current management systems are usually designed for automating lighting and HVAC. We see the potential of using IoT in this scenario but unfortunately developing context-aware IoT systems still takes tremendous efforts. In the IMPReSS project, we built a Systems Development Platform (SDP) that enables rapid development of IoT and context aware systems for energy efficiency in smart buildings. Our solution has been implemented and evaluated through a prototype, covering a university classroom scenario where lighting and temperature are controlled automatically. We observed that the IMPReSS Context Manager enables rapid system changes, as expected."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091642614,
+    "Title": "Hvac early fault detection using a fuzzy logic based approach",
+    "Author": "Martinez-Viol V.",
+    "Journal": "Renewable Energy and Power Quality Journal",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.24084/repqj18.270",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "The need for improving the energy efficiency of existing buildings has driven to the implementation of building energy management systems (BEMS) that can help facilities manager to discover and identify problems that may cause energy wastage or affect to occupants’ comfort. Modern data-driven fault detection and diagnosis (FDD) make use of the data collected by the building BEMS to provide high accuracy in the revelation of heating, ventilation and air-conditioning (HVAC) system faults. However, these methods need a large amount of faulty data samples during the training, which is an uncommon situation in the real world. The main focus of this paper is to present a methodology to detect faults when the number of faulty samples is low. For this purpose, a regression-based methodology based on an adaptative neuro-fuzzy inference system (ANFIS) chiller model is developed using the data collected from a real use case. The model presents good results, that can be used for benchmarking the machine operation and detect the abnormal operation states."
+}

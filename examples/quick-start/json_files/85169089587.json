@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169089587,
+    "Title": "Internet of Things (IoT) in Buildings: A Learning Factory",
+    "Author": "Cano-Suñén E.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su151612219",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Zaragoza",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "Advances towards smart ecosystems showcase Internet of Things (IoT) as a transversal strategy to improve energy efficiency in buildings, enhance their comfort and environmental conditions, and increase knowledge about building behavior, its relationships with users and the interconnections among themselves and the environmental and ecological context. EU estimates that 75% of the building stock is inefficient and more than 40 years old. Although many buildings have some type of system for regulating the indoor temperature, only a small subset provides integrated heating, ventilation, and air conditioning (HVAC) systems. Within that subset, only a small percentage includes smart sensors, and only a slight portion of that percentage integrates those sensors into IoT ecosystems. This work pursues two objectives. The first is to understand the built environment as a set of interconnected systems constituting a complex framework in which IoT ecosystems are key enabling technologies for improving energy efficiency and indoor air quality (IAQ) by filling the gap between theoretical simulations and real measurements. The second is to understand IoT ecosystems as cost-effective solutions for acquiring data through connected sensors, analyzing information in real time, and building knowledge to make data-driven decisions. The dataset is publicly available for third-party use to assist the scientific community in its research studies. This paper details the functional scheme of the IoT ecosystem following a three-level methodology for (1) identifying buildings (with regard to their use patterns, thermal variation, geographical orientation, etc.) to analyze their performance; (2) selecting representative spaces (according to their location, orientation, use, size, occupancy, etc.) to monitor their behavior; and (3) deploying and configuring an infrastructure with +200 geolocated wireless sensors in +100 representative spaces, collecting a dataset of +10,000 measurements every hour. The results obtained through real installations with IoT as a learning factory include several learned lessons about building complexity, energy consumption, costs, savings, IAQ and health improvement. A proof of concept of building performance prediction based on neural networks (applied to CO2 and temperature) is proposed. This first learning shows that IAQ measurements meet recommended levels around 90% of the time and that an IoT-managed HVAC system can achieve energy-consumption savings of between 10 and 15%. In summary, in a real context involving economic restrictions, complexity, high energy costs, social vulnerability, and climate change, IoT-based strategies, as proposed in this work, offer a modular and interoperable approach, moving towards smart communities (buildings, cities, regions, etc.) by improving energy efficiency and environmental quality (indoor and outdoor) at low cost, with quick implementation, and low impact on users. Great challenges remain for growth and interconnection in IoT use, especially challenges posed by climate change and sustainability."
+}

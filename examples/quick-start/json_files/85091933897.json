@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091933897,
+    "Title": "Computer simulation of air distribution and thermal comfort in energy efficient buildings",
+    "Author": "Khalil E.E.",
+    "Journal": "AIAA Scitech 2020 Forum",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.2514/6.2020-1222",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cairo University",
+    "Affliation Country": "Egypt",
+    "Cited by count": 0,
+    "Abstract": "This work is devoted to the investigation of the influence of the room architecture design on the efficiency of the flow of air-conditioned supply to create high quality and comfort environment in the space. The present work is devoted to investigate the relation between airflow movement and air age and the different space architecture and application. This varies from simple study room, teaching theatres, movie theatres, sports facility, and surgical operating spaces. The present work made use of a well-developed Computational Fluid Dynamics (CFD) model based on turbulence models that has been further developed and refined to predict the air flow regimes, turbulence characteristics, air temperature, and relative humidity distributions in enclosed spaces. In the present work, a commercial CFD program, previously developed and modified, is utilized to predict the air characteristics in spaces. A full three dimensional solution of the continuity, three momentum equations as well as the energy conservation equation is described and fully utilized with adequate tetrahedral grid of sizes between 3 and 8 million grid nodes. The turbulence characteristics are represented by a wide variety of turbulence models appropriate for the room geometrical configuration and application. The airflow velocity, turbulent kinetic energy will be used as indicators of the IAQ level performance of the present application. Actually, different ceiling air supply designs were investigated would provide a solution for the complex situation of different applications by providing acceptable IAQ level in the occupancy zone with enough energy efficiency. The work includes comparisons between various air conditioning designs in view of flow pattern, thermal pattern, and water vapour map and air quality indices. Energy Efficiency in Air-conditioned spaces was found to depend on the room /space architecture design configurations and operating parameters. The room architecture design is one of the essential factors that strongly influence the HVAC airflow pattern and consequently the air quality and comfort. The present work also introduces some recommendations for architectural designs to facilitate the development of optimum HVAC systems."
+}

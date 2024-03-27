@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053680735,
+    "Title": "Semantic prediction assistant approach applied to energy efficiency in Tertiary buildings",
+    "Author": "Esnaola-Gonzalez I.",
+    "Journal": "Semantic Web",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3233/SW-180296",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Fundación Tekniker",
+    "Affliation Country": "Spain",
+    "Cited by count": 13,
+    "Abstract": "Fulfilling occupants' comfort whilst reducing energy consumption is still an unsolved problem in most of tertiary buildings. However, the expansion of the Internet of Things (IoT) and Knowledge Discovery in Databases (KDD) techniques lead to research this matter. In this paper the EEPSA (Energy Efficiency Prediction Semantic Assistant) process is presented, which leverages the Semantic Web Technologies (SWT) to enhance the KDD process for achieving energy efficiency in tertiary buildings while maintaining comfort levels. This process guides the data analyst through the different KDD phases in a semi-automatic manner and supports prescriptive HVAC control strategies. That is, temperature of a space is predicted simulating the activation of HVAC systems at different times and intensities, so that the facility manager can choose the strategy that best fits both the user's comfort needs and energy efficiency. Furthermore, results show that the proposed solution improves the accuracy of predictions."
+}

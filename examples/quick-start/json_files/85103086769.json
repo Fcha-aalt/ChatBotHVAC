@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103086769,
+    "Title": "Potential benefits and optimization of cool-coated office buildings: A case study in Chongqing, China",
+    "Author": "Zhuang C.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.energy.2021.120373",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chongqing University",
+    "Affliation Country": "China",
+    "Cited by count": 13,
+    "Abstract": "Increasing envelope facet albedos considerably reduces solar heat gain, thus yielding building cooling energy savings. Few studies have explored the potential benefits of utilizing cool coatings on building envelopes (“cool-coated buildings”) based on life-cycle cost analysis. A holistic approach integrating the field testing, building energy simulation, and a 20-year life-cycle-based optimization was developed to explore cool-coated building performance and the maximum net savings of optimal building envelope retrofit and design. Experimental results showed that applying cool coatings to a west wall of an office building in Chongqing, China reduced its exterior surface temperature by up to 9.3 °C in summer. Simulation results showed that in Chongqing, making the roof and walls cool could reduce annual HVAC electricity use by up to 11.9% in old buildings (with poorly insulated envelopes) and up to 5.9% in new buildings. Retrofitting old buildings with a cool roof provided the net savings per modified area with present values up to 42.8 CNY/m2; retrofitting a new building with a cool roof or cool walls was not cost-effective. Optimizing both envelope insulation and envelope albedo can achieve 5.6 times the net savings of optimizing the insulation only, and 1.6 times that of optimizing albedo only."
+}

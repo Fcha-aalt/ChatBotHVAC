@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114453465,
+    "Title": "Virtual sensor for probabilistic estimation of the evaporation in cooling towers",
+    "Author": "Alonso S.",
+    "Journal": "Integrated Computer-Aided Engineering",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3233/ICA-210654",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de León",
+    "Affliation Country": "Spain",
+    "Cited by count": 2,
+    "Abstract": "Global natural resources are affected by several causes such as climate change effects or unsustainable management strategies. Indeed, the use of water has been intensified in urban buildings because of the proliferation of HVAC (Heating, Ventilating and Air Conditioning) systems, for instance cooling towers, where an abundant amount of water is lost during the evaporation process. The measurement of the evaporation is challenging, so a virtual sensor could be used to tackle it, allowing to monitor and manage the water consumption in different scenarios and helping to plan efficient operation strategies which reduce the use of fresh water. In this paper, a deep generative approach is proposed for developing a virtual sensor for probabilistic estimation of the evaporation in cooling towers, given the surrounding conditions. It is based on a conditioned generative adversarial network (cGAN), whose generator includes a recurrent layer (GRU) that models the temporal information by learning from previous states and a densely connected layer that models the fluctuations of the conditions. The proposed deep generative approach is not only able to yield the estimated evaporation value but it also produces a whole probability distribution, considering any operating scenario, so it is possible to know the confidence interval in which the estimation is likely found. This deep generative approach is assessed and compared with other probabilistic state-of-the-art methods according to several metrics (CRPS, MAPE and RMSE) and using real data from a cooling tower located at a hospital building. The results obtained show that, to the best of our knowledge, our proposal is a noteworthy method to develop a virtual sensor, taking as input the current and last samples, since it provides an accurate estimation of the evaporation with wide enough confidence intervals, contemplating potential fluctuations of the conditions."
+}

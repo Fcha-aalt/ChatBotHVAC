@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124465490,
+    "Title": "REVIEW OF FAULT DETECTION AND DIAGNOSIS STUDIES ON RESIDENTIAL HVAC SYSTEMS",
+    "Author": "Ejenakevwe K.A.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1115/IMECE2021-72745",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Gallogly College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Heating, Ventilation and Air Conditioning (HVAC) control and energy usage management has been identified as a promising way of improving building energy efficiency and thus contributing to solving the energy challenges of the world. However, a critical aspect of reducing HVAC energy usage is fault detection and diagnosis (FDD). Several studies have been conducted on FDD in HVAC systems with less focus on residential HVAC systems. One reason identified for this reduced attention with residential HVAC is that state-of-the-art FDD tools greatly depend on data available through the building automation system (BAS), and this detailed data is not typically available in the residential sector. Meanwhile, using sensors for developing FDD-enabled HVAC systems is not cost-efficient due to the cost associated with required sensors compared to the energy savings realized, thus making residential FDD less attractive. However, studies have shown that faults cause an additional 20.7TWh of energy consumption from residential HVACs across the US, annually. Thus, this paper gives a critical review of various studies that have been done on FDD in residential HVAC systems and proposes a data analytical approach, which if actualized, could reduce the sensor requirements for FDD in residential HVAC, thus addressing the cost barrier."
+}

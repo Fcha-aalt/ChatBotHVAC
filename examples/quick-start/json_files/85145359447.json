@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145359447,
+    "Title": "Cooling performance evaluation of a fan-assisted ceiling radiant cooling panel system",
+    "Author": "Choi J.S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-02-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2022.112760",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pukyong National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 4,
+    "Abstract": "Ceiling radiant cooling panel (CRCP) systems have been widely used for space cooling owing to high thermal comfort and energy efficiency. However, it has been reported that the cooling capacity of CRCP systems can be limited because panel surface temperature should be maintained above the dew-point temperature in order to avoid the condensation risk. Previous studies showed that this limitation can be overcome by applying air flow to the panel surface using parallel HVAC systems. However, as additional costs and space are required to install parallel HVAC systems, a simple and low-cost system needs to be considered to enhance the cooling capacity. In this context, the present study was conducted to develop a fan-assisted ceiling radiant cooling panel (FCRCP) system wherein small and low-cost fans are associated with the CRCP, in order to minimize the modification of architectural or mechanical elements. To evaluate the performance of this system, mock-up experiments were conducted to evaluate the cooling performance of the FCRCP system. Numerical analysis was also performed to compare the cooling performance of various FCRCP alternatives. The cooling performance was analyzed for the thermal environment and cooling capacity depending on the type, location, and arrangement of the fans. Simulation results showed that the FCRCP can enhance the cooling capacity by 73–112 %, reduce the indoor temperature by 0.4–0.9 °C, and elevate the air velocity by up to 0.17–0.33 m/s, when compared to conventional CRCP system."
+}

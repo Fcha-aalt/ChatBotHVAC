@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088116866,
+    "Title": "ML-Assisted Monitoring and Characterization of IoT Sensor Networks",
+    "Author": "Ip K.",
+    "Journal": "IEEE Conference on Evolving and Adaptive Intelligent Systems",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/EAIS48028.2020.9122775",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Microsoft Corporation",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "IoT (Internet of Things) is a dynamic and evolving paradigm with a huge potential for applications across a variety of domains. The number of IoT sensors and volume of telemetry data is growing exponentially, while human capacity to analyze the data remains constant. Hence, current domain applications will benefit from ML-powered solutions that focus human attention on contextually relevant telemetry signals, and automatically infer non-trivial relationships between sensors within a network to assist engineers in troubleshooting complex systems faster. This paper proposes a machine-learning pipeline to characterize a system that is being monitored by an IoT sensor network via a three-pronged approach: monitoring, support diagnostics, ontology augmentation. The pipeline uses an adaptive anomaly detector and applies a novel multi-step, topologically-formulated clustering method on the detected sensor anomalies. It also utilizes an automated pattern mining engine to surface nontrivial sensor relationships based on historic clustering results to augment the static topology of the sensor network. We also provide an illustrative case study in the domain of smart building to showcase the potential application of our pipeline in aiding HVAC maintenance."
+}

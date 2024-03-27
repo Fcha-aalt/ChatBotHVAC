@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84954131331,
+    "Title": "Occupancy estimation using ultrasonic chirps",
+    "Author": "Shih O.",
+    "Journal": "ACM/IEEE 6th International Conference on Cyber-Physical Systems, ICCPS 2015",
+    "Publication Date": {
+        "$date": "2015-04-14T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1145/2735960.2735969",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 57,
+    "Abstract": "Estimating the number of people within a room is important for a wide variety of applications including: HVAC load management, scheduling room allocations and guiding first responders to areas with trapped people. In this paper, we present an active sensing technique that uses changes in a room's acoustic properties to estimate the number of occupants. Frequency dependent models of reverberation and room capacity are often used when designing auditoriums and concert halls. We leverage this property by using measured changes in the ultrasonic spectrum reflected back from a wide-band transmitter to estimate occupancy. A centrally located beacon transmits an ultrasonic chirp and then records how the signal dissipates over time. By analyzing the frequency response over the chirp's bandwidth at a few known occupancy levels, we are able to extrapolate the response as the number of people in the room changes. We explore the design of an excitation signal that best senses the environment with the fewest number of training samples. Through experimentation, we show that our approach is able to capture the number of people in a wide-variety of room configurations with people counting accuracy below 10% of the maximum room capacity count with as few as two training points. Finally, we provide a simple mechanism that allows our system to recalibrate when we know the room is empty so that it can adapt dynamically over time."
+}

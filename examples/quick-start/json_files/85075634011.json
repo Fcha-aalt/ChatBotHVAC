@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075634011,
+    "Title": "A System Based on IoT Platforms and Occupancy Monitoring for Energy-Efficient HVAC Management",
+    "Author": "Corrà M.",
+    "Journal": "5th International Forum on Research and Technologies for Society and Industry: Innovation to Shape the Future, RTSI 2019 - Proceedings",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/RTSI.2019.8895521",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tretec S.r.l.",
+    "Affliation Country": "Italy",
+    "Cited by count": 4,
+    "Abstract": "This paper presents a system based on Internet of Things (IoT) platforms for energy-efficient Heating, Ventilation and Air Conditioning (HVAC) management. The proposed solution is modular, scalable and it is able to modulate the airflow in different building areas based on the actual number of occupants. This can be monitored in real-time with no privacy issues and with no need for involved prediction models. Currently, a prototype of the proposed system is used to regulate ventilation in compliance with the requirements of the EN Standard 16798:2017. The first experimental results confirm that the proposed solution can reduce the daily electrical energy consumption of an HVAC system by about 60%, with no air quality degradation."
+}

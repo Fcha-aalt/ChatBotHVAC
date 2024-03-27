@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84952768193,
+    "Title": "Evaluating and reducing production impact on HVAC cooling load",
+    "Author": "Brundage M.P.",
+    "Journal": "IEEE International Conference on Automation Science and Engineering",
+    "Publication Date": {
+        "$date": "2015-10-07T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/CoASE.2015.7294064",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Stony Brook University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Reducing the production impact on the cooling load is pertinent in minimizing overall energy usage within the manufacturing environment. This paper expands upon previous research to analyze the complex energy dynamics of the production line and evaluate the effect of the production on the cooling load for the heating, ventilation, and air conditioning system. The radiant time series method is utilized to estimate the radiative heat load, which allows for the calculation of the cooling load caused by each individual machine on the production line. To reduce the overall cooling load, an opportunity window control scheme is employed that allows for certain machines to be turned off without affecting production. This control scheme leads to a reduction in energy consumption and cooling load for the manufacturing facility. Simulation studies are performed using Simulink/MATLAB to validate the cooling load analysis and the opportunity window control methodology."
+}

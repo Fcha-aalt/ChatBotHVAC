@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145781472,
+    "Title": "Dynamic room temperature setpoints of air-conditioning demand response based on heat balance equations with thermal comfort model as constraint: On-site experiment and simulation",
+    "Author": "Li Z.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2022.105798",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chang'an University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Demand response (DR) can alleviate the peak load of the grid and enhance its stability. The centralized controllability of heating, ventilation, and air-conditioning (HVAC) systems along with the inertia of the building makes it a potential efficient participant in DR events. In this regard, changing room temperature setpoints is considered a traditional DR strategy. Many studies have investigated the improvement of the indoor temperature settings during DR events, concentrating on the control and management aspects. However, less attention has been paid to the effect of temperature change on the indoor thermal balance factor and thermal comfort levels. In this work, a method based on heat balance equations combined with a thermal comfort model as a constraint is proposed for dynamically adjusting room temperature setpoint to tap the energy-saving potential of air-conditioning systems. According to the outdoor hourly temperature predicted by a radial basis function (RBF) neural network algorithm, combined with time-of-use (TOU) electricity price information, different thermal comfort models are established in DR and non-DR periods. Using this information, the optimal indoor hourly temperature setpoint is calculated using heat balance equations and a thermal comfort indicator. Physical experiments and EnergyPlus simulations are carried out to investigate and evaluate the proposed strategies. The results show that the dynamic temperature setpoint can save 2.8% on electricity consumption and 3.73% on operational costs compared to the fixed temperature setpoint scenario under the premise of ensuring thermal comfort."
+}

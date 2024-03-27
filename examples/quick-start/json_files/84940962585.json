@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84940962585,
+    "Title": "Energy efficient model based algorithm for control of building HVAC systems",
+    "Author": "Kirubakaran V.",
+    "Journal": "Ecotoxicology and Environmental Safety",
+    "Publication Date": {
+        "$date": "2015-11-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.ecoenv.2015.03.027",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Institute of Technology Tiruchirappalli",
+    "Affliation Country": "India",
+    "Cited by count": 10,
+    "Abstract": "Energy efficient designs are receiving increasing attention in various fields of engineering. Heating ventilation and air conditioning (HVAC) control system designs involve improved energy usage with an acceptable relaxation in thermal comfort. In this paper, real time data from a building HVAC system provided by BuildingLAB is considered. A resistor-capacitor (RC) framework for representing thermal dynamics of the building is estimated using particle swarm optimization (PSO) algorithm. With objective costs as thermal comfort (deviation of room temperature from required temperature) and energy measure (. E<inf>cm</inf>) explicit MPC design for this building model is executed based on its state space representation of the supply water temperature (input)/room temperature (output) dynamics. The controllers are subjected to servo tracking and external disturbance (ambient temperature) is provided from the real time data during closed loop control. The control strategies are ported on a PIC32mx series microcontroller platform. The building model is implemented in MATLAB and hardware in loop (HIL) testing of the strategies is executed over a USB port. Results indicate that compared to traditional proportional integral (PI) controllers, the explicit MPC's improve both energy efficiency and thermal comfort significantly."
+}

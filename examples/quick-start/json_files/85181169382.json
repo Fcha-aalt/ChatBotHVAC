@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85181169382,
+    "Title": "Using Pearson correlation coefficient as a performance indicator in the compensation algorithm of asynchronous temperature-humidity sensor pair",
+    "Author": "Teng T.P.",
+    "Journal": "Case Studies in Thermal Engineering",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.csite.2023.103924",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taiwan Normal University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "Artificial Intelligence (AI) based control algorithms for heating, ventilation, and air conditioning (HVAC) equipment have been gradually applied to improve building energy efficiency. Nevertheless, a reliable dataset is certainly a cornerstone for any meaningful AI training. Unfortunately, significant errors exist on humidity records due to asynchronous humidity and temperature sensor time constants, which need to be better compensated. This study aims to verify the general applicability of the previously proposed compensation algorithm and discover a new method to determine essential parameters for the algorithm without lab testing, which makes it possible to apply the compensation algorithm to on-duty sensor pairs. Experiment results from newly tested sensor pairs are found comparable to the previous study's outcome, which confirms the algorithm's general applicability. Meanwhile, the newly proposed performance indicator – the Pearson correlation coefficient (PCC) of humidity ratio and temperature – results in a 64–97 % error reduction on the tested sensor pairs. Despite not being as steady as the original lab method, the PCC proved a possible alternative method worth further investigation due to its accessibility."
+}

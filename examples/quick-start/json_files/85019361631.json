@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019361631,
+    "Title": "Parametric study of double-skin facades performance in mild climate countries",
+    "Author": "Alberto A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2017-07-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.jobe.2017.05.013",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade do Porto",
+    "Affliation Country": "Portugal",
+    "Cited by count": 71,
+    "Abstract": "The application of double-skin facades is an interesting technical solution but, at the same time, highly affected by the climatic conditions of the building location. Southern European countries are characterized by relevant solar gains that play a major role in the performance of double-skin facades. In this work, a parametric study is carried out to systematically assess the impact, in the building performance, of geometry, airflow path, cavity depth, openings area and type of glazing. The study is based in numerical simulations using DesignBuilder/EnergyPlus, taking advantage of the available CFD module for a better insight on the relevant energy transfer phenomena. It was found that the most important aspect for the efficiency of a double-skin facade is the airflow path and the most efficient geometry was the multi-storey double-skin facade, presenting, in average, 30% less HVAC related energy demands. Internal gains proved to be one of the key factors for the building's energy performance and facade orientation can represent a difference of up to 40% in energy demand between north and southern oriented facades."
+}

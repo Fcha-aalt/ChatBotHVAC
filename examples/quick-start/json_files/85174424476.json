@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174424476,
+    "Title": "An Experimental HVAC Faults Data Generation and Detection Using One-Dimensional Convolutional Neural Networks",
+    "Author": "Tun W.",
+    "Journal": "IEEE International Conference on Automation Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/CASE56687.2023.10260667",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Technology Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) system contain a number of electrical parts that are susceptible to failure. Conventional fault detection techniques for HVAC systems, aimed at enhancing their effectiveness and energy-saving capabilities, suffer from low accuracy and necessitate artificial feature extraction and selection to improve their performance. This research addresses the limitations of conventional HVAC fault detection systems, which exhibit low accuracy and require manual feature extraction and selection. To overcome these challenges, a novel approach is proposed using a one-dimensional convolution neural network (1D-CNN) in conjunction with the HVAC SIMulation PLUS (HVACSIM+) dynamic simulation system. Unlike traditional methods, the proposed 1D-CNN approach utilizes experimental simulation data without the need for pre-processing or feature selection. In a single-story, four-room building, the implemented HVAC fault model successfully identifies ten major faults in HVAC equipment and control systems with an impressive accuracy rate of 94%. The proposed approach not only achieves the energy-saving goal but also outperforms previous fault detection systems, demonstrating its superiority in HVAC system fault diagnosis. By eliminating the reliance on manual feature extraction and selection, this research contributes to the advancement of fault detection techniques, ultimately enhancing the effectiveness and reliability of HVAC systems in various operating conditions."
+}

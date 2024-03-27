@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172722672,
+    "Title": "Agent-Based Decentralized Energy Management with Distributed Intelligence for HVAC Control",
+    "Author": "Asad H.S.",
+    "Journal": "Environmental Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-9822-5_153",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "It is established centralized energy management (CEM) approaches can significantly improve the energy efficiency of heating, ventilation, and air conditioning (HVAC) systems. Regardless of the energy-saving potential, the CEM is rarely implemented in the building because of the difficulties in the development of a reasonable performance model for the synthesis of CEM and computational complexity due to the centralized architecture of CEM that also limits the scalability of CEM [with addition or removal of components]. Furthermore, centralized CEM for large-scale applications requires large amounts of data from local control loops to be sent to building management systems (BMS) to update the state of the system for optimal control action. This study aims to enable distributed intelligence with the development of agent-based decentralized energy management (ADEM) solution for building HVAC systems by systematically addressing issues with CEM. A performance model was incorporated following agent-based distributed optimal control requirements. Followed by the decomposition of the HVAC system into subsystems for the realization of agent-based decentralized architecture. Then agents were defined for subsystems, as a uniform decision-making process for all agents for ease of understanding and implementation. The proposed ADEM approach was tested in a simulation environment on a complex HVAC system under actual operating conditions recorded from a real building. Case studies were carried out to evaluate CEM and ADEM approaches’ optimization accuracy, energy performance, and communication load."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050234887,
+    "Title": "Adaptive edge analytics for creating memorable customer experience and venue brand engagement, a scented case for Smart Cities",
+    "Author": "Ilapakurti A.",
+    "Journal": "2017 IEEE SmartWorld Ubiquitous Intelligence and Computing, Advanced and Trusted Computed, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People and Smart City Innovation, SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2017 - Conference Proceedings",
+    "Publication Date": {
+        "$date": "2018-06-26T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/UIC-ATC.2017.8397583",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Hanumayamma Innovations and Technologies Inc.",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "In today's competitive business environment creating memorable experiences and emotional connections1 with consumers is critical to win consumer spending and long term brand loyalty [1]. Brands want their customers to be in pleasing subliminal scented2 environments because, as research has shown, even a few micro-particles of scent can do a lot of marketing's heavy lifting, from improving consumer perceptions of quality to increasing the number of store visits. Hence, customer venues such as hotels, retail showrooms, casinos, hospitable and other captive audience places employ HVAC (Heating, ventilation and air conditioning) based scent diffusion system that delivers a seamless olfactory [2] experience to connect with consumers on a deeper emotional level, resulting in a more memorable experience. Current state of the art of HVAC dispenser systems, however, uses power hungry deployments [3] to monitor and dispense periodically, without accounting venue-patron occupancy ratios and sudden changes in foot traffic numbers. Thus, resulting sub-optimal user experience that might lead to a poor brand engagement and could incur higher operational costs [5] and thus reduce over all return on the investment (ROI). In this research paper, we propose an innovative approach to implement intelligent HVAC dispensing that improve venue experience and operational efficiencies through the application of Big Data Technologies, Edge processing and IoT Sensing. Our system combines a lightweight edge anomaly detection algorithm based on Kalman filter and venue ambient condition to foot traffic graph matrix. The amalgamation of anomaly detection using Kalman filter to the venue ambiance with the application of machine learning creates an adaptive edge and that is our formula to the innovation that we propose and present a prototyping solution design as well as its application and certain experimental results."
+}

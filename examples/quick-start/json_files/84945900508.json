@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84945900508,
+    "Title": "Design of fault isolation filter for control reconfiguration: Application to energy efficiency control in buildings",
+    "Author": "Sauter D.",
+    "Journal": "2015 23rd Mediterranean Conference on Control and Automation, MED 2015 - Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-07-14T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/MED.2015.7158750",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université de Lorraine",
+    "Affliation Country": "France",
+    "Cited by count": 6,
+    "Abstract": "In this paper, fault adaptive control is developed for building Heating Ventilation and Air Conditioning (HVAC) systems. That is, the control system parameters and objective functions are adapted/reconfigured in the presence of a fault or performance deviation by means of an intermediate reconfigurable control layer. It allows maintaining building and HVAC operation within its specified energy and comfort performance requirements when a mechanical or operational fault takes place, until the fault is corrected. An integrated design, composed of two levels, respectively fault diagnosis and reconfiguration mechanism is proposed to recover performances after fault occurrence. This approach is applied to a 3 zones building and simulation results are given to show its effectiveness."
+}

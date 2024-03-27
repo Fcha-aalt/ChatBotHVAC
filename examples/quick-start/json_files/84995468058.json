@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84995468058,
+    "Title": "Power Electronics Implementation of Dynamic Thermal Inertia to Offset Stochastic Solar Resources in Low-Energy Buildings",
+    "Author": "Cao Y.",
+    "Journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "Publication Date": {
+        "$date": "2016-12-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/JESTPE.2016.2609280",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Grainger College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 15,
+    "Abstract": "This paper studies the use of power electronic drives to implement dynamic thermal inertia control in low-energy buildings. Dynamic management of energy components is used to offset the variability of stochastic solar resources. Emphasis is on power electronic heating, ventilation, and air-conditioning (HVAC) drives that can act as an effective electric swing bus to mitigate the solar power variability. In doing so, grid power flows become substantially more constant, reducing the need for fast grid resources or dedicated energy storage such as batteries. The concept is equivalent to using the building thermal energy as a virtual dynamic storage in support of power grid operation. This paper defines a bandwidth over which such HVAC drives can operate. To test the methods, 18 months of solar data have been collected on submillisecond timescales as a basis to evaluate the efficacy, determine the solar frequency-domain content, and analyze the mitigation of variability. A practical bandpass filter is realized with a lower frequency bound such that the building maintains a consistent temperature, and an upper frequency bound to ensure that the commanded HVAC fan speeds do not update arbitrarily fast, avoid acoustic discomfort to occupants, and prevent undue hardware wear and tear. The combination is illustrated in simulation and with experimental results based on various update rates of a variable frequency fan drive over the stochastic solar data. Building electrical and thermal energy systems modeling is addressed, including solar and HVAC systems as well as batteries and large-scale thermal storages. A full-scale multiple-day case study provides insight into potential grid-side and storage-related benefits."
+}

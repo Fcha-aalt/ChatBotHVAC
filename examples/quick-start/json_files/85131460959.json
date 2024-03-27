@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131460959,
+    "Title": "A survey for deep reinforcement learning in markovian cyber–physical systems: Common problems and solutions",
+    "Author": "Rupprecht T.",
+    "Journal": "Neural Networks",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.neunet.2022.05.013",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Northeastern University",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Deep Reinforcement Learning (DRL) is increasingly applied in cyber–physical systems for automation tasks. It is important to record the developing trends in DRL's applications to help researchers overcome common problems using common solutions. This survey investigates trends seen within two applied settings: motor control tasks, and resource allocation tasks. The common problems include intractability of the action space, or state space, as well as hurdles associated with the prohibitive cost of training systems from scratch in the real-world. Real-world training data is sparse and difficult to derive and training in real-world can damage real-world learning systems. Researchers have provided a set of common as well as unique solutions. Tackling the problem of intractability, researchers have succeeded in guiding network training with handcrafted reward functions, auxiliary learning, and by simplifying the state or action spaces before performing transfer learning to more complex systems. Many state-of-the-art algorithms reformulate problems to use multi-agent or hierarchical learning to reduce the intractability of the state or action spaces for a single agent. Common solutions to the prohibitive cost of training include using benchmarks and simulations. This requires a shared feature space common to both simulation and the real world; without that you introduce what is known as the reality gap problem. This is the first survey, to our knowledge, that studies DRL as it is applied in the real world at this scope. It is our hope that the common solutions surveyed become common practice."
+}

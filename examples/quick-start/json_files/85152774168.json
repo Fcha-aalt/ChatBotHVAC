@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152774168,
+    "Title": "Thermophysical Properties of Low GWP Refrigerants: An Update",
+    "Author": "Fedele L.",
+    "Journal": "International Journal of Thermophysics",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s10765-023-03191-5",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Consiglio Nazionale delle Ricerche",
+    "Affliation Country": "Italy",
+    "Cited by count": 4,
+    "Abstract": "In the last decades, the industry of HVAC&R has faced continuous changes trying to identify environmentally friendly refrigerants for the numerous applications of the sector. However, the amount of low GWP fluids still available as potential refrigerants is limited to some natural fluids and, among synthetic chemicals, to hydrofluoroolefins (HFO). The knowledge of the thermophysical properties of these compounds and the evaluation of their energy efficiency in experimental apparatuses is essential to properly address the selection of the most suitable fluids. However, regarding the wide majority of HFOs, the information on the thermophysical properties, especially for the blends, are still scarce and require further research. In this work, an analysis of the possible substitutes and the available experimental data sets on their thermophysical properties was carried out to find out for which fluids further studies are needed to obtain an accurate representation of their thermophysical properties. Specifically, for 21 pure refrigerants, an overview of the thermodynamic (critical point, psat, PVT, heat capacity and speed of sound) and transport properties (λ, μ, σ) data published in the peer reviewed literature was provided. In addition, a more comprehensive analysis was carried out for four fluids (R1243zf, R1233zd(E), R1336mzz(Z), and R1224yd(Z)), for which major efforts have been made in the last 4 years to investigate the above thermophysical properties. Although an increasing amount of data sets on thermophysical properties have been compiled in recent years, the present study indicates that research efforts are still needed, especially on transport properties, as only 4 of the fluids of interest for the present research have been fully investigated (R1234yf, R1234ze(E), R1233zd(E), R1243zf), while other 4 (R1234ze(Z), R1336mzz(Z), R1224yd(Z), R1336mzz(E)) have been almost completely characterised."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85116656071,
+    "Title": "A Temperature &amp; Humidity Setback Demand Response Strategy for HVAC Systems",
+    "Author": "Yuan J.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.scs.2021.103393",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huazhong University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Heating, ventilation and air conditioning (HVAC) system plays a significant role in demand response (DR) to reduce the peak load of the grid. Conventionally, only the sensible load is reduced by increasing the indoor temperature during DR periods and the latent load is rarely concerned. This study proposes a temperature & humidity (T&H) setback strategy for HVAC systems to reduce both the sensible and latent cooling loads by adjusting the supply air temperature and chilled water supply temperature simultaneously. The performance of the T&H setback strategy is analyzed from the perspectives of peak shedding, energy saving and indoor thermal comfort and compared with the common temperature setback strategy. The impact of weather conditions and occupant densities on the performance of T&H strategy is assessed. Results show that the energy saving of the HVAC system under the T&H setback strategy can be up to 39.0% and peak shedding can be increased to 37.1%, which are both higher compared with the temperature setback strategy. The peak shedding and energy saving of the T&H setback strategy is larger when the buildings have lower sensible or higher latent load. The T&H strategy can improve the flexibility of buildings during DR periods effectively."
+}

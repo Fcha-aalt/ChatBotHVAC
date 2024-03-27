@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84947076805,
+    "Title": "Energy Consumption Analysis on a Typical Office Building: Case Study of the Tiejian Tower, Tianjin",
+    "Author": "Ma J.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.egypro.2015.07.506",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "Building sector accounted for more than 30% of global energy consumption and the importance of energy-efficient buildings has been frequently highlighted. Tiejian Tower of Tianjin is a well-known intelligent and energy-efficient building. Based on its construction engineering BOQ (Bill of quantities), this paper employed the input-output analysis to study its construction and operating energy consumption in detail. The construction project was divided into six sub-projects, which were structure and decoration engineering (SD), electrical engineering (EE), water supply and drainage engineering (WD), fire protection engineering (FP), heating, ventilation and air conditioning system engineering (HVAC) and intelligent system engineering (IS). Combined with the operating energy consumption data, the performance of Tiejian was estimated from a life cycle perspective. The results show that the embodied energy consumption of construction engineering is quantified as 1.14E+15J. The structure and decoration engineering (SD) contributes almost 80% of the construction energy consumption while the energy-efficient equipment and materials contribute a relatively small proportion. The energy consumption of operation stage is quantified as 4.25E+13J for a year which is much lower than conventional buildings. Though the energy inputs at the construction stage are higher than conventional buildings, the total energy consumption is much lower than conventional ones from a long term perspective."
+}

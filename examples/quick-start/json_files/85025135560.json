@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85025135560,
+    "Title": "Mixed-mode ventilation and air conditioning as alternative for energy savings: a case study in Beirut current and future climate",
+    "Author": "Daaboul J.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1007/s12053-017-9546-z",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "American University of Beirut",
+    "Affliation Country": "Lebanon",
+    "Cited by count": 29,
+    "Abstract": "The aim of this work is to assess the use of mixed-mode ventilation for a typical office building in Lebanon and consequently reduce Heating Ventilation and Air Conditioning (HVAC) energy consumption in the observed current and under the future projected climatic conditions. Mixed-mode cooling is considered a compromise between the insufficient natural ventilation and the expensive year round-operated HVAC. A control algorithm is set for windows and HVAC system to ensure mixed-mode operation. Dynamic simulations are performed on a typical office building in Beirut City under the mixed-mode operation in the present and the future using commercial IES-VE software. The results of the software were validated against measured HVAC and total energy consumption of the typical office base case with conventional mechanical system. The results of the simulations are evaluated in terms of potential reduction in energy consumption under the present and the future weather data. Finally, a lifecycle cost analysis is performed for the proposed system, and its payback period is computed. Under present construction practices and weather data, 31% annual energy savings were achieved using mixed-mode system. Under future 2050s projected weather data, annual energy savings of 21% was attained with a payback period of 3.8 years."
+}

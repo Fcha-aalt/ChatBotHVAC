@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123257579,
+    "Title": "Enhancing Interpretability of Data-Driven Fault Detection and Diagnosis Methodology with Maintainability Rules in Smart Building Management",
+    "Author": "Chew M.Y.L.",
+    "Journal": "Journal of Sensors",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1155/2022/5975816",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National University of Singapore",
+    "Affliation Country": "Singapore",
+    "Cited by count": 16,
+    "Abstract": "Data-driven fault detection and diagnosis (FDD) methods, referring to the newer generation of artificial intelligence (AI) empowered classification methods, such as data science analysis, big data, Internet of things (IoT), industry 4.0, etc., become increasingly important for facility management in the smart building design and smart city construction. While data-driven FDD methods nowadays outperform the majority of traditional FDD approaches, such as the physically based models and mathematically based models, in terms of both efficiency and accuracy, the interpretability of those methods does not grow significantly. Instead, according to the literature survey, the interpretability of the data-driven FDD methods becomes the main concern and creates barriers for those methods to be adopted in real-world industrial applications. In this study, we reviewed the existing data-driven FDD approaches for building mechanical & electrical engineering (M&E) services faults and discussed the interpretability of the modern data-driven FDD methods. Two data-driven FDD strategies integrating the expert reasoning of the faults were proposed. Lists of expert rules, knowledge of maintainability, international/local standards were concluded for various M&E services, including heating, ventilation air-conditioning (HVAC), plumbing, fire safety, electrical and elevator systems based on surveys of 110 buildings in Singapore. The surveyed results significantly enhance the interpretability of data-driven FDD methods for M&E services, potentially enhance the FDD performance in terms of accuracy and promote the data-driven FDD approaches to real-world facility management practices."
+}

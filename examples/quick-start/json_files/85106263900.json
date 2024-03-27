@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106263900,
+    "Title": "Energy performance optimization of a house with grid-connected rooftop pv installation and air source heat pump",
+    "Author": "Stamatellos G.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-02-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14030740",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Thessaly",
+    "Affliation Country": "Greece",
+    "Cited by count": 10,
+    "Abstract": "The use of air source heat pump systems for space heating and cooling is a convenient retrofitting strategy for reducing building energy costs. This can be combined with the rooftop installation of photovoltaic panels, which can cover, to a significant degree—or even significantly exceed the building’s electricity needs, moving towards the zero energy building concept. Alternatively, increased capacity for rooftop photovoltaic (PV) installation may support the ongoing process of transforming the Greek power system away from the reliance on fossil fuels to potentially become one of the leaders of the energy transition in Europe by 2030. Standard building energy simulation tools allow good assessment of the Heating, Ventilation and Air Conditioning (HVAC) and PV systems’ interactions in transient operation. Further, their use enables the rational sizing and selection of the type of panels type for the rooftop PV installation to maximize the return on investment. The annual performance of a three-zone residential building in Volos, Greece, with an air-to-water heat pump HVAC system and a rooftop PV installation, are simulated in a TRNSYS environment. The simulation results are employed to assess the expected building energy performance with a high performance, inverter driven heat pump with scroll compressor and high efficiency rooftop PV panels. Further, the objective functions are developed for the optimization of the installed PV panels’ area and tilt angle, based on alternative electricity pricing and subsidies. The methodology presented can be adapted to optimize system design parameters for variable electricity tariffs and improve net metering policies."
+}

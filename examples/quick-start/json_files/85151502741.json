@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151502741,
+    "Title": "Design of an EnergyPlus Model-Based Smart Controller for Maintaining Thermal Comfortable Environment in Non-Domestic Building",
+    "Author": "Naseem T.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ACCESS.2023.3262934",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "COMSATS Institute of Information Technology Lahore",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 2,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems account for 59% of energy consumption in domestic buildings and 36% in non-domestic buildings. According to a study, around 39% of occupants are dissatisfied with indoor temperature in non-domestic buildings. To maintain thermal comfort and indoor air quality, HVAC systems are widely used in non-domestic buildings. This research aims to develop energy-efficient control techniques for HVAC systems while ensuring indoor thermal comfort. Three control strategies, namely EnergyPlus model-based Model Predictive Control (MPC), Sliding Mode Control (SMC), and simple ON/OFF control, are employed and compared at the Department of Electrical and Computer Engineering, COMSATS University Islamabad, Lahore Campus. Furthermore, a machine learning-based Predicted Mean Vote (PMV)-based temperature setpoint estimator is designed to ensure occupant thermal comfort. The control techniques estimate the temperature setpoints and supply air temperature of the Variable Air Volume (VAV) system to control indoor room temperature. The energy consumption and indoor thermal comfort of the building are compared under different control techniques. The results show that MPC with PMV-based setpoints consumes 17.20% less energy during winters and 14.67% less energy during summers than a simple ON/OFF controller."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074682146,
+    "Title": "Application of deep Q-networks for model-free optimal control balancing between different HVAC systems",
+    "Author": "Ahn K.U.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2020-01-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/23744731.2019.1680234",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Seoul National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 57,
+    "Abstract": "A deep Q-network (DQN) was applied for model-free optimal control balancing between different HVAC systems. The DQN was coupled to a reference office building: an EnergyPlus simulation model provided by the U.S. Department of Energy. The building was air-conditioned with four air-handling units (AHUs), two electric chillers, a cooling tower, and two pumps. EnergyPlus simulation results for eleven days (July 1–11) and three subsequent days (July 12–14) were used to improve the DQN policy and test the optimal control. The optimization goal was to minimize the building’s energy use while maintaining the indoor CO2 concentration below 1,000 ppm. It was revealed that the DQN—a reinforcement learning method—can improve its control policy based on prior actions, states, and rewards. The DQN lowered the total energy usage by 15.7% in comparison with the baseline operation while maintaining the indoor CO2 concentration below 1,000 ppm. Compared to model predictive control, the DQN does not require a simulation model, or a predetermined prediction horizon, thus delivering model-free optimal control. Furthermore, it was demonstrated that the DQN can find balanced control actions between different energy consumers in the building, such as chillers, pumps, and AHUs."
+}

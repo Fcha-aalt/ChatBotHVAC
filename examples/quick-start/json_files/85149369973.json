@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149369973,
+    "Title": "A Collaborative Neurodynamic Optimization Approach to Distributed Chiller Loading",
+    "Author": "Chen Z.",
+    "Journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TNNLS.2023.3245812",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 3,
+    "Abstract": "In this article, we present a collaborative neurodynamic optimization approach to distributed chiller loading in the presence of nonconvex power consumption functions and binary variables associated with cardinality constraints. We formulate a cardinality-constrained distributed optimization problem with nonconvex objective functions and discrete feasible regions, based on an augmented Lagrangian function. To overcome the difficulty caused by the nonconvexity in the formulated distributed optimization problem, we develop a collaborative neurodynamic optimization method based on multiple coupled recurrent neural networks reinitialized repeatedly using a meta-heuristic rule. We elaborate on experimental results based on two multi-chiller systems with the parameters from the chiller manufacturers to demonstrate the efficacy of the proposed approach in comparison to several baselines."
+}

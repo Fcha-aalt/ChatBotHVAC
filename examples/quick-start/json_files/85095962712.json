@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095962712,
+    "Title": "Machine learning for BMS analysis and optimisation",
+    "Author": "Mesa-Jiménez J.J.",
+    "Journal": "Engineering Research Express",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1088/2631-8695/abbb85",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Brunel University London",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 1,
+    "Abstract": "In large buildings, linking heating, cooling or ventilation systems between themselves and to physical spaces is a very time-consuming task that requires highly skilled engineering knowledge, as all these systems are interconnected and they have a certain influence to each other (ventilation systems are often connected to heating and cooling), which often makes task of locating the sources of error or anomalies very time consuming and difficult as they are performed manually. A different approach would be to work out relationships and equipment linkage from time series data provided by the sensors, thus inferring equipment links from which anomalies can be traced back to the source more easily. This paper proposes a data-based solution to obtain equipment relationships based on cross-correlations to relate Air Handling Units (AHUs) to their respective areas of operation. We also propose a methodology, in particular for AHUs, to identify whether or not to trust correlations based on the difference between supply and return temperature. A case study is presented based a large building with 16 AHU systems."
+}

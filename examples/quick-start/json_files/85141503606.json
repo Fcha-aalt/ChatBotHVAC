@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141503606,
+    "Title": "Indoor Room Temperature and Relative Humidity Estimation in a Commercial Building Using the XGBoost Machine Learning Algorithm",
+    "Author": "Kaligambe A.",
+    "Journal": "2022 IEEE PES/IAS PowerAfrica, PowerAfrica 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/PowerAfrica53997.2022.9905264",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Shibaura Institute of Technology",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "As technology advances, artificial intelligence (AI) techniques are being applied to commercial buildings to make them smart, reduce energy waste, and improve occupants' comfort. Some recent buildings are equipped with sensors to collect real-time data about the indoor environment, such as room temperature and relative humidity. Machine learning (ML) algorithms learn from the collected data to assist in the design of optimal thermal control of building systems, for example, heating, ventilation, and air conditioning (HVAC) systems. In this paper, we proposed the implementation of several extreme gradient boosting (XGBoost) models to estimate the unmeasured room temperature and relative humidity of a smart building in Japan. Our models accurately estimated temperature and humidity under various case studies with an average root mean squared error (RMSE) of 0.3 degrees and 2.6%, respectively. Results demonstrate the accurate estimation of indoor environment measurements relevant for optimal HVAC system control in buildings with fewer sensors."
+}

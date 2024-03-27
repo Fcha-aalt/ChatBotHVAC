@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071877309,
+    "Title": "Predicting personal thermal preferences based on data-driven methods",
+    "Author": "Aguilera J.J.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2019-08-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1051/e3sconf/201911105015",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technical University of Denmark",
+    "Affliation Country": "Denmark",
+    "Cited by count": 2,
+    "Abstract": "One of the prevalent models to account for thermal comfort in HVAC design is the Predicted Mean Vote (PMV). However, the model is based on parameters difficult to estimate in real applications and it focuses on mean votes of large groups of people. Personal Comfort Models (PCM) is a data-driven approach to model thermal comfort at an individual level. It takes advantage of concepts such as machine learning and Internet of Things (IoT), combining feedback from occupants and local thermal environment measurements. The framework presented in this paper evaluates the performance of PCM and PMV regarding the prediction of personal thermal preferences. Air temperature and relative humidity measurements were combined with thermal preference votes obtained from a field study. This data was used to train three machine learning methods focused on PCM: Artificial Neural Network (ANN), Naive-Bayes (NB) and Fuzzy Logic (FL); comparing them with a PMV-based algorithm. The results showed that all methods had a better overall performance than guessing randomly the thermal preferences votes. In addition, there was not a difference between the performance of the PCM and PMV-based algorithms. Finally, the PMV-based method predicted well thermal preferences of individuals, having a 70% probability of correct guessing."
+}

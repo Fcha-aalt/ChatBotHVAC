@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85092651956,
+    "Title": "Energy Performance of a Service Building: Comparison Between EnergyPlus and Revit",
+    "Author": "Silva J.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-58817-5_16",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade do Minho",
+    "Affliation Country": "Portugal",
+    "Cited by count": 5,
+    "Abstract": "Currently, the energy consumption study in buildings is very important, since it is one of the sectors of activity where there is great potential to improve energy efficiency. On the market, there are several simulation software, and the aim of this work consists in conducting a comparison between two dynamic simulation software, EnergyPlus, and Revit, with respect to the results obtained of thermal loads and annual energy consumption of a service building. In the simulation using EnergyPlus, an annual energy consumption of 442 MWh was obtained, that compares with 533 MWh when using Revit. Concerning the thermal loads in the sales area of the hypermarket, the simulation results for the thermal loads were the following: 761 kW for heating and 79 kW for cooling, versus 924 kW for heating and 86 kW for cooling when using the EnergyPlus and the Revit software, respectively. This discrepancy between the values obtained could be due to the limited selection of climatic files in Revit as well as the different definitions of the HVAC systems."
+}

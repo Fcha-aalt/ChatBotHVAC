@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124602377,
+    "Title": "Building HVAC Control via Neural Networks and Natural Evolution Strategies",
+    "Author": "Mason K.",
+    "Journal": "2021 IEEE Congress on Evolutionary Computation, CEC 2021 - Proceedings",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/CEC45853.2021.9504800",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Galway",
+    "Affliation Country": "Ireland",
+    "Cited by count": 6,
+    "Abstract": "Buildings are the highest consumers of electrical energy globally. Developing effective control strategies to enhance the operation of buildings to increase their energy efficiency has therefore become a very active area of research. This research proposes the use of evolutionary neural networks for the task of Heating Ventilation and Air Conditioning control. A neural network controller is trained using the exponential Natural Evolutionary Strategy algorithm is proposed. Its performance is bench-marked against multiple state of the art control strategies, including: a Genetic Algorithm trained neural network, the popular Deep Q-Network reinforcement learning algorithm and also a threshold based control policy. The results presented demonstrate that evolutionary neural networks are an effective strategy for reducing energy consumption while also minimizing thermal discomfort. The energy consumption and thermal discomfort achieved by evolutionary neural networks, are significantly lower than when using Deep Q-Network. This is particularly true for the Natural Evolutionary Strategy algorithm."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85051954200,
+    "Title": "On the interaction between personal comfort systems and centralized HVAC systems in office buildings",
+    "Author": "Kalaimani R.",
+    "Journal": "Advances in Building Energy Research",
+    "Publication Date": {
+        "$date": "2020-01-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/17512549.2018.1505654",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Indian Institute of Technology Madras",
+    "Affliation Country": "India",
+    "Cited by count": 19,
+    "Abstract": "Most modern HVAC systems in office buildings are unable to meet diverse comfort requirements of the occupants and are not energy efficient. We propose to mitigate both issues by using personal comfort systems (PCS). Specifically, we address the question, ‘How should an existing HVAC system modify its operation to benefit from the deployment of PCSs?’ For example, energy use could be reduced during periods of sparse occupancy by choosing appropriate thermal set points, with each PCS providing the additional offset in thermal comfort required by each occupant. We present the design of a PCS-aware HVAC control strategy based on Model Predictive Control (MPC) that employs a bi-linear thermal model. We use extensive simulations to compare the energy use and comfort offered by our PCS-aware HVAC system with that of a state-of-the-art MPC-based central HVAC system. We study different room layouts and scenarios with full or partial deployment of PCSs. Numerical evaluations show that our system yields significant savings in energy use in both summer and winter, compared both with a state-of-the-art system that does not deploy PCSs and with a similar system that deploys PCSs, but is not aware of them."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064252643,
+    "Title": "A context-driven platform using Internet of things and data stream processing for heating, ventilation and air conditioning systems control",
+    "Author": "Lachhab F.",
+    "Journal": "Proceedings of the Institution of Mechanical Engineers. Part I: Journal of Systems and Control Engineering",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1177/0959651819841534",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universiapolis - Université Internationale d‘Agadir",
+    "Affliation Country": "Morocco",
+    "Cited by count": 11,
+    "Abstract": "Control approaches of heating, ventilation and air conditioning systems in buildings have been proposed in the past years for minimizing energy consumption and maintaining occupants’ comfort. However, recent studies have shown that context-driven control approaches using Internet of things and data stream processing technologies could further improve energy saving in heating, ventilation and air conditioning systems. In this article, an intelligent control approach using a state feedback technique is introduced to regulate the heating, ventilation and air conditioning system according to the actual context. The proposed thermal state feedback control was then implemented and deployed in our EEBLab to study its effectiveness in a real-setting scenario. The performance of the proposed control was evaluated in a real test-site by deploying a control card that links the controller with the heating, ventilation and air conditioning system. A smart mobile application for real feedback control was also developed and deployed to dynamically adapt the controller to context’s changes. The mobile application and the heating, ventilation and air conditioning system communicate and exchange data under a data acquisition and visualization platform. In this article, a holistic platform that combines Internet of things and data stream processing technologies was developed and deployed in a real-setting scenario. Experiments have been performed, and results are reported to demonstrate the effectiveness and usefulness of the proposed approach in terms of energy saving while maintaining a comfortable room temperature. The proposed state feedback control outperforms the proportional–integral–derivative and ON/OFF approaches in terms of energy consumption while providing acceptable thermal comfort by allowing a neutral thermal sensation with ± 0.30 of predictive mean vote and less than 7% of predicted percentage of dissatisfaction."
+}

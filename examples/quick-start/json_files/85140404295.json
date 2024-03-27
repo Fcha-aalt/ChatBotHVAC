@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140404295,
+    "Title": "Optimal energy performance of dynamic sliding and insulated shades for residential buildings",
+    "Author": "Krarti M.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2022.125699",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Colorado Boulder",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "The paper evaluates the potential energy efficiency benefits for dynamic sliding exterior shades suitable for windows of both new and existing buildings. In particular, the analysis outlined in the paper summarizes the energy performance of dynamic sliding shades when applied to windows for apartment units located in various US climates. A series of sensitivity analyses is performed using a detailed whole-building simulation coupled with modeling techniques of dynamic envelope systems to determine the optimal positions for the dynamic sliding shades to minimize the annual demand for US housing units. Several operation strategies are evaluated using continuous and stepped settings of the positions for the dynamic sliding shades using monthly, daily, and hourly adjustment frequencies. The results of the analyses indicate that the dynamic shades have significant energy efficiency potential for all US climates and design conditions with annual savings in HVAC energy end-use of over 50% especially in hot and mild climates. The performance of the dynamic shades is even higher for large and single-pane windows indicating that these systems can serve as retrofit alternatives to window replacements."
+}

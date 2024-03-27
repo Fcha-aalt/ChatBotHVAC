@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84940795319,
+    "Title": "A Zero Energy Lab as a validation testbed: Concept, features, and performance",
+    "Author": "Ming T.",
+    "Journal": "International Journal of Hydrogen Energy",
+    "Publication Date": {
+        "$date": "2015-10-05T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.ijhydene.2015.07.010",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "UNT College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "The issues of fossil-fired energy shortage and global warming have aroused worldwide attention, and the renewable and sustainable energy sources, therefore, are playing an increasingly important role in future energy consumptions. Energy consumptions in buildings account for almost 40% of the primary energy use in the US. A novel research-based ZeroEnergy (Z∅E) Lab as a validation testbed combining various kinds of renewable energies has been presented in this paper. The concept, unique features, and the operation performance by experiments have also been shown in detail. The results of the novel Z∅E Lab can open up a good angle for the future development of zero energy buildings. After analyzing the operating data of the Z∅E Lab, the energy consumption, energy generation, and energy allocation of the devices have been presented. A new HVAC system with higher performance is recommended to be used in the Z∅E Lab to achieve an even lower energy consumption than the current use, as a necessary refinement."
+}

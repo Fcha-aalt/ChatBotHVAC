@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147948308,
+    "Title": "A Systematic Study on Reinforcement Learning Based Applications",
+    "Author": "Sivamayil K.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16031512",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "SASTRA Deemed University",
+    "Affliation Country": "India",
+    "Cited by count": 13,
+    "Abstract": "We have analyzed 127 publications for this review paper, which discuss applications of Reinforcement Learning (RL) in marketing, robotics, gaming, automated cars, natural language processing (NLP), internet of things security, recommendation systems, finance, and energy management. The optimization of energy use is critical in today’s environment. We mainly focus on the RL application for energy management. Traditional rule-based systems have a set of predefined rules. As a result, they may become rigid and unable to adjust to changing situations or unforeseen events. RL can overcome these drawbacks. RL learns by exploring the environment randomly and based on experience, it continues to expand its knowledge. Many researchers are working on RL-based energy management systems (EMS). RL is utilized in energy applications such as optimizing energy use in smart buildings, hybrid automobiles, smart grids, and managing renewable energy resources. RL-based energy management in renewable energy contributes to achieving net zero carbon emissions and a sustainable environment. In the context of energy management technology, RL can be utilized to optimize the regulation of energy systems, such as building heating, ventilation, and air conditioning (HVAC) systems, to reduce energy consumption while maintaining a comfortable atmosphere. EMS can be accomplished by teaching an RL agent to make judgments based on sensor data, such as temperature and occupancy, to modify the HVAC system settings. RL has proven beneficial in lowering energy usage in buildings and is an active research area in smart buildings. RL can be used to optimize energy management in hybrid electric vehicles (HEVs) by learning an optimal control policy to maximize battery life and fuel efficiency. RL has acquired a remarkable position in robotics, automated cars, and gaming applications. The majority of security-related applications operate in a simulated environment. The RL-based recommender systems provide good suggestions accuracy and diversity. This article assists the novice in comprehending the foundations of reinforcement learning and its applications."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85070196245,
+    "Title": "Annual energy performance simulation of solar chimney in a cold winter and hot summer climate",
+    "Author": "Hong S.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/s12273-019-0572-y",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Civil Engineering and Architecture Zhejiang University",
+    "Affliation Country": "China",
+    "Cited by count": 18,
+    "Abstract": "The paper studies the energy performance of a solar chimney (SC) in a high performance two-story detached house with 220 m2 floor area using EnergyPlus and the climate data of the hot summer and cold winter in China. An 8 m tall and 1.6 m wide solar chimney with a depth of 1 m is attached to the west wall to enhance building ventilation. The house uses a variable refrigerant flow (VRF) system to provide the heating and cooling and a separate ventilation system for outdoor air. The energy simulation results are compared between the house with the SC (SC case) and the same house but without SC (reference case). The results show that the SC produces larger ventilation rates than the minimum required rate most time of the year and therefore it needs to be controlled to avoid excessive outdoor air that leads to increased heating/cooling loads during the heating/cooling seasons. In this paper, a control is assumed so that the total outdoor air (through windows, doors, cracks and SC all together) is no more than one air exchange rate when the VRF system is running. The simulation shows that the SC can reduce the annual ventilation energy by 77.8% and the VRF energy by 2.3%. Overall, the annual energy saving of the SC for the studied house model is 549.0 kWh or 9.0% of the total HVAC energy consumption."
+}

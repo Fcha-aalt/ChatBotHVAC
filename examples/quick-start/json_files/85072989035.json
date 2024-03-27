@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072989035,
+    "Title": "An ANN approach for estimation of thermal comfort and sick building syndrome",
+    "Author": "Odesola I.F.",
+    "Journal": "Revue d'Intelligence Artificielle",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.18280/ria.330211",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Ibadan",
+    "Affliation Country": "Nigeria",
+    "Cited by count": 7,
+    "Abstract": "Thermal comfort is an important consideration in architectural design of modern building because of the implication on phgysiological impact of inhabitants. This study presents a near-nature learning strategy using Artificial Neural Networks (ANN) platform predicated on feed-forward back propagation model to predict variation in air distribution on building’s component to its thermal performance with consideration for energy management. Leverberg-Marquardt (LM) Algorithm was utilized to train the required location-specific geographical data in ANN module. Correlation coefficient and mean square error were used to validate the model. The results obtained with the trained data in neural network computing on thermal performance agreed very closely with those obtained in the analytical model used in the analysis with high correlation coefficient and minimal error metric was recorded for the mean square error. We study established the suitability of ANN-based prediction of thermal comfort and energy profiling in HVAC systems for near-nature effectiveness and performance of ventilation devices which may be applicable to residential and commercial buildings. The benefit of the ANN-based strategy presented in this study could be utilized for design of ventilation machines in eco-friendly buildings."
+}

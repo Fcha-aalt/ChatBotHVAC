@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060788016,
+    "Title": "Semi-supervised learning techniques for automated fault detection and diagnosis of HVAC systems",
+    "Author": "Dey M.",
+    "Journal": "Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI",
+    "Publication Date": {
+        "$date": "2018-12-13T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICTAI.2018.00136",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "London South Bank University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 12,
+    "Abstract": "This work demonstrates and evaluates semisupervised learning (SSL) techniques for heating, ventilation and air-conditioning (HVAC) data from a real building to automatically discover and identify faults. Real HVAC sensor data is unfortunately usually unstructured and unlabelled, thus, to ensure better performance of automated methods promoting machine-learning techniques requires raw data to be preprocessed, increasing the overall operational costs of the system employed and makes real time application difficult. Due to the data complexity and limited availability of labelled information, semi-supervised learning based robust automatic fault detection and diagnosis (AFDD) tool has been proposed here. Further, this method has been tested and compared for more than 50 thousand TUs. Established statistical performance metrics and paired t-test have been applied to validate the proposed work."
+}

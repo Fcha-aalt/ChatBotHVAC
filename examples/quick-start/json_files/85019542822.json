@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019542822,
+    "Title": "Evaluation of energy savings potential of variable refrigerant flow (VRF) from variable air volume (VAV) in the U.S. climate locations",
+    "Author": "Kim D.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2017-11-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egyr.2017.05.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Mississippi State University",
+    "Affliation Country": "United States",
+    "Cited by count": 56,
+    "Abstract": "Variable refrigerant flow (VRF) systems are known for their high energy performance and thus can improve energy efficiency both in residential and commercial buildings. The energy savings potential of this system has been demonstrated in several studies by comparing the system performance with conventional HVAC systems such as rooftop variable air volume systems (RTU-VAV) and central chiller and boiler systems. This paper evaluates the performance of VRF and RTU-VAV systems in a simulation environment using widely-accepted whole building energy modeling software, EnergyPlus. A medium office prototype building model, developed by the U.S. Department of Energy (DOE), is used to assess the performance of VRF and RTU-VAV systems. Each system is placed in 16 different locations, representing all U.S. climate zones, to evaluate the performance variations. Both models are compliant with the minimum energy code requirements prescribed in ASHRAE standard 90.1-2010 — energy standard for buildings except low-rise residential buildings. Finally, a comparison study between the simulation results of VRF and RTU-VAV models is made to demonstrate energy savings potential of VRF systems. The simulation results show that the VRF systems would save around 15–42% and 18–33% for HVAC site and source energy uses compared to the RTU-VAV systems. In addition, calculated results for annual HVAC cost savings point out that hot and mild climates show higher percentage cost savings for the VRF systems than cold climates mainly due to the differences in electricity and gas use for heating sources."
+}

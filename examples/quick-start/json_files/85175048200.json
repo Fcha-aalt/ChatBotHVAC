@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175048200,
+    "Title": "Analysis of Cooling Load Characteristics in Chinese Residential Districts for HVAC System Design",
+    "Author": "An J.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13102450",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing University of Civil Engineering and Architecture",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Energy consumption in residential buildings accounts for a large portion of global energy use. Understanding residential building load characteristics is important in both the design and technical suitability analysis of residential air conditioning systems in terms of energy efficiency and carbon reduction. However, most current research mainly focuses on the load characteristics of individual buildings and not on the variation in load characteristics of building aggregation. In addition, the load characteristics of building aggregations vary with the building scale; however, most studies have compared those of buildings under a certain scale, and the change with the increase in building scale is still unclear. The main purpose of this study is to explore load characteristic differences among residential buildings of different scales and the impacts of those differences on HVAC system design. Based on the monitoring data collected in a residential district in Zhengzhou, China, we analyzed the load characteristics among different households and combinations of different numbers of households from the variation in peak load, total consumption and load distribution, as well as the daily load volatility. We indicate that the load characteristics of heating, ventilation and air conditioning systems of different scales should be considered in the design and operation stage."
+}

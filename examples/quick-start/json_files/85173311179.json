@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173311179,
+    "Title": "Data-Driven Control of COVID-19 in Buildings: A Reinforcement-Learning Approach",
+    "Author": "Hosseinloo A.H.",
+    "Journal": "IEEE Transactions on Automation Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TASE.2023.3315549",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "MIT School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In addition to its public health crisis, COVID-19 pandemic has led to the shutdown and closure of workplaces with an estimated total cost of more than &#x0024;16 trillion. Given the long hours an average person spends in buildings and indoor environments, this research article proposes data-driven control strategies to design optimal indoor airflow to minimize the exposure of occupants to viral pathogens in built environments. A general control framework is put forward for designing an optimal velocity field and proximal policy optimization, a reinforcement learning algorithm is employed to solve the control problem in a data-driven fashion. The same framework is used for optimal placement of disinfectants to neutralize the viral pathogens as an alternative to the airflow design when the latter is practically infeasible or hard to implement. We show, via computational simulations, that the control agent learns the optimal policy in both scenarios within a reasonable time. The proposed data-driven control framework in this study will have significant societal and economic benefits by setting the foundation for an improved methodology in designing case-specific infection control guidelines that can be realized by affordable ventilation devices and disinfectants. <italic>Note to Practitioners</italic>&#x2014;This paper is motivated by the problem of COVID-19 infection spread in enclosed spaces but it also applies to other airborne pathogens. Airborne disease contagion often takes place in indoor environments; however, ventilation systems are almost never designed to take this into account so as to contain the spread of the pathogens. This is mainly because airflow design requires solving high-dimensional nonlinear partial differential equations known as Navier Stokes equations in fluid dynamics. In this paper, we propose a data-driven approach for solving the control problem of pathogen containment without solving the fluid dynamics equations. To this end, we first mathematically formulate the problem as an optimal control problem and then cast it as a reinforcement learning (RL) task. Reinforcement learning is the data-driven science of sequential decision-making and control in which the controller finds an optimal solution by systematic trial and error and without access to the system dynamics, i.e. fluid and pathogen dynamics in this paper. We employ an state-of-the-art RL algorithm, called PPO, to solve for optimal airflow in a room so as to minimize the exposure risk of occupants. Once it is calculated, the optimal airflow could be realized, via reverse engineering, by proper placement of the ventilation equipment, e.g. inlets, outlets, and fans. As an alternative to the airflow design, we use the same proposed data-driven techniques to find an optimal placement for pathogen disinfectants if there exists one, such as, hydrogen peroxide for COVID-19. Our results show the efficacy of our data-driven approach in designing an steady-state controller with full access to the system states. In future research, we will address the controller design with sparse measurements of the system states."
+}

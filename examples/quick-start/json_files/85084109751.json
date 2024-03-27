@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084109751,
+    "Title": "Energy efficiency of novel interior surface layer with improved thermal characteristics and its effect on hygrothermal performance of contemporary building envelopes",
+    "Author": "Fořt J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-04-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13082012",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Czech Technical University in Prague",
+    "Affliation Country": "Czech Republic",
+    "Cited by count": 6,
+    "Abstract": "Facing the consequences of climate change and fuel price rises, the achievement of the requirements for low-energy consumption of buildings has become a challenging issue. On top of that, increased demands on indoor hygrothermal conditions usually require the utilization of additional heating, ventilation, and air-conditioning (HVAC) systems to maintain a comfortable environment. On this account, several advanced and modern materials are widely investigated as a promising way for reduction of the buildings' energy consumption including utilization of passive heating/cooling energy. However, the efficiency and suitability of passive strategies depending on several aspects including the influence of location, exterior climatic conditions, load-bearing materials used, and insulation materials applied. The main objective of this study consists of the investigation of the energy performance benefits gained by the utilization of advanced materials in plasters by computational modeling. Results obtained from a computational simulation reveal the capability of the studied passive cooling/heating methods on the moderation of indoor air quality together with the reduction of the diurnal temperature fluctuation. Achieved results disclose differences in terms of energy savings for even small variation in outdoor climate conditions. Additionally, the effectivity of passive cooling/heating alters considerably during the summer and winter periods. Based on the analysis of simulated heat fluxes, the potential energy savings related to improved thermal properties of the applied plaster layer reached up to 12.08% and thus represent an interesting passive solution towards energy sustainability to meet the criteria on modern buildings."
+}

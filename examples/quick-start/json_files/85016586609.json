@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016586609,
+    "Title": "Energy Performance Comparison of Inverter based Variable Refrigerant Flow Unitary AC with Constant Volume Unitary AC",
+    "Author": "Khatri R.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.03.038",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Manipal University Jaipur",
+    "Affliation Country": "India",
+    "Cited by count": 25,
+    "Abstract": "The Variable Refrigerant Flow (VRF) technology has emerged as promising alternative to conventional systems, especially for small residential and commercial buildings which are largely untouched in regard to the energy efficiency of space conditioning systems despite the huge energy saving potential. This study aims to find out whether VRF split system provides an energy efficient and viable retrofit option for this sector. This paper compares the performance of an inverter based VRF Unitary AC with Constant Volume Unitary AC using the field performance testing. Both systems were installed in two geometrically and thermally identical rooms, with 14.5 m2 floor area each. Observations were made in the months of January to May, the systems were operated from 10 AM to 6 PM, auxiliary heating was also provided to vary the zone internal load conditions; the auxiliary heat load provided by the electrical heaters was 2 kW and 4 kW. The results were analyzed and it was found that the VRF technology is energy saving only when it works on part load conditions; minimum (negative) savings were observed when the outdoor temperature was equal to the rated outdoor DBT i.e. when the system was operating at full load conditions while maximum savings i.e. 40% were observed when the outdoor DBT is nearly equal to the indoor set point temperature."
+}

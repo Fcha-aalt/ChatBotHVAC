@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082597453,
+    "Title": "Smart wifi thermostat-enabled thermal comfort control in residences",
+    "Author": "Lou R.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/su12051919",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 21,
+    "Abstract": "The present research leverages prior works to automatically estimate wall and ceiling R-values using a combination of a smartWiFi thermostat, building geometry, and historical energy consumption data to improve the calculation of the mean radiant temperature (MRT), which is integral to the determination of thermal comfort in buildings. To assess the potential of this approach for realizing energy savings in any residence, machine learning predictive models of indoor temperature and humidity, based upon a nonlinear autoregressive exogenous model (NARX), were developed. The developed models were used to calculate the temperature and humidity set-points needed to achieve minimum thermal comfort at all times. The initial results showed cooling energy savings in excess of 83% and 95%, respectively, for high-and low-efficiency residences. The significance of this research is that thermal comfort control can be employed to realize significant heating, ventilation, and air conditioning (HVAC) savings using readily available data and systems."
+}

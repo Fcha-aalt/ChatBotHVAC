@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85017528225,
+    "Title": "Monitoring and autonomous control of Beijing Subway HVAC system for energy sustainability",
+    "Author": "Wang Y.",
+    "Journal": "Energy for Sustainable Development",
+    "Publication Date": {
+        "$date": "2017-08-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.esd.2016.12.004",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Renmin University of China",
+    "Affliation Country": "China",
+    "Cited by count": 41,
+    "Abstract": "As the backbone of urban public transportation, subways are also major consumers of energy. More than 30% of the total energy is used to operate the heating, ventilating and air conditioning (HVAC) subsystems. If it were possible to reduce energy consumption of HVAC subsystems a few percent, a significant quantity of electricity would be saved. From 2012 to 2013, we conducted field studies and developed autonomous control system for saving energy of HVAC systems in Beijing subway stations. The energy consumption features and the load signatures of the HVAC systems were investigated and we deployed comprehensive environment monitoring, passenger flow monitoring and run-time data logging subsystems to monitor and investigate the above features in several metro stations. The extracted features showed a broad space for optimizing current HVAC systems' operation to save energy. Based on the insights learned from the field studies, we spent four months to develop and deploy autonomous HVAC control systems in three metro stations. Up to now, the developed autonomous control systems have worked well and the energy logs showed that the autonomous control system helped the metro stations reduce energy in a range from 20% to 38% than the conventional control strategy. We introduce key insights learned for energy saving and some future research directions."
+}

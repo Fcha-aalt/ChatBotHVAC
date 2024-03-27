@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85026460009,
+    "Title": "Life Cycle Assessment of embodied and operational energy for a passive housing block in Austria",
+    "Author": "Kovacic I.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2018-02-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.rser.2017.07.058",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Technische Universität Wien",
+    "Affliation Country": "Austria",
+    "Cited by count": 45,
+    "Abstract": "The creation of a sustainable built environment is related not only to energy-efficient construction but also to the efficient use of materials, in order to minimise environmental impacts and avoid further depletion of natural resources. However, “passive” or “zero-energy” buildings, which optimise operational energy, require additional materials (e.g. insulation) or the installation of technologies (e.g. mechanical ventilation) which further increase the embodied energy of the building and related environmental emissions. This paper questions the environmental impact and benefits of adding materials and technologies in order to reduce the energy consumption of a building by evaluating the embodied and operational energy of a case study of a passive housing block in Austria. The analysis is carried out using real data, based on energy monitoring carried out over three years, and on original documentation of the materials and construction of the building. Applying a Life Cycle Assessment (LCA) method, the environmental impacts of the building materials, the heating, ventilation and air-conditioning (HVAC) technologies, and the operational energy were assessed and compared for time scenarios of 20, 50 and 80 years using the environmental indicators: Global Warming Potential (GWP); Primary Energy Intensity (PEI); and Acidification Potential (AP). Two different variants of the “as built” building were modelled and investigated in terms of their ecological impacts. It was found that distribution pipes for building services apparently contributes 10% of the GWP, and the optimisation using timber instead of concrete is advantageous in terms of minimising GWP and AP, but is less effective in terms of PEI. Finally, the apartment block “as built” to a passive house standard was compared with a low-energy equivalent building in order to question whether the increased input of materials for the passive house is justified in terms of the reduction of the energy demand during the operation of the building. It was found that the passive house performs better in terms of environmental impacts, but not significantly so (max. GWP saving of 7% in the 80 years scenario). The reasons are multifaceted, and include additional heating of the apartments by the occupants, uncontrolled window opening patterns and increased hours of occupancy."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079086540,
+    "Title": "Assessment of the impact of HVAC system configuration and control zoning on thermal comfort and energy efficiency in flexible office spaces",
+    "Author": "Gärtner J.A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-04-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.109785",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität München",
+    "Affliation Country": "Germany",
+    "Cited by count": 25,
+    "Abstract": "In office buildings, the space layout usually needs to be repeatedly redesigned in order to meet tenants’ requirements during the building's life cycle. In this study, the effect of a flexible space layout design on thermal comfort and energy demand is investigated in a modern open-plan office space. Using dynamic thermal simulation, the applicability of three different HVAC systems (mechanical ventilation, radiant ceiling and a thermally-active building system) combined with four control zoning strategies are assessed. Finding a robust solution for each configuration and control strategy can support design decisions during the design planning or interior renovation phase. The main objective is to enable a flexible space layout design during the complete building life cycle without compromising on thermal comfort or energy efficiency. The results show that radiant ceilings and thermally-active building systems are promising solutions for flexible office spaces in the location of Stuttgart, whereas mechanical ventilation systems require a more complex control strategy to ensure thermal comfort. Connecting the field of building controls with parametric building modeling enables flexible space layout designs to be assessed with different HVAC systems."
+}

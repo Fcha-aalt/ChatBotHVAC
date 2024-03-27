@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140920366,
+    "Title": "Augmented data driven self-attention deep learning method for imbalanced fault diagnosis of the HVAC chiller",
+    "Author": "Shen C.",
+    "Journal": "Engineering Applications of Artificial Intelligence",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.engappai.2022.105540",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shandong Jianzhu University",
+    "Affliation Country": "China",
+    "Cited by count": 20,
+    "Abstract": "The chiller fault diagnosis is of great significance to maintain the normal operation of the HVAC system and indoor comfort. Due to the difficulty in collecting the chiller's fault data, we usually face the data imbalance problem of less fault data and more normal data. To tackle this problem and further improve the fault diagnosis accuracy, this paper proposes a novel augmented data driven self-attention based deep learning model for the chiller fault diagnosis. Firstly, to solve the data imbalance problem, a stable synthetic minority oversampling technique (SSMOTE) is presented to generate the artificial fault data, which are then mixed with the raw fault data to achieve data augmentation. Further, to enhance the diagnosis accuracy, the self-attention mechanism based temporal convolutional network (STCN) is developed to classify normal and fault datasets. The developed STCN is realized by stacking the modified blocks which can dynamically pay attention to different data information through combining the self-attention mechanism and the traditional residual block together. What is more, in the STCN, the skip connection structure is added to the self-attention mechanism to solve the gradient disappearance problem. Finally, detailed experiments and comparisons are performed. Experimental results show that, compared with other data augmentation methods, the SSMOTE can complete a large scale expansion of the minority fault datasets, and its augmented data have better effect on handling the data imbalance problem. Moreover, the skip self-attention mechanism based deep learning model can achieve better diagnosis accuracy compared with some popular deep and shallow models, such as the LSTM, ELM and SVM, etc."
+}

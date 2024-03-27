@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056342721,
+    "Title": "WinProGen: A Markov-Chain-based stochastic window status profile generator for the simulation of realistic energy performance in buildings",
+    "Author": "Calì D.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-05-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2018.03.048",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 28,
+    "Abstract": "New and retrofitted buildings often do not perform as expected. In fact, the real energy performance of a building depends on deterministic characteristics (e.g. building's structure and HVAC), and on stochastic elements (e.g. occupants' behavior). Probabilistic models of occupant behavior in the simulation of buildings' energy performance can help to bridge the gap between prediction and real energy consumption. With this aim, a stochastic window status profile generator (WinProGen) is introduced, validated (using the Markov chain Monte Carlo technique) through observations from field tests, and tested through dynamic building simulations. In WinProGen, we implemented three models for the generation of window state profiles, based on field test data, with a time resolution of 1 min. The profiles generated from model 1 depend on the time of the day and the daily average ambient temperature. The profiles generated from model 2 depend on the time of the day, on the daily average ambient temperature and on the day of the week (working day or weekend day). The profiles generated from model 3 depend on the time of the day, on the daily average ambient temperature of the actual day and on the daily average ambient temperature of the past day. The generated profiles can be used as an input to simulate dynamic building energy performance. Moreover, users can include in WinProGen their own field test data to generate own state profiles. The dynamic simulation of two demonstrator buildings with the generated window state profiles offers reliable predictions of buildings' energy performance."
+}

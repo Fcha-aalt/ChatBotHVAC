@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077775861,
+    "Title": "A dynamic analysis of the global warming potential associated with air conditioning at a city scale: an empirical study in Shenzhen, China",
+    "Author": "Zhang N.",
+    "Journal": "Environmental Impact Assessment Review",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.eiar.2019.106354",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shenzhen University",
+    "Affliation Country": "China",
+    "Cited by count": 21,
+    "Abstract": "Heating, ventilation and air conditioning (HVAC) systems are a major source of energy consumption in buildings, directly and indirectly contributing to greenhouse gas (GHG) emissions. In the urban environment, and depending on local climatic conditions, air conditioning units attribute to these high energy demands. This study analyzes the use of residential air conditioning units and their associated global warming potential (GWP) between 2005 and 2030 for the city of Shenzhen, a fast-growing megacity located in Southern China. A life cycle assessment approach was adopted to quantify the GWP impacts which arise from both direct (refrigerant release) and indirect (energy consumption) sources, in combination with a materials flow analysis approach. The results show that the total GWP (expressed as carbon dioxide equivalents, CO2 eq.) from residential air conditioning systems increased from 2.2 ± 0.2 to 5.1 ± 0.4 million tonnes (Mt) CO2 eq. between 2005 and 2017, with energy consumption and refrigerant release contributing to 72.5% and 27.5% of the total demands, respectively. Immediate measures are required to restrict refrigerant release and reduce the energy consumption of air conditioning units, to help mitigate the predicted additional total emissions of 36.4 Mt. CO2 eq. potentially released between 2018 and 2030. This amount equals to approximately New Zealand's national CO2 emissions in 2017. The findings proposed in this study targets air conditioning units to reduce the GWP emissions in cities, and provide useful data references and insights for local authorities to incentivise measures for improving building energy efficiency management and performance."
+}

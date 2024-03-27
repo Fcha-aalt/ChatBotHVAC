@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032270496,
+    "Title": "Modeling of Room Temperature Dynamics for Efficient Building Energy Management",
+    "Author": "Rao D.M.K.K.V.",
+    "Journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/TSMC.2017.2758766",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität Bremen",
+    "Affliation Country": "Germany",
+    "Cited by count": 12,
+    "Abstract": "Heating, ventilating and air-conditioning systems have a significant share in the energy consumed by buildings. Modeling of room temperature dynamics is the first-step in designing an efficient air-conditioning system. In this regard, this paper proposes a semi-nonlinear thermal model: ordinary differential equation, with parameters as nonlinear functions of ambient temperature and cooling air flow-rate. To validate the performance of the model, a three-roomed building, equipped with an air-conditioning system is modeled, and Navier-Stokes equations are solved to simulate the temporal evolution of temperatures for different ambient temperatures and cooling air flow-rates. The steady-state temperature and transient solution parameters of the thermal model are assumed to be polynomial functions of ambient temperature and flow-rate, and are determined by minimizing the errors between the thermal model- and the computational fluid dynamics-based solutions of final and transient temperatures, respectively. The proposed thermal model of third-order and nonlinear type transient coefficients is shown to predict the temporal evolution of temperature accurately. Further increase in prediction accuracy is achieved by recursively updating the parameters online using extended Kalman filter. The high prediction accuracy of the proposed thermal model makes it a potential candidate for the design of an optimal temperature regulator."
+}

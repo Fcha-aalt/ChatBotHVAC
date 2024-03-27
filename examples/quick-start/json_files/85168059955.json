@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168059955,
+    "Title": "IoT and machine learning on smart home-based data and a perspective on fog computing implementation",
+    "Author": "Rajiv A.",
+    "Journal": "Handbook of Research on Machine Learning-Enabled IoT for Smart Applications Across Industries",
+    "Publication Date": {
+        "$date": "2023-07-03T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.4018/978-1-6684-8785-3.ch017",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Jain University (Deemed)",
+    "Affliation Country": "India",
+    "Cited by count": 12,
+    "Abstract": "This study emphasises the need for energy efficiency in buildings, focusing primarily on the heating, ventilation, and air conditioning (HVAC) systems, which consume 50% of building energy. A predictive system based on artificial neural networks (ANNs) was created to generate short-term forecasts of indoor temperature using data from a monitoring system in order to reduce this energy use. The technology seeks to estimate inside temperature in order to determine when to start the heating, ventilation, and air conditioning system, potentially reducing energy use dramatically. The chapter describes the system's code implementation, which includes data pre-processing, model training and evaluation, and result visualisation. In terms of evaluation metrics, the model performed well and revealed the potential for large energy savings in buildings."
+}

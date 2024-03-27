@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964585433,
+    "Title": "Living campus: Towards a context-aware energy efficient campus using weighted case based reasoning",
+    "Author": "MadkourDriss M.",
+    "Journal": "AAAI Workshop - Technical Report",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Houston",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Buildings make a city's landscape and are home to its people. The demand for smart buildings and housing is growing by the need for cities to make their buildings more efficient, green and livable. This emergent intelligence is underpinned by the use of Information and Communications Technology (ICT) linked by Pervasive Sensing and real-time data analytics. In a typical growth of smart buildings, Smart Campuses are going to be amazing community hubs which will be more sustainable, efficient and supportive of its inhabitants. In this regard, huge amount of useflil and real-time generated data are being analyzed to help people and machines infer instant decisions in relation to energy efficiency. However, because of different terminologies used by different players, structural, representational and semantic heterogeneity constrain the interoperability between applications and misleads to adaptive and context-aware control behavior. In this paper, the focus is to alleviate the current problem by designing a semantic framework that represents the smart campus data and activities in an ontological model. Also, the framework is deepened by an Artificial Intelligent (AI) method using Weighted Case Based Reasoning (WCBR) for enabling context awareness. An illustration will be the elaboration of an adaptive and autonomous control of HVAC (Heating Ventilation and Air Conditioning) system, in this example the WCBR is discussed and case representation, case adaptation, and similarity computation are sketched in detail."
+}

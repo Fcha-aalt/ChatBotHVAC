@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072823638,
+    "Title": "A fuzzy logic-based approach for HVAC systems control",
+    "Author": "Berouine A.",
+    "Journal": "2019 6th International Conference on Control, Decision and Information Technologies, CoDIT 2019",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/CoDIT.2019.8820356",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "International University of Rabat",
+    "Affliation Country": "Morocco",
+    "Cited by count": 10,
+    "Abstract": "In this paper, an approach for HVAC (Heating, Ventilation and Air-Conditioning systems) control has been designed and evaluated in real sitting scenarios against conventional logical methods (e.g. On/Off, PID, state feedback) in terms of energy consumption and occupants' thermal comfort. The proposed approach uses fuzzy logic as a soft control method in order to maintain the ambient temperature at required set points by controlling the speed of the HVAC evaporator fan. We have first used MATLAB fuzzy toolbox where the control system is designed using Fuzzy logic technique. The system's control is based on two inputs, the set point temperatures and temperature difference, while the control output is the speed's variation of the evaporator fan. Energy consumption was analyzed at various set point temperatures for the considered control methods. Experimental results show that the potential of controlling the evaporator fan speed with a Fuzzy Logic controller allows sustaining an ambient temperature with significant reduction in energy consumption."
+}

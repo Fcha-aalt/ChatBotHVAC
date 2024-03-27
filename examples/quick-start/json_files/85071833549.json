@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071833549,
+    "Title": "Using artificial neural networks for indoor climate control in the field of preventive conservation",
+    "Author": "Harasty S.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2019-08-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1051/e3sconf/201911104054",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Applied Sciences (HFD) Fulda",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "In the field of preventive conservation, a main goal is the conservation of cultural heritage by establishing an appropriate indoor climate. Especially in applications with limited possibilities for the usage of HVAC systems, an optimization of the control strategy is needed. Because the changes in temperature and humidity are slow, the usage of predictive controller can be beneficial. Due to the availability of already gathered data, data driven models like artificial neural networks (ANN) are suitable as model. In this paper four different approaches for optimizing the control strategy regarding the requirements of preventive conservation are presented. The first approach is the modelling of the indoor climate of a building using an ANN. As further improvement and second application the adaption of a weather forecast to a local forecast is shown. Since the building stock has the biggest influence on the linkage between outdoor and indoor climate next to the air change rates, an ANN model for a building's wall represents the third application. Finally, the potential for reducing the need for computational power by using an ANN instead of a nonlinear optimization for the predictive controller is presented."
+}

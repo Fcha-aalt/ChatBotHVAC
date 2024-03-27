@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102971255,
+    "Title": "Application of data-driven attack detection framework for secure operation in smart buildings",
+    "Author": "Elnour M.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2021-06-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.scs.2021.102816",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qatar University",
+    "Affliation Country": "Qatar",
+    "Cited by count": 31,
+    "Abstract": "With the rapid advancement in the industrial control technologies and the increased deployment of the industrial Internet of Things (IoT) in the buildings sector, this work presents an analysis of the security of the Heating, Ventilation, and Air Conditioning (HVAC) system which is a major component of the Building Management System (BMS), has become critical. This paper presents a Transient System Simulation Tool (TRNSYS) model of a 12-zone HVAC system that allows assessing the cybersecurity aspect of HVAC systems. The thermal comfort model and the estimated total power usage are used to assess the magnitude of the malicious actions launched against the HVAC system. Simulation data are collected and used to develop and validate a semi-supervised, data-driven attack detection strategy using Isolation Forest (IF) for the system under study. Three schemes of the proposed approach are investigated, which are: using raw data, using Principal Component Analysis (PCA) for feature extraction, and using 1D Convolutional Neural Network (CNN)-based encoder for temporal feature extraction. The proposed approach is compared with standard machine-learning approaches, and it demonstrates a promising capability in attack detection for a range of attack scenarios with high reliability and low computational cost."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164485194,
+    "Title": "Review of modern demand control solutions and technologies for HVAC operation",
+    "Author": "Borodinecs A.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2023-06-16T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1051/e3sconf/202339602020",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Riga Technical University",
+    "Affliation Country": "Latvia",
+    "Cited by count": 0,
+    "Abstract": "HVAC systems, which use traditional control strategies with fixed ventilation rates or with ventilation rate schedules, do not adjust according to the required IAQ and thermal comfort. As a result, building spaces are being over or under-ventilated. In this paper, the latest modern solutions for demand-controlled HVAC system operation are analyzed, based on the review of existing studies. Such modern technologies as human detection systems, computer vision, and neural network applications are looked at. Different types of human presence detection are presented based on the applied technology. The most common ones are indirect detection based on the usage data of existing IT equipment, and direct detection through the use of passive infrared sensors, wearable tags, and vision sensors. Also, the potential solutions of human activity monitoring, skin temperature, and clothing level detection systems are examined. The studies discussed in this paper show real application examples and prove the benefits of using the technologies for the control of ventilation systems in various building types. Research has shown that such technologies have a favorable effect on both indoor air quality and system energy consumption. In the future, the ventilation system should be equipped with cameras for a more accurate analysis of the room and occupancy. Also, the systems must consider occupant behavior, activity, and other information, which can be used for indoor environment quality improvement. Based on the gained knowledge a sensor capable of human detection, accounting, and location marking is developed."
+}

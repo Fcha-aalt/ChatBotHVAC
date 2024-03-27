@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054397858,
+    "Title": "A Novel Approach to Feedback Control with Deep Reinforcement Learning<sup>⁎</sup>",
+    "Author": "Wang Y.",
+    "Journal": NaN,
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ifacol.2018.09.241",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 30,
+    "Abstract": "A novel deep reinforcement learning (RL) algorithm is applied for feedback control application. We propose Proximal Actor-Critic, a model-free reinforcement learning algorithm that can learn robust feedback control laws from direct interaction data from the plant. We show efficacy of the algorithm on a benchmark problem in Heating Ventilation and Air Conditioning (HVAC) heating system, with the RL controller achieving lower Integral Absolute Error (IAE) and Integral Square Error(ISE) as compared to baseline Proportional-Integral (PI) and Linear Quadratic Regulator (LQR) controllers. We also provide details on establishing feedback control problems within the deep reinforcement learning framework, including policy parameterization, neural network architecture and training procedures."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85181826017,
+    "Title": "DEMSA: a DT-enabled Middleware for Self-adaptive Smart Spaces",
+    "Author": "Ma J.",
+    "Journal": "Midd4DT 2023 - Proceedings of the 1st International Workshop on Middleware for Digital Twin, Part of: MIDDLEWARE 2023",
+    "Publication Date": {
+        "$date": "2023-12-11T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1145/3631319.3632303",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Télécom SudParis",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems account for a significant portion of energy consumption within buildings. In order to balance the effect of thermal comfort vis-a-vis energy savings, HVAC control strategies have been proposed. However, the strategies are static and do not take into account dynamic changes of consumers, hence creating sub-optimal outcomes. This paper proposes DEMSA, a Digital Twin (DT)-enabled middleware for the self-adaptation of smart buildings. The DEMSA middleware interconnects and coordinates intelligent data exchange between the building edge server, digital twin and Artificial Intelligence (AI) planning nodes in order to invoke appropriate strategies. Moreover, DEMSA is paired with a self-adaptive mechanism that can detect the anomaly of generated planning and adaptively modify it. This process ensures balancing building energy consumption and thermal comfort requirements, without human intervention. The DEMSA middleware is described over a real smart space scenario."
+}

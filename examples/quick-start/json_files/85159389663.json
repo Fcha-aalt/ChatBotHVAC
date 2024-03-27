@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85159389663,
+    "Title": "Performance dataset on a nearly zero-energy office building in temperate oceanic climate based on field measurements",
+    "Author": "Amaripadath D.",
+    "Journal": "Data in Brief",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.dib.2023.109217",
+    "Source Type": "Journal",
+    "Document Type": "dp",
+    "Document Type Description": "Data Paper",
+    "Affliation": "Université de Liège",
+    "Affliation Country": "Belgium",
+    "Cited by count": 0,
+    "Abstract": "This dataset was developed between May 2018 and April 2019 to evaluate the building performance of a nearly zero-energy office building in a temperate oceanic climate. This dataset refers to the research paper titled “Performance evaluation of a nearly zero-energy office building in temperate oceanic climate based on field measurements”. The data provides the evaluation of air temperature, energy use, and greenhouse gas emissions from the reference building in Brussels, Belgium. The importance of the dataset lies in its unique data collection approach that provides detailed information on electricity and natural gas use, along with indoor and outdoor ambient temperature values. The methodology involves compiling and refining the data from the energy management system installed in Clinic Saint-Pierre, Brussels, Belgium. Hence, the data is unique and not available on any other public platforms. The methodology followed in this paper to produce the data was an observational approach focused on field measurements of air temperature and energy performance. This data paper will be beneficial for scientists working on the implementation of thermal comfort strategies and energy efficiency measures toward energy-neutral buildings while accounting for the performance gaps."
+}

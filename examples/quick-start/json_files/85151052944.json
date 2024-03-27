@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151052944,
+    "Title": "Automatic Transformation of HVAC Diagrams into Machine-Readable Format",
+    "Author": "Mertens N.",
+    "Journal": "IFIP Advances in Information and Communication Technology",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-25182-5_40",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Fraunhofer IIS, Institutsteil Entwicklung Adaptiver Systeme EAS",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "Accounting for around 40% of total energy consumption, buildings in industrialized countries are a particular focus for saving energy. Especially digital twins and building information modeling (BIM) can serve as a mean to improve operational processes, detect faulty ventilation and air conditioning (HVAC) components which lead to an increased energy consumption and evaluate future renovation possibilities during a buildings life cycle. To enable these advantages a transition from existing HVAC diagrams to a machine-readable representation including spatial and functional interrelationship of all components as well as their semantic relationship is necessary. Especially in retrofit cases the manual transition is a time-intensive and an error prone process. The present work aims to develop a procedure for the (partially) automated recognition of HVAC diagrams and extraction of information about their intercorrelation. In order to achieve the desired results, we use multiple approaches of computer vision, both conventional as well as more recent ones using artificial intelligence such as “Faster R-CNN”. The developed pipeline consists of three basic steps: Find symbols of components, find connecting lines, combine the extracted information into a machine-readable representation. Due to privacy issues, only very few real diagrams are available. To evaluate our approach we developed a data generator to train and test our pipeline. The obtained results show that to a large extend it is already possible to transfer relevant information from technical diagrams into a machine-readable format in order to reduce the effort of creating and validating digital twins and BIM for retrofits."
+}

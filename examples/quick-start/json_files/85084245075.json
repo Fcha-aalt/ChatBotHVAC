@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084245075,
+    "Title": "From a hospital Reference Building to all represented healthcare facilities: A new approach to assess energy performance and retrofit potentials",
+    "Author": "Ascione F.",
+    "Journal": "ECOS 2016 - Proceedings of the 29th International Conference on Efficiency, Cost, Optimisation, Simulation and Environmental Impact of Energy Systems",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 2,
+    "Abstract": "Assessing energy performance and retrofit potentials of a whole building stock is an arduous task, especially for complex buildings such as healthcare facilities. This issue is tackled by proposing a new methodology, which extends the outcomes related to a reference building (RB) to all represented buildings. A hospital RB (RBh) is developed by means of an original approach to represent Southern Italy healthcare facilities, and transient energy simulation is used to simulate annual energy performance for different weather data files and types of opaque and transparent envelopes. Hence, for each configuration, indices expressing thermal energy demand (TED) for space heating, cooling and domestic hot water (DHW), per unit of area [kWh/m2a], are calculated. Various indices are provided for different use classifications and are employed to predict the TED of all represented buildings, depending on climatic location, envelope type and extension of each use classification. The HVAC system efficiency is, then, exploited to assess primary energy consumption (PEC) and energy cost. The same approach is used to estimate energy retrofit potentials in order to detect the cost-optimal solution. Compared to real data, an error around 10% is achieved for different case studies."
+}

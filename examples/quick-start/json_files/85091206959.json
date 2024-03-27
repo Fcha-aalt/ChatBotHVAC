@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091206959,
+    "Title": "Combining bioclimatic strategies with efficient HVAC plants to reach nearly-zero energy building goals in Mediterranean climate",
+    "Author": "Stasi R.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.scs.2020.102479",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Bari",
+    "Affliation Country": "Italy",
+    "Cited by count": 20,
+    "Abstract": "The spread of nearly zero-energy buildings (nZEB) currently reflects the European Commission's first policy step in fighting climate change through the construction sector. This paper analyses the design criteria and thermodynamic behaviour of an nZEB building in a Mediterranean climate and how its various properties affect its final energy consumption. The case study is a single-family dwelling of 309 m2 located in Mesagne, a small city in South Italy (Apulia, BR). Using DesignBuilder software, a dynamic simulation of the overall building-plant system performance estimated the building's hygrothermal comfort and the energy consumption of air conditioning. Monitoring of in-field energy consumption and production validated the building performance simulation model and evaluated its performance gap. Subsequently, a parametric analysis of various scenarios assessed the impact on total energy consumption of different plant system configurations and a bioclimatic criterion adopted in the building: one without earth-to-air heat exchanger, one without heat recovery and recirculation and one without sunscreens. This research shows how a passive building design combined with the use of an efficient plant system can easily meet the nZEB requirements with high performance in terms of energy consumption and indoor thermal comfort."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117609688,
+    "Title": "Budget-constrained economic model predictive control: A user-friendly proposal for HVAC",
+    "Author": "Santoro B.F.",
+    "Journal": "Chemical Engineering Research and Design",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.cherd.2021.10.003",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Federal de São Paulo",
+    "Affliation Country": "Brazil",
+    "Cited by count": 1,
+    "Abstract": "Cost optimization of heating, ventilation and air conditioning systems (HVAC) in buildings has been approached by using sophisticated methodologies such as model predictive control (MPC) and real-time optimization. However, such techniques are not usually user-friendly to individuals without a process control background. Namely, it can be very difficult for building managers to estimate the economic impact of set point changes. For this reason, it is proposed an economic nonlinear model predictive control (eMPC) using a budget constraint. Using this concept, building managers will be able to balance the trade-off between operational cost and thermal comfort. To demonstrate the proposed approach, a first-principles model of a HVAC system is extended from a previous authors contribution to consider two new features: (1) thermal lag due to energy accumulation in the building envelope; (2) energy consumption by the fans. Then, the implemented HVAC system is tested in open- and closed-loop conditions. The closed-loop simulations showed the advantage for building managers of using the budget-constrained eMPC over the classical approach and On–Off control when using two different budget strategies. This approach ensures an user-friendly interface between building managers (i.e., non-expert users) and eMPC."
+}

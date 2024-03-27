@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079088491,
+    "Title": "Improving energy efficiency of thermal processes in healthcare institutions: A review on the latest sustainable energy management strategies",
+    "Author": "Hohne P.A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13030569",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Central University of Technology, Free State",
+    "Affliation Country": "South Africa",
+    "Cited by count": 15,
+    "Abstract": "Healthcare institutions consume large amounts of energy, ranking the second highest energy-intensive buildings in the commercial sector. Within developed countries, the energy consumption of healthcare institutions may account for up to 18% of the overall energy usage in commercial sectors. Within developing countries, such as South Africa, the energy consumption of healthcare institutions is observed to be a close second to the food service sector. Energy consumption of healthcare institutions per bed typically range from 43-92 kWh per day. In this paper, the largest energy consumers in South African healthcare institutions are identified and appropriate energy-efficiency (EE) initiatives are proposed, in terms of performance, operation, equipment and technology efficiency (POET). Two main thermal energy consumers are identified as heating, ventilation and air conditioning (HVAC) and water-heating systems. These systems are critical to patient health and may be classified as non-deferrable loads. Therefore, several initiatives are suggested to improve the energy efficiency and demand-side management capability of these systems. These initiatives are subdivided into different levels: the conceptual level, active level, technical and further improvement level, as defined in the POET framework. At each level, energy-efficiency initiatives are introduced based on potential energy savings and the effort required to achieve these savings. In addition, model predictive control (MPC) approaches are discussed and reviewed as part of the further improvement section. Average possible energy savings ranged from 50%-70% at the conceptual level, while energy savings of 15%-30% may be expected for energy-efficiency initiatives at the active level. EE activities at the technical level and the further improvement level may result in savings of 50%-70% and 5%-10%, respectively."
+}

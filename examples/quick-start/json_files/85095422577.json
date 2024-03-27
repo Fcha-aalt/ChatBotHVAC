@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095422577,
+    "Title": "Existing building commissioning at a community college",
+    "Author": "Madden L.A.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "ASHRAE Guideline 1.2 provides criteria for commissioning HVAC systems in existing buildings. This paper describes the facilities examined, commissioning measures implemented, and measured savings from commissioning existing buildings at two campuses of a community college in Texas. It will serve as an example for potential energy efficiency measures to be implemented and the impact of those measures. Measured savings are determined at the whole-facility level by analyzing utility bills before and after implementation of the measures. Measured savingsfrom the project are $1,048,414 for a 456 day period at one campus. This represents 33.1% savings for electrical use, and 28.7% for electrical demand. Measured savings were $84,213 for 272 days at the second campus representing 14.1% savings for electrical use, 1% savings for electrical demand, and 45.0% savings for natural gas."
+}

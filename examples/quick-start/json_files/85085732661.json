@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085732661,
+    "Title": "Fire induced pressure in airthigh houses: Experiments and FDS validation",
+    "Author": "Brohez S.",
+    "Journal": "Fire Safety Journal",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.firesaf.2020.103008",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université de Mons",
+    "Affliation Country": "Belgium",
+    "Cited by count": 19,
+    "Abstract": "The need for sustainability and smaller ecological footprint lead to the construction of more airtight building envelopes with better thermal insulation in order to increase the energy efficiency of houses, according to the Energy Performance of Buildings Directive. The specific fire hazards possibly associated with such structures raised questions amongst fire community in Belgium. A full-scale experimental facility was built in the region of Mons to study the effects of both the airtightness of the building envelope and the mechanical ventilation on fire hazards and especially on fire induced pressure. Two different ventilation duct configurations were tested: one with mechanical ventilation on, the other one with the ducts closed with an airtight metal cap, the mechanical ventilation being off. Measurements were made for gas pressure, mass loss rate, gas temperature, volumetric flow rate in the ducts and for some tests O2, CO2, CO and THC concentrations were also quantified. Pressure peaks from 870 to 2035 Pa were measured without mechanical ventilation (ducts closed), while values from 420 to 750 Pa were observed with the mechanical ventilation on. The mechanical ventilation network is not sufficient to prevent pressure inside the rooms. The occupants may not succeed in escaping during a period of several minutes due to the impossibility to open inward opening doors linked to this fire induced pressure. This experimental campaign was also used for validating the field model FDS version 6.5.0 predictive capability. The effective loss coefficients of the HVAC system were calculated from all the components of the ventilation network without the need of estimation from initial pressure data. Moreover, the variation of the effective leakages area of the setup as function of fire induced pressure has to be taken into account in the pressure zone modelling in order to obtain satisfactory simulation results compared to the experimental measurements. Consequently, in addition to classical blower door tests, pressurization tests up to 600 Pa were also carried out in order to measure the effective leakages area as function of pressure according to ASTM E779. This new capability was implemeted by the developers of FDS since the 6.5.0 version. The use of validated software could be helpful to take into account the fire-induced pressure in confined dwellings in fire safety design."
+}

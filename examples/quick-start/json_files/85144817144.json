@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144817144,
+    "Title": "Effect of Window Openable Area and Shading on Indoor Thermal Comfort and Energy Efficiency in Residential Buildings with Various Operating Modes",
+    "Author": "Ran J.",
+    "Journal": "Atmosphere",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/atmos13122020",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chongqing University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Solar heat gain and natural ventilation cooling of the indoor environment in buildings are highly influenced by the shading and openable area of windows. In addition to the ambient condition, the Heating, ventilation and air conditioning (HVAC) system’s mode of use can affect the windows’ performance, especially when multiple modes are used in combination (mixed-mode). Although many studies have investigated the mixed-mode application, their conditions for starting/shutting down HVAC equipment and controlling window ventilation are inconsistent with the relevant codes. Here, we propose a mixed-mode operation that resolves the gap between the air conditioning operation temperature and the adaptive comfort upper temperature. It investigates residential buildings’ indoor thermal environment and energy efficiency by combining the effective ventilation opening area ratio (REV) and shading design. Simulation results show that our mixed-mode can reduce the indoor overheating hours by about 50% and the building’s energy consumption by about 50%. We thereby conclude that the openable area of exterior windows in residential buildings in Chongqing should not be less than 10% of the room’s floor axis area where the exterior windows are located. In general, our study expands the existing knowledge of passive energy-saving measures and provides a method for further research on building energy design in hot summer and cold winter regions."
+}

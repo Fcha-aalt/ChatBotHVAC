@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107991059,
+    "Title": "Multi-stage heat-pipe heat exchanger for improving energy efficiency of the HVAC system in a hospital operating room",
+    "Author": "Sukarno R.",
+    "Journal": "International Journal of Low-Carbon Technologies",
+    "Publication Date": {
+        "$date": "2021-05-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1093/ijlct/ctaa048",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Indonesia",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 11,
+    "Abstract": "The demands of specific requirements related to thermal comforts, such as temperature, relative humidity, inside air exchange and other factors required in a hospital operating rooms, have necessitated the development of energy-efficient heating, ventilation and air conditioning (HVAC) systems and efficient heat-recovery system using a heat-pipe heat exchanger (HPHE). The experiment was conducted by using HPHEs having three, six and nine rows, with four heat pipes in each row, arranged in a staggered configuration with a variation of fresh-air inlet temperature and velocity. The theoretical analysis was conducted using the ϵ-NTU method for predicting the effectiveness, outlet temperature of the evaporator side and energy recovery of the HPHE. The experimental results indicated that increasing the air-inlet temperature in the evaporator section and the number of rows increased the HPHE effectiveness but increasing the air-inlet velocity reduced the effectiveness. The highest effectiveness of 62.6% was obtained at an air-inlet temperature of 45°C with an air-inlet velocity of 2 m/s and a 9-row HPHE. The energy recovery of the HPHE increased with the number of rows, air-inlet temperature and air velocity in the evaporator section. The ϵ-NTU method can be used as a comparison method in the analysis of heat-recovery systems that apply HPHE air conditioning systems. Heat pipes that utilize cold-air exhaust from a room in an HVAC system can enhance efficiency and reduce emissions."
+}

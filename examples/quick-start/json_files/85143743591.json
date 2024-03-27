@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143743591,
+    "Title": "Data Center Technology for Low-Energy Operation and Adjustment of HVAC Systems in Large Gymnasiums",
+    "Author": "Cai Z.",
+    "Journal": "3rd International Conference on Smart Electronics and Communication, ICOSEC 2022 - Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICOSEC54921.2022.9951991",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Heyuan Polytechnic",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "This article outlines the architecture of a cloud data center with low energy consumption for the HVAC system of a large gymnasium, and deeply analyzes the system form, equipment selection and configuration, energy-saving technical measures, etc.; evaluates the energy efficiency level through system research and design data calculations. In the operation management stage, theoretical analysis combined with operation experience to optimize the design framework and operation mode. The main air-conditioning energy-saving technologies should be able to provide corresponding technical support for the construction of HVAC projects. In addition, in the construction of HVAC projects, it is necessary to fully consider the actual construction and construction factors affecting HVAC projects. The analysis results show that energy consumption is reduced by 6.7%"
+}

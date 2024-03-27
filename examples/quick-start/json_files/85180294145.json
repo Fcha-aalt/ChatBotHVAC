@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85180294145,
+    "Title": "Distributed Chiller Loading via Collaborative Neurodynamic Optimization With Heterogeneous Neural Networks",
+    "Author": "Chen Z.",
+    "Journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TSMC.2023.3331260",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 0,
+    "Abstract": "In the operation planning of heating, ventilation, and air conditioning systems, optimal chiller loading assigns cooling loads to chillers with minimized power consumption. In this article, a mixed-integer optimization problem is formulated for distributed chiller loading and is then decomposed into two optimization subproblems with binary and continuous variables. A collaborative neurodynamic optimization approach is proposed for distributed chiller loading by solving the formulated subproblems. In the collaborative neurodynamic optimization framework, multiple projection neural networks and discrete Hopfield networks are used for scattered searches and a metaheuristic rule is adopted for reinitializing neuronal states upon their local convergence. Experimental results based on the specifications and parameters of three actual chiller systems are elaborated to substantiate the high performance of the approach."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085986089,
+    "Title": "Game-based peer-to-peer energy sharing management for a community of energy buildings",
+    "Author": "Cui S.",
+    "Journal": "International Journal of Electrical Power and Energy Systems",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.ijepes.2020.106204",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huazhong University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 36,
+    "Abstract": "Energy building techniques have gained significant attention for the potential to achieve local energy sustainability. Different from the research on individual energy management for zero energy buildings requiring sufficiently large renewable energy systems due to the mismatch of energy loads and generations, this paper investigates the coordinated energy management for a community of energy buildings with peer-to-peer energy sharing to promote community energy efficiency. Specifically, the energy buildings have controllable heating, ventilation and air conditioning (HVAC) units and renewable energy installations. In the coordinated energy management, in a peer-to-peer mode, the buildings determine their energy sharing profiles and related payments within the community while the sharing energy balance and payment balance are required to be satisfied. Since the buildings are self-interested, the problem with peer-to-peer energy sharing is modeled as a noncooperative game with global constraints. Then the existence of the game equilibrium is illustrated, and a distributed algorithm is proposed to seek the game equilibrium. A 6-building case and a 30-building case are carried out to verify the energy efficiency, economic benefits, and the scalability of the proposed peer-to-peer energy sharing management model."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163401004,
+    "Title": "A data-driven approach for fault diagnosis in multi-zone HVAC systems: Deep neural bilinear Koopman parity",
+    "Author": "Irani F.N.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107127",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qom University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 2,
+    "Abstract": "Sensor faults in heating, ventilation, and air conditioning (HVAC) systems are inevitable and result in significant energy waste. This paper presents an innovative data-driven approach for sensor fault detection and isolation in multi-zone HVAC systems. The proposed solution integrates bilinear Koopman model realization, deep learning, and bilinear parity-space. A deep neural network realizes a bilinear model, enabling bilinear parity-space sensor fault detection and isolation. This yields a reliable, accurate, and interpretable data-driven framework. The method requires no prior HVAC dynamics knowledge, relying solely on normal operation data. It diagnoses additive, multiplicative, and complete failure sensor faults while minimizing false alarms, even with severe faults. A four-zone HVAC system is simulated in TRNSYS as a case study to demonstrate the performance and efficacy of the proposed approach. The proposed bilinear deep Koopman model realization is utilized to develop a bilinear model for the four-zone HVAC system. The bilinear model is then used for designing the bilinear parity-space. Further, considering various failure scenarios, the proposed sensor fault detection and isolation framework demonstrates promising diagnosis performance. Finally, a comparison is conducted to showcase the advantages of the proposed method over earlier works based on PCA and neural networks."
+}

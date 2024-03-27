@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84948745735,
+    "Title": "A learning approach for energy efficiency optimization by occupancy detection",
+    "Author": "Mansur V.",
+    "Journal": "Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/978-3-319-19656-5_2",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade de Lisboa",
+    "Affliation Country": "Portugal",
+    "Cited by count": 6,
+    "Abstract": "Building Automation Systems control HVAC systems aiming at optimizing energy efficiency and comfort. However, these systems use pre-set configurations, which usually do not correspond to occupants’ preferences. Although existing systems take into account the number of occupants and the energy consumption, individual occupant preferences are disregarded. Indeed, there is no way for occupants to specify their preferences to HVAC system. This paper proposes an innovation in the management of HVAC systems: a system that tracks the occupants preferences, and manages automatically the ventilation and heating levels accordingly to their preferences, allowing the system to pool its resources to saving energy while maintaining user comfort levels. A prototype solution implementation is described and evaluated by simulation using occupants’ votes. Our findings indicate that one of the algorithms is able to successfully maintain the appropriate comfort levels while also reducing energy consumption by comparing with a standard scenario."
+}

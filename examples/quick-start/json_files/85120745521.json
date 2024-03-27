@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120745521,
+    "Title": "Empirical estimation of the energy impacts of projects installed through residential property assessed clean energy financing programs in california",
+    "Author": "Deason J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14238060",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "We examine the energy use impacts of energy efficiency and solar PV projects financed by residential property assessed clean energy (R-PACE) programs in California. We leverage household-level interval meter data to apply normalized metered energy consumption (NMEC) methods at significant scale—more than 25,000 electric meters and more than 15,000 gas meters. We develop a comparison group to account for non-project-related changes in usage. The projects include homes that replaced existing HVAC equipment with higher-efficiency units and homes that installed central heating or air conditioning equipment for the first time. We have limited information on pre-project household equipment stock so we develop a method to infer new installations. We find that projects that installed energy efficiency technologies reduce electricity consumption by approximately 3% and gas consumption by approximately 3.5% on average. When we remove homes that installed new cooling and heating equipment for the first time, savings rise to approximately 5% for electricity and approximately 6% for gas. Given the California climate and the results of an existing study of similar California projects, these results are in line with expectations. Solar PV projects produce electricity that offsets approximately 69% of household electricity consumption on average. We estimate that California R-PACE projects installed through the end of 2019 produce annual reductions in grid-tied electricity consumption of 506 GWh (equivalent to the electricity consumption of approximately 74,000 California households) and gas consumption reductions of 2 million therms (equivalent to the gas consumption of approximately 4700 California households) in a typical weather year."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121902653,
+    "Title": "Impact of occupancy prediction models on building HVAC control system performance: Application of machine learning techniques",
+    "Author": "Esrafilian-Najafabadi M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-02-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2021.111808",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 24,
+    "Abstract": "This paper analyzes the impact of using different types of occupancy prediction models on the performance of occupancy-based heating, ventilation, and air conditioning (HVAC) control systems in residential buildings. The future occupancy prediction problem is approached from two different viewpoints: 1) as a regression task for arrival-time prediction and 2) as a classification task for occupancy-state prediction. Four machine learning techniques, namely decision trees, k-nearest neighbors (kNN), multi-layer perceptron, and gated recurrent units, are implemented to predict future occupancy from each perspective. The performance of the occupancy models is evaluated in terms of mean absolute error (MAE), accuracy, and the ability to provide occupants’ thermal comfort and to save energy. An overall performance score is proposed by making a trade-off between the energy and thermal comfort objectives using the technique for order of preference by similarity to the ideal solution method. The results demonstrate that selecting the optimal viewpoint has a higher impact on the control performance than selecting the machine learning techniques, with occupancy-state prediction models providing superior performance in most cases. It is also shown that the machine learning evaluation metrics (i.e., MAE and accuracy) provide a weak to moderate correlation with the overall performance score. Consequently, relying solely on the MAE and accuracy might fail to provide a reliable evaluation of the occupancy model performance for use in HVAC control systems."
+}

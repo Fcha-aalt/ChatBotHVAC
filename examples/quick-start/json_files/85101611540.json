@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101611540,
+    "Title": "Evaluation of HVAC systems on ships: An axiomatic design approach",
+    "Author": "Carvalho J.",
+    "Journal": "16th Conference of the International Society of Indoor Air Quality and Climate: Creative and Smart Solutions for Better Built Environments, Indoor Air 2020",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Naval Academy",
+    "Affliation Country": "Portugal",
+    "Cited by count": 0,
+    "Abstract": "The reduction of greenhouse gas emissions has been a major in the world agenda of the last decades. A part of the effort needs to be from emissions in ships, due to the energy use, air conditioning (HVAC) included. Energy efficiency turns the focus of the decision-makers rather than the functions to fulfill. The COVID19 made clear in the shipping industry that indoor air quality is a vital function of all HVAC systems. This paper discusses different ship HVAC systems by evaluating the fulfillment of indoor air quality and thermal comfort. Thus, using the Axiomatic Design theory as a design methodology, it is possible to classify the solutions and choose an appropriate system. As a result, an air handling unit with an economizer serving a zone is a poor design, and a dedicated outdoor air system with fan-coils is a good one. The shipping industry needs a redesigned type of fan-coils."
+}

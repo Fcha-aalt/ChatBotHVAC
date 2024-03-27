@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087490348,
+    "Title": "Enhanced Machine Learning Approaches for Diagnosing Building Systems",
+    "Author": "Gharsellaoui S.",
+    "Journal": "2019 International Conference on Internet of Things, Embedded Systems and Communications, IINTEC 2019 - Proceedings",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/IINTEC48298.2019.9112110",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "École Nationale Supérieure d'Ingénieurs de Tunis",
+    "Affliation Country": "Tunisia",
+    "Cited by count": 0,
+    "Abstract": "Fault Detection and Classification (FDC) in Heating, Ventilation, and Air Conditioning (HVAC) systems is an important approach to guarantee the human safety of these systems. Therefore, the implementation of a FDC framework is the focus in this paper. The developed approach aims at reducing the energy needs for buildings and improving indoor environment quality. It merges the benefits of multiscale representation, Principal Component Analysis (PCA), and Machine Learning (ML) classifiers in order to improve the efficiency of FDC in heating systems. Firstly, a multiscale decomposition is used to extract the dynamics of the systems at different scales. The multiscale representation gives several advantages for monitoring heating systems generally driven by events in different time and frequency responses. Secondly, the multiscaled data-sets are then introduced into the PCA model to extract more efficient characteristics. Thirdly, the ML algorithms are applied to the extracted and selected characteristics to deal with the problem of fault diagnosis. The FDC efficiency of the developed technique is evaluated using a simulated data extracted from heating systems."
+}

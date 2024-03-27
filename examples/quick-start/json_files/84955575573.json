@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84955575573,
+    "Title": "Improvements of an unconventional desiccant air conditioning system based on experimental investigations",
+    "Author": "Angrisani G.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enconman.2016.01.013",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi del Sannio",
+    "Affliation Country": "Italy",
+    "Cited by count": 28,
+    "Abstract": "Desiccant-based HVAC systems are nowadays a convenient alternative to conventional systems based on dehumidification by cooling, because they allow the reduction of equivalent CO2 emissions, electric peak loads and black-outs, as well as energy savings, interesting payback periods in several cases, better indoor humidity control and air quality, separate control of thermal sensible and latent loads. Their coupling with small scale natural gas-fired cogenerators is also suitable as thermal energy required for desiccant regeneration can be conveniently recovered from the microcogenerator. In this paper, the main improvements of an innovative desiccant-based HVAC system, located in Southern Italy (Mediterranean climate), are presented. To this aim, three different desiccant system configurations are experimentally analysed, while a conventional HVAC system based on dehumidification by cooling is evaluated by means of numerical approach. Firstly, the primary energy savings (up to 20-25%) and the reductions of equivalent CO2 emissions (up to 40-50%) of the desiccant systems compared to the conventional one are calculated when considering chillers with different energy efficiency ratio values. Successively, the above mentioned indices are evaluated as a function of the effectiveness of the heat exchanger and the cooling air humidifier installed in the proposed desiccant system configuration: primary energy savings up to 25-28% and reductions of equivalent CO2 emissions up to 35-40% are obtained."
+}

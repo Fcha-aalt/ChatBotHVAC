@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101476052,
+    "Title": "An anomaly detection and dynamic energy performance evaluation method for HVAC systems based on data mining",
+    "Author": "Xu Y.",
+    "Journal": "Sustainable Energy Technologies and Assessments",
+    "Publication Date": {
+        "$date": "2021-04-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.seta.2021.101092",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nanjing University of Aeronautics and Astronautics",
+    "Affliation Country": "China",
+    "Cited by count": 19,
+    "Abstract": "With the wide application of building automation systems (BASs), a large amount of building operation data are usually available, which provide a good basis for the optimal operation of a building's heating, ventilation and air conditioning (HVAC) systems. In this study, a data mining (DM)-based method is proposed for the anomaly detection and dynamic energy performance evaluation of an HVAC system. In this method, first a DM technology is used to detect the abnormal operation data from historical operation data and identify the possible reasons for abnormalities. Then, the identified abnormal energy consumption data caused by faults are corrected. On this basis, a multilevel dynamic energy performance benchmark and a set of energy performance evaluation rules for the HVAC system are established. Finally, the real-time operation performance of an HVAC system is evaluated, and the causes of abnormal energy consumption are identified at multiple levels. The effectiveness of the proposed method is verified in a case study of a commercial building with a complex cooling system."
+}

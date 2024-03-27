@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85017589152,
+    "Title": "R744 train HVAC unit",
+    "Author": "Hafner A.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.18462/iir.gl.2016.1132",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 0,
+    "Abstract": "Currently available HVAC units for trains are commonly using either HFC-134a (75%) or HFC-407C (25%) as working fluids, which have a significant global warming potential when released into the environment. These units typically rely on inefficient direct electrical heating to cover heating demands. However, some system suppliers can offer HFC-134a HVAC systems with heat pump capabilities able to supply heating to the coach at ambient temperatures above -5°C. Deutsche Bahn has analysed the energy consumption of their Railway Rolling Stock in detail over several years. Up to 30 % of their total energy consumption has to be spent to operate the HVAC units of the passenger trains in Germany. Only the propulsion system requires a larger share of the total energy. In Norway the energy consumption for heating up the train compartments is dominating, due to the high amount of operating hours at low ambient temperatures. The paper describes the development status of an energy efficient and environmentally friendly HVAC unit applying R744 for trains. The pilot unit will be tested on a Norwegian train operated in the Oslo area from summer 2016."
+}

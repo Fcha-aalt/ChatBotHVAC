@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146262506,
+    "Title": "Automatic detection of indoor occupancy based on improved YOLOv5 model",
+    "Author": "Wang C.",
+    "Journal": "Neural Computing and Applications",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s00521-022-07730-3",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shandong Jianzhu University",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Indoor occupancy detection is essential for energy efficiency control and Coronavirus Disease 2019 traceability. The number and location of people can be accurately identified and determined through classroom surveillance video analysis. This information is used to manage environmental equipment such as HVAC and lighting systems to reduce energy use. However, the mainstream one-stage YOLO algorithm still uses an anchor-based mechanism and couples detection heads to predict. This results in slow model convergence and poor detection performance for densely occluded targets. Therefore, this paper proposed a novel decoupled anchor-free VariFocal loss convolutional network algorithm DFV-YOLOv5 for occupancy detection to tackle these problems. The proposed method uses the YOLOv5 algorithm as a baseline. It uses the anchor-free mechanism to reduce the number of design parameters needing heuristic tuning. Afterwards, to reduce the coupling of the model, speed up the model’s convergence ability, and improve the model detection performance, the detection head is decoupled based on the YOLOv5 model. It can resolve the conflict between classification and regression tasks. In addition, we use the VariFocal loss to assign more weights to difficult data points to optimize the class imbalance problem and use the training target q to measure positive samples, treating positive and negative samples asymmetrically. The total loss function is redesigned, the L1 loss is increased, and the ablation experiment verifies the effect of the improved loss. By applying a hybrid activation function of the sigmoid linear unit and rectified linear unit, we improved the model’s nonlinear representation and reduced the model’s inference time. Finally, a classroom dataset was constructed to validate the occupancy detection performance of the model. The proposed model was compared with mainstream target detection models regarding average mean precision, memory allocation, execution time, and the number of parameters on the VOC2012, CrowdHuman and self-built datasets. The experimental results show that the method significantly improves the detection accuracy and robustness, shortens the inference time, and proves the practicality of the algorithm in occupancy detection compared with the mainstream target detection model and related variants of the model."
+}

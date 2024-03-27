@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140444859,
+    "Title": "To Evaluate the Performance of Cooling Tower Using Different Filters",
+    "Author": "Kapote R.",
+    "Journal": "Lecture Notes in Mechanical Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-3938-9_44",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sinhgad College of Engineering",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Cooling tower has very wide application in many areas such as cooling of circulating water in oil refineries, petrochemical, thermal power plants, for cooling buildings using HVAC systems and other plants. Its selection plays an important role according to the requirements. Counter-flow cooling tower is used during these studies as it filters the driest air and the coldest water needed for cooling process. Rejection of heat in atmosphere is achieved in the cooling tower by heat and mass transfer between hot water droplets and ambient air. Water evaporation losses in cooling towers add to most amount of fresh water utilization, which is not economical. To reduce these evaporation losses, various types of fills are mounted at the top of cooling tower made up of different materials, analyzed using CFD and performed simulation using artificial neural network (ANN) in MATLAB for the most effective material."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099046748,
+    "Title": "Study on simplified energy-efficient control methods of HVAC cooling water system from the global online optimization perspective",
+    "Author": "Zhao T.",
+    "Journal": "Energy Science and Engineering",
+    "Publication Date": {
+        "$date": "2021-04-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1002/ese3.861",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Dalian University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "The cooling water system is an indispensable part in the removal of the indoor cooling load in heating, ventilation, and air-conditioning (HVAC) systems. However, the complexity and strong coupling characteristics of the controlled objects lead to unsatisfied control effects in most practical engineering applications. In this paper, the cooling water system is studied as a whole from the perspective of online application. Firstly, the mathematical models of the cooling water system are introduced and simplified based on the experimental data from the actual system. The simplified models have easy obtained inputs and programmable structure, which renders higher feasibility and practicality for the model-based control method applied in the real system. On this base, an easily implemented control method for cooling water system is proposed to improve the global efficiency. By comparing with the conventional constant temperature difference control strategy and constant speed control strategy in the simulation platform, the proposed water flow optimization control strategy is superior in both global COP and energy saving at the same operating conditions, and 0.37% and 3.45% of energy consumption can be saved, respectively. The simulation results imply that the proposed simplified method is a referable control method for designing or retrofitting the real cooling water system."
+}

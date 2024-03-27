@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177477828,
+    "Title": "ECM: An Energy-efficient HVAC Control Framework for Stable Construction Environment",
+    "Author": "Ok J.S.",
+    "Journal": "Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks workshops",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/SECON58729.2023.10287528",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kyungpook National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "A cargo containment system (CCS) of liquefied natural gas (LNG) is an essential component of an LNG carrier (LNGC). During the manufacturing process of the LNGC CCS, it is critical that the heating, ventilation, and air conditioning (HVAC) facility stabilizes the environmental states inside the CCS at all times to prevent devastating rust and dew from forming inside the LNGC CCS. One critical problem is that it consumes enormous power, resulting in high expenses. To alleviate this problem, we propose our design of a novel data-driven framework, termed ECM, that uses a combination of machine learning and deep reinforcement learning (DRL) models to robustly and automatically control the HVAC system. Based on selected features, we develop the best indoor-environment forecasting model from several candidate models and build an HVAC control agent by training the DRL model with the reward function that uses the predicted temperature and humidity through the forecasting model. To validate our proposed framework, we have assessed the performance of our models on the real-world sensor data obtained from one of the major world-class shipyards. As a result, we show that our DRL-based model trained in the proposed framework stably controls the temperature inside the CCS within only 1.$5^{\\mathrm{o}}$C variance in the set range from 2$3^{\\mathrm{o}}$C to 2$5^{\\mathrm{o}}$C while on average consuming power up to about 34% less than the compared existing methods. We expect our framework will bring an annual savings of about ${\\$}$ 14 million or more once deployed in the actual field."
+}

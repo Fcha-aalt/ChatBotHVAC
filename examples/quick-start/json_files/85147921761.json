@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147921761,
+    "Title": "Neural Network-Based Building Energy Models for Adapting to Post-Occupancy Conditions: A Case Study for Florida",
+    "Author": "Migliori M.",
+    "Journal": "Journal of Engineering for Sustainable Buildings and Cities",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/1.4056393",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Science",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Building energy models (BEMs) are usually developed by subject matter experts during the design phase to help with decision making for achieving a more energy-efficient design at a minimum cost. The energy performance of a building is subject to significant changes as its operational parameters vary (e.g., occupancy, schedule of operation, etc.) due to different reasons such as change in building spaces application, demands, pandemic situation, among other reasons. In other words, a BEM that is created based on “as-designed” condition to predict building energy consumption (EC) can potentially become much less accurate during the lifetime of the building given the potential changes to the “in-operation” conditions. While BEMs can be adjusted to address operational changes, the end-user (i.e., building owner, manager, etc.) usually does not possess the knowledge to work with physics-based models (e.g., eQUEST) and therefore the initial BEM may no longer be of use to them. In the present paper, an approach is proposed and assessed through which a physics-based model is developed using eQUEST and simulated for several different operating conditions. The resulting data are then used for training an artificial neural network (ANN) which can serve as a simple and data-driven model for prediction of building energy consumption in response to changes in operating conditions. A case study is performed for a building on the campus of Florida Institute of Technology, to explore the changes that occurred in the building schedule of operation during COVID-19 pandemic and its impact on the performance of BEM. The inputs to the ANN are considered average daily values for outside dry bulb temperature, total daily global horizontal irradiation, hours of operation for the heating, ventilation, and air conditioning (HVAC) system for the main building, and hours of operation for the HVAC system for the conference room, while the output is considered as the monthly energy consumption of the building. The trained ANN is then tested against the actual measured data for energy consumption (post-construction) under different scenarios and good agreement between the results is found. The approach presented in this work aims to serve as a methodology for using data-driven surrogate models that can be used beyond the construction phase of the building and in response to sudden changes in building operating conditions."
+}

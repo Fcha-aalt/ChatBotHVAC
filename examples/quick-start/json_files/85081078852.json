@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081078852,
+    "Title": "Data-driven analytics for effective energy management and audits of large enterprise",
+    "Author": "Bule L.E.",
+    "Journal": "Asia-Pacific Power and Energy Engineering Conference, APPEEC",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/APPEEC45492.2019.8994741",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Auckland",
+    "Affliation Country": "New Zealand",
+    "Cited by count": 0,
+    "Abstract": "Energy resources are very important to our daily lives and therefore using these resources in a sustainable way that will not only benefit our environment but also the livelihood of our future generations. Building Energy management is vital for efficient usage of energy resources especially space heating and cooling for large enterprises. Energy report provides an indication of baselines, irregular consumption patterns and areas for improvements. Energy audits and energy reports are costly for any organization such as the University of Auckland (UoA) with a large number of building facilities to operate and maintain. Energy consumption over a period has close correlation with season and the weather. Degree-day method is a simple and quick exercise to identify normal and irregular heating and cooling demand and hence reduce cost and indirect environment impacts. Buildings HVAC load have energy signature generated using historical energy consumption and weather data. The UoA building energy demand is the subject of the case study in this research to display how newer data analytics can help understand better energy utilization in a typical large-scale enterprise, which have several distributed sites and functional behaviors. Historical energy consumption and weather data by statistical analysis to produce 'Heating Degree and Cooling Degree Days' and comparisons with heating capacity for 33 buildings operated by UoA Building Facilities Management has been undertaken and reported in this paper."
+}

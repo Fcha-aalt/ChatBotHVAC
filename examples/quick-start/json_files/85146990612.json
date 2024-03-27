@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146990612,
+    "Title": "Building energy consumption enhancement using a neural network based model predictive control synthesis in FPGA",
+    "Author": "Agouzoul A.",
+    "Journal": "2022 International Conference on Microelectronics, ICM 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICM56065.2022.10005465",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Grenoble Alpes",
+    "Affliation Country": "France",
+    "Cited by count": 2,
+    "Abstract": "The societal need to preserve the environment and the complicated international geopolitical context make guaranteeing access to continuously available energy a crucial and critical issue. The development of an optimal control strategy aimed at significantly reducing energy requirements while degrading as little as possible the performance, in particular the comfort expected in its use, is of great necessity. The building sector is currently a large energy consumer in the world, so it is essential to reduce its energy demand, it turns out that 60% of this energy consumption comes from HVAC (Heating, Ventilation and Air Conditioning) systems, which requires changes in their control strategies. MPC (Model Predictive Control) allows to control complex systems, as in the case of thermal comfort of buildings, its use has allowed to reduce the energy demand for heating and cooling significantly, respectively from 4,631 kWh to 2,824 kWh (39.02%) and from 11,834 kWh to 9,025 kWh (27.34%). The implementation of such a control strategy in FPGA, will increase the performance of the optimization loop. The FPGA coupled to a Wi-Fi module, will facilitate the deployment and portability of the solution, in addition to that, it could make the system more expandable."
+}

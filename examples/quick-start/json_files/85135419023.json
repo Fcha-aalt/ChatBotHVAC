@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135419023,
+    "Title": "Modeling for vehicle cabin temperature prediction based on graph spatial-temporal neural network in air conditioning system",
+    "Author": "He X.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112229",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing Institute of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "The vehicle HVAC (heating, ventilating, and air conditioning) system aims to keep passengers thermal comfort and reduce energy consumption. One effective measure is to use temperature prediction to optimize HVAC systems. This paper aimed to comprehensively investigate the potential of machine learning methods applied to cockpit temperature prediction and proposed a deep learning method considering the Spatio-temporal correlation of the temperature field. Specifically, this study constructs a topological description of the temperature field inspired by the spatial and temporal correlations revealed by the Navier-Stokes equations. The Graph Convolutional Network (GCN) is used to capture the topological structure to obtain spatial features, and the Gated Recurrent Unit (GRU) is used to capture the dynamic change of node attribute to obtain temporal features. Finally, the GCGRU model can extract Spatio-temporal features of the temperature field. The experimental results show that the prediction method using Spatio-temporal features for the temperature field is feasible. The prediction performance is better than all the baseline methods and has the robustness to the data noise. This work is enlightening and may have a further reference to the feasibility study of the vehicle cabin air temperature prediction model."
+}

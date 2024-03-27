@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85110419974,
+    "Title": "Air damper with Controlling Capacity Unrelated to duct system resistance",
+    "Author": "Wen S.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jobe.2021.102388",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an University of Architecture and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "The air volume control performance has an important impact on Heating, Ventilation and Air Conditioning (HVAC) system energy efficiency, indoor air quality and thermal comfort. However, one of the challenges in researching the air volume control of HVAC systems is that the controlling capacity of air dampers is related to the resistance of the entire duct system. The working flow characteristic (WFC) curve of the air damper varies across different duct systems, which strongly affects the damper control performance. Therefore, for this problem, this paper employed the combined CFD numerical simulation and experimental verification to obtain a novel air damper and its controlling formula. The novel air damper has good controlling capacity, and its flow characteristic curve does not change with the difference of the duct system. This paper offers a reference for the hydraulic balance of ventilation and air-conditioning systems and provides a new perspective for precise air volume control."
+}

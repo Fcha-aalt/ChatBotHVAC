@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115715125,
+    "Title": "Research and Application of Predictive Control Method Based on Deep Reinforcement Learning for HVAC Systems",
+    "Author": "Fu C.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACCESS.2021.3114161",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang Sci-Tech University",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Energy efficiency and consumption control remain a significant topic in the area of Heating, Ventilation, and Air Conditioning (HVAC) systems. Deep reinforcement learning (DRL) is an emerging technique to optimize energy consumption. Its advantage lies in the ability to tackle the time-series nature of energy data and complexity brought by environmental factors. However, most DRL algorithms have not considered both time-of-use electricity pricing and thermal comfort. This paper proposed a hybrid approach based on twin delayed deep deterministic policy gradient algorithm and model predictive control (TD3-MPC) for HVAC systems, to mitigate function approximation errors and save cost by pre-adjusting building temperatures at off-peak times. This proposed method is compared with deep deterministic policy gradient (DDPG) algorithm under simulations of five building zones. Experiment results demonstrate that TD3-MPC outperforms DDPG algorithm and potentially saves 16% of total energy consumption cost, with better stability and robustness."
+}

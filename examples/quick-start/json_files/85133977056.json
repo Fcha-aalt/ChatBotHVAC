@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133977056,
+    "Title": "Building energy model validation and estimation using heating and cooling degree days (HDD–CDD) based on accurate base temperature",
+    "Author": "Mehregan M.",
+    "Journal": "Energy Science and Engineering",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1002/ese3.1246",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shahrood University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 5,
+    "Abstract": "A great deal of energy used in buildings is directed toward heating, ventilation, and air-conditioning (HVAC). The key procedure in reducing heating and cooling loads is the creation of a baseline model that represents a theoretical version of the building. This allows multiple scenarios to balance the lowest retrofit cost with the lowest annual energy cost. This study emphasizes establishing an energy consumption model and energy benchmarks for a commercial building located in Shiraz, Iran. The energy-related data are gathered for 3 years based on real values from billing receipts. Herein, two distinct approaches are integrated; forward and inverse methods. In the forward method, building energy consumption is predicted based on building performance and specifications, geometry, location, and air conditioning system. In the reverse method, building energy consumption is evaluated using the building load coefficient and building base consumption according to effective factors such as weather data and appliance performance. Also, considering constant fixed temperatures as 18°C, and 21°C for calculating heating and cooling degree days is not correct. Thus, finding a proper and valid base temperature is the main aim of this study by examining this integrated method. The integrated application of these methods allowed determining the thermomechanical state of the building as a whole. To this end, base temperature boundaries are extracted from the energy consumption trend which grounds the need for cooling and heating. Eventually, the baseline for energy consumption of the building based on the proposed method is provided for calculating the development of methodological foundations for the design, construction, operation, and renovation of energy-efficient buildings. The results show that according to an acceptable thermal building comfort zone of 14–18.6°C, the building achieves a 30 percent reduction in annual cooling and heating energy consumption compared to the base year."
+}

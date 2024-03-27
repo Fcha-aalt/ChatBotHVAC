@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85051951752,
+    "Title": "Caveats and technical challenges in performance evaluation of activated carbon (AC) and non-AC filtration for NO<inf>2</inf> abatement toward energy-efficient and healthy ventilation",
+    "Author": "Han K.H.",
+    "Journal": "Journal of Hazardous Materials",
+    "Publication Date": {
+        "$date": "2018-10-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.jhazmat.2018.08.006",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "As the awareness of public health/safety becomes important and the desire to provide clean/safe indoor air in a sustainable way increases, air filtration technology has become essential at urban built facilities, which are challenged by significant outdoor air pollution due to dense population and heavy traffic. To provide comparable/objective data for designers and professionals of gas-phase filtration equipment in HVAC systems, it is important to understand the performance and characteristics of possible filter medium candidates within a reasonable testing period at low levels of target hazard concentration (typically, ∼0.05 ppm). The present study investigated the 2000-time scale-down evaluation evidence and its behind reasons between practical high-concentration tests (∼100 ppm NO2) and actual low-concentration ones, and investigated potential dangers identified during the study in utilizing activated carbon (AC)-based virgin filter media in indoor applications due to unexpected NO-desorption phenomenon. Six filter media of AC-based and non-AC with different type/pellet/shape/size/target compound were selected and tested for abating NO2 mainly originated outdoors. A multi-channel simultaneous testing system was utilized for similar standard testing conditions. The study findings provide previously unavailable experimental data and new insight into the behavior of widely used filtration media against NO2 for the enhancement of urban resilience."
+}

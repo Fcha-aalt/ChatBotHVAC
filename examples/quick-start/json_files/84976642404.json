@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84976642404,
+    "Title": "Application of Fatty Acid Based Phase-Change Material to Reduce Energy Consumption from Roofs of Buildings",
+    "Author": "Sleiti A.K.",
+    "Journal": "Journal of Solar Energy Engineering, Transactions of the ASME",
+    "Publication Date": {
+        "$date": "2016-10-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1115/1.4033574",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qatar University",
+    "Affliation Country": "Qatar",
+    "Cited by count": 14,
+    "Abstract": "Buildings account for a significant portion of the total energy consumption in the U.S., especially the energy-inefficient commercial building sector. As part of the future path toward realizing net zero energy buildings, innovative energy-efficient technologies must be developed. In this study, the potential of phase-change material (PCM)-enhanced constructions to lower heating, ventilating, and air conditioning (HVAC) energy consumption in a commercial restaurant building was investigated. A commercially available fatty acid based PCM product was selected due to their promising thermal and chemical properties. Differential scanning calorimetry (DSC) was used in isothermal step mode to accurately measure the latent heat energy storage of the PCM. A U.S. Department of Energy (DOE) commercial reference building model with a PCM-enhanced ceiling was simulated using a finite-difference conduction heat transfer algorithm in EnergyPlus to determine the effects of the PCM on the building energy performance. It was found that, although the PCM-enhanced ceiling had a beneficial stabilizing effect on the interior surface temperature of the ceiling, the zone mean air temperatures were not significantly altered. As such, minimal HVAC energy savings were seen. Future work should focus on active PCM systems, which utilize heat exchanging fluids to discharge the PCM to remove the stored thermal energy of the PCM during the night in summer, overcoming the fundamental issue of the passive PCM system returning stored thermal energy back into the building."
+}

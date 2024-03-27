@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85020833951,
+    "Title": "Upscaling participatory thermal sensing: Lessons from an interdisciplinary case study at University of California for improving campus efficiency and comfort",
+    "Author": "Sanguinetti A.",
+    "Journal": "Energy Research and Social Science",
+    "Publication Date": {
+        "$date": "2017-10-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.erss.2017.05.026",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Davis",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) is responsible for most of the energy consumed in many university buildings, which are still often uncomfortable for occupants. Previous research suggests crowdsourcing thermal comfort feedback from occupants, called participatory thermal sensing (PTS), and incorporating it into the HVAC control system can improve energy efficiency and comfort simultaneously. Most PTS research has focused on automated closed-loop systems whereby occupant feedback is automatically integrated into HVAC operations, but such systems are difficult to scale. PTS can also be implemented in a manual closed-loop system, whereby facilities management personnel analyze occupant feedback then make appropriate changes to HVAC operations. This approach may be easier to scale, but little is known regarding how to implement such a program. This paper describes lessons learned from a campus-wide manual closed-loop PTS program at University of California, Davis, after 23 months of implementation. We discuss the program in terms of three main goals: inspiring occupant participation, interpreting the data, and improving comfort and energy efficiency. Each goal requires a different set of skills and resources, which has resulted in an inter-sector and interdisciplinary project team comprised of facilities management staff and behavioral science and engineering researchers."
+}

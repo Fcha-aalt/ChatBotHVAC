@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118809052,
+    "Title": "Sensor-based machine learning approach for indoor air quality monitoring in an automobile manufacturing",
+    "Author": "Wandy Y.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14217271",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität Dresden",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "The alternative control concept using emission from the machine has the potential to reduce energy consumption in HVAC systems. This paper reports on a study of alternative inputs for a control system of HVAC using machine learning algorithms, based on data that are gathered in a welding area of an automotive factory. A data set of CO2, fine dust, temperatures and air velocity was logged using continuous and gravimetric measurements during two typical production weeks. The HVAC system was reduced gradually each day to trigger fluctuations of emission. The data were used to train and test various machine learning models using different statistical indices, consequently to choose a best fit model. Different models were tested and the Long Short-Term Memory model showed the best result, with 0.821 discrepancy on R2 . The gravimetric samples proved that the reduction of air exchange rate does not correlate to escalation of fine dust linearly, which means one cannot rely on just gravimetric samples for HVAC system optimization. Furthermore, by using machine learning algorithms, this study shows that by using commonly available low cost sensors in a production hall, it is possible to correlate fine dust data cost effectively and reduce electricity consumption of the HVAC."
+}

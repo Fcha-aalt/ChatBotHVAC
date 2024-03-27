@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106158875,
+    "Title": "A framework to generate and label datasets for non-intrusive load monitoring",
+    "Author": "Völker B.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14010075",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität Freiburg",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "In order to reduce the electricity consumption in our homes, a first step is to make the user aware of it. Raising such awareness, however, demands to pinpoint users of specific appliances that unnecessarily consume electricity. A retrofittable and scalable way to provide appliance-specific consumption is provided by Non-Intrusive Load Monitoring methods. These methods use a single electricity meter to record the aggregated consumption of all appliances and disaggregate it into the consumption of each individual appliance using advanced algorithms usually utilizing machine-learning approaches. Since these approaches are often supervised, labelled ground-truth data need to be collected in advance. Labeling on-phases of devices is already a tedious process, but, if further information about internal device states is required (e.g., intensity of an HVAC), manual post-processing quickly becomes infeasible. We propose a novel data collection and labeling framework for Non-Intrusive Load Monitoring. The framework is comprised of the hardware and software required to record and (semi-automatically) label the data. The hardware setup includes a smart-meter device to record aggregated consumption data and multiple socket meters to record appliance level data. Labeling is performed in a semi-automatic post-processing step guided by a graphical user interface, which reduced the labeling effort by 72% compared to a manual approach. We evaluated our framework and present the FIRED dataset. The dataset features uninterrupted, time synced aggregated, and individual device voltage and current waveforms with distinct state transition labels for a total of 101 days."
+}

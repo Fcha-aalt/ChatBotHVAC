@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137267858,
+    "Title": "Energy saving through building automation systems: Experimental and numerical study of a smart glass with liquid crystal and its control logics in summertime",
+    "Author": "Ruggiero S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-10-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112403",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi del Sannio",
+    "Affliation Country": "Italy",
+    "Cited by count": 11,
+    "Abstract": "Smart glass technology is promising building envelope solution for Responsive Building Envelopes (RBEs) if smart communities with zero net emissions must be achieved. This solution could lead to energy saving and a thermal comfort improvement, but also a reduction of possible glare, improving the visual comfort. On the basis of an extended literature analysis there are some smart window technologies, such Electrochromic ones, most mature at research level, showing a large impact in the reduction in cooling demand. On the other hand, these solutions have some issues, like the long switching period or the alteration of indoor perceived colours. An example of promising alternative to Electrochromic technology could be the liquid crystal device, which performances have not been enough investigated in the current literature. In this context the purpose of the present study is to develop a deep investigation, thus numerical and experimental, of a full-scale electric-driven window (liquid crystal technology) installed in an outdoor test-room, in order to evaluate the effect of its usage on energy consumption and daylight control. Based on continuous monitoring, a numerical model of HVAC-building system with smart window was developed and calibrated. It allowed to carry out a sensitivity analysis on the energy demand by considering all window exposures, the window control logic (based on illuminance level or indoor air temperature), different climate zones (Benevento, Athens, London and Cairo) and the window to wall ratio (18% or 100%) also. Comparing the results with a static window, for all exposures and all climates, the dynamic window could reach an energy saving, up to −17%."
+}

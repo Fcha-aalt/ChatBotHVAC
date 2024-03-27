@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147904892,
+    "Title": "A Combinatorial Optimization Strategy for Performance Improvement of Stratum Ventilation Considering Outdoor Weather Changes and Metabolic Rate Differences: Energy Consumption and Sensitivity Analysis",
+    "Author": "Bai Y.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su15032804",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an University of Architecture and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Since occupants spend most of their time indoors, an energy-saving and comfortable indoor environment are particularly important. The differences in the metabolic rate of occupants make them have different requirements for their thermal environment. To save energy under the comprehensive needs of occupants for thermal environment, the combinatorial optimization strategy based on NSGA-II and improved the TOPSIS method is proposed in this study. Firstly, the physical model of the CFD simulation is verified by experiments. Secondly, the specific operation cases corresponding to combinations of different levels of factors are determined via the RSM method, and the ventilation performance prediction model considering the metabolic rate differences and outdoor weather changes is established. Thirdly, supply air velocities and temperatures are optimized by using Pareto-based NSGA-II; the Pareto optimal solution set under different outdoor temperatures is obtained. Finally, based on the Pareto optimal solutions at different outdoor temperatures, the optimal strategy under dynamic outdoor air temperature is obtained by improved TOPSIS by the CRITIC method. The optimization of ventilation parameters significantly improved the ventilation performance, and the results show that the predicted mean vote, energy consumption, vertical air temperature difference between head and ankle levels and the local mean age of air for different metabolic rates decrease by 64.1%, 4.74%, 24.83% and 7.39% on average, respectively. Moreover, the relative energy saving rate increases as the metabolic rate increases, and the strategy facilitates adaptation to outdoor weather changes and meets the individual needs of occupants for the indoor environment. This has important implications for achieving the global goal of energy efficiency and emission reduction."
+}

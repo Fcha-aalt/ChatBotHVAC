@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171842875,
+    "Title": "Data-driven online energy management framework for HVAC systems: An experimental study",
+    "Author": "Zhao D.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-12-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.121921",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Osaka University",
+    "Affliation Country": "Japan",
+    "Cited by count": 2,
+    "Abstract": "The optimization of the operation of heating, ventilation, and air conditioning (HVAC) systems has gained considerable attention due to its energy conservation potential. Collecting various building operation data presents an opportunity to improve the efficiency of energy management and reduce consumption. In this paper, a data-driven online energy management framework is proposed for enhancing the effectiveness of HVAC systems and minimizing energy consumption. To streamline the modeling process and improve the accuracy of temperature estimation, our proposed framework adopts a symbolic regression approach to estimate building thermodynamics based on the collected data. It also formulates a model predictive control (MPC)-based HVAC scheduling strategy to optimize HVAC operations while maximizing thermal comfort and reducing energy consumption and peak power demand. We conducted on-site experiments to evaluate the proposed framework and demonstrated a notable reduction in total energy consumption in both HVAC cooling and heating operations: average reductions of 4.9% and 30.2%, and 49.3% and 73.9% for best cases in the on-site experiment under certain conditions. In the heating operation, the proposed data-driven HVAC management framework efficiently utilized indoor/outdoor heat generation to maintain comfortable temperature levels without activating the HVAC. Such effective utilization of heat sources shortened the HVAC runtimes and further reduced the total energy consumption. With the proposed framework, the average HVAC peak power demand fell by 25.8% and 35.1% during cooling and heating operations in the on-site experiment with certain scenarios. On-site experiment results demonstrated the proposed framework can efficiently suppress peak power demand, reduce energy consumption in both cooling and heating operation under certain conditions. The framework's data-driven approach provides an effective means of optimizing HVAC operations, reducing energy consumption, and improving the thermal comfort of the building's occupants."
+}

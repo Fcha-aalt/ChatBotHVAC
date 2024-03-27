@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141218697,
+    "Title": "An Indoor Air Temperature Prediction Framework for Model Predictive Control in HVAC Systems",
+    "Author": "Hamayat F.",
+    "Journal": "2022 27th International Conference on Automation and Computing: Smart Systems and Manufacturing, ICAC 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICAC55051.2022.9911173",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Engineering and Technology Taxila",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 1,
+    "Abstract": "An accurate prediction of indoor air temperature (IAT) for heating, ventilation, and air conditioning (HVAC) systems in smart buildings is a challenging task, especially for a large future prediction horizon. In particular, the dependency of IAT modelling on various complex factors including outdoor ambient conditions, a large set of HVAC system parameters, and the nonlinearity which exists in building's thermodynamics make an accurate prediction of IAT difficult. Herein, we present a black-box model based IAT prediction algorithm which is used for an accurate IAT prediction using an artificial intelligence and a data-driven approach. Towards this, a Bi-LSTM (Long-short term memory) based model is proposed which is also compared with a standard LSTM based model. Our experimental results showed an improvement in IAT prediction of up to 10% using our proposed model when compared with a standard LSTM model for IAT prediction. These results are significant for applications where accurate IAT predictions can be used for a more robust energy consumption modelling and optimization in large scale buildings."
+}

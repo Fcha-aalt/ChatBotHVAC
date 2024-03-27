@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179521937,
+    "Title": "An automated data-driven platform for buildings simulation",
+    "Author": "Aryai V.",
+    "Journal": "BuildSys 2023 - Proceedings of the10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2023-11-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1145/3600100.3623728",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "Modeling the performance and energy consumption of buildings is a fundamental step toward smart building development. However, it is a daunting task due to the inherent complexity of buildings with a wide range of configurations of numerous controlled systems, sensors, and actuators, as well as the interactions between them, for example, interactions between outside weather, heating, ventilating and air-conditioning (HVAC) process variables, and user comfort. While existing physics-based platforms for building simulations, such as EnergyPlus or Modelica, have been successfully used for energy optimizations, manual model creation is slow and does not scale well for deployment in many buildings. The rapid growth of building data streams, on the other hand, provides an opportunity for fast and scalable data-driven model development. In this paper, we propose an automated data-driven HVAC modeling platform for building simulations, which can be used with reinforcement learning or predictive controller designs. Our proposed platform has been initially validated using the real-world data of an office building with 15 air handling units (AHUs). The validation is performed by incorporating the data-driven models into an OpenAI Gym wrapper and running a multi-step ahead assessment of the created environment under several simple rule-based control schemes."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85045123337,
+    "Title": "The combined effect of heat and moisture transfer dependent thermal conductivity of polystyrene insulation material: Impact on building energy performance",
+    "Author": "Khoukhi M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-06-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.03.055",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "United Arab Emirates University",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 107,
+    "Abstract": "The aim of this article is to elucidate the combined impact of heat and humidity transfer on the thermal conductivity of polystyrene used as an insulation for building envelope. In building energy assessment, the conductivity of the insulation material is assumed to be constant. This yields inaccurate results, as the thermal conductivity, k-value, of any material is a complex function of many factors, such as temperature, moisture, and density. This dependence has been shown in extant studies and linear variation of the thermal conductivity vs. temperature have been proposed for fibrous materials. Accurate evaluation of building thermal comfort and energy assessment, which requires a precise calculation of the cooling load, and thus the sizing of the HVAC equipment, depends on the accurate determination of the thermal resistance of the building envelope components, the insulation material in particular. The aim of this work is thus to inspect the combined effect of operating temperature and moisture content on the thermal conductivity of polystyrene insulation material and its impact on the energy performance of buildings. The results reveal that the k-value of the polystyrene insulation is significantly influenced by its moisture content at different operating temperatures. Indeed, an 8% increase in the total cooling load calculated at 28 °C and 30% moisture was measured relative to the base case evaluated at 24 °C and 0% moisture."
+}

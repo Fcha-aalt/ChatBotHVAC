@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135411757,
+    "Title": "Review of predictive maintenance algorithms applied to HVAC systems",
+    "Author": "Es-sakali N.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.egyr.2022.07.130",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Green Energy Park",
+    "Affliation Country": "Morocco",
+    "Cited by count": 21,
+    "Abstract": "Predictive maintenance is a preventive maintenance approach that is performed based on an online health assessment and allows for timely pre-failure interventions. It can diminish the cost of maintenance by reducing the frequency of maintenance as much as possible to avoid unplanned reactive maintenance, without incurring the costs associated with too frequent preventive maintenance. The main objective of predictive maintenance of heating, ventilation, and air conditioning (HVAC) systems is to predict when the HVAC equipment failure may occur. The benefits are numerous: planning of maintenance before the failure occurs, reduction of maintenance costs, and increased reliability. For this, the predictive maintenance of the HVAC systems is based on the historical data of the system for predicting the state of health of the system. The process of predictive maintenance application is composed of the Internet of Things (IoT) sensors that are installed inside the HVAC system, then the IoT platforms that help in collecting the signals coming from the sensors and converting them to existing databases. Afterward, the algorithms of application of predictive maintenance could be either knowledge-based approaches, physics-based approaches, or even data-driven-based approaches. A systematic literature review on the existing algorithms of HVAC predictive maintenance application is conducted in this paper to summarize the most used approach for predicting future failures in HVAC systems and to explain the benefits and limits of these algorithms."
+}

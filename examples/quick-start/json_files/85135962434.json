@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135962434,
+    "Title": "Optimal designs for net zero energy controlled environment agriculture facilities",
+    "Author": "Engler N.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112364",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "The paper describes a systematic analysis approach to optimize the design of indoor farming facilities considering both energy efficiency and renewable energy systems. The design optimization is based on a life cycle cost (LCC) analysis to account for both capital and energy costs over the lifetime of the facilities. The analysis indicates that LCC-based optimal designs consistently reduce annual energy consumption of the indoor farming facilities compared to the baseline case reaching up to 65%. The most effective energy efficiency measures for indoor farming facilities include high performance heating and cooling systems as well as optimized operational controls. While the heating and cooling system depends on the climate, daylighting controls and temperature settings are found to be consistently suitable for optimized designs in all US locations. The optimization analysis indicates that net-zero energy (NZE) designs for indoor farming facilities, while technically feasible, are typically not cost-effective in most US climates. Only NZE facilities located in Sacramento, CA, can be achieved cost-effectively."
+}

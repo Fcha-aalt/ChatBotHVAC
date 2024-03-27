@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076259947,
+    "Title": "Educated commissioning and operation of a complex nearly zero energy office building with the help of dynamic thermal HVAC-simulations-a best practice report from the Austrian postal service headquarter Post am Rochus",
+    "Author": "Horn P.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2019-11-20T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1742-6596/1343/1/012137",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Austrian Institute of Technology",
+    "Affliation Country": "Austria",
+    "Cited by count": 1,
+    "Abstract": "This paper presents lessons learned from practice focusing on planning, commissioning and first year of operation of the Austrian Post AGs' new headquarter \"Post am Rochus\", a nearly zero energy building with 49.300 m2 gross floor area. The execution phase was supported by a research project aiming for a significant reduction of the commissioning phase. Based on the positive experience of this Austrian lighthouse project, general conclusions are drawn focusing on which activities and recommendations can be applied to similar projects, and which parts need further improvement or adaption. The question of how and when building energy performance simulations of complex HVAC-systems can be used to increase the energy efficiency, room comfort and operational stability of modern office buildings is investigated from a practical perspective. The challenge, and an outlook of how to reduce the information gap between the various disciplines involved in a complex multi-stakeholder process and the conclusions from the building owner are discussed and summarized in the conclusions."
+}

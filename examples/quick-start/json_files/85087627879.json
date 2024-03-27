@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087627879,
+    "Title": "Gray-box virtual sensor of the supply air temperature of air handling units",
+    "Author": "Ahamed M.S.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2020-09-13T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/23744731.2020.1785812",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for Zero Energy Building Studies",
+    "Affliation Country": "Canada",
+    "Cited by count": 14,
+    "Abstract": "Building automation system uses several networks of sensors for continuous monitoring of building control systems for energy-efficient operation. Physical sensors are costly and need frequent calibration. The accurate measurement of supply air temperature from the air handling units (AHUs) has an important effect on the control of cooling coil, supply air temperature and supply airflow rate delivered to rooms. In the case when such a sensor gives erroneous measurements, a virtual sensor can replace temporarily the faulty sensor, and it can also be used for automated fault detection of HVAC systems. This article proposes two different gray-box (models A and B) for predicting the supply air temperature of air handling units that were developed and tested using the measurements from two buildings. The models require the measurement of three variables (mixed air temperature, cooling coil valve signal, and chilled water inlet temperature). The results of both models are discussed and compared. A sliding window approach for cross-validation of the models was also carried out. The developed gray-box models A and B could be integrated into BAS for virtual measurement, virtual calibration, and fault detection in HVAC systems."
+}

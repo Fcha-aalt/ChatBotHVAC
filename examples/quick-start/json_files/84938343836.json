@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938343836,
+    "Title": "Low Temperature Thermal Energy Storage (TES) System for Improving Automotive HVAC Effectiveness",
+    "Author": "Jha K.K.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2015-04-14T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.4271/2015-01-0353",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mahindra &amp; Mahindra Ltd.",
+    "Affliation Country": "India",
+    "Cited by count": 7,
+    "Abstract": "The prime focus of automotive industries in recent times is to improve the energy efficiency of automotive subsystem and system as whole. Harvesting the waste energy and averaging the peak thermal loads using thermal energy storage (TES) materials and devices can help to improve the energy efficiency of automotive system and sub-system. The phase change materials (PCM) well suit the requirement of energy storage/release according to demand requirement. One such example of TES using PCM is extended automotive cabin comfort during vehicle idling and city traffics including start/stop of the engine at traffic stops. PCM as TES poses high density and capacity in thermal energy storage and release. It is due to latent heat absorption and release during phase change. Generally the latent heat of a material compare to it sensible heat is much higher, almost an order of 2. For example, latent heat of ice is almost 160 times higher than sensible heat for a kelvin temperature rise of ice. Using the latent heat capacity of PCM during phase change, an attempt has been made to improve and extend the cabin comfort during city traffics and idling of an automobile. The PCM encapsulated in a heat exchanger is placed in the air path of HVAC AHU system. During the compressor running condition, it uses the cold air coming from evaporator to solidify the encapsulated PCM (charging cycle), this retains the vent temperature within comfortable limit for extended period during the engine shutoff period. This is achieved by releasing the cold energy to air passing through it. Once PCM releases all the latent energy, it converts into liquid state (discharging cycle) and will no longer be able to provide the cooling effect. During engine start it convert back to solid state as stated above. The optimized thermal energy storage system (TESS) with small quantity and high latent heat capacity PCM can improve the effectiveness of automotive HVAC system during traffic stops and engine idling without compromising on the cabin comfort. In the present work, an attempt has been made to investigate and optimize the extended automobile cabin comfort using TESS having commercial low cost and low temperature PCM as an acting medium. Experiment studies have indicated that the cabin comfort could be extended for almost 41 seconds during engine shut off period."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85180012534,
+    "Title": "Analysis of Building Model Forecasts using Autonomous HVAC Optimization System for Residential Neighborhood",
+    "Author": "Lebakula V.",
+    "Journal": "2023 IEEE Energy Conversion Congress and Exposition, ECCE 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ECCE53617.2023.10362041",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems account for the highest share of home energy consumption in the United States. Optimized HVAC control can provide thermal improved comfort to the occupants, improve energy efficiency, reduce energy cost, and support grid services. In this paper, we discuss a multi-agent and cloud-based software framework that has been deployed in occupied residential neighborhood. This system enables automatic data collection, learning, optimization, and dispatches signals to neighborhood devices. HVAC optimization is based on model predictive control (MPC). Since the operational performance of MPC depends on model forecasting accuracy, it is crucial to evaluate the model continuously and modify or retrain it as necessary. In this research, we developed an automated workflow to evaluate the performance of temperature and power forecasts based on measured data in the real world. This will provide researchers with a deeper understanding of the model and how it can be improved."
+}

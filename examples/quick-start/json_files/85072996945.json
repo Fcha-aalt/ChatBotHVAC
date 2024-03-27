@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072996945,
+    "Title": "Can buildings be more intelligent than users?- The role of intelligent supervision concept integrated into building predictive control",
+    "Author": "Sheikhnejad Y.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.egyr.2019.08.081",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Centre for Mechanical Technology and Automation (TEMA)",
+    "Affliation Country": "Portugal",
+    "Cited by count": 12,
+    "Abstract": "This study addresses a new generation of adaptable intelligent control systems for energy management. The proposed approach consists of a high-level predictive control system based on advanced simulation and optimization algorithms which interact with conventional machine-level controllers of HVAC systems, e.g., PID, in order to define optimized set points considering current and forecasted operation conditions, minimizing a predefined objective cost function, e.g., energy consumption, subjected to maintain predefined levels of comfort. The flexibility of the proposed architecture and the development of reliable surrogate models based on robust machine learning techniques are key features to combine green building requirements while granting or even improving occupant comfort. A first version of the proposed system was developed, and preliminary results emphasize its role in the path of transition to intelligent green buildings as a part of new buildings or, more important, as a retrofit of current buildings, with almost no changes on infrastructures, but promoting them to a smart building level."
+}

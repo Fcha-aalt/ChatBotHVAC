@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84960104147,
+    "Title": "Passive house optimization for Portugal: Overheating evaluation and energy performance",
+    "Author": "Figueiredo A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-04-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.02.034",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Universidade de Aveiro",
+    "Affliation Country": "Portugal",
+    "Cited by count": 50,
+    "Abstract": "Improving common constructive solutions and substituting HVAC systems for more efficient ventilation systems leads to significant opportunities to decrease energy demand for heating and cooling and for improving occupant's comfort. Passive House (PH) concept adapted to Mediterranean countries is regarded as a necessary strategy for reducing global energy consumption and greenhouse gas emissions at the building level. The present research, undertakes the Passive House concept optimization for the Portuguese climate, using a real building case, built according the national thermal code and classified as a plus building. The goal consists in complying with PH requirements through the definition of the external envelope solutions as well as the heating and cooling systems to be applied to new or refurbished buildings. The research starts for the Aveiro region climate (site built) and a broader analysis for different regions of Portugal mainland were performed. The building simulated is a detached house of contemporary architecture with the numerical model developed based on the original patented design solution and dynamic simulation realized with EnergyPlus® software. In a first approach and from the original model, sensitivity analysis and multi-objective optimization with an evolutionary algorithm were carried out in order to assess the reduction potential of the annual energy consumption. From the results long periods of thermal discomfort for the heating season (from 60 to 92%) were observed, as well as long periods of overheating during the summer (from 13 to 43%). Comparing one of the best solutions attained with the original case study, a reduction of 42% of the heating energy demand and the reduction of 64% of the cooling demand was achieved. Then, in a second approach the evolutionary algorithm was used to meet the compliant parameters defined by PH standards for different regions in Portugal mainland. The multi-objective optimization was developed to study the interaction between annual heating demand and summer thermal overheating rate objectives and assess their trade-offs. It was concluded that the Passive House concept is viable for the Portuguese climate; however it is essential to adapt and detail the technical and constructive solutions for different regions."
+}

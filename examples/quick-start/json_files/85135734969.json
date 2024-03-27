@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135734969,
+    "Title": "Joint Optimization of HVAC and Active Insulation Control Strategies in Residential Buildings",
+    "Author": "Sepehri A.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Pennsylvania State University",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Increasing building construction thermal resistance has been shown to be an effective traditional way of improving building energy efficiency. In this approach, the opaque building envelope is often deemed to be a static system that keeps the indoor environment isolated from the outdoor environment. More recently, active insulation systems (AIS) have been conceptualized to enable active control over building envelope thermal properties, allowing the thermal resistance to be optimally modulated in response to changing environmental conditions. Dynamically tuning the building thermal performance can lead to increased energy savings, reduced operating costs, and reductions in operational carbon emissions. When paired with thermal mass, AIS can also increase building load flexibility for providing demand response and grid services. Building flexibility can further be improved if the building is also equipped with optimized HVAC system controls. In this configuration, the AIS and HVAC systems can be beneficially coordinated to optimally condition the space based on the desired operational objectives. In this work, we quantify the potential benefits of jointly optimizing AIS and HVAC system controls by applying model predictive control to a detailed whole-building energy model. The example building is an all-electric single-family residential building, satisfying IECC 2012, in Baltimore, MD. To highlight the increase in benefits from jointly optimizing HVAC and dynamic envelope systems, we compare the results to the performance achieved when optimizing HVAC and AIS systems individually. Results showed that the combined optimization of HVAC and AIS control was able to achieve 13% peak demand reduction, while savings 3% energy. This is in contrast to only a 10% peak reduction and 16% increase in energy use for the case with optimized HVAC only. These results ultimately motivate further exploration, integration, and joint optimization of dynamic envelope and HVAC system components."
+}

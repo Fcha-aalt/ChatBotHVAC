@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125756481,
+    "Title": "Performance Analysis of Combined Bifacial Solar PV, Building Integrated Photovoltaics, and Solar Tracking System for Energy Efficient House",
+    "Author": "Ahmad F.F.",
+    "Journal": "ZEMCH International Conference",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Sharjah",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 1,
+    "Abstract": "This paper presents results on the design and performance analysis of a bifacial solar PV system with and without a tracking system for an energy efficient house designed for the Solar Decathlon Middle East (SDME) 2021 in Dubai, United Arab Emirates. The main objective of this project is to design and test the performance of an integrated bifacial solar PV system and cool roof technology to enhance the solar energy production and reduce the building energy consumption. The goal is to develop clean, efficient, and sustainable energy systems (supply) to meet the electrical load of the building (balance the energy supply and demand towards net zero energy building). Design, modeling and simulation performance analysis, and optimization of the bifacial solar PV were performed in this study. The electrical loads (HVAC, lighting, and appliances) of the house were determined first. The solar PV simulations were performed using different configurations for the rooftop (28 panels) and façade building integrated PV (8 panels): (a) 28 panels fixed (towards south); (b) 8 vertical panels fixed (towards south); (c) 28 panel with azimuth tracking (d); 8 panels with azimuth tracking; (e) 28 bifacial panels fixed (towards south) with an albedo of 70%, height of 0.5m and pitch of 2.1m. The improvement in energy production by integrating different technologies is as 19.88% for rooftop tracking, 9.93% for bifaciality, and 10.14% for the tracking of the façade. The self-consumption of the tracking mechanism is 4.66%. An overall improvement of 35.29% has been achieved as compared to conventional mono-facial fixed installation. The results include the energy balance report, daily, monthly, and yearly energy production from the bifacial solar PV, and daily energy production during the SDME contest period. The simulation results showed an annual energy system production of 25625.9 kWh. The bifacial solar PV system production for November is 1965.4 kWh. The contest period is from 11th to 20th November 2021. Thereby the daily energy production will be averagely 63.3 kWh, and the total contest period production is estimated equal to 633.36 kWh."
+}

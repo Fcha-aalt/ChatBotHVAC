@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84988378431,
+    "Title": "Adaptive control for lighting, shading and HVAC systems in near zero energy buildings",
+    "Author": "Bisegna F.",
+    "Journal": "EEEIC 2016 - International Conference on Environment and Electrical Engineering",
+    "Publication Date": {
+        "$date": "2016-08-29T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/EEEIC.2016.7555768",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 8,
+    "Abstract": "Due to the increasing amount of energy consumption and CO2 emissions, Building Automation Systems have been developed in order to increase energy performance in buildings and guarantee indoor comfort at the same time. However, along with the development of the hardware itself, the need to develop also suitable control systems and methods for improving the management of smart buildings, is arising. In this framework, fuzzy logic may be a valuable tool for developing suitable control systems. In this paper, fuzzy logic has been used in order to optimize comfort features and energy demand in an office. Starting from the model defined in a previous work, the aim of the paper is to simulate different configurations of the room and compare the results in order to evaluate the impact of room variations (window geometry, glass properties and wall reflectance) on the fuzzy control system. Given the same solar radiation inputs, it was noticed that different room configurations require a diversified management of the shading systems and artificial lighting control in order to achieve a good balance between comfort and energy consumption."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088516868,
+    "Title": "e-Energy 2020 - Proceedings of the 11th ACM International Conference on Future Energy Systems",
+    "Author": NaN,
+    "Journal": "e-Energy 2020 - Proceedings of the 11th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2020-06-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 77 papers. The topics discussed include: long-term electricity market agent based model validation using genetic algorithm based optimization; Pareto-optimal energy sharing between battery-equipped renewable generators; small-scale communities are sufficient for cost- and data-efficient peer-to-peer energy sharing; MARCO - multi-agent reinforcement learning based control of building HVAC systems; towards federated learning for HVAC analytics: a measurement study; the long-term cost of energy generation; automated classification of power plants by generation type; flexible redundancy generation for virtual network embedding with an application to smart grids; fairness in power flow network congestion management with outer matching and principal notions of fair division; and FlexAbility - modeling and maximizing the bidirectional flexibility availability of unidirectional charging of large pools of electric vehicles."
+}

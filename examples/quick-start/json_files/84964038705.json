@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964038705,
+    "Title": "Numerical Prediction of Thermal Comfort and Condensation Risk in a Ventilated Office, Equipped with a Cooling Ceiling",
+    "Author": "Teodosiu C.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.egypro.2015.12.243",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitatea Tehnica de Constructii Bucuresti",
+    "Affliation Country": "Romania",
+    "Cited by count": 19,
+    "Abstract": "In the current context of more and more energy efficient buildings, performant HVAC systems are required. The solution based on radiant cooling ceiling systems has proven successful in terms of high energy efficiency and good levels of thermal comfort. Nevertheless, there is an important issue concerning the cooling ceilings: the risk of condensation. As a result, the aim of this study is to investigate the thermal comfort and condensation risk for buildings with ventilation systems and cooling ceilings. The approach is based on CFD (Computational Fluid Dynamics) technique, introducing special methodologies in order to deal with convection and diffusion phenomena for water vapor, required for comprehensive thermal comfort analyzes and condensation mechanisms. The numerical model is applied in the case of a small office, taking into account a radiant cooling ceiling over the entire ceiling surface and two configurations of ventilation systems: mixing ventilation and displacement ventilation. Several simulations have been completed for different conditions concerning the air flow rates of the ventilation systems and temperatures of the cooling ceiling. It has been concluded that mixing ventilation has superior behavior, both in terms of thermal comfort and condensation risk, when warm and moist air is supplied in the room. On the other hand, the results show that when untreated air is supplied by the ventilation system (no matter its configuration, mixing or displacement), thermal comfort in the office cannot be properly assured only by radiant cooling ceiling systems."
+}

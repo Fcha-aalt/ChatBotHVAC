@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85116639747,
+    "Title": "A comparative study of faults detection techniques on HVAC systems",
+    "Author": "Alghanmi A.",
+    "Journal": "2021 IEEE PES/IAS PowerAfrica, PowerAfrica 2021",
+    "Publication Date": {
+        "$date": "2021-08-23T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/PowerAfrica52236.2021.9543158",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Manchester",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 6,
+    "Abstract": "Nowadays, machine learning (ML) and artificial intelligence (AI) methods are widely used to improve research outcomes on building energy management, especially when significant levels of data sets are involved. While significant research outputs are continuously generated in the domain of energy consumption prediction, same levels of activities are not replicated within the premise of energy-based fault detection and diagnosis. The amount of faulty data used in modelling is critical during energy-based fault detection. Therefore, this paper aims to present a comparative study for different unsupervised fault detection approaches applied for heating, ventilation, and air conditioning (HVAC) systems based on limited faulty data points. Three methods - isolation forest, OCSVM and LSTM autoencoders were selected. The models were trained and tested on fault-free data points and two HVAC faults under different severities. All models were evaluated for precision of detection, which revealed that LSTM outperformed all other techniques for all faulty points, its precision fluctuating around 80% on the average. Isolation forest did better with small faulty data points but its precision decreased with rising data points. OCSVM exhibited a different pattern whereby precision increased with increasing faulty data points until 96 points was reached, after which a regressive trend was observed. The results and details of the simulated mosque building is presented in the paper."
+}

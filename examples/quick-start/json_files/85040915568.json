@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040915568,
+    "Title": "High performance buildings: The impact of building orientation on HVAC system loads",
+    "Author": "Shah R.B.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1115/IMECE2017-71914",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "William States Lee College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Energy demand growth and depletion of conventional energy resources in recent years have led to exploring alternative energy resources and further concentration on improving energy efficiency of segments with higher energy consumption. Building energy demand is among the main areas of concern with a 40% average of total energy consumption in the US energy market. Within building energy demand approximately, the Heating, Ventilation and Air Conditioning (HVAC) system, lighting system, has the largest energy consumption share compared to other systems such as electronics systems, water-heating-cooking, and other systems. This implies that small improvements in HVAC system loads will result in significant energy savings. Novel cost-effective solutions should be developed to integrate and optimize all the essential high-performance building attributes, especially energy efficiency and occupant productivity. Employing comprehensive building energy analysis (BEA) simulation tools are among the cheapest, yet are the cost-effective approaches in improving building energy performance. This paper follows the energy saving practice using existing BEA simulation tools with a focus on two major aspects that can contribute to building thermal loads: building orientation and integrating renewable energy. The results show the significant impact of building orientation for developing energy efficiency solutions with focus on integrating renewable energy technologies within high performance buildings. This work provides a basis for the follow on phases of this research to develop smart energy saving solutions using current BEA simulation platforms. Such adds-on features enable users to improve building energy saving by determining building design features and integrating renewable energy solutions based on identified optimal building orientations."
+}

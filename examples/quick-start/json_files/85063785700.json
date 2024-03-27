@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063785700,
+    "Title": "Villas on Islands: Cost-effective energy refurbishment in Mediterranean coastline houses",
+    "Author": "Ascione F.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.egypro.2018.12.050",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "This paper aims to underline the variability of constructions in Mediterranean regions, where different climates, architectural techniques and kinds of building uses determine different optimal energy refurbishments of residential buildings placed on the coastline. More in detail, by considering two different construction technologies (i.e., a lightweight house in reinforced concrete and a massive tuff-made villa), two different climates (Greek coast, climate of Athens and Italian coast, climate of Naples), two cost-optimal energy retrofits are presented. The optimized energy retrofit, performed by coupling transient energy simulations and genetic algorithm for generating improved models, have taken into account all levers of energy efficiency, and thus optimization of building envelope (thermal insulation, reflectance, windows and solar screens), active energy systems (daylight control, HVAC systems for the regulation of indoor conditions) and renewable energy sources at the building scale (namely, solar photovoltaic)."
+}

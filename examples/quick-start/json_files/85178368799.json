@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178368799,
+    "Title": "Alternative Approaches to HVAC Control of Chat Generative Pre-Trained Transformer (ChatGPT) for Autonomous Building System Operations",
+    "Author": "Ahn K.U.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13112680",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Institute of Civil Engineering and Building Technology (KICT)",
+    "Affliation Country": "South Korea",
+    "Cited by count": 1,
+    "Abstract": "Artificial intelligence (AI) technology has rapidly advanced and transformed the nature of scientific inquiry. The recent release of the large language model Chat Generative Pre-Trained Transformer (ChatGPT) has attracted significant attention from the public and various industries. This study applied ChatGPT to autonomous building system operations, specifically coupling it with an EnergyPlus reference office building simulation model. The operational objective was to minimize the energy use of the building systems, including four air-handling units, two chillers, a cooling tower, and two pumps, while ensuring that indoor CO2 concentrations remain below 1000 ppm. The performance of ChatGPT in an autonomous operation was compared with control results based on a deep Q-network (DQN), which is a reinforcement learning method. The ChatGPT and DQN lowered the total energy use by 16.8% and 24.1%, respectively, compared with the baseline operation, while maintaining an indoor CO2 concentration below 1000 ppm. Notably, compared with the DQN, ChatGPT-based control does not require a learning process to develop intelligence for building control. In real-world applications, the high generalization capabilities of the ChatGPT-based control, resulting from its extensive training on vast and diverse data, could potentially make it more effective."
+}

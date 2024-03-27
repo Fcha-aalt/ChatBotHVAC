@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135714246,
+    "Title": "Impact of climate change on nearly zero-energy dwelling in temperate climate: Time-integrated discomfort, HVAC energy performance, and GHG emissions",
+    "Author": "Rahif R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109397",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université de Liège",
+    "Affliation Country": "Belgium",
+    "Cited by count": 25,
+    "Abstract": "Global warming is widely recognized to affect the built environment in several ways. This paper projects the current and future climate scenarios on a nearly zero-energy dwelling in Brussels. Initially, a time-integrated discomfort assessment is carried out for the base case without any active cooling system. It is found that overheating risk will increase up to 528%, whereas the overcooling risk will decrease up to 32% by the end of the century. It is also resulted that the overheating risk will overlap the overcooling risk by 2090s under high emission scenarios. Subsequently, two commonly applied HVAC strategies are considered, including a gas-fired boiler + an air conditioner (S01) and a reversible air-to-water heat pump (S02). In general, S02 shows ∼6–13% and 15–27% less HVAC primary energy use and GHG emissions compared to S01, respectively. By conducting the sensitivity analysis, it is found that the choice of the HVAC strategy, heating set-point, and cooling set-point are among the most influential parameters determining the HVAC primary energy use. Finally, some future recommendations are provided for practice and future research."
+}

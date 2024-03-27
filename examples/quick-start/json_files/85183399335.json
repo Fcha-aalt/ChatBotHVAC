@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85183399335,
+    "Title": "Nearly Zero-Energy Building Load Forecasts through the Competition of Four Machine Learning Techniques",
+    "Author": "Qin H.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.3390/buildings14010147",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Heating, ventilation and air conditioning (HVAC) systems account for approximately 50% of the total energy consumption in buildings. Advanced control and optimal operation, seen as key technologies in reducing the energy consumption of HVAC systems, indispensably rely on an accurate prediction of the building’s heating/cooling load. Therefore, the goal of this research is to develop a model capable of making such accurate predictions. To streamline the process, this study employs sensitivity and correlation analysis for feature selection, thereby eliminating redundant parameters, and addressing distortion problems caused by multicollinearity among input parameters. Four model identification methods including multivariate polynomial regression (MPR), support vector regression (SVR), multilayer perceptron (MLP), and extreme gradient boosting (XGBoost) are implemented in parallel to extract value from diverse building datasets. These models are trained and selected autonomously based on statistical performance criteria. The prediction models were deployed in a nearly zero-energy office building, and the impacts of feature selection, training set size, and real-world uncertainty factors were analyzed and compared. The results showed that feature selection considerably improved prediction accuracy while reducing model dimensionality. The research also recognized that prediction accuracy during model deployment can be influenced significantly by factors like personnel mobility during holidays and weather forecast uncertainties. Additionally, for nearly zero-energy buildings, the thermal inertia of the building itself can considerably impact prediction accuracy in certain scenarios."
+}

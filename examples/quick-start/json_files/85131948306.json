@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131948306,
+    "Title": "Deep learning and computer vision based occupancy CO<inf>2</inf> level prediction for demand-controlled ventilation (DCV)",
+    "Author": "Wei S.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-09-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.104715",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 21,
+    "Abstract": "The present study investigated the potential of the application of a live occupancy detection approach to assist the operations of demand-controlled ventilation (DCV) systems to ensure that sufficient interior thermal conditions and air quality were attained while reducing unnecessary building energy loads to improve building energy performance. Faster region-based convolutional neural network (RCNN) models were trained to detect the number of people and occupancy activities respectively, and deployed to an artificial intelligence (AI)-powered camera. Experimental tests were carried out within a case study room to assess the performance of this approach. Due to the less complexity of people counting model, it achieved an average intersection over union (IoU) detection accuracy of about 98.9%, which was higher than activity detection model of about 88.5%. During the detection, the count-based occupancy profiles were produced according to the real-time information about the number of people and their activities. To estimate the effect of this approach on indoor air quality and energy demand, scenario-based modelling of the case study building under four ventilation scenarios was carried out via building energy simulation (BES). Results showed that the proposed approach could provide demand-driven ventilation controls data on the dynamic changes of occupancy to improve the indoor air quality (IAQ) and address the problem of under- or over-estimation of the ventilation demand when using the static or fixed profiles."
+}

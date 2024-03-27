@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111572673,
+    "Title": "Comparative performance of low global warming potential (Gwp) refrigerants as replacement for r-410a in a regular 2-speed heat pump for sustainable cooling",
+    "Author": "Shen B.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/su13158199",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Heat pumps are currently being developed to reduce the energy footprint for residential and commercial building space conditioning and water heating loads in cold climates. To mitigate the nocuous impact of greenhouse gas emissions on the environment, and to create a carbon-neutral building stock, alternate lower-GWP refrigerants must also replace the predominant use of R-410A, without re-engineering the mechanical hardware. In this paper, we analyze the performance of lower-GWP alternative refrigerants (R-32, R-452B, R-454B, and R-466A) relative to the conventional R-410A and draw conclusions on the relative performances to meet cooling loads. The simulations are accomplished using the heat pump design model, a well-known, public-domain design tool with a free web interface and downloadable desktop version to support public use and the HVAC R&D community. The contributions contain detailed, hardware-based heat exchanger and system analyses to provide a comprehensive assessment. The results of the simulation are scrutinized from the first (capacity and energy efficiency) and second laws (exergy analysis) to identify sources of systemic inefficiency, the root cause of lost work. This rigorous approach provides an exhaustive analysis of alternate lower-GWP refrigerants to replace R-410A using the same hardware. The results have practical value in engineering heat pumps in an economy that is compelled to alter by the consequences and uncertainties of climate change, to reduce its anthropogenic carbon footprint."
+}

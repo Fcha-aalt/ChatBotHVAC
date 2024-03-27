@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102116158,
+    "Title": "Fault diagnosis method for building VRF system based on convolutional neural network: Considering system defrosting process and sensor fault coupling",
+    "Author": "Zhou Z.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-05-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.107775",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huazhong University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 18,
+    "Abstract": "Establishing fault diagnosis models for HVAC systems to reduce building energy waste and restore buildings to their intended levels of performance is very necessary. While, it is a challenging task to establish a multi-fault decoupling diagnostic model for a variable refrigerant flow system, especially considering the system's unsteady defrosting process and sensor faults. In view of this, this study carried out 27 sets of experiments and obtained 58850 fault and 10889 normal operational data samples to analyze the impact of the unsteady defrosting process and developed a multi-fault decoupling fault diagnostic model considering defrosting and sensor fault based on convolutional neural network. The confusion matrix, geometric mean accuracy (GMA), false alarm rate (FAR) and other indicators are used to comprehensively evaluate model diagnosis results. The results show that the proposed convolutional neural network (CNN) model has excellent performance in multi-fault coupling diagnosis considering defrosting and sensor biases. The recognition accuracy of the CNN model for each fault are all higher than 97.5%. The GMA of the CNN model is as high as 98.46%, which is higher than 20.04%, 11.565% and 6.36% compared to the decision model, the support vector machine model and the multilayer perceptron model. In addition, the FAR of CNN model is only 0.58%, which is 8.93%, 4.05% and 1.62% lower than the other three models."
+}

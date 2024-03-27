@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107507483,
+    "Title": "A simplified building controls environment with a reinforcement learning application",
+    "Author": "Dermardiros V.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Centre for Zero Energy Building Studies",
+    "Affliation Country": "Canada",
+    "Cited by count": 3,
+    "Abstract": "This paper has two contributions: (1) it describes the design and implementation of a thermal network based building zone emulator environment suitable for control applications with inputs and outputs matching those of the OpenAI Gym environments; and (2) the use of the environment to train a proximal policy optimization (PPO) reinforcement learning (RL) agent to maintain comfort for a house while minimizing the HVAC system energy consumption. The building controls environment can be extended to many other cases including training agents that can be mass-applied, studying the behaviour of communities and studying occupant behaviour and comfort. The trained RL agent was compared to conventional bang-bang and proportional-integral controllers. Given the penalty weights, the RL agent was more adept at minimizing equipment cycling thus improving equipment longevity and efficiency."
+}

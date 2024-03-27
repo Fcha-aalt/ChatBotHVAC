@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089281024,
+    "Title": "How does Passive Chilled Beam system rate from an indoor thermal comfort perspective when compared to Variable Air Volume and Under Floor Air Distribution HVAC systems?",
+    "Author": "Nathwani A.",
+    "Journal": "Proceedings of 10th Windsor Conference: Rethinking Comfort",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "This study evaluates how Passive Chilled Beam (PCB) system rates in terms of indoor thermal comfort and energy efficiency when compared to Variable Air Volume (VAV) and Under Floor Air Distribution (UFAD) HVAC systems. A human shaped skin-temperature controlled thermal manikin is utilized to directly measure equivalent temperatures (teq) in a set of adjacent climate chambers that incorporate these three types of HVAC systems. Clothing data was obtained by exposing the manikin to uniform thermal environments. The manikin was moved between chambers subjecting it to non-uniform conditions created by the different HVAC systems, each of which maintained 22.5 +/-0.5°C. The overall outcome is that UFAD and VAV displayed similar vertical profiles (for a 'clo' value of 0.36) with cooler feet (teq = 20.9 C & 21.6 C, respectively) and warmer head (teq = 22.4 C & 22.7 C, respectively). PCB demonstrated relatively warmer feet (teq = 22.4 C) and cooler head (teq = 22.1 C). PCB air conditioning system, hence, highlights the adage that cooler head and warmer feet offers better comfort. These are compared with outcomes from similar experiments with human subjects. Energy efficiency values, in the form of energy intensities obtained using thermal modelling analysis, are also presented for the three types of systems with Chilled Beams achieving a 10% advantage."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097569003,
+    "Title": "Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments",
+    "Author": "Naug A.",
+    "Journal": "RLEM 2020 - Proceedings of the 1st International Workshop on Reinforcement Learning for Energy Management in Buildings and Cities",
+    "Publication Date": {
+        "$date": "2020-11-17T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3427773.3427867",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Vanderbilt University",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "This paper develops a continual deep reinforcement relearning (RL) controller for large buildings that exhibit non-stationary behaviors. The non-stationarity in building operations caused by unexpected changes in weather patterns, occupancy, and faults, makes it imperative to develop control algorithms that adapt to the changing conditions. Given the slow time constants in building operations, we assume that the non-stationarity can be modeled as discrete transitions between stationary models of system behavior. We address the challenge of detecting transitions between stationary processes using trend analysis, and relearn control policies that accommodate the tradeoff between energy savings and comfort after such transitions occur. We demonstrate our approach on a \"smart building test-bed\"for developing data-driven HVAC controllers that are deployed in large buildings on our university campus."
+}

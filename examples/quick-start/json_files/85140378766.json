@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140378766,
+    "Title": "Development of Reinforcement Learning-based Energy Management Agent for HVAC Facilities and ESS",
+    "Author": "Kwon K.B.",
+    "Journal": "Transactions of the Korean Institute of Electrical Engineers",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.5370/KIEE.2022.71.10.1434",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ltd.",
+    "Affliation Country": "South Korea",
+    "Cited by count": 2,
+    "Abstract": "In this paper, we propose an energy management agent that controls HVAC facilities and ESS by using the Policy Gradient Method, which is one of the reinforcement learning techniques. For this purpose, based on supervised learning, an artificial neural network was constructed to predict the change in the concentration of fine dust in stations according to the control of fine dust reduction facilities. This was used as a transfer function of the Markov decision process, and the optimal policy based on the normal distribution expressed as conditional probability was obtained through the policy gradient method. In the case study, using the actual data of Nam-Gwangju Station, learning of the energy management agent based on artificial neural network and policy gradient method was conducted. It was confirmed that the total electricity cost was reduced by adjusting the charging and discharging of the energy storage device according to the electricity price by time period."
+}

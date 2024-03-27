@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099224229,
+    "Title": "A comprehensive evaluation of the most suitable HVAC system for an industrial building by using a hybrid building energy simulation and multi criteria decision making framework",
+    "Author": "Bac U.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2021-05-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jobe.2021.102153",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Atilim University",
+    "Affliation Country": "Turkey",
+    "Cited by count": 30,
+    "Abstract": "Great demand for energy and growing trend in the use of energy-efficient HVAC systems force researchers to focus on the importance of choosing the most appropriate HVAC system for industrial buildings during design process. Therefore, developing a model to select the most suitable HVAC system is vital for industrial buildings. To this aim, this study provides a comprehensive evaluation of different HVAC systems for an industrial building by using hybrid multi criteria decision making (MCDM) method. An industrial building in Ankara/Turkey is selected as a case building. Eleven HVAC systems are evaluated based on twenty seven criteria, which are determined as a result of extensive literature research, and are grouped under six categories including ergonomic, environmental, reliability, technical, and economical aspects. A hybrid application of building energy simulation (BES) integrated modified Stepwise Weight Assessment Ratio Analysis (SWARA) and Weighted Additive Sum Product Assessment (WASPAS) framework is developed for supporting the decision making process. The novelty of the study is integrating the objective results of a well-calibrated dynamic BES tool with subjective criteria which are collected from expert opinions by applying questionnaires with face-to-face interview method. The results of MCDM framework and sensitivity analysis showed that the water-source heat pump is the best and suitable alternative for the industrial building. The outcome of this study would benefit the HVAC engineers and specialists in order to design the best HVAC systems in industrial buildings while providing an insight into different criteria. Moreover, key contribution to the literature is the usage of hybrid MCDM framework integrated with BES tool in the building sector."
+}

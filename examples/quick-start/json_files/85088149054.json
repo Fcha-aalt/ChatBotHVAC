@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088149054,
+    "Title": "Linearized Price-Responsive HVAC Controller for Optimal Scheduling of Smart Building Loads",
+    "Author": "Ostadijafari M.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/TSG.2020.2965559",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Voiland College of Engineering and Architecture",
+    "Affliation Country": "United States",
+    "Cited by count": 39,
+    "Abstract": "The need to optimize the energy consumption of commercial buildings-responsible for over 40% of U.S. energy consumption-has recently gained significant attention due to the call for energy efficiency. Moreover, the ability to participate in the retail electricity markets through proactive demand-side participation has recently led to the development of an economic model predictive control (EMPC) for these buildings' Heating, Ventilation, and Air Conditioning (HVAC) systems. The objective of this paper is to develop a price-responsive operational model for buildings' HVAC systems while considering inflexible loads and other distributed energy resources (DERs), including photovoltaic (PV) generation and battery storage systems. A Nonlinear Economic Model Predictive Controller (NL-EMPC) is presented to minimize the net cost of energy usage by the buildings' flexible loads, i.e., HVAC systems while satisfying the comfort-level of buildings' occupants. To improve the computational efficiency of the HVAC system controller, we propose a linearized economic model predictive controller (L-EMPC). The L-EMPC is a novel approximate linearized model for the NL-EMPC and is based on the feedback linearization technique. The proposed approach results in a controller for the building with the reduced complexity that accurately approximates the original nonlinear plant dynamics with its economic constraints. The efficiency of the proposed EMPC controllers are evaluated using several simulation case studies."
+}

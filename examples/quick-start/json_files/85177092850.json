@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177092850,
+    "Title": "Clustering and Deep-Learning for Energy Consumption Forecast in Smart Buildings",
+    "Author": "Arias-Requejo D.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ACCESS.2023.3331329",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Valladolid",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "The proper operation of Heating, Ventilation, and Air Conditioning (HVAC) systems is crucial to reduce energy consumption because they are the major consumers of energy in buildings. Prognostic and Health Management Systems (PHMS) can assist both operators and managers of Smart Buildings, anticipating potential problems that can reduce the energy efficiency of the building. However, PHMS usually lack the capability of predicting changes on Key Performance Indicators (KPIs) related to energy consumption. Therefore, having a reliable method to predict the energy demand of a building's HVAC system is an important complement to a building's PHMS. This paper proposes a data-driven methodology to create predictive models of energy demand taking into account the effect of weather conditions on energy consumption. The methodology consists of two stages. The first considers the environmental variables affecting the building to identify clusters with similar conditions. For the second stage, Deep Learning Long-short Term Memory (LSTM) models in an encoder-decoder architecture were used. Our proposal is to build two different types of models, named reference cluster and recent models, both being able to predict the total heating demand of a smart building in the short and medium term, one day and one week in advance. The reference cluster model is built with historical data from the distant past for each cluster. The recent model is built with historical data from the immediate past. In this paper we have applied this methodology to a smart educational building: the Alice Perry School of Engineering at the National University of Ireland in Galway. This case study illustrates the methodology and successfully tests its feasibility. Both reference cluster and recent models provide predictions achieving the acceptance criteria in this domain."
+}

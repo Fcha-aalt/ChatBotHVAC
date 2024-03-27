@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101830805,
+    "Title": "Proposal of Relative Thermal Sensation: Another Dimension of Thermal Comfort and Its Investigation",
+    "Author": "Wang Z.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACCESS.2021.3062393",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 9,
+    "Abstract": "Real-time thermal comfort evaluation is not only essential in constructing the control module of Heating, Ventilation and Air Conditioning (HVAC) systems in residential buildings but also rather critical in energy conservation. In the transient thermal environment, current thermal comfort is not stable and varies from time to time. Therefore, if we only evaluate the current thermal sensation that will cause prediction error. Existing thermal comfort models mainly focus on the evaluation of current thermal comfort. However, research on the evaluation of thermal sensation variation trend is vacant. Furthermore, since individual differences play an important role in thermal comfort evaluation, physiological indices should be considered. To solve this problem, in this paper, the authors exclusively propose the concept of relative thermal sensation which accounts for the thermal sensation variation trend and give its real-time evaluation method by analysis of skin/clothes temperatures of ten local body segments using machine learning algorithms. By incorporating the relative thermal sensation model with an ordinary thermal comfort model, a novel complex thermal comfort model is derived, which has the ability to predict the current thermal comfort and the thermal sensation variation trend simultaneously and provides an early warning mechanism for thermal discomfort."
+}

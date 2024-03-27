@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85029501462,
+    "Title": "Sensor-based monitoring of heating system effectiveness and efficiency in Spanish churches",
+    "Author": "Martínez Garrido M.I.",
+    "Journal": "Indoor and Built Environment",
+    "Publication Date": {
+        "$date": "2017-10-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1177/1420326X16663612",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "CSIC-UCM - Instituto de Geociencias (IGEO)",
+    "Affliation Country": "Spain",
+    "Cited by count": 4,
+    "Abstract": "The installation of heating systems in buildings and monuments not designed to accommodate such facilities poses technical difficulties, particularly where occupancy and hence system use is sporadic, such as in churches, cathedrals, synagogues, mosques and other places of worship. Furthermore, building materials and architecture may detract from system efficiency. An additional difficulty is the source of energy: when monuments are in remote areas, fuels such as natural gas may not be available, although on occasion they may not be used even when they are available. The present study explores the thermal comfort provided by heating systems generally used in Spanish churches: decentralized gas burner system (propane) and centralized air heating systems (natural gas, fuel oil) based on a new monitoring methodology using temperature, relative humidity and airflow sensors. The church at Talamanca de Jarama (fuel oil) delivered the highest thermal comfort based on environmental conditions, whereas the system installed at Algete (natural gas) was the most energy efficient. The requirements of each heating system were assessed relative to the conservation of the desired indoor conditions, considering energy, comfort and aesthetic factors."
+}

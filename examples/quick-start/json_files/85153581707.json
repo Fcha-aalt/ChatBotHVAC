@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153581707,
+    "Title": "Sub-hourly measurement datasets from 6 real buildings: Energy use and indoor climate",
+    "Author": "Sartori I.",
+    "Journal": "Data in Brief",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.dib.2023.109149",
+    "Source Type": "Journal",
+    "Document Type": "dp",
+    "Document Type Description": "Data Paper",
+    "Affliation": "SINTEF Foundation for Scientific and Industrial Research",
+    "Affliation Country": "Norway",
+    "Cited by count": 4,
+    "Abstract": "The data presented here were collected independently for 6 real buildings by researchers of different institutions and gathered in the context of the IEA EBC Annex 81 Data-driven Smart Buildings, as a joint effort to compile a diverse range of datasets suitable for advanced control applications of indoor climate and energy use in buildings. The data were acquired by energy meters, both consumption and PV generation, and sensors of technical installation and indoor climate variables, such as temperature, flow rate, relative humidity, CO2 level, illuminance. Weather variables were either acquired by local sensors or obtained from a close by meteorological station. The data were collected either during normal operation of the building, with observation periods between 2 weeks and 2 months, or during experiments designed to excite the thermal mass of the building, with observation periods of approximately one week. The data have a time resolution varying between 1 min and 15 min; in some case the highest resolution data are also averaged at larger intervals, up to 30 min."
+}

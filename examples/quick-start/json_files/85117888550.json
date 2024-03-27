@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117888550,
+    "Title": "Protecting building occupants against the inhalation of outdoor-origin aerosols",
+    "Author": "Dillon M.B.",
+    "Journal": "Atmospheric Environment",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.atmosenv.2021.118773",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Livermore National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "During normal operations, buildings can protect their occupants from outdoor airborne particle hazards of all types, including airborne pollutants. A long-term international research effort has advanced our knowledge of building protection physics. Recently we have developed an operationally efficient, regional-scale methodology - Regional Shelter Analysis - to account for both building protection effects and the typical distribution of people in and among buildings. To provide input to this capability, we estimate here the degree of protection afforded by the currently existing US building stock. We first assemble and summarize the published literature relevant to indoor particle losses including (a) deposition to indoor surfaces, (b) losses that occur when particles penetrate through the building envelope, and (c) heating, ventilation and air conditioning (HVAC) system filtration efficiencies as well as general building operating conditions. Building protection against inhaling particulate hazards varies strongly, by orders of magnitude, according to particle size, airborne particle loss rate, and to a lesser extent building use (occupancy). Protection increases modestly as particle size increases from 0.1 to 1 μm and significantly as particle size increases from 1 to 10 μm. Model results are placed in context with previously reported measurements. Suggestions for future work, including enhanced validation datasets are provided."
+}

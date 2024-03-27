@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142066708,
+    "Title": "A Digital Twin Architecture for Smart Buildings",
+    "Author": "Englezos D.",
+    "Journal": "ISC2 2022 - 8th IEEE International Smart Cities Conference",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ISC255366.2022.9922482",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Cyprus",
+    "Affliation Country": "Cyprus",
+    "Cited by count": 4,
+    "Abstract": "Smart buildings aim to increase energy performance while maintaining or improving the indoor living conditions. A digital twin of a smart building should be able to provide a virtual representation of the actual building behavior in real-time through accurate simulations considering both the air quality and energy related performance. Such digital twin setups are useful for investigating the building behavior in a non-invasive manner and for validating the effectiveness of novel management and control algorithms under realistic conditions before their actual deployment in real buildings. This paper presents the key functional requirements that a digital twin platform for building should satisfy. Then, an architecture is proposed for the development of a digital twin for buildings while design guidelines are also provided. The architecture includes a software platform for the integration of smart algorithms and user interfaces to enable the intelligent operation of buildings. The digital twin captures the indoor environmental conditions by modeling the operation of the Heating, Ventilation and Air-Conditioning (HVAC) system, the occupants' behavior, the building's thermal insulation, and the outdoor weather conditions. At the same time, the building electricity consumption is characterized by modelling the load consumption according to users' habits, the HVAC operation, the renewable energy generation, and the weather conditions. An example for the development, validation, and calibration of a digital twin of an actual building is demonstrated in this paper. Furthermore, some use cases are demonstrated through the software platform to investigate how an operational fault or an actual battery system, connected in a hardware in the loop configuration, can affect the indoor environmental conditions and the energy performance of the building."
+}

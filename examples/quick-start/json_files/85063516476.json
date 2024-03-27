@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063516476,
+    "Title": "Nonlinear model predictive control of a climatization system using rigorous nonlinear model",
+    "Author": "Santoro B.F.",
+    "Journal": "Computers and Chemical Engineering",
+    "Publication Date": {
+        "$date": "2019-06-09T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.compchemeng.2019.03.014",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Federal de São Paulo",
+    "Affliation Country": "Brazil",
+    "Cited by count": 11,
+    "Abstract": "Buildings are known for being great consumers of energy and for operating under On/Off and linear control strategies in common commercial packages. In order to reduce their energy footprints and to improve thermal comfort, new methodologies are needed to obtain better input profiles. This paper presents a detailed study of the implementation of a nonlinear model predictive control (NMPC) approach for a heating, ventilation, and air conditioning (HVAC) system. The HVAC system is modeled by an index-1 differential-algebraic system of equations, obtained from rigorous material and energy balances. The proposed NMPC algorithm was implemented in GAMS and compared with another approach from the literature. Similarly, the objective function is defined using one or more of the following criteria: (1) tracking of temperature and relative humidity set points; (2) maximization of thermal comfort; (3) minimization of energy consumption. To better represent the situation in a real application, the simulations include model-plant mismatch in parameters such as air infiltration into the building, the coefficient of the thermal exchange between the building and the exterior, and occupancy level. Additionally, simulations with random measurement noise have been performed. The results have shown that the proposed approach, in which the model is not linearized at any step, is able to reduce the energy consumption and maintain the Predicted Mean Vote (PMV) close to the desired set point, while the computation burden is only increased by one second per iteration, which is negligible in comparison with a sampling time of 10 min."
+}

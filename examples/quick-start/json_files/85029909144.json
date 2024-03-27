@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85029909144,
+    "Title": "Comparison of Different Classification Algorithms for the Detection of User's Interaction with Windows in Office Buildings",
+    "Author": "Markovic R.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.07.333",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 21,
+    "Abstract": "Occupant behavior in terms of interactions with windows and heating systems is seen as one of the main sources of discrepancy between predicted and measured heating, ventilation and air conditioning (HVAC) building energy consumption. Thus, this work analyzes the performance of several classification algorithms for detecting occupant's interactions with windows, while taking the imbalanced properties of the available data set into account. The tested methods include support vector machines (SVM), random forests, and their combination with dynamic Bayesian networks (DBN). The results will show that random forests outperform all alternative approaches for identifying the window status in office buildings."
+}

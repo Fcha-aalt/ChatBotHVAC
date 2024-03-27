@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149205561,
+    "Title": "Deep Reinforcement Learning-Based Joint Optimization Control of Indoor Temperature and Relative Humidity in Office Buildings",
+    "Author": "Chen C.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13020438",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing University of Civil Engineering and Architecture",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Indoor temperature and relative humidity control in office buildings is crucial, which can affect thermal comfort, work efficiency, and even health of the occupants. In China, fan coil units (FCUs) are widely used as air-conditioning equipment in office buildings. Currently, conventional FCU control methods often ignore the impact of indoor relative humidity on building occupants by focusing only on indoor temperature as a single control object. This study used FCUs with a fresh-air system in an office building in Beijing as the research object and proposed a deep reinforcement learning (RL) control algorithm to adjust the air supply volume for the FCUs. To improve the joint control satisfaction rate of indoor temperature and relative humidity, the proposed RL algorithm adopted the deep Q-network algorithm. To train the RL algorithm, a detailed simulation environment model was established in the Transient System Simulation Tool (TRNSYS), including a building model and FCUs with a fresh-air system model. The simulation environment model can interact with the RL agent in real time through a self-developed TRNSYS–Python co-simulation platform. The RL algorithm was trained, tested, and evaluated based on the simulation environment model. The results indicate that compared with the traditional on/off and rule-based controllers, the RL algorithm proposed in this study can increase the joint control satisfaction rate of indoor temperature and relative humidity by 12.66% and 9.5%, respectively. This study provides preliminary direction for a deep reinforcement learning control strategy for indoor temperature and relative humidity in office building heating, ventilation, and air-conditioning (HVAC) systems."
+}

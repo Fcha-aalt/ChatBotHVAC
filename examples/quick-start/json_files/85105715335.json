@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105715335,
+    "Title": "Data-driven modeling of adaptive occupant thermostat behavior dynamics",
+    "Author": "Kane M.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "In the U.S., building HVAC systems consume nearly half of the electricity produced. Demand response (DR) programs aim to reduce the peaks of this demand, thereby reducing emissions from inefficient ‘peaking’ power plants and avoiding costly infrastructure improvements to serve increasing peak demand. The future of such load flexibility programs, grid-interactive efficient buildings (GEBs), will not only shed but shift and modulate the load to provide higher fidelity and faster grid services, such as avoiding renewable curtailment, ramping services, and frequency regulation. Current DR Implementations are primitive: emails, texts, phone calls, and direct load control lack fidelity required to achieve accurate and reliabile load shedding, shifting, and modulation. Even when smart devices are used, the same settings are used for all participants, regardless of their sensitivities to reduced quality of service and economics. Such strategies result in occupant overrides, over 30% of 8-hour DR events in one study, resulting in loss of consumer trust and millions of dollars in penalties nationwide. This drives a need to personalize DR controls to maximize demand flexibility and reliability. This paper presents a preliminary exploration of approaches to develop personalized predictive models of manual overrides of thermostat setpoints, from sparse data on individuals yet a plethora of users. These data come from the ecobee Donate Your Data dataset with ~1259 users and ~285 events per user. The study’s methods explore the effectiveness of decision trees and artificial neural network on various features, with a focus of looking at the dynamic nature of this behavior in the context of GEBs. These personalized modeling approaches are compared in terms of their accuracy, computational complexity, and outlier management."
+}

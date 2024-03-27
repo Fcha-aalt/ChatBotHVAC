@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111252520,
+    "Title": "Occupancy heat gain detection and prediction using deep learning approach for reducing building energy demand",
+    "Author": "Tien P.W.",
+    "Journal": "Journal of Sustainable Development of Energy, Water and Environment Systems",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.13044/j.sdewes.d8.0378",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 10,
+    "Abstract": "The use of fixed or scheduled setpoints combined with varying occupancy patterns in buildings could lead to spaces being over or under-conditioned, which may lead to significant waste in energy consumption. The present study aims to develop a vision-based deep learning method for real-time occupancy activity detection and recognition. The method enables predicting and generating real-time heat gain data, which can inform building energy management systems and heating, ventilation, and air-conditioning (HVAC) controls. A faster region-based convolutional neural network was developed, trained and deployed to an artificial intelligence-powered camera. For the initial analysis, an experimental test was performed within a selected case study building's office space. Average detection accuracy of 92.2% was achieved for all activities. Using building energy simulation, the case study building was simulated with both ‘static’ and deep learning influenced profiles to assess the potential energy savings that can be achieved. The work has shown that the proposed approach can better estimate the occupancy internal heat gains for optimising the operations of building HVAC systems."
+}

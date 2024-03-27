@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85018343308,
+    "Title": "Indoor Air Quality Evaluation in Intelligent Building",
+    "Author": "Cociorva S.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.03.1095",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitatea Tehnica de Constructii Bucuresti",
+    "Affliation Country": "Romania",
+    "Cited by count": 11,
+    "Abstract": "The paper presents a qualitative assessment of indoor air quality, using an electronic nose, for an intelligent control of the Heating, Ventilating and Air-Conditioning systems. The study is performed from the perspective of giving a unitary control method to ensure high energy efficiency and air quality improving. The gas sensors are sensitive to gases polluting the indoors air but they are sensitive to indoors temperature and humidity as well. The data acquisition system overtakes the sensors specific response and outputs a characteristic pattern to the pattern recognition system."
+}

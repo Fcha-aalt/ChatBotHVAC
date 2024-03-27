@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063501306,
+    "Title": "Building Occupancy Detection Using Feed Forward Back-Propagation Neural Networks",
+    "Author": "Das S.",
+    "Journal": "Proceedings - 2017 International Conference on Computational Intelligence and Networks, CINE 2017",
+    "Publication Date": {
+        "$date": "2017-07-02T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/CINE.2017.12",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Trident Academy of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 7,
+    "Abstract": "An artificial neural network based algorithm is proposed for building occupancy detection using the signals from various sensors such as temperature, light, CO2, humidity etc is proposed in this work. The input to the feed forward neural network is the data collected from several sensors. The output of the network is set to '0' for building not occupied and '1' for building occupied. The training algorithm used in this work is Lavenberg Marquardt algorithm. The accuracy of the proposed method is found to be 95.6% for occupancy detection. Occupancy detection is a necessary factor for building energy management."
+}

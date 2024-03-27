@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068134927,
+    "Title": "Passive versus active learning in operation and adaptive maintenance of Heating, Ventilation, and Air Conditioning",
+    "Author": "Baldi S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-10-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2019.113478",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Delft Center for Systems and Control",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 19,
+    "Abstract": "In smart buildings, the models used for energy management and those used for maintenance scheduling differ in scope and structure: while the models for energy management describe continuous states (energy, temperature), the models used for maintenance scheduling describe only a few discrete states (healthy/faulty equipment, and fault typology). In addition, models for energy management typically assume the Heating, Ventilation, and Air Conditioning (HVAC) equipment to be healthy, whereas the models for maintenance scheduling are rarely human-centric, i.e. they do not take possible human factors (e.g. discomfort) into account. As a result, it is very difficult to integrate energy management and maintenance scheduling strategies in an efficient way. In this work, a holistic framework for energy-aware and comfort-driven maintenance is proposed: energy management and maintenance scheduling are integrated in the same optimization framework. Continuous and discrete states are embedded as hybrid dynamics of the system, while considering both continuous controls (for energy management) and discrete controls (for maintenance scheduling). To account for the need to estimate the equipment efficiency online, the solution to the problem is addressed via an adaptive dual control formulation. We show, via a zone-boiler-radiator simulator, that the best economic cost of the system is achieved by active learning strategies, in which control interacts with estimation (dual control design)."
+}

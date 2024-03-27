@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85170076948,
+    "Title": "Total and thermal load forecasting in residential communities through probabilistic methods and causal machine learning",
+    "Author": "Massidda L.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.121783",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "CRS4 - Centro di Ricerca Sviluppo e Studi Superiori in Sardegna",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Indoor heating and cooling systems largely influence the power demand of residential buildings and can play a significant role in the Demand Side Management for energy communities. We propose a novel method for probabilistic forecasting of the total load of a residential community and its base and thermal components, combining conformalized quantile regression and causal machine learning techniques, using only aggregate consumption and environmental conditions data. We applied the proposed methods to the dataset of a residential community in Germany, which includes separate measurements of the total electricity demand and of domestic heating system consumption. The results show that the proposed method produces probabilistic day-ahead hourly forecasts of total energy demand that outperform benchmarks and forecasts of electricity consumption components that are not only more accurate than benchmarks but also close to the accuracy achievable with models trained directly on individual load component data. The T-learner method resulted the most effective among the causal methods for load disaggregation in terms of accuracy, simplicity, and potential for extension."
+}

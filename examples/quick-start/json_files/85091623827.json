@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091623827,
+    "Title": "Measurement of CO<inf>2</inf> concentration for occupancy estimation in educational buildings with energy efficiency purposes",
+    "Author": "Franco A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.jobe.2020.101714",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 71,
+    "Abstract": "The measurement of CO2 concentration is a relevant indicator for defining the occupation of indoor spaces. The real-time knowledge of occupation of such spaces is relevant both for maintaining indoor air quality standards and for energy efficiency purposes connected with the operation of heating, ventilation, and air-conditioning (HVAC) systems. The exact knowledge of occupation allows for rapid feedback from and the regulation of an HVAC system and the ventilation rate. Interesting applications include educational buildings and other buildings of the civil sector (e.g., shopping centres and hospitals). This paper provides the results of an experimental analysis in different classrooms of a university campus under real operating conditions, in different periods of the year, and with different kinds of activities. The correlation between the CO2 concentration and occupancy profiles of the spaces is then analysed. Some graphical trends of the CO2 concentrations in these indoor spaces are provided to determine the most important variables affecting such concentrations. The basic elements of the mathematical models for estimating the occupation of classrooms in relation to increases in CO2 concentration are also discussed and analysed."
+}

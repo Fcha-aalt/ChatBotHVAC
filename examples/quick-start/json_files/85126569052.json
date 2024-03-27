@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85126569052,
+    "Title": "Empowering saving energy at home through serious games on thermostat interfaces",
+    "Author": "Méndez J.I.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-05-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112026",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tecnológico de Monterrey",
+    "Affliation Country": "Mexico",
+    "Cited by count": 19,
+    "Abstract": "The residential Heating Ventilation and Air-Conditioning (HVAC) system use around 3/5 of the total energy consumption. Connected thermostats optimize the HVAC operation; however, householders have personality traits that lead into behavioral and usability problems toward the thermostat's interface usage. Thus, a serious game applied in the thermostat interface can balance entertainment and education. Therefore, thermostat interfaces must address strategies that reduce energy without losing thermal comfort. This paper proposed an interactive interface type and a predicted interface type based on an HVAC strategy and a Natural Ventilation strategy. These strategies measured the impact of adaptive thermal comfort, energy consumption, and costs. Hence, twelve energy models located in California (Concord, Riverside, Los Angeles, and San Diego) were simulated using EnergyPlus™ through LadybugTools. The first interactive interface included Serious Game elements, so the householder interacted with the date, location, and setpoint. The second interface predicted the energy consumption and thermal comfort during winter and summer in Concord by a two-layer feed-forward Artificial Neural Network structure. The proposed structure decreases the energy consumption by at least 62% without losing thermal comfort."
+}

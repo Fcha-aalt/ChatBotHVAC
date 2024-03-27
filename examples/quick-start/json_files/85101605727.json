@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101605727,
+    "Title": "Speed-controlled exhaust air-supply air heat pump with recirculation air",
+    "Author": "Siegele D.",
+    "Journal": "16th Conference of the International Society of Indoor Air Quality and Climate: Creative and Smart Solutions for Better Built Environments, Indoor Air 2020",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universität Innsbruck",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "For both, highly energy efficient and for deep renovated buildings with usually higher heating and cooling loads, cost-effective compact and efficient HVAC systems are required. A novel façade-integrated speed-controlled exhaust air to supply air heat pump combined with a mechanical ventilation system with heat recovery (MVHR) was developed and detailed measurement and simulation results are presented for wo functional models with heating power of 1.4 and 2.5 kW. The exhaust air heat pump (HP) uses the exhaust air of the MVHR as source and supplies heat and cold via the supply air. By means of using additional recirculation air, the heating power can be more than doubled to around 2.5 kW compared to conventional supply air heating systems. Thus, indoor air quality and thermal comfort can be controlled independently from the heating and cooling load."
+}

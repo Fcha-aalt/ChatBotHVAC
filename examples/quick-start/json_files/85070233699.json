@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85070233699,
+    "Title": "Studying the effect of temperature on an electric-powered ducted fan using artificial neural networks",
+    "Author": "Faroukh Y.",
+    "Journal": "Proceedings of SPIE - The International Society for Optical Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1117/12.2522985",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Sharjah",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 0,
+    "Abstract": "Heat is one of the major setbacks to a Li-Po batterie's efficiency and performance, being an un-avoidable factor, the increase in heat shortens the cycling life of the battery considerably. Moreover, the heat increases the rate of unwanted chemical reactions inside the battery, which in turn increases the risk of swelling, sparking or even catching fire. This study measures the effect of temperature on the performance of the battery power output. The battery is connected to an electric ducted fan that draws approximately 150 Amp DC. The rapid discharge of the Li-Po battery generates heat that affects the power output of battery, and in turn affects the Electric Ducted Fan performance. The temperature of the battery is managed by either emerging it in a cooling bath or by the room HVAC system. The performance of the battery is measured by analyzing the thrust obtained by the electric ducted fan in relation to the power provided by the battery. Once the data is obtained, an artificial neural network is trained to obtain the relationship between the temperature to the battery performance."
+}

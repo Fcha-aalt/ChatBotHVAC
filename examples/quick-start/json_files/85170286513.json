@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85170286513,
+    "Title": "Decision System for Ensuring Thermal Comfort of Occupants in a Smart Building",
+    "Author": "Boicu M.G.",
+    "Journal": "Proceedings - 2023 24th International Conference on Control Systems and Computer Science, CSCS 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/CSCS59211.2023.00085",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University Politehnica of Bucharest",
+    "Affliation Country": "Romania",
+    "Cited by count": 1,
+    "Abstract": "This paper presents the development of a system that uses fuzzy logic in order to evaluate the thermal comfort conditions expressed by means of a score by the occupants of an office room The inputs of the system are represented by three datasets relevant to the study: the air temperature, the positioning of the occupant and the level of activity carried out by the occupant. Based on the comfort score obtained, the HVAC system located at the room level will maintain a comfortable environment. The proposed solution also contributes to the minimization of energy consumption in buildings. In order to collect the data sets necessary for the study, we used the SensorTile.box module as a wearable device."
+}

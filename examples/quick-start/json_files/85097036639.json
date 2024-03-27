@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097036639,
+    "Title": "Automated pipeline framework for processing of large-scale building energy time series data",
+    "Author": "Khalilnejad A.",
+    "Journal": "PLoS ONE",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1371/journal.pone.0240461",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Case School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "Commercial buildings account for one third of the total electricity consumption in the United States and a significant amount of this energy is wasted. Therefore, there is a need for “virtual” energy audits, to identify energy inefficiencies and their associated savings opportunities using methods that can be non-intrusive and automated for application to large populations of buildings. Here we demonstrate virtual energy audits applied to large populations of buildings’ time-series smart-meter data using a systematic approach and a fully automated Building Energy Analytics (BEA) Pipeline that unifies, cleans, stores and analyzes building energy datasets in a non-relational data warehouse for efficient insights and results. This BEA pipeline is based on a custom compute job scheduler for a high performance computing cluster to enable parallel processing of Slurm jobs. Within the analytics pipeline, we introduced a data qualification tool that enhances data quality by fixing common errors, while also detecting abnormalities in a building’s daily operation using hierarchical clustering. We analyze the HVAC scheduling of a population of 816 buildings, using this analytics pipeline, as part of a cross-sectional study. With our approach, this sample of 816 buildings is improved in data quality and is efficiently analyzed in 34 minutes, which is 85 times faster than the time taken by a sequential processing. The analytical results for the HVAC operational hours of these buildings show that among 10 building use types, food sales buildings with 17.75 hours of daily HVAC cooling operation are decent targets for HVAC savings. Overall, this analytics pipeline enables the identification of statistically significant results from population based studies of large numbers of building energy time-series datasets with robust results. These types of BEA studies can explore numerous factors impacting building energy efficiency and virtual building energy audits. This approach enables a new generation of data-driven buildings energy analysis at scale."
+}

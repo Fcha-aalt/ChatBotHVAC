@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042673240,
+    "Title": "A calibration methodology for building dynamic models based on data collected through survey and billings",
+    "Author": "Allesina G.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2017.09.089",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Modena e Reggio Emilia",
+    "Affliation Country": "Italy",
+    "Cited by count": 14,
+    "Abstract": "A correct dynamic building modeling requires a proper definition of all the parameters that can affect the model outputs. While a preliminary survey will lead to a precise design of the building envelope, other parameters, such as the temperature set-point and the air leakage, are difficult to accurately evaluate, thus introducing errors in the model. Furthermore electrical and thermal consumption invoices are based on monthly records while simulations tools use hours or even more detailed time steps. For all these reasons, the present work is aimed at the definition of a calibration process based on survey, billings and dynamic modeling that takes into account the operator-dependent parameters. The innovative idea behind this calibration process consists of the comparison of the real and simulated energy signatures. 176 + 40 simulations were run in order to find the set of parameters that most accurately overlap the simulated and real energy signatures leading to the calibration of the model. The case study is a retail superstore of 3544 m2 floor area built in central northern Italy. Results demonstrate the validity of the approach proposed showing a calibrated signature with about 1% discrepancies from the real case one. The approach can be extended to different simulation software since the main advantage of the energy signature is to simplify consumption outputs interpretation even in case of complex buildings. A further innovative consequence of the methodology proposed is its capability to promptly identify inefficiencies in the building subsystems, i.e. the HVAC control, thus leading to a fast correction of the root cause without the implementation of complex and expensive monitoring devices."
+}

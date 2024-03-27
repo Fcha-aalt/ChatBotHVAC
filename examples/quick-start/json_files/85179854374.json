@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179854374,
+    "Title": "Data Driven DRL Model for Home-Energy Control",
+    "Author": "Mariam Fliss R.",
+    "Journal": "2023 International Symposium on Networks, Computers and Communications, ISNCC 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ISNCC58260.2023.10323966",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Iberdrola, S.A",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "Energy has always been a significant expense in both residential and commercial buildings and improving energy efficiency has long been an immanent way to control costs. Buildings are one of the major contributors to energy consumption in cities, with Heating Ventilation and Air-Conditioning (HVAC) systems accounting for around 60% of a building's total energy consumption. In this paper, we propose a data-driven paradigm that leverages a Deep Reinforcement Learning (DRL) model, in order to automate the operations of a HVAC system inside a residential building while balancing between thermal comfort and energy use. For this purpose, a custom environment has been developed, in which the proposed DRL should operate, and then the performance has been evaluated through multiples simulations using various learning methods. The Advantage Actor-Critic (A2C) technique is one of the deployed algorithms that has shown promising results in terms of acceptable thermal comfort levels and energy savings."
+}

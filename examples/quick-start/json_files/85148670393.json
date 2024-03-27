@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148670393,
+    "Title": "Investigation of steam ejector parameters under three optimization algorithm using ANN",
+    "Author": "Ahmed F.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2023-05-05T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.applthermaleng.2023.120205",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "State Key Laboratory of Multiphase Flow in Power Engineering",
+    "Affliation Country": "China",
+    "Cited by count": 5,
+    "Abstract": "Several industries have adopted Steam ejectors as promising energy-saving devices. The steam ejector is used extensively in the HVAC, refrigeration, and desalination industries because it harnesses surplus heat. Numerous computational fluid dynamics (CFD) and thermodynamic models have been addressed in the academic literature. Predictions for steam ejector parameters using these models are fairly accurate. However, considerable discrepancies between experiments and models are sometimes as high as 20 %. Contrarily, CFD simulations for an ejector are computationally expensive and necessitate careful selection and tweaking of the turbulence model. ANN-based data-driven techniques are now used for complicated mechanical system modeling. The advantages of a well-trained ANN model include low computational costs and adaptability for integration with real-time control systems. In this study, we develop an artificial neural network (ANN) model of a steam ejector and analyzes how different training strategies affect the ANN model's ability to make accurate predictions. The model is trained using a sizable experimental library with various geometrical and operational conditions. Using a typology of four input factors (Nozzle Throat Diameter (Ntd), Diffuser Outlet Diameter (Dod), Ejector Area Ratio (σp), and Entrainment Ratio (ER)) that capture geometry and operating conditions characteristics, the framework predicts two output parameters: (a) Coefficient of performance (COP) and (b) Pressure reduction ratio (PRR) of the steam ejector. Among the three optimizers tested for algorithm training, the ANN model trained using the ADAM optimizer performed the best. The model's hidden layer contains 102 neurons, and a split ratio of 0.2 is used during dataset training. The average error for COP and PRR predictions made by the ANN model is ± 1.8 % and ± 2.4 %, respectively. As a result, the ANN model can be used to improve the steam ejector system's configuration and operation."
+}

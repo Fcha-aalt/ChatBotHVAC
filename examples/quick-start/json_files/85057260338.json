@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057260338,
+    "Title": "Machine learning as surrogate to building performance simulation: A building design optimization application",
+    "Author": "Papadopoulos S.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1007/978-3-030-04303-2_7",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "New York University",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Increasing Heating, Ventilation, and Air conditioning (HVAC) efficiency is critically important as the building sector accounts for about 40% of the world’s primary energy consumption. Building Performance Simulation (BPS) can be used to model the relationship between building characteristics and energy consumption and to facilitate optimization efforts. However, BPS is computationally intensive and only a limited set of building configurations can be evaluated. Machine learning techniques provide an alternative method of modeling energy consumption. While not as accurate, they can be used to perform a “first pass” evaluation of large numbers of building configurations and hence to identify promising candidates for subsequent analysis. This paper presents an initial proof-of-concept implementation of this idea. A machine learning algorithm is trained on a dataset generated using BPS, and is combined with a Genetic Algorithm (GA) based optimization to evaluate tens of thousands of building configurations in terms of energy consumption, producing designs that are very close to the optimum."
+}

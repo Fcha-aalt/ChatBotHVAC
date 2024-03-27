@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058126371,
+    "Title": "Hybrid liquid desiccant system design and operation under high latent load conditions in Taiwan",
+    "Author": "Peña X.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.ijrefrig.2018.11.011",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "TECNALIA",
+    "Affliation Country": "Spain",
+    "Cited by count": 6,
+    "Abstract": "Hybrid Liquid Desiccant systems (HLDS) combine the liquid desiccant technology for dehumidification of air with conventional compression cycle technology for cooling. They are an alternative to conventional compression cooling systems, being more efficient and offering the possibility of independently control temperature and humidity. In this paper the design and operation of a HLDS is presented, for the air conditioning of a high latent load application with high ambient humidity levels. An analysis of the daily evolution of the performance of the system under different environmental conditions has been included. The innovative demonstration unit placed in Taiwan, in continuous operation since November 2015, achieved Energy efficiency Ratios (EER) up to 4.6."
+}

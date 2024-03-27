@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060439813,
+    "Title": "EPPY based building co-simulation for model predictive control of HVAC optimization",
+    "Author": "Lee D.",
+    "Journal": "International Conference on Control, Automation and Systems",
+    "Publication Date": {
+        "$date": "2018-12-10T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Korea Advanced Institute of Science and Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 7,
+    "Abstract": "Model Predictive Control (MPC) has received significant attention recently with its promises of enhancing energy efficiency in buildings and the most common mean of testing MPC is to integrate the controller into a high fidelity building simulation software such as EnergyPlus. Therefore, various toolboxes have been introduced to facilitate the co-simulation between EnergyPlus and MATLAB such that minimal understanding of EnergyPlus is required. However, these toolboxes can frequently be outdated and incompatible with newer releases of EnergyPlus or MATLAB, leading to unnecessary technical problems for its users. Hence, we propose a methodology for simulating controller design in EnergyPlus that can be lasting through the use of Python as a medium. Despite differences in syntax, Python and MATLAB share much similarities and shall pose little difficulty to engineers familiar with MATLAB. To verify the proposed methodology, a simulation is carried out an MPC controller designed to minimize energy consumption while guaranteeing comfort bound under an occupancy schedule. Compared to a fixed-scheduled controller, the MPC controller shows a better performance with respect to the energy consumption of the HVAC system designed in EnergyPlus."
+}

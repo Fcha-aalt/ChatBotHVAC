@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132936590,
+    "Title": "EXPERIMENTAL STUDY ON ACCURACY OF TEST METHODS WITH ATTACHED SHORT DUCT FOR PRESSURE LOSS CHARACTERISTICS OF DUCT FITTINGS, PART 1: VERIFICATION OF THE SIMPLIFIED TEST METHODS FOR DUCT AIR TERMINALS",
+    "Author": "Kan T.",
+    "Journal": "AIJ Journal of Technology and Design",
+    "Publication Date": {
+        "$date": "2022-06-20T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3130/aijt.28.757",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Center for Better Living",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "Airflow-pressure loss characteristics of duct fittings for air-conditioning and ventilation systems are required when HVAC designers determine total pressure loss and select fans of appropriate capacities. More accurate characteristics contribute to reducing costs for initial installation and operation as well as to higher energy efficiency of the HVAC systems. This report verifies the accuracy of simplified test methods using a short duct attached to the tested air terminals, and compares results by the simplified method with the results by the precise method, which has already established."
+}

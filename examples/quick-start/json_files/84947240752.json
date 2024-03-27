@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84947240752,
+    "Title": "Dynamic Commercial Façades versus Traditional Construction: Energy Performance and Comparative Analysis",
+    "Author": "Shen H.",
+    "Journal": "Journal of Energy Engineering",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1061/(ASCE)EY.1943-7897.0000225",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lyles School of Civil Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 13,
+    "Abstract": "Driven by architectural trends and the need to maximize daylight, commercial building façades have become more transparent. High-performance façades include spectrally selective glazing systems, dynamic elements and insulated spandrel sections. Nevertheless, it is generally accepted that, compared to standard, traditional opaque construction, modern transparent envelopes result in increased overall energy use in these buildings. In this paper, the building façade is treated as a part of the building perimeter zone, which also includes electric lighting controls, shading attachments, HVAC components, and indoor environmental controls. Consequently, the objective is to balance the need for daylighting and view versus the need for controlling of solar gains and maintaining human comfort, while reducing energy demand for air conditioning and lighting. Key parameters in solving this problem are (1) technological advancements in glazing products, (2) utilization of dynamic building envelope components, and (3) lighting and HVAC controls. In order to demonstrate the potential of high-performance façades, a typical office building with large perimeter zones is used as an example. The basic model consists of standard brick exterior walls with 20% punched windows. Then, a comparative analysis is performed for a more transparent envelope with dynamic systems including shading and electric lighting controls, for the climates of Chicago and Rome. An integrated thermal-lighting model with flexible dynamic system controls, verified with commercial software, is expanded to simulate more complex façade controls for reducing glare problems while maximizing useful daylight. The results show the advantages of transparent façades with active systems, compared to traditional building envelopes. The more transparent building results in lower operational costs and source energy use, although total site energy use can be higher for heating-dominated climates."
+}

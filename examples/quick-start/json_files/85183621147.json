@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85183621147,
+    "Title": "Energy Optimization in Sustainable Smart Environments With Machine Learning and Advanced Communications",
+    "Author": "Bereketeab L.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1109/JSEN.2024.3355229",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Mohamed Bin Zayed University of Artificial Intelligence",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 0,
+    "Abstract": "Enhancing energy optimization is crucial for sustainable and smart environments such as smart cities, connected and urban buildings, and cognitive cities. Advanced communication systems and IoT sensor systems play a key role in enhancing energy efficiency by monitoring and controlling such eco-systems. In this paper, we propose a Reinforcement Learning (RL) approach for optimizing the energy consumption of multi-purpose buildings using the EnergyPlus simulation environment. Our RL algorithm uses the Proximal Policy Optimization with Clipping (PPO-Clip) for online training and also includes an offline pre-training model to improve the stability of the proposed algorithm. The observed states in the model include indoor temperature, setpoint temperature, outside temperature, heating coil power, general heating, ventilation, air conditioning (HVAC) power, and occupancy count. Moreover, we have designed and implemented a reward function to guarantee the energy reduction and control consumption while maintaining comfortable indoor temperatures. We have bench-tested the proposed model, and therefore, the collected results demonstrated that the proposed RL approach outperforms the EnergyPlus baseline model, reducing the heating coil power consumption by 12.6% and HVAC power consumption by 6.7%. Additionally, this study highlights the importance of advanced communication systems and IoT sensors in managing and improving smart building&#x2019;s energy consumption."
+}

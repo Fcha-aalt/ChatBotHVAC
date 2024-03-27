@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84981295646,
+    "Title": "Occupancy behavior based model predictive control for building indoor climate—A critical review",
+    "Author": "Mirakhorli A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-10-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.07.036",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Margie and Bill Klesse College of Engineering and Integrated Design",
+    "Affliation Country": "United States",
+    "Cited by count": 157,
+    "Abstract": "This paper reviews occupancy based model predictive control (MPC) for building indoor climate control. Occupancy behavior in buildings is stochastic and complex in nature. With better understanding of occupancy presence in rooms and spaces, advanced controls, such as MPC, can be designed to achieve a more energy efficient operation, compared to more traditional control methods, while comfort is maintained. This paper starts with an overview of traditional controls implemented in buildings, and importance of occupancy based controls. Various control-oriented building modeling methods including physics-based and data-driven models are reviewed. Later on, a comprehensive review of MPC in terms of control theory, objective functions, constrains, optimization methods, system characteristics and various types of MPC is presented conducted. In principle, MPC finds an optimal sequence of control commands to optimize an objective function, considering system model, disturbances, predictions and actuation constraints. Lastly, occupancy based controls including commonly used rule-based and latest model-based controls are reviewed. In addition, a few experimental studies are presented and discussed. The paper presents a holistic overview of occupancy-based MPC for building heating, ventilation, and air conditioning (HVAC) systems, and discusses current status and future challenges. The purpose of this paper is to provide a guideline forresearchers who would like to conduct similar studies to have a better understanding of established research methods."
+}

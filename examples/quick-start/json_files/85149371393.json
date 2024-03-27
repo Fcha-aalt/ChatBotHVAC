@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149371393,
+    "Title": "Distributed Control of HVAC-BESS under Solar Power Forecasts in Microgrid System",
+    "Author": "Ma J.",
+    "Journal": "IEEE Transactions on Industrial Informatics",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TII.2023.3248122",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Jiangsu University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "This article investigates an energy management problem in the microgrid by scheduling heating ventilation air conditioning (HVAC) and battery energy storage system (BESS) with a distributed algorithm. A multilayer energy management architecture is presented at a system-level to co-optimize the HVAC-BESS by taking into account solar energy forecasts. A surplus-based consensus algorithm is proposed to solve the optimization problem, where the local power mismatch is introduced as a surplus term, and the HVAC-BESS can thus be coscheduled to maximize renewable energy efficiency at the peak generation time. A set of the convex cost functions are formulated to minimize the HVAC's user dissatisfaction degree and alleviate power loss during the BESS operation. The goal is to collectively minimize the total energy cost in a distributed manner, subject to individual load constraints and power balance constraints. It is theoretically proved that a global convergence of the proposed algorithm is achieved provided that the directed network is strongly connected. The results from a number of case studies are promising, demonstrating the effectiveness and robustness of the algorithm under practical scenarios."
+}

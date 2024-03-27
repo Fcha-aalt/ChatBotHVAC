@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85094679687,
+    "Title": "Influence of attack vectors on generic artificial intelligence – Assisted smart building feedback loop system",
+    "Author": "Vähäkainu P.",
+    "Journal": "European Conference on Information Warfare and Security, ECCWS",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.34190/EWS.20.046",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Jyväskylä",
+    "Affliation Country": "Finland",
+    "Cited by count": 0,
+    "Abstract": "A Cyber-Physical system utilizes real-world measurements collected via IoT sensors. Using data on measurements and outside weather, it is possible to train a machine-learning model that can automatically adjust HVAC and other heating devices of smart buildings. With traditional systems, it is not possible to attain the required energy efficiency values. Instead, artificial intelligence could minimize these values. However, in case the perpetrator can influence the AI governing the feedback system, the cost may increase significantly. For example, the cost of power spikes has a long payback, which can be multiple years. In this article, we define the concepts of cybersecurity and machine learning, do a literary review on machine learning models, recognition of the relevant attack vectors to a feedback system of a smart building and countering of those attacks, and discuss the generic feedback system implementation."
+}

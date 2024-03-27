@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135585878,
+    "Title": "Determination of improved climatic conditions for thermal comfort and energy efficiency in electric buses",
+    "Author": "Cigarini F.",
+    "Journal": "Applied Ergonomics",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apergo.2022.103856",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität Berlin",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "In electric buses, the heating, ventilation and air conditioning (HVAC) system is responsible for up to 50% of the energy consumption, thereby significantly affecting the efficiency. It is therefore necessary to identify improved thermal settings for the bus cabin to minimize the energy consumption, while guaranteeing good thermal comfort. To achieve this goal, this paper presents the results of climatic measurements in an electric bus in Berlin, Germany. These measurements were performed for outer temperatures between 5.3 °C and 7.8 °C and four cabin temperature settings. During the measurements, several climatic parameters and the energy consumption were measured, whereas the thermal comfort (TC) was evaluated via 71 passengers’ surveys. The results show that the climatic conditions in the bus vary greatly depending on the position (up to 3 K difference in mean air temperature) and height (up to 8 K/m temperature-to-height ratio). Additionally, the surveys show that the mean value of the thermal comfort parameter TC is minimized to a value of 0.15 (corresponding to “comfortable” thermal perception) for a set temperature of 21 °C, whereas the thermal conditions are perceived as acceptable even with heating off."
+}

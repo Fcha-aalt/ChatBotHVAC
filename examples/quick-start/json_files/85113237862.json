@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113237862,
+    "Title": "Multi-objective genetic algorithm optimization model for energy efficiency of residential building envelope under different climatic conditions in Egypt",
+    "Author": "Elsheikh A.",
+    "Journal": "International Journal of Construction Management",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/15623599.2021.1966709",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 6,
+    "Abstract": "The energy sector is always facing huge challenges specially in countries with highly inflated population where the building sector has more pressure to reduce energy consumption. To achieve more energy efficiency in residential buildings with lower life cycle cost (LCC) and enhanced thermal comfort conditions, this study develops a multi-objective genetic algorithm model for the three major climates in Egypt (Mediterranean, semi-arid and arid). The design variables considered include external wall type, roof type, window to wall ratio (WWR), building orientation, HVAC system setpoint and HVAC operation schedule. Available sustainable materials in Egypt are considered for building envelope alternatives, such as limestone and polyurethane expanded. The main findings from the study approved that the optimum solutions in all climates have successfully balanced the reduction in energy consumption and LCC. However, the discomfort hours in both Mediterranean and Semi-arid climates have less reduction percentages compared to the arid climate."
+}

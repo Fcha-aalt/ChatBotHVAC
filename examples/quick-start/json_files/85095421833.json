@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095421833,
+    "Title": "Simulation based fault impact analysis for the secondary school in the U.S.",
+    "Author": "Li Y.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 3,
+    "Abstract": "According to the US Department of Education, there are about 37,100 secondary schools in the United States. The classroom buildings have special occupant behaviors, such as sudden heating and cooling demands, and frequent switches of room function with the class schedules. Due to the load characteristics of schools, the chillers and boilers with large capacities are used for providing heating and cooling. Furthermore, the mixing of offices and classrooms in those schools, makes the air loops complicated. In reality, like all other commercial buildings, the majority of those heating ventilation, and air-conditioning (HVAC) systems are in faulty or non-optimal operating conditions due to the improper maintenances for large and complex HVAC systems. Hundreds of possible fault points exist in such HVAC systems, especially the aging systems. It is possible that a single fault could cause 100% more energy penalty compared to fault-free systems. However, the fault impact analysis is still in the infant stage in terms of the impacts on building energy consumption of the secondary school under multiple faults in different regions of the U. S. This study applied a large-scale fault analysis framework to investigate the fault impacts on the secondary school, using the DOE prototype commercial buildings as the baselines in 4 climate %pnes (i.e., Chicago, Atlanta, Miami, and San Francisco). There are 553 fault modes injected into each baseline to build the faulty case by changing the fault associated parameters. Each fault is based on a certain fault occurrence distribution through a stochastic approach of 3,000 samples. A whole building simulation program, EnergyPlus, was used for the simulation in the high-performance cluster. The deep learning based response surface was applied to build the connections between the fault associated parameters and building energy consumption/ thermal comfort. The sensitivity analysis with a Sobol index was performed to obtain the most critical faults in terms of energy penalty. The simulation results showed the most critical faults are the chiller fouling and boilerfouling for the secondary schools in all 4 climate zones. This indicates the routine maintenance for chillers and boilers are important for energy savings for the secondary schools with large HVAC systems. In addition, the critical faults excluding the chiller-fouling and boiler-fouling are varied among the 4 climate zones at the zone level."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84947270761,
+    "Title": "Integration of energy and fire prevention systems in greenbuildings",
+    "Author": "Palmiere S.E.",
+    "Journal": "IEEE International Symposium on Industrial Electronics",
+    "Publication Date": {
+        "$date": "2015-09-28T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/ISIE.2015.7281558",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade Federal do ABC",
+    "Affliation Country": "Brazil",
+    "Cited by count": 5,
+    "Abstract": "Green buildings are designed to be sustainable, efficient, economical, and to improve the quality of life of users and nearby residents. Those goals are can be achieved applying intelligent control systems, sensors and actuators. A green and smart building also supports smart grids, promoting efficient energy generation and producing energy savings. Buildings with 100% windows, called glass skin, are the most sought for commercial occupancy, for being aesthetically beautiful, elegant, and generate a sense of technology and power; although it can presents bigger expenses in energy consumption and presents higher fire risk situations for its occupants. The HVAC (Heating, Ventilation and Air Conditioning) system is the biggest energy consumer, representing up to 48% of all the final electric energy consumption. Several factors can influence a building energy efficiency and fire safety, such as bigger or smaller glass areas, the building material thermal inertia, and the use of sustainable materials such as green roofs. The major contribution of this work is to integrate the analysis of fire and energy efficiency with the requirements of green building standards. In this work, two different glass area buildings are analyzed: a full glass skin and a building with 40% window area, considering the energy use of the HVAC system against the growth of the fire risks and the building evacuation time."
+}

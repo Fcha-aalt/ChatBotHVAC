@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107331706,
+    "Title": "FMI-based co-simulation of multi-agent occupants models, with modélica building and HVAC system models",
+    "Author": "Schwan T.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Intelligente Sensor-systeme Dresden GmbH",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "The conversion of the energy supply from fossil to renewable energy sources represents an immense challenge for technicians and engineers as well as the energy industry. The power supply with its short response times, low storage capacities and a largely liberalized electricity market is of particular importance in this respect. In regards to this, the consideration of the occupant related influence on daily and seasonal energy demand is gaining in importance, in many building domains such as heating and cooling. Due to increasing energy efficiency of buildings, exclusively weather dependent, static energy demands are being replaced by occupancy related demands (e.g. water heating). The importance of other domains of building energy consumption, such as cooling, are also increasing proportionately due to ever changing comfort requirements. Due to the volatile availability of renewable energy resources, the mere consideration of cumulative energy quantities is no longer possible. The evaluation of new solutions can thus no longer be based on existing standard load profiles or annual and monthly energy balances, respectively. A higher time and local resolution of the energy supply is necessary. This major requirement of building performance simulation is important for both building design and control during the planning and the later-on operation phase. Multi-agent simulation systems enable the consideration of individual and group behavior as well as machines and machine groups automatically and individually, in the planning of a future energy supply. The world of the interdisciplinary modelling language Modelica offers a variety of suitable simulation libraries for the evaluation of renewable energy production and storage, sector coupling for heat and cold supply, electric mobility and other energy systems. This paper describes the possibility of coupling both simulation worlds with the help of the Functional Mockup Interface Standard implemented, using a suitable application example."
+}

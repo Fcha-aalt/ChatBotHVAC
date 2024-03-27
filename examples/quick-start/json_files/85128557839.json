@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128557839,
+    "Title": "Modeling and Simulation of Household Appliances Power Consumption",
+    "Author": "Villanueva D.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/app12073689",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade de Vigo",
+    "Affliation Country": "Spain",
+    "Cited by count": 5,
+    "Abstract": "The consumption of household appliances tends to increase. Therefore, the application of energy efficiency measurements is urgently needed to reduce the levels of power consumption. Over the last years, various methods have been used to predict household electricity consumption. As a novelty, this paper proposed a method of predicting the consumption of household appliances by evaluating statistical distributions (Kolmogorov–Smirnov Test and Pearson’s X2 test). To test the veracity of the evaluations, first, a set of random values was simulated for each hour, and their respective averages were calculated. These were compared with the averages of the real values for each hour. With the exception of HVAC during working days, great results were obtained. For the refrigerator, the maximum error was 3.91%, while for the lighting, it was 4.27%. At the point of consumption, the accuracy was even higher, with an error of 1.17% for the dryer while for the washing machine and dishwasher, their minimum errors were less than 1%. The error results confirm that the applied methodology is perfectly acceptable for modeling household appliance consumption and consequently predicting it. However, these consumptions can be only extrapolated to dwellings with similar surface areas and habitats."
+}

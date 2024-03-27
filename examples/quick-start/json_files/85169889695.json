@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169889695,
+    "Title": "Analysis of Zero Energy Building through Grid Code Operation of PV Solar and Squall Energy Systems in Oman",
+    "Author": "Thomas N.",
+    "Journal": "International Conference on Efficient Building Design: Material and HVAC Equipment Technologies",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Technology and Applied Sciences",
+    "Affliation Country": "Oman",
+    "Cited by count": 0,
+    "Abstract": "Major share of the energy generated in Oman is still mainly depended on non-renewable energy sources, such as fossil fuel. As per the estimations made, the fossil fuel resources will be depleted by within coming years, if it is used at the current rate. At this juncture, it is inevitable that every building, globally, generates its own renewable energy that they require and, if possible, feed the excess electrical energy produced to the grid. Here comes the importance of Zero Energy Buildings (ZEBs) and Near Zero Energy Buildings (NZEBs). Oman, being a warmer country with an average global solar irradiation of 5.56kWh/m2/day and an average wind speed of 6.58 knots, solar and wind are the primary resources that can be yoked. Solar & wind power plants are started and they are following the Grid Code Operations from 2020. Poor performance of building's external enclosure, usage of traditional building materials for construction and little or no focus on sustainability has led to thermally inefficient building envelopes in Oman. This contributes to high energy consumption and adds to the global warming. The average global surface temperature is escalated due to extensive use of fossil fuel. The main aim of this paper is to analyze the design and development of ZEB/NZEB technology to be used in an educational institute in Salalah, Oman, incorporating feasible renewable energy sources with battery storage system (BSS), energy efficient building construction/modification and orientation, smart and energy efficient systems and appliances, HVAC approaches and conservation practices using IoE."
+}

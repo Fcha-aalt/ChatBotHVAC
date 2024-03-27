@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179181649,
+    "Title": "Design of Supervisory Model Predictive Control for HVAC Systems and Two Zones with Consideration of Energy Efficiency and Thermal Comfort",
+    "Author": "Srisurapanon P.",
+    "Journal": "International Conference on Control, Automation and Systems",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.23919/ICCAS59377.2023.10316923",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Chulalongkorn University",
+    "Affliation Country": "Thailand",
+    "Cited by count": 0,
+    "Abstract": "This paper presents the design of supervisory model predictive control for HVAC systems and two zones. The supervisory control (SC) is designed to find the optimal reference temperature of each zone. The design criteria consist of the total operating cost (TOC) and the thermal comfort cost (TCC). Then, the model predictive control (MPC) is designed to track the optimal reference signals. When SC and MPC are designed for two zones simultaneously, they are referred to centralized SC and centralized MPC. On the other hand, when SC and MPC are designed for two zones separately, they referred to decentralized SC and decentralized MPC. We then compare the results between the decentralized control and the centralized control. The trade-off curve shows that the performance of centralized control is better than that of decentralized control. In particular, centralized MPC improves the performance in tracking reference signals. Furthermore, TOC of centralized control is lower than that of decentralized control. It can be concluded that the centralized control is appropriate for two zones in terms of the tracking of reference and the electrical charge."
+}

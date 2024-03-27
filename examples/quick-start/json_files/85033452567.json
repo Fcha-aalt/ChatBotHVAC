@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85033452567,
+    "Title": "Energy-efficient HVAC management using cooperative, self-trained, control agents: A real-life German building case study",
+    "Author": "Michailidis I.T.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2018-02-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.apenergy.2017.11.046",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for Research and Technology-Hellas",
+    "Affliation Country": "Greece",
+    "Cited by count": 49,
+    "Abstract": "A variety of novel, recyclable and reusable, construction materials has already been studied within literature during the past years, aiming at improving the overall energy efficiency ranking of the building envelope. However, several studies show that a delicate control of indoor climating elements can lead to a significant performance improvement by exploiting the building's savings potential via smart adaptive HVAC regulation to exogenous uncertain disturbances (e.g. weather, occupancy). Building Optimization and Control (BOC) systems can be categorized into two different groups: centralized (requiring high data transmission rates at a central node from every corner of the overall system) and decentralized1 (assuming an intercommunication among neighboring constituent systems). Moreover, both approaches can be further divided into two subcategories, respectively: model-assisted (usually introducing modeling oversimplifications) and model-free (typically presenting poor stability and very slow convergence rates). This paper presents the application of a novel, decentralized, agent-based, model-free BOC methodology (abbreviated as L4GPCAO) to a modern non-residential building (E.ON. Energy Research Center's main building), equipped with controllable HVAC systems and renewable energy sources by utilizing the existing Building Management System (BES). The building testbed is located inside the RWTH Aachen University campus in Aachen, Germany. A combined rule criterion composed of the non-renewable energy consumption (NREC) and the thermal comfort index – aligned to international comfort standards – was adopted in all cases presented herein. Besides the limited availability of the specified building testbed, real-life experiments demonstrated operational effectiveness of the proposed approach in BOC applications with complex, emerging dynamics arising from the building's occupancy and thermal characteristics. L4GPCAO outperformed the control strategy that was designed by the planers and system provider, in a conventional manner, requiring no more than five test days."
+}

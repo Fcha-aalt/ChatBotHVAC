@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85028575464,
+    "Title": "Energy conservation through flexible HVAC management in large spaces: An IPS-based demand-driven control (IDC) system",
+    "Author": "Wang W.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2017-11-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.autcon.2017.08.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 24,
+    "Abstract": "Buildings consume substantial amounts of energy and require sophisticated control strategies to fulfill occupants' comfort requirements. In large spaces, various occupancy patterns result in uneven load distributions, requiring high-resolution occupancy information for sufficient system control. In recent years, the development of indoor positioning systems (IPS) enabled the possibility of more scientific and precise occupancy detection systems, leading to better operation of buildings' HVAC systems. This paper proposes a demand-driven control system for air conditioner control in large spaces based on IPS. The proposed system focuses on optimizing the ventilation rate based on number of occupants and their spatial distribution in an experimental space. A dual-network (Wi-Fi network and BLE network) indoor positioning system is installed to collect the occupancy data and guide the operation of Variable-Air-Volume (VAV) boxes. The energy-saving potential of the proposed system is examined with a computational fluid dynamics (CFD) model in terms of temperature distribution and energy consumption. This study also explores the interrelationship between cooling load variation and occupancy pattern under different control mechanisms. The final results show the proposed system has significant energy-saving potential by avoiding over-cooling in unevenly distributed occupancy conditions."
+}

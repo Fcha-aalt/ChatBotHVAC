@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169413440,
+    "Title": "Autonomous System with Cyber-Physical Integrating Features on Public Utility of Chemical Fiber Factory",
+    "Author": "Chen J.",
+    "Journal": "Communications in Computer and Information Science",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-36001-5_58",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Yuan Ze University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "This research develops an autonomous system with cyber-physical integrating features on public utility that has potential to stand uncertainty and provide both resilience and sustainability. Funded by National Science and Technology Council (Taiwan) which are promoting collaboration between academic and industry, this research is enabled to transplant the research result on chemical fiber factory. By working with the experts on site, the autonomous system takes the human-centric approach to solve the need of the industry. The developed system collects machine data on public utility (i.e., heating, ventilation and air-conditioning (HVAC), air handling unit (AHU), chiller, boiler, cooling tower and solar powered street light) with both self-made sensor and commercialized sensor, and display them on a panoramic view monitoring system in real-time. The system uses AI approach to model and control energy consumption of the public utility while utilizing hyperparameter optimization features to decrease the model training time cost. Finally, the workers’ safety is also insured by analyzing the movement of workers on site and it would set off alarm if any potentially dangerous behavior was detected. In the early stage of the project, each of the techniques above was developed separately and focused on only part of the public utility; each technique will be integrated afterward. For example, the data collection from self-made sensor and commercialized sensor are tested in HVAC system. Based on the existing solar panel data, hyperparameter optimization is being studied. The worker safety detection is used for indoor closed-circuit television (CCTV) setup around the AHU, air duct and the surrounding of production line. This paper presents the main structure of this autonomous system and general view of each technique."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151046157,
+    "Title": "A Fuzzy Multi-criteria Decision-Making Approach for Finding Energy-Efficient Building Model",
+    "Author": "Shahid M.",
+    "Journal": "Lecture Notes in Mechanical Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-8517-1_4",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Jamia Millia Islamia",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Building sector is one of the most energy consumption sectors. The selection of an appropriate model has a significant effect on building energy. In this paper, proximity index value-based multiple criteria decision-making is used to find an optimum model among the different models of the building. The method proximity index value determines the overall closeness of alternatives with the best feasible model. The AHP and the criteria weight estimation using nonlinear programming methods are used to evaluate the weights of the active and passive criteria of the building and help in identifying the essential criteria to achieve an energy-efficient building. The results show that the weights of building envelope, internal loads and HVAC criteria are 0.7169, 0.2024, and 0.0807. Based on the results, to obtain an energy-efficient buildings wall (U-value), COP and lightning density are the most significant factors, and roof, occupant density, and fan efficiency are the least significant factors. Five building models were selected as alternatives to the thirteen criteria. The building models were ranked using the overall proximity value method, and the optimum building model was obtained. As a result, building model 1 has the least proximity index value among the five-building models. Therefore the optimal model for energy-efficient buildings is model 1. In addition, by considering the weights of the parameters, architects and engineers can offer more alternative designs of buildings."
+}

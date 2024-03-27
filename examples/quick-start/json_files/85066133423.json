@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85066133423,
+    "Title": "Development and evaluation of cooling load prediction models for a factory workshop",
+    "Author": "Zhang Q.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.jclepro.2019.05.085",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 27,
+    "Abstract": "Cooling load prediction offers an effective way to improve the energy efficiency of heating, ventilating, and air-conditioning (HVAC) systems. However, the application scope of previous day-ahead prediction models is limited, and the common statistical evaluation indices cannot reflect the influence of prediction inaccuracy on system strategies. This study aims to solve these two problems. The day-ahead prediction models and intraday prediction models of 1–4 h advance are established in this study. The K-means clustering method and k-nearest neighbor (kNN) classification method are used to determine the load mode of a predicted day and then to determine the correct model inputs for the day-ahead prediction model. The proposed methods make the day-ahead prediction model applicable for various load modes in the cooling season, and the increase of prediction accuracy is 10%. The evaluation index with practical significance, i.e., the number of operating chillers, is used to validate prediction accuracy beside the coefficient of variation of the root mean squared error (CV-RMSE). The CV-RMSE of the day-ahead model and the intraday model of 1 h in advance are 30% and 11.6%, respectively. The predicted maximum number of operating chillers from the day-ahead model can be the same as the actual maximum number on most days. The intraday model of 1 h in advance can accurately determine the number 85% of the time. The inaccuracy determines that, in 9% of the situations, the actual number is more than the predicted number, and in 6% the actual number is less than predicted number. The analysis of prediction inaccuracy can fully demonstrate its influence on HVAC system strategies, which will be helpful for selecting the appropriate prediction model."
+}

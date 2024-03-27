@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85036462881,
+    "Title": "Performance Measurement of Building Sheet-Metal Ductwork Prefabrication under Batch Production Settings",
+    "Author": "Said H.M.",
+    "Journal": "Journal of Construction Engineering and Management",
+    "Publication Date": {
+        "$date": "2018-02-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1061/(ASCE)CO.1943-7862.0001423",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Mechanical contractors have been among the very early pioneers of construction prefabrication by moving a significant amount of work to sheet metal fabrication shops off-site to produce common fittings of mechanical building systems and architectural metal finishes. These sheet metal fabrication shops usually follow standard families of fittings and batch-based production process, in which different customized fittings are fabricated together following a single instruction sheet, called a cut sheet. Aggregate and manual tracking systems are used to record the total fabrication labor hours for every cut sheet, which does not provide a direct means to measure the performance of fabrication of the whole batch and individual fittings. As such, the goal of this paper is to assess the feasibility of developing performance measurement models for HVAC sheet metal fabrication operations that are based on batch production with limited tracking data. Six different fabrication time estimation models with different tracking scopes and detail levels were formulated and implemented using multilinear regression and artificial neural networks. The models were trained, validated, and tested using a large sample of sheet metal fabrication data. The contributions of this study include (1) analyzing the trade-off between the formulation complexity and the reliability of their implementations, (2) implementing these formulations using two common machine learning tools (artificial neural networks and multiple linear regression) and comparing between their fit quality and prediction accuracy, and (3) examining the feasibility of reliable performance measurement models of batch production operations with only a single dependent variable (total fabrication time) and an abundance of fabrication and design variables."
+}

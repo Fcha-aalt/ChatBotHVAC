@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056410699,
+    "Title": "Standard Access for Research to Feat Spatial Time-Based Data Using RFID and Sensors",
+    "Author": "Kamadal V.",
+    "Journal": "Proceedings of the 2nd International Conference on Computing Methodologies and Communication, ICCMC 2018",
+    "Publication Date": {
+        "$date": "2018-10-09T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICCMC.2018.8487509",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sree Chaithanya College of Engineering",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The main purpose of this paper to analysis present creates occupancy monitoring and multi-model data fusion approaches for smart commercial structures. Additionally to energy issues, real-Time occupancy monitoring also may help saving heirs in case of emergency response programs. Enabled by such occupancy monitoring abilities, we will find extensive opportunities for enhancing the power use of buildings via wise Heating and cooling control. In this way, the main challenges we envision are to attain occupancy monitoring inside a minimally intrusive way, e.g., while using existing infrastructure in the buildings and never needing installing of any apps within the users 'smart products, and a pair to build up effective data fusion techniques for enhancing occupancy monitoring precision utilizing a multitude of sources. Using the proliferation of Internet of products (Iota) products for example smart phones, sensors, cameras, and RFIDs, it's easy to collect lots of information for localization and monitoring of individuals within commercial structures. The aim would be to lay lower a framework for future research to take advantage of the patio-Temporal data acquired from one or even more of numerous Iota products for example temperature sensors, surveillance cameras, and RFID tags which may be already used in the structures."
+}

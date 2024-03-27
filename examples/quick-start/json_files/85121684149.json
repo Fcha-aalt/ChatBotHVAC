@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121684149,
+    "Title": "Interpreting the neural network model for HVAC system energy data mining",
+    "Author": "Wang M.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-02-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2021.108449",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 10,
+    "Abstract": "To enhance the energy efficiency of heating, ventilation and air conditioning (HVAC) systems, which is a non-linear and complicated system, machine learning has been used intensively. However, traditional white-box machine-learning models with good interpretability often do not have satisfactory accuracy, while black-box machine-learning models that are more accurate could not be interpreted easily, which impedes its application. In this study, we propose a method to interpret a neural network (NN) model using gradients of the model, which quantifies the marginal influence of inputs to the output, based on the chain rule. Then the NN model is compared with other machine-learning models (the linear regression model and the XGBoost model) in accuracy, interpretability, and robustness. We then compared our result with the correlation analysis, a widely used method to extract the relation between the outputs (in this case, energy consumption) and inputs. Further, we perform feature selection based on gradients of the NN model, reducing 40% calculation time without sacrificing model accuracy. The feature importance given by the NN model is proved to be reasonable and informative compared with the other two models. The scope of this study is neither to verify the superiority of the NN model, nor to predict the energy consumption accurately. Instead, the goal of this study is to provide a method to interpret the results of NN models."
+}

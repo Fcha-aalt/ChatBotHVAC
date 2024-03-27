@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074144296,
+    "Title": "Experimental energy performance assessment of a solar desiccant cooling system in Southern Europe climates",
+    "Author": "Comino F.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2020-01-25T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.applthermaleng.2019.114579",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Córdoba",
+    "Affliation Country": "Spain",
+    "Cited by count": 35,
+    "Abstract": "Solar desiccant cooling systems, SDEC, could be an effective alternative to conventional cooling systems, which mainly depend on electrical energy. The main objective of this work was to determine experimentally the seasonal coefficient of performance, SCOP, of a SDEC system composed of a desiccant wheel, an indirect evaporative cooler and a thermal solar system, to control indoor conditions in a research lab room. The dependence of coefficient of performance on outdoor air conditions and percentage of renewable energy used by the SDEC system were also analysed. Experimental tests were carried out for six weeks during spring and summer seasons in Martos, Spain. The experimental results showed that the SDEC system independently adjusted the temperature and humidity of the supply air. 75% of the energy consumed by this air handling system comes from renewable sources. A seasonal coefficient of performance of the SDEC system of 2 was obtained for the period analysed. It is shown that the higher the outdoor temperature, the higher instantaneous COPs is. These results suggest that the use of SDEC systems in hot climates, such as southern European climates, could contribute to achieve the EU's energy goals within the frame of Nearly Zero Energy Buildings."
+}

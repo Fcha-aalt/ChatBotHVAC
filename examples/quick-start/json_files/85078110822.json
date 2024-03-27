@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078110822,
+    "Title": "Proposal of physical models of multi-HVAC systems for energy efficiency in smart buildings",
+    "Author": "Mendoza-Pitti L.",
+    "Journal": "Proceedings - 2019 7th International Engineering, Sciences and Technology Conference, IESTEC 2019",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/IESTEC46403.2019.00120",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad de Alcalá",
+    "Affliation Country": "Spain",
+    "Cited by count": 5,
+    "Abstract": "One of main contributions to the consumption of energy in buildings is the heating, ventilation and air condition (HVAC) system. In fact, it consumes more than half of the energy. Multi-HVAC systems can be seen as an intermediate level of modeling, composed by different HVAC subsystems (e.g. boilers, chillers, heat pumps, among others), that define their operations and enabling the simulation of their behavior at a given time. The main purpose is to develop effective control systems with multi-objective optimization to improve the energy efficiency and the reduction of greenhouse gas (GHG) emissions in the cities. This article proposes the simulation of the behavior and operations of different HVAC subsystems in a particular building making use of physical models. The objective is achieved with different approaches, taking the functional specifications provided by the vendors of the HVAC subsystems."
+}

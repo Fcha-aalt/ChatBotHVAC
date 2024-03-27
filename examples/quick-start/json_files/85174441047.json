@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174441047,
+    "Title": "Prediction model of the large commercial building cooling loads based on rough set and deep extreme learning machine",
+    "Author": "Lei L.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107958",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang Sci-Tech University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Efficient prediction of building air conditioning cooling loads contributes to optimizing and controlling heating, ventilation, and air conditioning (HVAC) systems. In this paper, the K-means++ algorithm is used to classify the air conditioning cooling loads to determine the number of discretization intervals and influencing factors of cooling loads. Then, the rough set (RS) theory is used to screen out the critical influencing factors of cooling loads to reduce the input dimensions of the prediction model. Finally, the particle swarm optimization (PSO) algorithm is used to optimize the weights and thresholds between input layers and hidden layers of the deep extreme learning machine (DELM) neural network. Based on the above methods, a K-means++-RS-PSO-DELM prediction model is established for building air conditioning cooling loads. In this paper, a total of 50 large commercial buildings are investigated to find the critical influencing factors of air conditioning cooling loads. Data from a large commercial building in Guilin is collected to train and test the proposed model. Meanwhile, the comparisons between the proposed model and the K-means++-RS-BP, the K-means++-RS-PSO-BP, the K-means++-RS-Elman, the K-means++-RS-PSO-Elman, the K-means++-RS-ELM, the K-means++-RS-PSO-ELM, and the K-means++-RS-DELM models are conducted to validate the applicability of the prediction model. Results show that the prediction deviation of the proposed model is 1.0016 and 0.9942 in short-term and medium-term predictions, which are smaller than that of other prediction models. The proposed model has a strong generalization ability to predict the air conditioning cooling load in large commercial buildings, which is beneficial for online optimal control of the HVAC system."
+}

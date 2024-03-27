@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134504143,
+    "Title": "Optimal control method of HVAC based on multi-agent deep reinforcement learning",
+    "Author": "Fu Q.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112284",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 26,
+    "Abstract": "In HVAC control problems, model-based optimal control methods have been extensively studied and verified by many researchers, but they highly depend on the accuracy of the model, a large amount of historical data, and the deployment of different sensors. With respect to the above problems, this paper proposed a Multi-Agent deep reinforcement learning method for the building Cooling Water System Control (MA-CWSC) to optimize the load distribution, cooling tower fan frequency, and cooling water pump frequency of different types of chillers, which provide a model-free and online learning mechanism. In the learning process, unlike the traditional reinforcement learning methods, the proposed control method uses five agents to control different controllable parts by parallel learning, which can greatly reduce the action space and speed up the convergence rate. In order to verify the effectiveness of the propose-d control method, based on the actual building cooling water system parameters and related historical data, we construct an experimental building cooling water system model, and moreover, we test the MA-CWSC method, model-based control method (optimal control method), baseline method, and single-agent deep reinforcement learning (deep Q-network). The experimental results show that the energy saving performance of the proposed MA-CWSC method is significantly better than the rule-based control method (11.1% improvement), and is very close to that of the model-based control method (only 0.5% difference). In addition, the MA-CWSC method has a faster learning rate compared to the deep Q-network (DQN) control method."
+}

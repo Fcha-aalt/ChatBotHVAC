@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84943540135,
+    "Title": "A study on several machine learning methods for estimating cabin occupant equivalent temperature",
+    "Author": "Hintea D.",
+    "Journal": "ICINCO 2015 - 12th International Conference on Informatics in Control, Automation and Robotics, Proceedings",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.5220/0005573606290634",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Coventry University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 13,
+    "Abstract": "Occupant comfort oriented Heating, Ventilation and Air Conditioning (HVAC) control rises to the challenge of delivering comfort and reducing the energy budget. Equivalent temperature represents a more accurate predictor for thermal comfort than air temperature in the car cabin environment, as it integrates radiant heat and airflow. Several machine learning methods were investigated with the purpose of estimating cabin occupant equivalent temperature from sensors throughout the cabin, namely Multiple Linear Regression, MultiLayer Perceptron, Multivariate Adaptive Regression Splines, Radial Basis Function Network, REPTree, K-Nearest Neighbour and Random Forest. Experimental equivalent temperature and cabin data at 25 points was gathered in a variety of environmental conditions. A total of 30 experimental hours were used for training and evaluating the estimators' performance. Most machine learning tehniques provided a Root Mean Square Error (RMSE) between 1.51 °C and 1.85 °C, while the Radial Basis Function Network performed the worst, with an average RMSE of 3.37 °C. The Multiple Linear Regression had an average RMSE of 1.60 °C over the eight body part equivalent temperatures and also had the fastest processing time, enabling a straightforward real-time implementation in a car's engine control unit."
+}

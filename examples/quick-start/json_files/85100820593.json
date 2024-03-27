@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100820593,
+    "Title": "IoT-based Occupants Counting with Smart Building State Variables",
+    "Author": "Choi J.M.",
+    "Journal": "Proceedings of the Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises, WETICE",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/WETICE49692.2020.00041",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 4,
+    "Abstract": "Most building energy is consumed in heating, ventilation and air conditioning (HVAC) processes, reported that 30% of building energy consumption is inefficient. Therefore, for energy-saving and managing Indoor Air Quality (IAQ), smart buildings have been proposed that can provide optimal environment to indoor users. Smart buildings measure CO2 for IAQ by default and realize energy-savings for using accumulated data. In this paper, we propose a method of estimating the new value, the number of occupants, using the data that is basically measured in smart building. To estimate indoor occupancy details, we use a combination of indoor state features and IAQ parameters such as room temperature and CO2. Moreover, we evaluate 5 methods (kNN, GP, RF, BR, MLP) that use and do not use indoor environmental state variables for two cases (normal and meeting). For Mean Absolute Error (MAE) of the MLP method using the state values, the normal case was improved from 0.58 to 0.36 and the parameter decreased from 0.8 to 0.59 in the meeting case."
+}

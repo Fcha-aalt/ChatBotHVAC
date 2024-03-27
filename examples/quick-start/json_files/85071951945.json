@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071951945,
+    "Title": "Toward machine learning-based prognostics for heating ventilation and air-conditioning systems",
+    "Author": "Yang C.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 7,
+    "Abstract": "Fault detection, diagnostics, and prognostics (FDD&P) can greatly help improve the performance of building operations by reducing energy consumption for heating, ventilation and air-conditioning (HVAC) while maintaining occupant comfort at the same time. In particular, prognostics as an emerging technique, is attracting an amount of attention from building operators and researchers because it enables a pro-active fault pr through continuously monitoring the health of building energy systems. In this paper, we propose to develop a machine learning-based method for HVAC prognostics. Building on techniques from machine learning and data mining, the proposed methods can help develop predictive models building operation and maintenance data. After presenting the proposed method, we discuss the building operation simulation conducted to generate data for evaluating the feasibility and usefulness of the proposed methods. The results from these numerical experiments demonstrated that the machine learning-based methods can be effective for HVAC prognostics."
+}

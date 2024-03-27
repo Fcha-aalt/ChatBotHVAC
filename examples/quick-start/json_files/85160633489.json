@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160633489,
+    "Title": "Potential Cooling Energy Savings of Economizer Control and Artificial-Neural-Network-Based Air-Handling Unit Discharge Air Temperature Control for Commercial Building",
+    "Author": "Yoon Y.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13051174",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) systems play a significant role in building energy consumption, accounting for around 50% of total energy usage. As a result, it is essential to explore ways to conserve energy and improve HVAC system efficiency. One such solution is the use of economizer controls, which can reduce cooling energy consumption by using the free-cooling effect. However, there are various types of economizer controls available, and their effectiveness may vary depending on the specific climate conditions. To investigate the cooling energy-saving potential of economizer controls, this study employs a dry-bulb temperature-based economizer control approach. The dry-bulb temperature-based control strategy uses the outdoor air temperature as an indicator of whether free cooling can be used instead of mechanical cooling. This study also introduces an artificial neural network (ANN) prediction model to optimize the control of the HVAC system, which can lead to additional cooling energy savings. To develop the ANN prediction model, the EnergyPlus program is used for simulation modeling, and the Python programming language is employed for model development. The results show that implementing a temperature-based economizer control strategy can lead to a reduction of 7.6% in annual cooling energy consumption. Moreover, by employing an ANN-based optimal control of discharge air temperature in air-handling units, an additional 22.1% of cooling energy savings can be achieved. In conclusion, the findings of this study demonstrate that the implementation of economizer controls, especially the dry-bulb temperature-based approach, can be an effective strategy for reducing cooling energy consumption in HVAC systems. Additionally, using ANN prediction models to optimize HVAC system controls can further increase energy savings, resulting in improved energy efficiency and reduced operating costs."
+}

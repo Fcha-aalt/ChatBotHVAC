@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047960247,
+    "Title": "Analysis of whole-building HVAC system energy efficiency",
+    "Author": "Liao J.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "This paper defines a whole-building cooling and heating efficiency measure, called the building systems load/energy ratio (LER), as a comprehensive HVAC system efficiency measure. The LER for cooling-or separately, heating-is the ratio of the total cooling/heating loads on the building's heating and cooling systems to the total energy input provided by all the heating and cooling system components to meet the loads. Hence, it is basically a system coefficient of performance (COP) or “efficiency” that includes all of the heating and cooling system energy consumed instead of just the boiler or chiller energy. Specifically, the building systems total load is composed of the envelope load, the load from internal gains, and the ventilation load on the secondary systems. The total energy input includes inputs to chillers, boilers, pumps, and fans on both the air side and water side. Hourly LER values for both heating and cooling are calculated separately when there are both heating and cooling loads in a building during the same hour. The LER may be defined in terms of the cost of different energy sources, in terms of site energy consumption, or in terms of source energy consumption. Two buildings on the Texas A&M University campus that are served by a central utility plant are used as case studies to illustrate the methodology. The annual cooling cost LERs for the two case study buildings are 2.28 and 2.46 (1.54kW/ton and 1.43kW/ton), respectively-about half of the chiller plant's annual average cooling load/energy ratio of 4.6. The annual heating cost LER for these buildings is 0.043 for one building and 0.46 for the other building, while the boiler plant average heating efficiency is 0.79. The site energy cooling LER is 19% to 37% lower than the cooling cost LER for the two case study buildings, while the source energy cooling LER is about one-third of the cooling cost LER in both cases. The site energy and source energy heating LER values range up to 28% larger than the corresponding heating cost LERs. The current minimum seasonal energy efficiency ratio (SEER) value for a split-system air-conditioner in Texas is 14, which corresponds to a COP of 4.1. It is noteworthy that to the extent that SEER represents annual performance, the annual cooling cost LER values of the case study buildings are 60%, or less than the minimum COP value for a split system, even for a variable-air-volume (VAV) system with very little reheat."
+}

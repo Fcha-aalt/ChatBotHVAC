@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072733919,
+    "Title": "Simulation of a controlled water heating system with demand response remunerated on imbalance market pricing",
+    "Author": "Peeters M.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.jobe.2019.100969",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Antwerp Management School",
+    "Affliation Country": "Belgium",
+    "Cited by count": 5,
+    "Abstract": "Buildings are responsible for 40% of our worldwide energy consumption and 50% of this energy is converted for Heating Ventilation Air Conditioning (HVAC) systems in buildings. The increasing share of renewable energy production required to make the transition towards a carbon neutral energy system challenges the stability of the grid. Through demand response it becomes possible to activate these systems in support of grid balancing. However, this flexibility is currently not rewarded in the market. We simulate a domestic water heater participating in the balancing of the electricity net and calculated the revenue from this action. We simulate a water heater in connection with an Economic Model Predictive Controller (EMPC) which takes future usage, energy cost, and reward for delivering balanced power into account. We show that the choice of an EMPC controller is valid as it allows the setpoint to change if certain conditions are met, leading to a more optimal revenue stream from selling flexibility. We find that the economic benefits of participating in delivering balancing power is considerable and offset an increase in energy costs. The increase in energy consumption could be justified as the participation in net stabilisation allows the macro-system to integrate more renewable energy sources. More importantly, the simulations also show that the poorer the energy performance of the water heater, the more flexibility can be sold. From a policy point of view, a minimal energy performance should be determined before allowing participation in net stabilisation."
+}

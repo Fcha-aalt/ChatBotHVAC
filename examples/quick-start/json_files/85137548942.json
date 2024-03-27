@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137548942,
+    "Title": "Introduction and Literature Review of Building Components with Passive Thermal Energy Storage Systems",
+    "Author": "Sepehri A.",
+    "Journal": "Green Energy and Technology",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-031-08732-5_1",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Penn State College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilating, and air-conditioning (HVAC) systems account for almost half of the total energy consumption in buildings. While many studies have evaluated active thermal energy storage (TES) systems integrated into the building HVAC system, some other studies have focused on passive TES systems that may be incorporated in different parts of a building and use no mechanical force to charge/discharge. Passive TES systems could improve building energy efficiency by reducing the energy consumption in the building. There are two primary classifications of passive systems in buildings known as sensible heat and latent heat storage systems. While sensible heat storage can be used in traditional solid building materials like concrete, earth, brick, and stone, researchers have found a greater potential of energy use reduction in the case of latent heat storage via integrating phase change material (PCM) in the building structure. PCM can passively be incorporated in building envelope inside building materials using incorporation or encapsulation techniques or as a new layer in the construction procedure. This chapter presents a comprehensive review of the literature about both sensible and latent heat storage systems which are implemented in building components, focusing mainly on the performance of various techniques. The advantages and disadvantages of the different research approaches have been also highlighted."
+}

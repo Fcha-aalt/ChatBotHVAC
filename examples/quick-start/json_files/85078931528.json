@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078931528,
+    "Title": "Impacts of technology-guided occupant behavior on air-conditioning system control and building energy use",
+    "Author": "Tang R.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2021-02-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/s12273-020-0605-6",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 35,
+    "Abstract": "Occupant behavior is an important factor affecting building energy consumption. Many studies have been conducted recently to model occupant behavior and analyze its impact on building energy use. However, to achieve a reduction of energy consumption in buildings, the coordination between occupant behavior and energy-efficient technologies are essential to be considered simultaneously rather than separately considering the development of technologies and the analysis of occupant behavior. It is important to utilize energy-efficient technologies to guide the occupants to avoid unnecessary energy uses. This study, therefore, proposes a new concept, “technology-guided occupant behavior” to coordinate occupant behavior with energy-efficient technologies for building energy controls. The occupants are involved into the control loop of central air-conditioning systems by actively responding to their cooling needs. On-site tests are conducted in a Hong Kong campus building to analyze the performance of “technology-guided occupant behavior” on building energy use. According to the measured data, the occupant behavior guided by the technology could achieve “cooling on demand” principle and hence reduce the energy consumption of central air-conditioning system in the test building about 23.5%, which accounts for about 7.8% of total building electricity use."
+}

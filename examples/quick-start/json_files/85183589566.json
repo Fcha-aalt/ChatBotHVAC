@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85183589566,
+    "Title": "Multi-agent Reinforcement Learning for Joint Control of EV-HVAC System with Vehicle-to-Building Supply",
+    "Author": "Narayanan A.",
+    "Journal": "ACM International Conference Proceeding Series",
+    "Publication Date": {
+        "$date": "2024-01-04T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1145/3632410.3632421",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tata Consultancy Services India",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Rapid adoption of electric vehicles (EVs) can result in a significant new load for buildings. However, EVs can also help with building energy management because of their demand flexibility and ability to act as buffers through discharging. Specifically, joint control of HVAC and EVs can help reduce building energy costs under a time-of-day electricity pricing regime. Most existing works either do not consider discharging or the stochastic availability of EVs. We consider the problem of joint control of EVs and HVACs while respecting both thermal constraints of HVAC and state of charge (SoC) constraints of EV users. We complement existing works by treating EVs as buffers with random availability. We propose evhac, a multi-agent reinforcement learning framework for EV-HVAC joint control that scales seamlessly with increasing EVs. We evaluate our approach in a simulated environment calibrated with real-world building data and EV charging demand. As baselines for our approach, we use default PID control; and a model-predictive control (MPC) approach with and without using EVs as buffers. Our experiments show that 1) our approach scales significantly better (86 ×) than MPC in decision time, while being slightly worse (6%) in energy costs; 2) there exists a sweet spot for the cost savings potential as a function of EV and HVAC load profiles; and 3) MPC performance is very sensitive to the prediction horizon."
+}

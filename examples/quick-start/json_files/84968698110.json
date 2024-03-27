@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84968698110,
+    "Title": "A state-feedback approach for controlling ventilation systems in energy efficient buildings",
+    "Author": "Lachhab F.",
+    "Journal": "Proceedings of 2015 IEEE International Renewable and Sustainable Energy Conference, IRSEC 2015",
+    "Publication Date": {
+        "$date": "2016-04-18T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/IRSEC.2015.7454986",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mohammed V University in Rabat",
+    "Affliation Country": "Morocco",
+    "Cited by count": 16,
+    "Abstract": "On the fast actual demographic trend and increasing comfort level, consumers are becoming more and more demanding in the areas of heating, cooling, ventilation, air conditioning, and lighting. Heating, Ventilating and Air Conditioning (HVAC) is one of most studied systems in energy efficient buildings within the aim to keep occupants' comfort with desired temperature ranges, a suitable level of humidity, and good air quality. Recent studies showed that using information and communication technologies will have a significant impact on improving energy efficiency in real buildings. The main aim of these studies is to develop energy control approaches to improve energy performance and occupant comfort in buildings. In this paper, a CO2-based strategy using a state feedback technique for controlling mechanical ventilation systems in energy-efficient building is proposed. The principal objective of the developed controller is to improve optimal balance between energy efficiency and indoor air quality by maintaining the indoor CO2 concentration at the comfort set point with an efficient ventilation rate while reducing energy consumption. The ventilation system is analysed, modeled, and simulated. The simulation results are reported to show the efficiency of the proposed control approach compared to the traditional On/Off and the PI ventilation control."
+}

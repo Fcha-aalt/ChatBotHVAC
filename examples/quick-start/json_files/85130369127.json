@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130369127,
+    "Title": "An Improved Method to Estimate Savings from Thermal Comfort Control in Residences from Smart Wi-Fi Thermostat Data",
+    "Author": "Alhamayani A.D.",
+    "Journal": "Clean Technologies",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/cleantechnol4020024",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The net-zero global carbon target for 2050 needs both expansion of renewable energy and substantive energy consumption reduction. Many of the solutions needed are expensive. Controlling HVAC systems in buildings based upon thermal comfort, not just temperature, uniquely offers a means for deep savings at virtually no cost. In this study, a more accurate means to quantify the savings potential in any building in which smart WiFi thermostats are present is developed. Prior research by Alhamayani et al. leveraging such data for individual residences predicted cooling energy savings in the range from 33 to 47%, but this research was based only upon a singular data-based model of indoor temperature. The present research improves upon this prior research by developing LSTM neural network models for both indoor temperature and humidity. Validation errors are reduced by nearly 22% compared to the prior work. Simulations of thermal comfort control for the residences considered yielded potential savings in the range of 29–43%, dependent upon both solar exposure and insulation characteristics of each residence. This research paves the way for smart Wi-Fi thermostat-enabled thermal comfort control in buildings of all types."
+}

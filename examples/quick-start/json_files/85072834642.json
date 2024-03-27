@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072834642,
+    "Title": "Composability modeling for the use case of demand-controlled ventilation and heating system",
+    "Author": "Behravan A.",
+    "Journal": "2019 6th International Conference on Control, Decision and Information Technologies, CoDIT 2019",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/CoDIT.2019.8820293",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universität Siegen",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "In recent engineering practice, the complexity of the systems is increasing. This complexity will keep on increasing if new components are added into the system or system configuration is changed. Numerous configurations of these components are repeated or their relationship is recognizable. On the other hand, simulation tools are commonly used to track the behavior of the modeled systems over time because of their advantages against experimental setups which are the abstraction of reality. However, the ability to integrate different components at different levels of the designed model along with the different techniques used for their inter-relationships based on users requirement is a challenge. The main contribution of this paper is to give an example of how to apply composability to handle this issue. One tangible example is to study the behavior of heating, ventilation, and air-conditioning systems in large buildings. Therefore, finding a solution to model this kind of complex system in a highly composable and scalable view is promising. Composability is a system design challenge that describes how different components can be selected and combined in different configurations and different levels to satisfy users requirement with a highly reduced development cost and time in the simulation, as its advantages. Finally, the practical steps for design and implementation of a composable demand-controlled ventilation and heating system as a useful and energy-efficient smart building's technology in MATLAB/Simulink (besides its constraints) is provided."
+}

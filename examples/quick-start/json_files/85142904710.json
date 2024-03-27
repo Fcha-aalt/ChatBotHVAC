@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142904710,
+    "Title": "Energy-efficient heating control for nearly zero energy residential buildings with deep reinforcement learning",
+    "Author": "Qin H.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2022.126209",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hebei University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "Controlling Heating, Ventilation and Air Conditioning (HVAC) systems is critical to improving energy efficiency of demand-side. In this paper, a model-free optimal control method based on deep reinforcement learning is proposed to control the heat pump start/stop and room temperature setting in residential buildings. The optimization goal of this method is to obtain the highest comprehensive reward which considering thermal comfort and energy cost. Firstly, the randomness, learning process, thermal comfort and energy consumption of the model-free controller are systematically investigated by a simulation system based on measured data. The results show that randomness has a significant impact on the initial performance and convergence speed of the model-free controller; The model-free controller has a linear accumulation of comprehensive rewards during the learning process, and the slope of the accumulated comprehensive rewards can be used to determine whether the controller converges; The model-free controller coordinates monitoring data, weather forecasts and building thermal inertia to achieve the highest comprehensive reward. Afterwards, the model-free controller was verified in a nearly zero energy residential building in Beijing, China. The results show that model-free controller improves the comprehensive reward by 15.3% compared to rule-based method."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147879258,
+    "Title": "Implementation of a Long Short-Term Memory Transfer Learning (LSTM-TL)-Based Data-Driven Model for Building Energy Demand Forecasting",
+    "Author": "Kim D.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su15032340",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hanbat National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 3,
+    "Abstract": "Building energy consumption accounts for about 40% of global primary energy use and 30% of worldwide greenhouse gas (GHG) emissions. Among the energy-related factors present in buildings, heating, cooling, and air-conditioning (HVAC) systems are considered major contributors to whole-building energy use. To improve the energy efficiency of HVAC systems and mitigate whole-building energy consumption, accurately predicting the building energy consumption can play a significant role. Although many prediction approaches are available for building energy use, a machine learning-based modeling approach (i.e., black box models) has recently been considered to be one of the most promising building energy modeling techniques due to its simplicity and flexibility compared to physics-based modeling techniques (i.e., white box models). This study presents a building energy load forecasting method based on long-term short-term memory (LSTM) and transfer learning (TL) strategies. To implement this approach, this study first conducted raw data pre-processing analysis to generate input datasets. A hospital building type was considered for a case study in the first stage. The hospital prototype building model, developed by the U.S. department of energy (DOE), was used to generate an initial input training and testing dataset for source domain tasks before the transfer learning process. For the transfer learning process in a target domain, a simulation-based analysis was also conducted to obtain target datasets by assuming limited data lengths in different weather conditions. The training and testing procedures were performed using separate cooling and heating periods with and without the transfer learning process for source and target domain tasks, respectively. Lastly, a comparative analysis was carried out to investigate how the accuracy of LSTM prediction can be enhanced with the help of transfer learning strategies. The results from this study show that the developed LSTM-TL model can achieve better performance than the prediction model, which only uses LSTM under different weather conditions. In addition, accurate performance can vary according to different transfer learning methods with frozen and fine-tuning layers and locations."
+}

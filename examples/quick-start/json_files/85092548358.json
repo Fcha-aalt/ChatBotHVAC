@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85092548358,
+    "Title": "HVAC Energy Cost Optimization for a Multizone Building via a Decentralized Approach",
+    "Author": "Yang Y.",
+    "Journal": "IEEE Transactions on Automation Science and Engineering",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/TASE.2020.2983486",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Berkeley Education Alliance for Research in Singapore",
+    "Affliation Country": "Singapore",
+    "Cited by count": 27,
+    "Abstract": "The control of heating, ventilation, and air-conditioning (HVAC) systems has raised extensive attention due to their high energy consumption cost and operation patterns far from being energy-efficient. However, most of the existing methods suffer limitations in scalability and computational efficiency for large buildings due to the centralized structures. To compensate for such defects, this article studies the scalable control of multizone HVAC systems with the target to reduce energy cost while maintaining thermal comfort. In particular, the thermal couplings due to heat transfer among the adjacent zones are incorporated, which has been ignored or not well studied due to complexity in the literature. To overcome the computational challenges of the nonlinear and nonconvex problem caused by the complex system dynamics, this article proposes a decentralized approach composed of three main steps: 1) relaxing the bilinear system dynamics; 2) solving the relaxed problem in a decentralized manner using the accelerated distributed augmented Lagrangian (ADAL) method; and 3) recovering the recursive feasibility of the solution. Through a comparison with the centralized method, the suboptimality of this approach is demonstrated. In addition, the superior performance of this approach is illustrated through a comparison with the distributed token-based scheduling strategy (DTBSS). The numerical results imply that for buildings with a relatively small number of zones (less than 20), the two methods are competitive. However, for larger cases, the proposed approach performs better with a considerable reduction both in energy cost and computation time. Note to Practitioners-This article develops a scalable computing framework for multizone HVAC controller, which can help reduce the electricity cost while maintaining the comfortable temperature bands set by the occupants. The proposed computing paradigm is scalable to large buildings as it mainly requires local zone-level computation. Specifically, for multizone buildings with a central shared HVAC system, the zone controllers determine the operations of their local variable air volume (VAV) boxes mainly through local computation and some necessary communications with the other entities. Consequently, this control technique can be implemented via local controllers deployed on simple hardware while applied to large buildings. The performance (electricity cost and computation time) of the controller is validated through a comparison with the centralized method and the DTBSS by using simulations."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105715041,
+    "Title": "2020 ASHRAE Virtual Conference",
+    "Author": NaN,
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 71 papers. The topics discussed include: application of VFDs to multiple pump sizes in HVAC systems; a review of relevant practices for the O&M of high-performance buildings; development of a new accelerated corrosion test for all-aluminum microchannel and tube and fin heat exchangers — part II: chamber study; CFD study of hydraulic shock in two-phase anhydrous ammonia; using normalized airflows and powers to model the performance of multispeed fan-coil units with permanent split capacitor fan motors; occupant-dependent residential end use load profiles for demand response under high renewable energy scenarios; validated TRNSYS model for a building in Marrakech, Morocco; seasonality and trends in indoor air quality based on continuous monitoring; and a novel ventilation approach of a large vertical space for achieving fire safety and energy efficiency."
+}

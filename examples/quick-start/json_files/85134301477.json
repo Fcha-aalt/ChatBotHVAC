@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134301477,
+    "Title": "Application of Association Rule Mining in offshore HVAC transmission topology optimization",
+    "Author": "Hardy S.",
+    "Journal": "Electric Power Systems Research",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.epsr.2022.108358",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "KU Leuven",
+    "Affliation Country": "Belgium",
+    "Cited by count": 3,
+    "Abstract": "This work develops a hybrid optimization method for determining optimal radial transmission topologies for the connection of offshore wind farms combining Association Rule Mining (ARM) and a greedy algorithm. The method is capable of optimally placing offshore substations and accounts for Capital Expenditures (CAPEX), Corrective Maintenance (CM), losses and Expected Energy Not Transmitted (EENT). The stochastic nature of wind is also considered. First, an inequality based apriori algorithm is applied to a randomly generated population of Offshore Wind Power Plant (OWPP) pairs within a specified search domain. This way, a set of simple constraints is obtained reducing the effective combinatorial search space. A verified optimal greedy algorithm is then applied to efficiently search the reduced search space for the lowest cost radial topology to connect offshore wind. The hybrid approach is shown to introduce minimal error given a sufficient sample population while greatly extending the feasible problem size of the greedy search algorithm."
+}

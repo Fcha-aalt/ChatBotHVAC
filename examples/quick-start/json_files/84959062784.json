@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84959062784,
+    "Title": "Short paper: A method for discovering functional relationships between Air Handling Units and Variable-Air-Volume Boxes from sensor data",
+    "Author": "Pritoni M.",
+    "Journal": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Publication Date": {
+        "$date": "2015-11-04T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1145/2821650.2821677",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, Davis",
+    "Affliation Country": "United States",
+    "Cited by count": 19,
+    "Abstract": "In Building Automation Systems contextual information about sensors is frequently missing or hard-coded in the control code. Retrieving this data is time consuming and error-prone, but necessary to write any type of control application. Automating metadata acquisition is a new and active area of research. Methods to infer metadata from sensor labels or from recorded data have been previously proposed. However, these methods are ineffective in uncovering the association between HVAC components. In fact, measured variables (pressures, temperatures, flows, valve positions) have slow and attenuated responses to changes in input variables, thus impairing the efficacy of correlation methods. In addition, sensor readings are frequently constrained between physical limits and kept around setpoints by nested control loops. For this reason, pure statistical methods fail to capture the differences between sensor streams and are unable to classify them. In this article, we propose a new method for discovering functional relationships between Air Handling Units and Variable-Air-Volume Boxes from sensor data. The method utilizes perturbations of subsystem variables, while guaranteeing that the building zones remain within comfort boundaries. When applied to an existing building, our proposed method reveals correct associations in ∼80% of the cases, and outperforms other methods."
+}

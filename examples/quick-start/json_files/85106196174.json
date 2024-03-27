@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106196174,
+    "Title": "Optimization of Building Envelope Towards Energy-Efficient Design",
+    "Author": "Sudha G.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-981-15-9585-1_12",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "SRM Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Buildings and construction account for more than 35% of global final energy use and nearly 40% of energy-related CO2 emissions (Global status report 2017, International Energy Agency for the Global Alliance for Buildings and Construction). Building’s envelope contributes significantly to energy consumption, especially in office buildings which use extensive glazed facades. Building envelope largely includes the various components of external façade such as walls, roof, windows and shading elements. The design of building envelope affects visual and thermal comfort in the adjoining spaces. Failure to meet the thermal and visual comfort requirements in indoor spaces results in occupants depending on mechanical conditioning systems and electrical lighting systems which increases the energy consumption in building. Hence, optimizing the envelope system will contribute largely to the energy savings in a building. This study aims at quantifying the contribution of various envelope components towards the energy optimization of an office building. Building envelope designed for an office occupancy in a warm humid climatic zone has been analysed for its energy performance in terms of various components which include thermal properties of walls, roof and glazing, window-to-wall ratio and shading elements. Analysis has been done by simulating the envelope optimized building design against the base case as prescribed by Energy Conservation Building Code, using an environmental analysis software tool. The results establish the impact of various envelope components on the energy consumption of the building. The findings emphasize the provision of an appropriate shading device as the highest contributor towards achieving the goal of energy efficiency by reducing the solar heat gain. Hence, careful consideration must be given in designing the shading elements in warm humid climatic zone as it can significantly change the performance of other components of an integrated building, namely HVAC and artificial lighting system, resulting in an energy-efficient design."
+}

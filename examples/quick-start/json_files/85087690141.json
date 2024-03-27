@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087690141,
+    "Title": "Impact of microclimate and macroclimate on building energy consumption",
+    "Author": "Bianchi C.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 2,
+    "Abstract": "Bui/dings account for 40% of the primary energy consumed in the United States. Improving building energy efficiency is an important part of a comprehensive strategy to mitigate world energy consumption and resulting emissions. Building energy consumption is generally affected by what is inside the building (such as occupants, appliances, HVAC systems, etc.) and by what is outside. The impact of climatic conditions on building energy use happens on two levels: (1) macroscopic regional conditions influence the climate homogeneously over an urban area, while (2) microscopic climate conditions vary inside the same urban environment and are caused by temporally and spatially varying site-specific conditions. Regional climate effects are commonly taken into account in building energy modeling and input as boundary conditions to building energy simulations. Microclimate conditions, instead, are seldom investigated due to their spatial and temporal variability and the resulting complexity of obtaining appropriate data and modeling these variations. This work takes advantage of a newly created software tool to investigate the temporal and spatial variability of microclimate conditions within the same urban environment, analysing their impact on building energy loads. It also compares the impact of detailed microclimate data with those of typical meteorological year (TMY) data, which are commonly used in building energy modeling to represent a city's expected climate conditions."
+}

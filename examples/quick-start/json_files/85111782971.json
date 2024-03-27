@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111782971,
+    "Title": "Upper and lower threshold limit of chilled and condenser water temperature set-points during ANN based optimized control",
+    "Author": "Yeon S.H.",
+    "Journal": "Proceedings of the ASME 2021 15th International Conference on Energy Sustainability, ES 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1115/ES2021-63997",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Korea University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "In this study, an artificial neural network (ANN) based realtime predictive control and optimization algorithm for a chillerbased cooling system was developed and applied to an actual building to analyze its cooling energy saving effects through insitu application and actual measurements. For this purpose, we set the cooling tower's condenser water outlet temperature and the chiller's chilled water outlet temperature as the system control variables. During the analysis, unexpected abnormal data were observed due to insufficient training data and a limited consideration of the outdoor air wet-bulb temperature when determining the condenser water temperature set-point. Therefore, it is necessary to build training data under a wide range of conditions and to set the condenser water temperature set-point lower limit to be outdoor air wet-bulb temperature +3.6°C in the outdoor wet-bulb temperature region above 23°C, so that further energy savings can be achieved."
+}

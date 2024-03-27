@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100002419,
+    "Title": "Demand-side flexibility and demand-side bidding for flexible loads in air-conditioned buildings",
+    "Author": "Utama C.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.apenergy.2020.116418",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "TUMCREATE Limited",
+    "Affliation Country": "Singapore",
+    "Cited by count": 35,
+    "Abstract": "Demand-side flexibility (DSF) has been touted as a possible solution to the challenges in power system operation arising from increasing intermittent renewables penetration and the emergence of electric vehicles. In Singapore, where around 24 to 60% of electricity demand in buildings could be attributed to heating, ventilation, and air conditioning (HVAC) purposes, air-conditioned buildings represent a significant flexibility resource which could be used to provide DSF and help tackle these challenges. This study aims to investigate the DSF potential of Singapore's building stock and to explore how this potential could be realized through demand-side bidding. To this end, a building energy modeling tool with explicit modeling of the relationship between occupant comfort and HVAC load with model predictive control, CoBMo, is used. CoBMo allows optimal load scheduling to be expressed as a linear programming problem: minimizing overall electricity cost while maintaining occupant comfort. A price-based market clearing model is developed to evaluate demand-side bidding implementation, for which a case study on Singapore's Downtown Core district is developed. Three scenarios with possible future utility-scale photovoltaic (PV) penetration in Singapore's electricity system are explored, alongside a sensitivity analysis and a comparison between centralized dispatch and demand-side bidding with price-quantity pairs and linear curves. Results of the analysis show that DSF potential varies between building types, depending on cooling load and occupancy schedule. When extreme price fluctuations happen in future Singapore electricity market with 10 GWp PV penetration, demand-side bidding could aid consumers to utilize their DSF potential by encouraging more effective energy use and in turn, reducing their total electricity cost."
+}

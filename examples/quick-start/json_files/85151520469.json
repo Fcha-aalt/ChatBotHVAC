@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151520469,
+    "Title": "Deep Reinforcement Learning based HVAC Control for Reducing Carbon Footprint of Buildings",
+    "Author": "Kurte K.",
+    "Journal": "2023 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ISGT51731.2023.10066358",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In this paper, we present our work on deep reinforcement learning (DRL) based intelligent control of Heating, Ventilation, and Air Conditioning (HVAC) with the goal of reducing carbon emission. We performed this task using 1) Marginal Operating Emission Rates (MOER), where the objective was to shift the demand to the low emission period of the day and 2) Time-Of-Use (TOU) demand-response price where the objective was to shift the demand to low price period of the day. This was achieved by learning an optimal pre-cooing strategy. We found the carbon emission reduction in the range of ≈ 6%-16% depending on the opportunity presented by the MOER signal. Similarly, we observed the carbon emission reduction in the range of ≈23%-29% during the peak price period when TOU price was used. The results clearly demonstrated the applicability of our approach in reducing the carbon footprint of the building."
+}

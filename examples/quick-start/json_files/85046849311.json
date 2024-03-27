@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85046849311,
+    "Title": "Experimental study of multi-fin heat pipe heat exchanger for energy efficiency in operating room air systems",
+    "Author": "Muhammaddiyah S.",
+    "Journal": "International Journal of Technology",
+    "Publication Date": {
+        "$date": "2018-04-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.14716/ijtech.v9i2.1150",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Indonesia",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 16,
+    "Abstract": "This study was conduct to identify the effectiveness and heat recovery values of heat pipe heat exchangers (HPHEs) in heating ventilating air conditioning (HVAC) ducting systems. HPHEs are passive modules which provide the energy recovery function in HVAC systems. In this research the HPHE module consist of 42 heat pipe tubes equipped with 120 wavy fins on the evaporator and condenser sections. In this study the HPHE module was tested with a three-row configuration design, and at inlet airflow temperatures of 28, 30, 35, 40, and 45°C. The velocity of inlet air also varied, at 1, 1.5, and 2 m/s. The results show that in the three-row configuration the inlet temperature decreased by a maximum of 10.3°C. This configuration also has an HPHE effectiveness value of between 47.9 and 54.4%. The highest effectiveness value (54.4%) was obtained at inlet air velocity and temperature of 1 m/s and 45°C, respectively. The highest HPHE heat recovery value was 5,368 W at 2 m/s inlet air velocity, giving a 51.7% HPHE effectiveness rating. This HPHE system can be considered as saving energy for HVAC systems."
+}

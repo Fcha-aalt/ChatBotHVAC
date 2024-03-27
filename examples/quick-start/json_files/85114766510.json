@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114766510,
+    "Title": "CNN-LSTM architecture for predictive indoor temperature modeling",
+    "Author": "Elmaz F.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.108327",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universiteit Antwerpen",
+    "Affliation Country": "Belgium",
+    "Cited by count": 83,
+    "Abstract": "Indoor temperature modeling is a crucial part towards efficient Heating, Ventilation and Air Conditioning (HVAC) systems. Data-driven black-box approaches have been an attractive way to develop such models due to their unique feature of not requiring detailed knowledge about the target zone. However, the noisy and non-linear nature of the problem remains a bottleneck especially for long prediction horizons. In this paper, we introduce a Convolutional Neural Networks-Long Short Term Memory (CNN-LSTM) architecture to combine the exceptional feature extraction of convolutional layers with the Long Short Term Memory (LSTM)’s capability of learning sequential dependencies. We experimentally collected a dataset and compared three approaches: Multi-Layer Perceptron (MLP), LSTM and CNN-LSTM. Models are evaluated and compared with 1-30-60-120 min horizons with a closed-loop prediction scheme. The CNN-LSTM outperformed all other models for all prediction horizons and showed a better robustness against error accumulation. It managed to predict room temperature with R2>0.9 in a 120-min prediction horizon."
+}

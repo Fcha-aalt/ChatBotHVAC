@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85031892551,
+    "Title": "Nonlinear hybrid planning with deep net learned transition models and mixed-integer linear programming",
+    "Author": "Say B.",
+    "Journal": "IJCAI International Joint Conference on Artificial Intelligence",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.24963/ijcai.2017/104",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 32,
+    "Abstract": "In many real-world hybrid (mixed discrete continuous) planning problems such as Reservoir Control, Heating, Ventilation and Air Conditioning (HVAC), and Navigation, it is difficult to obtain a model of the complex nonlinear dynamics that govern state evolution. However, the ubiquity of modern sensors allow us to collect large quantities of data from each of these complex systems and build accurate, nonlinear deep network models of their state transitions. But there remains one major problem for the task of control - how can we plan with deep network learned transition models without resorting to Monte Carlo Tree Search and other black-box transition model techniques that ignore model structure and do not easily extend to mixed discrete and continuous domains? In this paper, we make the critical observation that the popular Rectified Linear Unit (ReLU) transfer function for deep networks not only allows accurate nonlinear deep net model learning, but also permits a direct compilation of the deep network transition model to a Mixed-Integer Linear Program (MILP) encoding in a planner we call Hybrid Deep MILP Planning (HDMILP-PLAN). We identify deep net specific optimizations and a simple sparsification method for HD-MILP-PLAN that improve performance over a naïve encoding, and show that we are able to plan optimally with respect to the learned deep network."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123857924,
+    "Title": "Regulating window operations using HVAC terminal devices’ control sequences: a simulation-based investigation",
+    "Author": "Liu W.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/19401493.2021.2019309",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 1,
+    "Abstract": "Mixed-mode ventilation is a design feature to improve building energy efficiency and indoor air quality. However, in practice, it does not always achieve better performance, largely due to inappropriate window operations. The research effort is also limited when exploring approaches to regulate manually operable windows. The present study found that the unregulated window operations could increase the heating load up to 21% and cooling load by 22% relative to identical buildings with fixed windows in a cold climate. To regulate the manually operable windows, we investigated the effectiveness of employing HVAC terminal devices’ by improving the control sequences. The control sequences could apply setbacks on thermostat setpoints to nudge occupants to undertake window opening and closing actions. The control sequences were tested by the building performance simulation (BPS), and 3-16% of energy reductions could be achieved when control sequences encouraged occupants to undertake energy-efficient window use behaviours."
+}

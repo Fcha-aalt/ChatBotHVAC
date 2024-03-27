@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076680547,
+    "Title": "System-level key performance indicators for building performance evaluation",
+    "Author": "Li H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-02-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109703",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 40,
+    "Abstract": "Quantifying building energy performance through the development and use of key performance indicators (KPIs) is an essential step in achieving energy saving goals in both new and existing buildings. Current methods used to evaluate improvements, however, are not well represented at the system-level (e.g., lighting, plug-loads, HVAC, service water heating). Instead, they are typically only either measured at the whole building level (e.g., energy use intensity) or at the equipment level (e.g., chiller efficiency coefficient of performance (COP)) with limited insights for benchmarking and diagnosing deviations in performance of aggregated equipment that delivers a specific service to a building (e.g., space heating, lighting). The increasing installation of sensors and meters in buildings makes the evaluation of building performance at the system level more feasible through improved data collection. Leveraging this opportunity, this study introduces a set of system-level KPIs, which cover four major end-use systems in buildings: lighting, MELs (Miscellaneous Electric Loads, aka plug loads), HVAC (heating, ventilation, and air-conditioning), and SWH (service water heating), and their eleven subsystems. The system KPIs are formulated in a new context to represent various types of performance, including energy use, peak demand, load shape, occupant thermal comfort and visual comfort, ventilation, and water use. This paper also presents a database of system KPIs using the EnergyPlus simulation results of 16 USDOE prototype commercial building models across four vintages and five climate zones. These system KPIs, although originally developed for office buildings, can be applied to other building types with some adjustment or extension. Potential applications of system KPIs for system performance benchmarking and diagnostics, code compliance, and measurement and verification are discussed."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040626971,
+    "Title": "Experimental Demonstration of Frequency Regulation by Commercial Buildings-Part I: Modeling and Hierarchical Control Design",
+    "Author": "Vrettos E.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2018-07-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/TSG.2016.2628897",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "ETH Zürich",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 70,
+    "Abstract": "This paper is the first part of a two-part series in which we present results from one of the first worldwide experimental demonstrations of frequency regulation in a commercial building test facility. We demonstrate that commercial buildings can track a frequency regulation signal with high accuracy and minimal occupant discomfort in a realistic environment. In addition, we show that buildings can determine the reserve capacity and baseline power a priori, and identify the optimal tradeoff between frequency regulation and energy efficiency. In part I, we introduce the test facility and develop relevant building models. Furthermore, we design a hierarchical controller for the heating, ventilation, and air conditioning system that consists of three levels: 1) a reserve scheduler; 2) a building climate controller; and 3) a fan speed controller for frequency regulation. We formulate the reserve scheduler as a robust optimization problem and introduce several approximations to reduce its complexity. The building climate controller is comprised of a robust model predictive controller and a Kalman filter. The frequency regulation controller consists of a feedback and a feedforward loop, provides fast responses, and is stable. Part I presents building model identification and controller tuning results. Specifically, we find out that with an appropriate formulation of the model identification problem, a two-state model is accurate enough for use in a reserve scheduler that runs day-ahead. In part II, we report results from the operation of the hierarchical controller under frequency regulation."
+}

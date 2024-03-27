@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173240019,
+    "Title": "Automated fault detection and diagnosis of chiller water plants based on convolutional neural network and knowledge distillation",
+    "Author": "Gao Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110885",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 1,
+    "Abstract": "Automated fault detection and diagnosis (AFDD) plays a crucial role in enhancing the energy efficiency of air-conditioning systems; its quantitative impact has gained greater clarity in recent years. Deep learning has emerged as a promising tool for image classification, and its application in the context of AFDD of heating, ventilation and air-conditioning (HVAC) systems is gaining traction owing to its exceptional performance. However, the deployment cost of deep models in practical scenarios increases owing to the large number of parameters involved. This study uses knowledge distillation to significantly reduce the number of model parameters and the cost of model deployment without compromising the accuracy of AFDD. This case study builds a simulation model and 31 types of fault datasets based on an actual HVAC in Japan. We transformed the time series into two-dimensional image tensors via the Graham angle field to apply state-of-the-art image classification algorithms for AFDD. Based on these findings, it is evident that the proposed teacher model can achieve a remarkable top-1 accuracy of 88.45 % and top-5 accuracy of 99.78 %. Furthermore, the knowledge distillation algorithm performed equally well, if not better than the teacher model, with a top-1 accuracy of 88.12 % and a top-5 accuracy of 100 %. This was achieved with a significant reduction in the number of parameters by up to 56%."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964330370,
+    "Title": "Passenger comfort for the next generation train: A laboratory for comfort factor trials",
+    "Author": "Winter J.",
+    "Journal": "Civil-Comp Proceedings",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "Excellent passenger comfort should become a competitive advantage for railways again. For a long time railways lost the alignment to other modes of transport for example automobiles. In the frame of the Next Generation Train (NGT) project plenty of passenger comfort aspects, including ride smoothness, vibration, acoustic noise, pressure fluctuation, lighting, and air-conditioning in high-speed trains are addressed. The current paper is the second one in a series [1,2] giving a comprehensive overview on the passenger comfort activities at the German Aerospace Center (DLR) since 2007. The focus is on the new built test environment for the passenger comfort trials concerning lighting and heating, ventilation, and air conditioning (HVAC). In particular, the generic laboratory developed according to the NGT high speed train geometry is presented. It represents the 8 m long doubledeck mock-up prepared for thermal comfort and energy efficiency trials on HVAC as well as on illumination. A detailed description of thermal manikins, infrared thermography, and laser smoke visualization together with an in-depth sight into the measurement system utilized in a generic laboratory is presented. To analyse the lighting concept the generic laboratory was equipped with corresponding luminaire systems. The analyses of subject trials are described in [2]."
+}

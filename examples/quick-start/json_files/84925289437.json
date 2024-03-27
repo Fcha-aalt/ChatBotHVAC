@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84925289437,
+    "Title": "Cost-availability curves for hierarchical implementation of residential energy-efficiency measures",
+    "Author": "Villoria-Siegert R.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2015-04-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1007/s12053-014-9291-5",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Historical residential electricity data and natural gas consumption data were collected for, respectively, 1,200 and 178 residences in a small town in the USA. These data were merged with local building and weather databases, and energy consumption models were developed for each residence, revealing substantial variation in heating and cooling intensity. After estimating approximate physical building characteristics, energy profiles for each residence were calculated, and savings from adoption of the most cost-effective energy-efficiency measures for each residence were estimated. Effectively, we wish to leverage commonly available data sets to infer characteristics of building envelopes and equipment, without the need for detailed on-site audits. This study evaluates the potential energy savings for the residences studied and, by extrapolation, for the entire town, as a function of cost if the savings measures were to be implemented in rank-order of cost effectiveness to show that savings penetration for the community comes with nonlinearly increasing cost. The results show that nearly a 32 % collective savings in HVAC energy use could be achieved with a collective levelized cost for energy-saving measures of $10/mmBTU saved if the most cost-effective measures among the entire community are implemented first."
+}

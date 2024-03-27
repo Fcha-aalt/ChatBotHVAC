@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019179651,
+    "Title": "Decentralized temperature control via HVAC systems in energy efficient buildings: An approximate solution procedure",
+    "Author": "Zhang X.",
+    "Journal": "2016 IEEE Global Conference on Signal and Information Processing, GlobalSIP 2016 - Proceedings",
+    "Publication Date": {
+        "$date": "2017-04-19T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/GlobalSIP.2016.7905980",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+    "Affliation Country": "United States",
+    "Cited by count": 15,
+    "Abstract": "This paper presents a real-time decentralized temperature control scheme via Heating Ventilation and Air Conditioning (HVAC) systems for energy efficient buildings, which balances user comfort and energy saving. Firstly, we introduce a thermal dynamic model of building systems and its approximation. Then a steady-state optimization problem is formulated, which aims to minimize the aggregate deviation between zone temperatures and their set points, as well as the building energy consumption. Because this problem is nonconvex, a convex relaxation approach is proposed, and the tightness of the relaxation is proved. We next develop a real-time decentralized algorithm to regulate the zone flow rate, so that the thermal dynamics can be driven to an equilibrium point which is the optimal solution of the steady-state optimization problem. Finally, a numerical example is proposed to illustrate the effectiveness of the control scheme."
+}

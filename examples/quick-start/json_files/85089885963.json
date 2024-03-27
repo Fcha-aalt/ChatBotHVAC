@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089885963,
+    "Title": "Model predictive control for energy-efficient HVAC operation with humidity and latent heat considerations",
+    "Author": "Raman N.S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.apenergy.2020.115765",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Florida",
+    "Affliation Country": "United States",
+    "Cited by count": 31,
+    "Abstract": "Even though energy-efficient climate control of commercial buildings using model predictive control (MPC) has been widely investigated, most MPC formulations ignore humidity and latent heat. The inclusion of moisture makes the problem considerably more challenging, primarily since a cooling and dehumidifying coil model which accounts for both sensible and latent heat transfers is needed. In this work, we propose an MPC controller in which humidity and latent heat are incorporated in a principled manner. We construct low order data-driven models of a cooling and dehumidifying coil that can be used in the MPC formulation. The resulting controller's performance is tested in simulation using a plant that differs significantly from the model used by the optimizer. Additionally, the performance of the proposed controller is compared with that of a naive MPC controller which does not explicitly consider humidity, and also to that of a conventional rule-based controller. Simulations show that the proposed MPC controller outperforms the other two in terms of energy use and thermal comfort. It is also observed that the naive MPC formulation which does not consider humidity leads to poor humidity control under certain conditions. Such violations in humidity can adversely affect occupant comfort and health."
+}

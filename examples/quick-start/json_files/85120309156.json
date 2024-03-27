@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120309156,
+    "Title": "Home energy management algorithm based on deep reinforcement learning using multistep prediction",
+    "Author": "Kodama N.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACCESS.2021.3126365",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Meiji University",
+    "Affliation Country": "Japan",
+    "Cited by count": 7,
+    "Abstract": "In recent years, home energy management systems (HEMS), which enable the automatic control of electrical equipment and home appliances, have been attracting attention as a method for saving electricity at home. HEMS achieve energy saving by visualizing energy consumption at home and controlling energy consuming equipment such as air conditioners. The optimum control law is difficult to attain, owing to uncertainties related to power demand and power supply from the electrical equipment. Deep reinforcement learning has been used to address energy optimization problems for home environments. However, in HEMS, several components such as heating, ventilation, and air conditioning (HVAC) systems, storage batteries, and electric water heaters are simultaneously controlled, and therefore, the action space becomes extremely large. Therefore, it may not be feasible to fully learn the rare experience using traditional deep reinforcement learning methods due to the large size of the state-action space and slow propagation of delayed rewards. In this study, we propose an energy management algorithm that uses the Dual Targeting Algorithm to strongly learn the experience of acquiring high returns using the quick propagation of delayed rewards via multistep returns. The proposed energy management algorithm is applied to a HEMS learning experiment to control a storage battery and an HVAC system, and its performance is compared to that of a Deep Deterministic Policy Gradient-based energy management system. As a result, it is confirmed that the proposed method can reduce the number of hours deviating from the comfort temperature range by about 17% compared to the existing method."
+}

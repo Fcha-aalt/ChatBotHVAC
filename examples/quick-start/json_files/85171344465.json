@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171344465,
+    "Title": "Thermal comfort and energy efficiency evaluation of a novel conductive-radiative Personal Comfort System",
+    "Author": "Rugani R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110787",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Personal Comfort Systems (PCSs) create a localized comfort situation satisfying individual needs. These devices have low power consumption, as they focus on local environment and thus reduce the energy consumption of main HVAC systems by extending ambient control setpoint ranges. This study focuses on assessing a new type of PCS: a warming desk. It uses the two most efficient and effective means of heat transfer for warming a person: conduction (hands) and radiation (lower and upper body parts facing the table). Two different desks were tested, both simultaneously heating upward and downward with different surface temperatures, one with a higher temperature downward and one with a higher temperature upward. The desks were tested by 30 subjects, inside a climatic chamber, kept at 17 °C air temperature. Both desks are capable of generating good overall (whole-body) comfort and thermal sensation, even leaning towards a slightly warm one for someone. Moreover, results showed that PCS based on direct contact with the skin surface temperature should be kept below 36°, while the surface warming by radiation can reach higher temperatures: personal control of power is critical, as not everyone preferred the same operative temperature. The PCS can “correct” the ambient temperature toward the neutral thermal sensation by about 7K, creating improved thermal comfort compared to centralized HVAC. In its current design, the heating surface required 170W, significantly lower than 500/1500W of a common portable electric heater. It is expected that in an optimized design, the power consumption could be reduced further to 30/40W."
+}

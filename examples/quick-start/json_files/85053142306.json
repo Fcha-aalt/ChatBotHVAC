@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053142306,
+    "Title": "Multi-Zone Building Temperature Control and Energy Efficiency Using Autonomous Hierarchical Control Strategy",
+    "Author": "Mei J.",
+    "Journal": "IEEE International Conference on Control and Automation, ICCA",
+    "Publication Date": {
+        "$date": "2018-08-21T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICCA.2018.8444307",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Pretoria",
+    "Affliation Country": "South Africa",
+    "Cited by count": 8,
+    "Abstract": "This paper presents an autonomous hierarchical control (AHC) approach to building heating, ventilation, and air conditioning (HVAC) systems. The building HVAC system is modeled as a network of thermal zones controlled by a central air handling unit and local variable air volume boxes. The control objective is to keep the temperature of each room and zone at a comfortable level while minimizing energy and demand costs. This control strategy is divided into two layers. The upper layer solves an open loop control problem to autonomously generate optimal references by optimizing the demand and energy costs of building HVAC system and the value of the predicted mean vote (PMV) under the time-of-use (TOU) rate structure, where the requirement of the thermal comfort is within a comfortable range. The lower layer is designed as a closed-loop MPC controller to track the trajectory references. Simulation results show that the proposed control strategy is capable of reducing demand and energy costs in comparison with the previous control strategy while maintaining the temperature of each zone at a comfortable level."
+}

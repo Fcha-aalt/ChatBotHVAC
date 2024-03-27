@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040309736,
+    "Title": "Modelling and control of a free cooling system for Data Centers",
+    "Author": "Beghi A.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.11.156",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Padova",
+    "Affliation Country": "Italy",
+    "Cited by count": 26,
+    "Abstract": "Data centers are facilities hosting a large number of servers dedicated to data storage and management. In recent years, their power consumption has increased significantly due to the power density of the IT equipment. In particular, cooling represents approximately one third of the total electricity consumption, therefore efficiently cooling data centers has become a challenging problem and it represents an opportunity to reduce both IT energy costs and emissions environmental impact. The efficiency of computers room air conditioning (CRAC) systems can be increased using both advanced control techniques and new free cooling technologies, such as the indirect adiabatic cooling (IAC), that is the humidification of air under adiabatic conditions. Water sprinkled by spray nozzles humidifies and cools down the air taken from the outside, which then cools down the computers room air by means of a crossflow heat exchanger. In this way, the process air temperature is economically reduced and the cooling process is effective even when the outside temperature is warmer than that desired in the computers room. Beside the traditional approach, that improves energy efficiency of CRAC systems through advanced hardware design, nowadays advanced control systems offer the opportunity to improve both efficiency and performance by mostly acting on software components. In particular, a model-based paradigm can result very useful in the design of the controller. This approach involves three main steps: plant modelling, controller design, and simulations. In this paper, First-Principle Data-Driven (FPDD) techniques have been considered in the modelling phase, in order to obtain a model as simple as possible but accurate enough. All the main components of the plant, such as fans, spray nozzles, heat exchanger, and the computers room have been taken into account and they have been calibrated exploiting real data. The dynamics of the computers room variables (e.g. temperature) are slower than those of the components of the cooling system, due to higher thermal inertias of the computers room. Therefore, fans, heat exchanger, and spray nozzles are described by static models, whereas the computers room is described by a LTI dynamic model. Once obtained a model of the plant, a simulation environment based on Matlab/Simulink is designed accordingly. The developed control system is hierarchical: a supervisor determines the best combination of CRAC water and process air flows which minimizes the total power consumption, while satisfying the cooling demand. This system energy management problem is formulated as a non-linear optimization problem, subject to internal air condition requirements and system operating constraints. The optimization problem is repeatedly solved at each supervision period by using a population based stochastic optimization technique (Particle Swarm Optimization). Results of simulations show that the proposed control system is effective and minimizes the input electric power while satisfying both the data center thermal load and system operating constraints."
+}

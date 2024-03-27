@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088611059,
+    "Title": "Innovative polymeric air–air heat recovery system — Life cycle assessment",
+    "Author": "Marques H.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.egyr.2019.08.084",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade de Aveiro",
+    "Affliation Country": "Portugal",
+    "Cited by count": 3,
+    "Abstract": "The energy consumption of conventional HVAC systems in cold climates is strongly influenced by the ventilation thermal loads required to keep adequate levels of indoor air quality. The improvement of the energy efficiency of such systems may be achieved using heat recovery systems consisting of heat exchangers used to heat cold outdoor air using as heat source hot discharge air. Today, heat recovery systems are mostly made of metallic materials, namely aluminium alloys. The present paper assesses the technical viability of an alternative concept using polymeric materials. A set of functional requirements have been defined taking into account the operating conditions of the heat recovery system in order to select a polymer that is considered an alternative to the current metals. Polystyrene was the polymer selected. It is also reported a cradle to grave life cycle assessment for polystyrene and aluminium establishing a comparative analysis of environmental impact between both. The indicators considered are: emission of greenhouse gases and energy consumed."
+}

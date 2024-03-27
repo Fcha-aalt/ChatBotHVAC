@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85126718704,
+    "Title": "An explorative study on transient cooling pattern and energy efficiency while using micro-zonal occupant-centric control",
+    "Author": "Jacob J.C.",
+    "Journal": "Architectural Engineering and Design Management",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/17452007.2022.2049439",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Indian Institute of Technology Kharagpur",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "Virtually dividing thermal zones into micro-zones and conditioning them using occupant-centric control (OCC) has emerged as a significant method in reducing cooling energy. Hence, the need arises to study time-sensitive thermal behaviour within micro-zones under OCC as thermal coupling from adjacent micro-zones significantly influences cooling patterns. This will explain possible variations in cooling time and energy consumption under different occupancies and aid in analysing the feasibility of micro-zoning as an efficient strategy. This study aims at exploring the key parameters that influence cooling patterns under micro-zonal OCC. Effects of four factors, namely indoor ambient temperature, supply air velocity, thermostat location and occupancy are explored using validated transient state CFD simulations for a hypothetical open-plan office. Results indicate that compared to zone conditioning, micro-zonal OCC can reduce about 20%–70% overall cooling energy while maintaining setpoint conditions and show the following three patterns: rate of cooling in occupied micro-zones decreases as they start to cool unoccupied zones through thermal coupling; supply air velocity and ambient temperature impact thermal coupling and the size of a chosen micro-zone influences energy load. This study is the first attempt at transient exploration of thermal developments within micro-zones under the influence of relevant parameters and is a necessary precursor to experimental studies on micro-zonal OCC. HIGHLIGHTS • Dividing thermal zones into micro-zones under the OCC saves 20%–70% energy. • First attempt at transient exploration of thermal developments within micro-zones. • The supplied air velocity, ambient temperature and micro-zone size influence HVAC energy."
+}

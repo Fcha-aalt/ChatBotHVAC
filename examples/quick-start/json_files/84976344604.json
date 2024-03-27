@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84976344604,
+    "Title": "Evaluation of the influence of climate warming and building ageing on building energy consumption",
+    "Author": "Waddicor D.",
+    "Journal": "14th International Conference of IBPSA - Building Simulation 2015, BS 2015, Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Catalonia Institute for Energy Research IREC",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "This study uses a building energy simulation tool to model a real building in Torino, northern Italy. The focus of the research was to consider the combined effect of the predicted warming climate and building ageing on the building energy performance. The study projects global warming and building ageing effects into the future, using IPCC predicted scenarios and projections for building component ageing. Results from the climate-only simulation showed a dominant decrease in the building heating energy usage, which overrides the increase in the cooling load. The ageing study showed an increase in the building energy consumption due to components ageing, particularly the HVAC equipment. When combining the effects of climate and building ageing, the latter was found to have a significant impact on the overall future energy performance of the building."
+}

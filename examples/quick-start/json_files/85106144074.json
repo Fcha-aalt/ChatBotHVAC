@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106144074,
+    "Title": "Smart construction companies using internet of things technologies",
+    "Author": "Fadil Z.A.",
+    "Journal": "Periodicals of Engineering and Natural Sciences",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.21533/pen.v9i2.1858",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Imam Ja'afar Al-Sadiq University",
+    "Affliation Country": "Iraq",
+    "Cited by count": 1,
+    "Abstract": "The digital world is enriched due to the increase in the number of things which are rapidly connecting to the Internet. The Internet of Things (IoT) facilitates and improves the work efficiency and human life in various fields. IoT was adopted extensively to male buildings more effective and extra smart. For example, buildings are consuming a considerable energy amount. In buildings, there is a critical requirement for energy efficiency, whereas one of the smart building’s aims is monitoring, reducing and managing the energy consumption of buildings without compromising the operational efficiency and the comfort of occupants. The systems of Heating, Ventilation and Air Conditioning (HVAC) are contributing to considerable consumption of energy in buildings. Also, plug loads and lighting are consuming a lot energy. Thus, smart buildings have the ability of using many IoT sensor types in HVAC along with other mechanical systems making such more adaptive and intelligent. The embedded sensors as well as their related controllers which are mounted in smart buildings are generating a huge amount of data (big data), such data might be subjected to extraction, filtration ana analyzation and utilized for the analytics of smart buildings. For example, the big data analytics might be utilized for analyzing and improving the energy efficiency in addition to the residents’ overall user experience in building. It has been verified that there is an increased focus on smart buildings and big data analytics and management. Yet, there is a requirement for identifying the problems and solutions for overcoming them in such field. With the use of a design research method and model driven architecture, this study aims to develop such system. The major aim of this work is introducing a technique with increased possibility for moving Intelligent Buildings (IBs) towards next-generation model. It depends on IoT adapted to IB for integrating smart re-configurable subsystems and components of IB into Enterprise Network Integrated Building Systems (ENIBSs), also, if possible, into ENIBS’ global networks. The study is presented in the following way. Section 2 is providing an overview of IoT, it is indicating that IoT is relatively new and no associated contribution on using the IoT on IBs or, on the ENIBSs, were indicated in such regard. Section3 is presenting the methodological model that has been used to design a generic model for the IoT with the applicability in the IBs as well as generic architectures for re-configurable smart plug-and-play control systems for quick configuration and integration regarding smart components of the IB. Section 4 provides the theory’ experimental test. The study ends up with the conclusions and some suggestions for the future work."
+}

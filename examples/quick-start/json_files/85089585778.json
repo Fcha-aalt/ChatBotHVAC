@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089585778,
+    "Title": "Early prediction of cooling load in energy-efficient buildings through novel optimizer of shuffled complex evolution",
+    "Author": "Zheng S.",
+    "Journal": "Engineering with Computers",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/s00366-020-01140-6",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Guangdong University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 16,
+    "Abstract": "The crucial significance of proper management of heating, ventilating, and air conditioning systems in energy-efficient buildings were the main reason for dedicating this study to test a novel approach for this task. Shuffled complex evolution (SCE) is an efficient metaheuristic technique that is used to optimize the performance of a multi-layer perceptron neural network (MLP) for accurate prediction of cooling load (CL). The CL information of 768 residential buildings, obtained from a vast computer simulation in the published literature, is used to train and validate the performance of the proposed model. The results showed that the SCE could properly surmount the computational drawbacks of the MLP, as its learning and prediction accuracies are enhanced by 19.52 and 22.84%, respectively. Also, the SCE outperformed two benchmark optimizers of moth–flame optimization and optics inspired optimization in both training and testing phases. Another advantage of the tested SCE-MLP was the considerably simpler structure, and consequently, shorter computation time (722 vs. 1050 and 46,192 s). Therefore, the proposed model can be promisingly used in practice for the early prediction of CL in energy-efficient buildings."
+}

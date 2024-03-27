@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127517287,
+    "Title": "What kinds of building energy-saving retrofit projects should be preferred? Efficiency evaluation with three-stage data envelopment analysis (DEA)",
+    "Author": "Wang Z.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.rser.2022.112392",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing Institute of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 23,
+    "Abstract": "Building energy-saving retrofit projects (BERPs) have been widely implemented due to pressure to reduce emissions to meet carbon neutrality targets. However, it is still not clear which kind of BERP is most efficient during implementation. This paper proposed a three-stage DEA model for evaluating the efficiency of BERPs. Our research found that ineffective scale was the main reason for the low efficiency of BERPs. Buildings could obtain better energy-saving effects by appropriately expanding the scale of the BERPs. Geographic areas with developed construction industries had larger BERPs with better energy-saving effects. From the perspective of building types, BERPs on shopping malls had the best energy saving efficiency, followed by those on multifunctional buildings and hotel buildings. From the perspective of the retrofit objects, BERPs on heating, ventilation and air conditioning (HVAC) systems had the greatest efficiency, followed by BERPs on building envelopes. This study could suggest preferred strategies for the future development of BERPs."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178106823,
+    "Title": "Intelligent Learning Methods for Load Frequency Control in Smart Homes",
+    "Author": "Deepa K.R.",
+    "Journal": "Proceedings of 2023 IEEE 2nd International Conference on Industrial Electronics: Developments and Applications, ICIDeA 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICIDeA59866.2023.10295181",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "REVA University",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Home energy management systems (HEMS) are to optimize the growing demand in the requirements of consuming energy with no compromise in consumer needs. The factor by which HEMSs operates is cost of energy consumed, reducing the peak load, environmental factors, etc. The load-frequency control (LFC) balances the generated power and load consumption by controlling frequency in each region. The purpose of LFC is minimization of the steady state error and transient disturbances, by means of control in each area it is used to balance both load and generation. LFC's primary goal is to reduce transient deviations and steady state error to zero beforehand. This paper includes controls load power and frequency using a simple control structure for primary load management and tie line power transmission for secondary load management using MATLAB/SIMLINK. The transient and steady state performance of the control system is compared with Fuzzy Logic (FL), Artificial Neural Network (ANN), Back Propagation Neural Network (BPNN), Neuro Fuzzy (ANFIS), etc."
+}

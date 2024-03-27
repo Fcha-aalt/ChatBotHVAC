@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079621870,
+    "Title": "Using real-time electricity prices to leverage electrical energy storage and flexible loads in a smart grid environment utilizing machine learning techniques",
+    "Author": "Sheha M.",
+    "Journal": "Processes",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/PR7120870",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "John and Marcia Price College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "With exposure to real-time market pricing structures, consumers would be incentivized to invest in electrical energy storage systems and smart predictive automation of their home energy systems. Smart home automation through optimizing HVAC (heating, ventilation, and air conditioning) temperature set points, along with distributed energy storage, could be utilized in the process of optimizing the operation of the electric grid. Using electricity prices as decision variables to leverage electrical energy storage and flexible loads can be a valuable tool to optimize the performance of the power grid and reduce electricity costs both on the supply and demand sides. Energy demand prediction is important for proper allocation and utilization of the available resources. Manipulating energy prices to leverage storage and flexible loads through these demand prediction models is a novel idea that needs to be studied. In this paper, different models for proactive prediction of the energy demand for an entire city using different machine learning techniques are presented and compared. The results of the machine learning techniques show that the proposed nonlinear autoregressive with exogenous inputs neural network model resulted in the most accurate predictions. These prediction models pave the way for the demand side to become an important asset for grid regulation by responding to variable price signals through battery energy storage and passive thermal energy storage using HVAC temperature set points."
+}

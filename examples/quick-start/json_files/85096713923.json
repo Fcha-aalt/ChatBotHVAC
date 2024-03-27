@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096713923,
+    "Title": "2020 5th International Conference on Power and Renewable Energy, ICPRE 2020",
+    "Author": NaN,
+    "Journal": "2020 5th International Conference on Power and Renewable Energy, ICPRE 2020",
+    "Publication Date": {
+        "$date": "2020-09-12T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 124 papers. The topics discussed include: simulation study on the impact of microgrids on DC arc; research on wavelet transformation for fault line selection of distribution network; detection and casing analysis of internal partial discharge for 35kV high voltage switchgear; design and simulation of adaptive internal model control algorithm; the application of ELCID on inter-laminar insulation failure of generator stator core; control of electric boiler with heat storage for the mitigation of wind curtailment; modeling and performance simulation of 100 mw solar thermal power plant; consumer engagement in virtual power plants through gamification; prediction of NOx in SCR inlet of thermal power plant based on mutual information and long short-term memory network; and research on demand response strategy of HVAC based on deep reinforcement learning."
+}

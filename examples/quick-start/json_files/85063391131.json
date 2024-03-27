@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063391131,
+    "Title": "Implementation of energy conservation in a commercial building using BEM and sub-metering technology",
+    "Author": "Wang C.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-03-04T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/238/1/012003",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "In the whole life cycle of buildings, proper building energy management is important to achieve energy efficiency. In this research, Building Energy Model (BEM) was used to analyze the energy consumption of a hotel building. The BEM of the building with information of the HVAC system was established to simulate the energy consumption. The performance of the HVAC system was measured using the sub-metering technology. The comparison between the simulation results and the measured performance revealed several problems of the HVAC system in operation, including unreasonable setpoint temperature of the chilled water and a small temperature difference between the supplied and returned chilled water. The BEM was adjusted to take into account the real operational load. Finally, an optimal setpoint temperature schedule of the chilled water was proposed to reduce the operational energy consumption of the HVAC system."
+}

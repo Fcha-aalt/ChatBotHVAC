@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088930245,
+    "Title": "Experimental characterization of a photovoltaic solar-driven cooling system based on an evaporative chimney",
+    "Author": "Ruiz J.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.renene.2020.06.111",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad Miguel Hernández de Elche",
+    "Affliation Country": "Spain",
+    "Cited by count": 8,
+    "Abstract": "Photovoltaic systems combined with electrical compression chillers offer a high potential for energy efficient cooling with a high economic feasibility. They can significantly reduce the energy consumption in the building sector. The main goal of this study is to analyse the performance of a PV solar driven water-water chiller. The novelty of the work relies on the use of a novel system, called photovoltaic evaporative chimney, which aims to increase the efficiency of solar photovoltaic modules by evaporative cooling. The complete solar cooling system consists of four PV panels (1.02 kWp) and a 3.8 kW refrigeration capacity water-cooled chiller. A systematic study was undertaken and nine sets of experiments were conducted in summer conditions of a Mediterranean climate (Spain). The system's ability to convert the solar energy into refrigeration capacity was observed to be 0.49 on average for the tests performed. The solar contribution (ratio of PV energy consumption to total absorbed energy) was 64.40%. The system produced on average 11.32 cooling kWh per each kWh consumed from the grid. The influence of the ambient conditions on the key performance indicators has been assessed and global correlations for use in more detailed energy analyses have been developed."
+}

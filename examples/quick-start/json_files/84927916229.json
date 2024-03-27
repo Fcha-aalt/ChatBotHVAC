@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84927916229,
+    "Title": "Development and verification of compact transient heat exchanger models using transient effectiveness methodologies",
+    "Author": "Gao T.",
+    "Journal": "International Journal of Heat and Mass Transfer",
+    "Publication Date": {
+        "$date": "2015-08-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.ijheatmasstransfer.2015.03.091",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Thomas J. Watson College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 16,
+    "Abstract": "Heat exchangers are important units in HVAC systems, such as the cooling systems used in data centers. The effectiveness of the heat exchangers significantly influences the thermal performance and energy efficiency of the cooling systems. Normally, the heat exchangers are designed for steady state operations. However, under practical working conditions, the events of changing operational conditions and working load may influence temperature and mass flow rate variations to the heat exchangers. For instance, typically data centers are dynamically operated due to the time and temperature dependent workload allocations. Therefore, the heat exchangers used in a data center operate under transient scenarios. Therefore, it is important to characterize the dynamic response of the heat exchanger. In this study, two compact transient modeling methods for heat exchangers are proposed. A transient effectiveness concept and model are used to develop transient modeling methodologies. Also, Computational Fluid Dynamic (CFD) heat exchanger models are developed using the compact transient methodologies. Verifications of the CFD compact models are carried out by comparing them with physics based thermal dynamic heat exchanger models and experimental measurements. The results show good agreement. Different heat exchanger configurations, including counter flow and cross flow heat exchangers are modeled and verified. The transient response of the heat exchanger under temperature variation, mass flow rate variation, and multiple variation combination scenarios are performed using the CFD compact models."
+}

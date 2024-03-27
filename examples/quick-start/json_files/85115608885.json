@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115608885,
+    "Title": "Smart building energy inefficiencies detection through time series analysis and unsupervised machine learning",
+    "Author": "Talei H.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-10-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14196042",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+    "Affliation Country": "Morocco",
+    "Cited by count": 18,
+    "Abstract": "The climate of Houston, classified as a humid subtropical climate with tropical influences, makes the heating, ventilation, and air conditioning (HVAC) systems the largest electricity consumers in buildings. HVAC systems in commercial buildings are usually operated by a centralized control system and/or an energy management system based on a fixed schedule and scheduled control of a zone setpoint, which is not appropriate for many buildings with changing occupancy rates. Lately, as part of energy efficiency analysis, attention has focused on collecting and analyzing smart meters and building-related data, as well as applying supervised learning techniques, to propose new strategies to operate HVAC systems and reduce energy consumption. On the other hand, unsupervised learning techniques have been used to study the consumption information and profile characterization of different buildings after cluster analysis is performed. This paper adopts a different approach by revealing the power of unsupervised learning to cluster data and unveiling hidden patterns. In this study, we also identify energy inefficiencies after exploring the cluster results of a single building’s HVAC consumption data and building usage data as part of the energy efficiency analysis. Time series analysis and the K-means clustering algorithm are successfully applied to identify new energy-saving opportunities in a highly efficient office building located in the Houston area (TX, USA). The paper uses 1-year data from a highly efficient Leadership in Energy and Environment Design (LEED)-, Energy Star-, and Net Zero-certified building, showing a potential energy savings of 6% using the K-means algorithm. The results show that clustering is instrumental in helping building managers identify potential additional energy savings."
+}

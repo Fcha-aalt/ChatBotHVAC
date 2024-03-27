@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125463364,
+    "Title": "Temperature clusters in commercial buildings using k-means and time series clustering",
+    "Author": "Wickramasinghe A.",
+    "Journal": "Energy Informatics",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1186/s42162-022-00186-8",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Manitoba",
+    "Affliation Country": "Canada",
+    "Cited by count": 10,
+    "Abstract": "An efficient building should be able to control its internal temperature in a manner that considers both the building’s energy efficiency and the comfort level of its occupants. Thermostats help to control the temperature within a building by providing real-time data on the temperature inside that space to determine whether it is within the acceptable range of that building’s control system, and proper thermostat placement helps to better control a building’s temperature. More thermostats can provide better control of a building, as well as a better understanding of the building’s temperature distribution. In order to determine the minimum number of thermostats required to accurately measure and control the internal temperature distribution of a building, it is necessary to find the locations that show similar environmental conditions. In this paper, we analyzed high resolution temperature measurements from a commercial building using wireless sensors to assess the performance and health of the building’s HVAC zoning and controls system. Then we conducted two cluster analyses to evaluate the efficiency of the existing zoning structure and to find the optimal number of clusters. K-means and time series clustering were used to identify the temperature clusters per building floor. Based on statistical assessments, we observed that time series clustering showed better results than k-means clustering."
+}

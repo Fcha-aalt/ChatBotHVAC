@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168281528,
+    "Title": "Energy Consumption Optimization for Heating, Ventilation and Air Conditioning Systems Based on Deep Reinforcement Learning",
+    "Author": "Peng Y.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ACCESS.2023.3305683",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "China University of Petroleum (East China)",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) energy consumption now accounts for a major portion of energy use for buildings. Therefore, finding the optimal energy-saving control strategy for HVAC systems to optimize energy consumption has become crucial in realizing energy savings, emission reductions, and green buildings. Traditional methods for HVAC parameter control require complex physical model calculation; continuous and coupled parameters are handled poorly. Developing deep reinforcement learning (DRL) methods provides new ideas for HVAC energy consumption optimization. Herein, a DRL-based energy consumption optimization framework for HVAC systems is proposed. First, an HVAC system energy consumption prediction model based on a convolutional neural network-long short-term memory (CNN-LSTM) network is suggested to approximate the real world. This model solves the efficiency problem of energy consumption prediction while also providing highly accurate predictions of HVAC energy consumption. We propose an enhanced deep deterministic policy gradient (E-DDPG) energy consumption optimization algorithm for HVAC systems based on an improved training strategy to obtain the best real-time energy consumption control strategy for HVAC systems. Finally, experiments using real-world building HVAC control data sets were conducted to evaluate our models. The experiments show that the CNN-LSTM model for HVAC system energy consumption prediction outperforms baseline models while reducing training time by 42.9%. Compared to the baseline algorithm, the E-DDPG algorithm using an improved training strategy requires 20% fewer iterations for convergence, has a 14.8% narrower fluctuation interval during the training process, and improves the energy efficiency ratio of HVAC systems by 49%."
+}

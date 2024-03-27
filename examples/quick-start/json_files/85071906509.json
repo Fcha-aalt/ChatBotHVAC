@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071906509,
+    "Title": "Improving effective energy-efficient commercial package dedicated outside air systems located in hot-humid climate zones",
+    "Author": "Withers C.R.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "Mechanically distributing an appropriate amount of outside air (OA) ventilation throughout a commercial building with variable occupancy c challenging without over-ventilating, and can have significant energy costs associated. This particularly tests engineers that seek to optimize en efficiency with effective variable OA throughout different %ones. Conditioning OA in hot-humid climates takes special consideration due to the very high latent loads that must be removed. Simple HVAC systems must constantly operate the supply fan to meet ventilation requirements, even if indoor comfort temperature has been met. This method of operatio result in high indoor humidity during periods of low cooling load. It may also result in over-cooling if the set point is lowered to increase dehumidi particularly with conventional packaged and split HVAC systems. Using a dedicated outside air system (DOAS) to handle 100% of the ventilation air has been part of the solution to improve moisture control and over-cooling issues. This improves comfort control by dedicating systems properly sized solely for heating and air conditioning (НАС) loads, and dedicati DO AS specifically sized for the OA ventilation load. It can also make it easier to distribute variable amounts of OA to different spnes. While DOAS help improve control, there are still challenges to managing energy-efficient OA conditioning and distribution in buildings with variable cooling loa occupancy. Many packaged DOAS use air distribution fans that operate at constant speed and vary airflow by simply using air damper controls. Fix flow designs have more limitations to energy savings potential than variable supply flow DOAS. The advancement of variable speed fan motors and variable refrigerant flow technologies have made their way into space conditioning system good energy savings potential as they can operate very efficiently at varying load levels. These advancements had recently been developed and package DOAS, and a field study was completed through third-party evaluation. The variable-capacity DOAS was put into a field trial at a high school cafeteria. Testing showed that the unit was able to deliver 55°F-60°F (12.8°C-15.6°C) dewpoint supply air under a variety of weather conditions and at variable ventilation rates. Analysis indicated a potential 77% reduction in annual DOAS energy when a schedule-based controlled fixed-flow DOAS (EER=10) was replaced with the variable capacity DOAS unit using CO2 demand-based control. Demand control accounted for about 36% of the total savings."
+}

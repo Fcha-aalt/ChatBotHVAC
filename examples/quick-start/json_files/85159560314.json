@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85159560314,
+    "Title": "Energy efficient ventilation and indoor air quality in the context of COVID-19 - A systematic review",
+    "Author": "Moghadam T.T.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.rser.2023.113356",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "University College Cork",
+    "Affliation Country": "Ireland",
+    "Cited by count": 4,
+    "Abstract": "New COVID-19 ventilation guidelines have resulted in higher energy consumption to maintain indoor air quality (IAQ), and energy efficiency has become a secondary concern. Despite the significance of the studies conducted on COVID-19 ventilation requirements, a comprehensive investigation of the associated energy challenges has not been discussed. This study aims to present a critical systematic review of the Coronavirus viral spreading risk mitigation through ventilation systems (VS) and its relation to energy use. COVID-19 heating, ventilation and air conditioning (HVAC)-related countermeasures proposed by industry professionals have been reviewed and their influence on operating VS and energy consumption have also been discussed. A critical review analysis was then conducted on publications from 2020 to 2022. Four research questions (RQs) have been selected for this review concerning i) maturity of the existing literature, ii) building types and occupancy profile, iii) ventilation types and effective control strategies and iv) challenges and related causes. The results reveal that employing HVAC auxiliary equipment is mostly effective and increased fresh air supply is the most significant challenge associated with increased energy consumption due to maintaining IAQ. Future studies should focus on novel approaches toward solving the apparently conflicting objectives of minimizing energy consumption and maximizing IAQ. Also, effective ventilation control strategies should be assessed in various buildings with different occupancy densities. The implications of this study can be useful for future development of this topic not only to enhance the energy efficiency of the VS but also to enable more resiliency and health in buildings."
+}

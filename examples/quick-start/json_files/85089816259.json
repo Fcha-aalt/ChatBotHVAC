@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089816259,
+    "Title": "Closed-loop identification for model predictive control of HVAC systems: From input design to controller synthesis",
+    "Author": "Valenzuela P.E.",
+    "Journal": "IEEE Transactions on Control Systems Technology",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/TCST.2019.2917675",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Royal Institute of Technology (KTH)",
+    "Affliation Country": "Sweden",
+    "Cited by count": 14,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems are responsible for maintaining occupants' thermal comfort and share a large portion of the overall building energy use. Hence, it is of great interest to improve the performance of HVAC control systems and thus the building energy efficiency. Model predictive control (MPC) has been proved to be a promising control strategy to be employed in this field. However, MPC implementation relies on the model of the system, and inaccurate models can deteriorate the control performance, while overly complicated models can lead to the prohibitive computational burden. Because of this, existing models do not usually allow the MPC controller to adjust multiple set points (e.g., both temperature and flow rates) and do not include the dynamics of the heating and ventilation subsystems with their local controllers. In this paper, we address the challenge of developing more reliable HVAC models for MPC controllers based on the experimental data. Data are obtained from an experiment designed using a graph theoretical technique, which guarantees maximum information content in the data. The resulting models are employed to design local controllers of the heating and ventilation subsystems, which are experimentally tested in a real HVAC test bed. A supervisory MPC controller that incorporates the closed-loop models of the heating and ventilation subsystems is then developed. This can lead to a control strategy able to more effectively adapt key HVAC set points based on weather conditions, occupancy, and actual thermal comfort, as shown by a numerical study based on the data from the HVAC test bed."
+}

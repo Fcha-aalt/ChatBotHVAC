@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84958554621,
+    "Title": "Analysis of energy management for heating, ventilating and air-conditioning systems",
+    "Author": "Elhelw M.",
+    "Journal": "Alexandria Engineering Journal",
+    "Publication Date": {
+        "$date": "2016-06-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.aej.2016.01.034",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 19,
+    "Abstract": "In the office buildings, large energy is consumed due to poor thermal performance and low efficiencies of HVAC systems. A cooling load calculation is a basis for the design of building cooling systems. The current design methods are usually based on deterministic cooling loads, which are obtained by using design parameters. However, these parameters contain uncertainties, and they will be different from that used in the design calculation when the cooling system is put in use. The actual cooling load profile will deviate from that predicted in design. A modified bin method was used in this paper to optimize the energy efficiency ratio (EER). A design optimization method is proposed by considering uncertainties related to the cooling load calculation. Impacts caused by the uncertainties of seven factors are considered, including the outdoor weather conditions and internal heat sources. The cooling load distribution is analyzed. Comparison between the modified bin method and CLTD/SCL/CLF method is also conducted. With the distributions of their energy consumption, decision makers can select the optimal configuration based on quantified confidence. According to the economic benefits and energy efficiency ratio, using modified bin method will increase the overall energy efficiency ratio by 45.57%."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161314712,
+    "Title": "Charging water load prediction for a thermal-energy-storage air-conditioner of a commercial building with a multilayer perceptron",
+    "Author": "Sanzana M.R.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-09-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107016",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Nottingham Malaysia Campus",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 1,
+    "Abstract": "This research focuses on the development of a machine learning model for predicting the water volume that needs to be chilled in Thermal-Energy-Storage-Air-Conditioning (TES-AC) systems. TES-AC technology uses thermal energy storage tanks to store and distribute chilled water during peak hours, reducing the need for the continuous operation of chillers and resulting in significant cost savings and a reduction in carbon emissions. However, determining the optimal amount of chilled water to generate and store each day can be challenging. The aim of this research is to design a machine learning model that takes input variables about the next day's weather, which day of the week it is, and occupancy data and outputs a predicted water volume that needs to be chilled. It utilizes a Multilayer Perceptron for charging water load prediction in TES-AC systems to assist facility managers in making informed decisions minimizing disruptions. By fine-tuning the hyperparameters of the deep learning model and evaluating different metrics, the model was trained sufficiently and optimized. The model provides a specific water range as a target output, giving facility managers a small set of ranges to choose from, minimizing errors, while the accuracy achieved was 93.4%. The developed model can be retrained for other TES-AC plants, without requiring specific sensor input that might not be available in different TES-AC systems. That makes the developed solution more flexible and can encourage more stakeholders to use TES-ACs which in turn would lead to greener buildings that would benefit the environment."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095579160,
+    "Title": "Dynamic modelling and multivariable control of buildings climate by using sliding mode control",
+    "Author": "Shah A.",
+    "Journal": "Proceedings of 2020 IEEE International Conference on Artificial Intelligence and Information Systems, ICAIIS 2020",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICAIIS49377.2020.9194861",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Southwest Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "The area of power consumption in constructions gives challenging control opportunities. Heating, Ventilation and Air-Conditioning (HVAC) system in constructions have to be precisely controlled so as to assure the occupants thermal comfort with reduced power consumption. A robust controller in the existence of parametric uncertainties is intended for temperature control of a building. The controller framework includes Sliding mode control (SMC) having variable constraints. The parametric uncertainties are considered explicitly in the synthesis of the control law. A proportional integral (PI) control is additionally designed for the comparison. The simulation results evince that proposed controller achieves better performance with less steady state and overshoot. Furthermore, SMC use less heating power to achieve tracking targets."
+}

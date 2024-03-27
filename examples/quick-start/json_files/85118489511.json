@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118489511,
+    "Title": "Machine-learning-based model predictive control with instantaneous linearization – A case study on an air-conditioning and mechanical ventilation system",
+    "Author": "Yang S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2021.118041",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Energy Research Institute @NTU",
+    "Affliation Country": "Singapore",
+    "Cited by count": 22,
+    "Abstract": "Machine-learning (ML) –based building models have been gaining popularity in constructing model predictive control (MPC) for building energy management applications. However, ML-based building models are usually nonlinear so to capture the building dynamics, leading to high computation load for MPC, prohibiting its application for real-time building control. This study proposes a ML-based MPC with an instantaneous linearization (IL) scheme, which employs real-time building operation data to linearize the nonlinear ML-based building model for constructing a linear MPC at each control interval. The proposed ML-based MPC with IL system is implemented to control an air conditioning system in an office of a general hospital building located in Singapore for experimental evaluation of its control performance. The ML-based MPC with IL is compared to a ML-based MPC that directly uses a nonlinear ML-based building model and the original reactive-control-based thermostat of the office. Results show that the ML-based MPC with IL significantly reduced the computation time (by more than 70 times) as compared to the ML-based MPC while retained most of the advantages of the ML-based MPC. The ML-based MPC with IL and the ML-based MPC achieved 31.6% and 26.0% reductions, respectively, in cooling energy consumption as compared to the original thermostat. Meanwhile, both the MPC systems significantly improved indoor thermal comfort for the office as compared to the original thermostat. The study demonstrated that using IL for ML-based MPC could substantially improve computation efficiency with no obvious performance degradation in terms of thermal comfort and energy saving."
+}

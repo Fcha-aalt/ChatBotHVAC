@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061899977,
+    "Title": "Energy efficiency solutions for buildings: Automated fault diagnosis of air handling units using generative adversarial networks",
+    "Author": "Zhong C.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-02-07T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12030527",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "China Jiliang University",
+    "Affliation Country": "China",
+    "Cited by count": 47,
+    "Abstract": "Automated fault diagnosis (AFD) for various energy consumption components is one of the main topics for energy efficiency solutions. However, the lack of faulty samples in the training process remains as a difficulty for data-driven AFD of heating, ventilation and air conditioning (HVAC) subsystems, such as air handling units (AHU). Existing works show that semi-supervised learning theories can effectively alleviate the issue by iteratively inserting newly tested faulty data samples into the training pool when the same fault happens again. However, a research gap exists between theoretical AFD algorithms and real-world applications. First, for real-world AFD applications, it is hard to predict the time when the same fault happens again. Second, the training set is required to be pre-defined and fixed before being packed into the building management system (BMS) for automatic HVAC fault diagnosis. The semi-supervised learning process of iteratively absorbing testing data into the training pool can be irrelevant for industrial usage of the AFD methods. Generative adversarial network (GAN) is well-known as an unsupervised learning technique to enrich the training pool with fake samples that are close to real faulty samples. In this study, a hybrid generative adversarial network (GAN) is proposed combining Wasserstein GAN with traditional classifiers to perform fault diagnosis mimicking the real-world scenarios with limited faulty training samples in the training process. Experimental results on real-world datasets demonstrate the effectiveness of the proposed approach for fault diagnosis problems of AHU subsystem."
+}

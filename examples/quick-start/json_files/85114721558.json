@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114721558,
+    "Title": "Analytic hierarchy process-based fuzzy post mining method for operation anomaly detection of building energy systems",
+    "Author": "Zhang C.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111426",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang University",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "Association rule mining has shown outstanding capacity in extracting operation patterns from numerous building operational data. However, only a very small portion of them is valuable for energy efficiency enhancement. Advanced post mining methods are necessary for automatically deleting most of worthless association rules. Therefore, this study proposes an analytic hierarchy process-based fuzzy post mining method. Three criteria and six corresponding sub-criteria are developed to evaluate the value of each association rule in energy efficiency enhancement. They offer new levels to assess the value of association rules. The fuzzy set theory is introduced to grade each sub-criterion of an association rule. It considers the uncertainties from the imprecise judgments, which can improve the robustness of rule assessing. Analytic hierarchy process is adopted to determine the weight of each criterion/sub-criterion for getting the weighted overall score of an association rule. It provides a solution to assessing the value of association rules from multiple aspects, which can improve the performance of post mining. The proposed method is evaluated using 117,636 association rules extracted from the one-year historical operational data of an actual chiller plant. Four common indexes (support, confidence, lift and distance correlation) are selected as a traditional method for comparison with the proposed method. The two methods can both filter out approximately 96.00% of worthless association rules. As for valuable association rules, the traditional method only extracts 17.28% of them, while this proportion is 93.51% for the proposed method. It proves that the proposed method has excellent performance of valuable association rule extraction."
+}

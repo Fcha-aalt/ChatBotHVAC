@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127487470,
+    "Title": "A review of computing-based automated fault detection and diagnosis of heating, ventilation and air conditioning systems",
+    "Author": "Chen J.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.rser.2022.112395",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "The University of Utah",
+    "Affliation Country": "United States",
+    "Cited by count": 48,
+    "Abstract": "Faults in Heating, Ventilation, and Air Conditioning (HVAC) systems of buildings result in significant energy waste in building operation. With fast-growing sensing data availability and advancement in computing, computational modeling has demonstrated strong capability to detect and diagnose HVAC system faults, hence, ensuring efficient building operation. This paper comprehensively reviews the state-of-the-art computing-based fault detection and diagnosis (FDD) for HVAC systems. Overall, the reviewed computing-based FDD methods are classified as two major approaches: knowledge-based and data-driven approaches. We then identify multiple important topics, including data availability, training data size, data quality, approach generality, capability, interpretability, and required modeling efforts, along with corresponding metrics to summarize the most updated FDD development. Generally, the knowledge-based approaches are further divided as physics-based modeling, Diagnostic Bayesian Network, and performance indicator-based methods while data-driven approaches include supervised learning, unsupervised learning, and regression and statistics-based methods. State-of-the-art FDD development, remaining challenges, and future research directions are further discussed to push forward FDD in practice. Availability of fault data, capability of existing methods to deal with complex fault situations (such as simultaneous faults), modeling interpretability for data-driven methods, and required engineering efforts for physics-based methods are identified as remaining challenges in FDD development. Improving modeling fidelity and reducing modeling efforts are essential for applying physics-based methods in real buildings. Meanwhile, addressing fault data availability, increasing algorithm adaptability, and handling multiple faults are essential to further enhance the applicability of data-driven FDD approaches."
+}

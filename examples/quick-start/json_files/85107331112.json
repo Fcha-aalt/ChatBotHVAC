@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107331112,
+    "Title": "Scenario-based HVAC energy cost optimizer for heterogeneous heat-source systems of real-life hospital building",
+    "Author": "Park S.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Orea Electric Power Corporation",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "This paper presents the development of a HVAC energy cost optimizer for a real-life hospital building. The building's HVAC is configured with two Absorption Chiller-Heaters (ACHs, 150 & 120 US Refrigeration Ton [RT] respectively), four heat pumps (HPs, 20 USRT each), and one boiler (353 kW). The building's facility team suggests that their goal should be minimizing not 'energy use' but 'energy cost' and the building's operational scheme be made once a day in order to reduce operational effort. To solve this, the authors developed simulation models for ACHs (gas-fired), the HPs (electric) and the boiler (gas-fired). In addition to the simulation models, a sequencing control of the HPs was also developed. The HVAC energy cost optimizer estimates daily energy use and energy cost based on calculated daily energy demand of the building. The HVAC energy cost optimizer compares all possible operation scenarios and select an optimal one per day. It was found that the building's energy cost can be saved by 23.5%. The reasons for the saving are threefold: (1) The HPs outperform the ACHs and the boiler in terms of thermal efficiency and cost-effectiveness. (2) The HVAC energy cost optimizer can select cost-effective energy sources considering the building's energy demand, energy price (gas, electricity), and the equipment (ACHs, HPs, boiler) efficiency. (3) The sequencing control suggested by the authors enables the HPs to run at a higher COP than an existing control. It is highlighted in the paper that owing to the use of the simulation models, the simple and straightforward scenario-based control can save significant energy compared to the existing control of the building."
+}

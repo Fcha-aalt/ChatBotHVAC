@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106175205,
+    "Title": "Occupancy detection for smart hvac efficiency in building energy: A deep learning neural network framework using thermal imagery",
+    "Author": "Acquaah Y.",
+    "Journal": "Proceedings - Applied Imagery Pattern Recognition Workshop",
+    "Publication Date": {
+        "$date": "2020-10-13T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/AIPR50011.2020.9425091",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "North Carolina Agricultural and Technical State University",
+    "Affliation Country": "United States",
+    "Cited by count": 13,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) costs a significant portion of total building energy consumption and aiming occupant comfort is imminent to measure building efficiency. Continuous detection of occupancy numbers in a large conference room can be used to automate the HVAC system for energy efficiency and human comfort. In this study, two techniques are investigated to estimate the number of people in a large room by using Thermal Camera Imagery. Firstly, the performance of a pretrained ResNet-50 deep learning technique with Support Vector Machine (SVM) multi classification is investigated. Additionally, the performance of pre-trained AlexNet with transfer learning model is proposed to classify the number of people present in a room using thermal images. The performance accuracies of ResNet-50 with multi class SVM and proposed model are around 96% and over 98% respectively. We observed that the proposed model always performed better than ResNet-50 + SVM, when tested with various size of image datasets, while the computational time for training model also increased proportionally with increase in image data size. However, ResNet-50 + SVM model maintained the same computational time against the increase in image data size."
+}

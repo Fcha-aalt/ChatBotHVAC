@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105858610,
+    "Title": "Autonomic Management of a Building's Multi-HVAC System Start-Up",
+    "Author": "Aguilar J.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACCESS.2021.3078550",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad EAFIT",
+    "Affliation Country": "Colombia",
+    "Cited by count": 3,
+    "Abstract": "Most studies about the control, automation, optimization and supervision of building HVAC systems concentrate on the steady-state regime, i.e., when the equipment is already working at its setpoints. The originality of the current work consists of proposing the optimization of building multi-HVAC systems from start-up until they reach the setpoint, making the transition to steady state-based strategies smooth. The proposed approach works on the transient regime of multi-HVAC systems optimizing contradictory objectives, such as the desired comfort and energy costs, based on the 'Autonomic Cycle of Data Analysis Tasks' concept. In this case, the autonomic cycle is composed of two data analysis tasks: one for determining if the system is going towards the defined operational setpoint, and if that is not the case, another task for reconfiguring the operational mode of the multi-HVAC system to redirect it. The first task uses machine learning techniques to build detection and prediction models, and the second task defines a reconfiguration model using multiobjective evolutionary algorithms. This proposal is proven in a real case study that characterizes a particular multi-HVAC system and its operational setpoints. The performance obtained from the experiments in diverse situations is impressive since there is a high level of conformity for the multi-HVAC system to reach the setpoint and deliver the operation to the steady-state smoothly, avoiding overshooting and other non-desirable transitional effects."
+}

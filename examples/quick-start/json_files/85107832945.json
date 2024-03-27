@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107832945,
+    "Title": "Analysis of energy savings and CO<inf>2</inf> emission reduction contribution for industrial facilities in USA",
+    "Author": "Selim O.M.",
+    "Journal": "Journal of Energy Resources Technology, Transactions of the ASME",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1115/1.4048983",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering &amp; Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "Energy audits can identify energy consumptions, energy costs of the facility and evolve to develop measures to maximize efficiency, optimize supply energy, and eliminate waste. This paper investigates the potential energy savings at 20 different industrial sectors with 152 assessments for various facilities in Wisconsin, USA. On average, eight energy recommendations were suggested and applied in each facility. This paper provides a detailed guideline for each industry in terms of eight different energy categories: heating, ventilation, and air conditioning (HVAC) systems, heat recovery systems, electrical demand management, and utility bills, motors, compressors, waste management, and productivity enhancement, lighting, besides building envelope. In total, the energy savings were as follows: 98 million kWh in the shape of electricity, 561 billion British thermal units (BTUs) gas savings, 44 million gallons water savings, and 2-million-pound solid waste savings. Based on these savings, a 100-thousand-ton reduction in carbon dioxide emissions was obtained."
+}

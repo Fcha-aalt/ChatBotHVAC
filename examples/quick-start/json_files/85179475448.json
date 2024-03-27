@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179475448,
+    "Title": "Low-cost data-driven estimation of indoor occupancy based on carbon dioxide (CO<inf>2</inf>) concentration: A multi-scenario case study",
+    "Author": "Liang X.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2024-04-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.jobe.2023.108180",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sungkyunkwan University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 1,
+    "Abstract": "Occupancy levels significantly influence HVAC system operation, making accurate occupancy prediction essential for the advancement of Occupant-Centered HVAC control. This study aims to develop a simple and effective occupant prediction model in buildings using low-cost indoor environmental sensors and artificial intelligence technology. In-situ measurements were taken in two university classrooms in South Korea over a three-month period, collecting data on indoor and outdoor temperature, humidity, and CO2 levels. Five machine learning algorithms, including Linear Regression (LR), Random Forest (RF), Gradient Boosting Regression (GBR), Multi-Layer Perceptron (MLP), and Long Short-Term Memory neural networks (LSTM), were applied to compare models of indoor occupancy. The results demonstrate that, among the five machine learning models evaluated, the LSTM model outperforms the others, achieving an RMSE of 3.43. This result indicates a close match between predicted and actual indoor occupancy based on CO2 concentration. The integration of a multivariate multi-step input method further enhances its accuracy, making it suitable for a variety of real-world scenarios in indoor occupancy prediction. This study reveals that using processed data as input sources leads to improved prediction performance for indoor occupant states. Importantly, this work does not infringe on biometric information, such as human image privacy, and relies on minimal measurement data. Furthermore, it not only emphasizes the model's feasibility and practicality in predicting indoor occupancy but also its potential in HVAC system automation, building energy conservation, and indoor environmental management. This study offers guidance and support for the advancement of smart cities and intelligent buildings in the future."
+}

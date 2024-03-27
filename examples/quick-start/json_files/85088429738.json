@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088429738,
+    "Title": "Identifying faults in the building system based on model prediction and residuum analysis",
+    "Author": "Parzinger M.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2020-06-30T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1051/e3sconf/202017222001",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Fachhochschule Münster - Abteilung Steinfurt",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "The energy efficiency of the building HVAC systems can be improved when faults in the running system are known. To this day, there are no cost-efficient, automatic methods that detect faults of the building HVAC systems to a satisfactory degree. This study induces a new method for fault detection that can replace a graphical, user-subjective evaluation of a building data measured on site with an automatic, data-based approach. This method can be a step towards cost-effective monitoring. For this research, the data from a detailed simulation of a residential case study house was used to compare a faultless operation of a building with a faulty operation. We argue that one can detect faults by analysing the properties of residuals of the prediction to the actual data. A machine learning model and an ARX model predict the building operation, and the method employs various statistical tests such as the Sign Test, the Turning Point Test, the Box-Pierce Test and the Bartels-Rank Test. The results show that the amount of data, the type and density of system faults significantly affect the accuracy of the prediction of faults. It became apparent that the challenge is to find a decision rule for the best combination of statistical tests on residuals to predict a fault."
+}

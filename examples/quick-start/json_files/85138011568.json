@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138011568,
+    "Title": "Federated Reinforcement Learning for the Building Facilities",
+    "Author": "Fujita K.",
+    "Journal": "2022 IEEE International Conference on Omni-Layer Intelligent Systems, COINS 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/COINS54846.2022.9854959",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 1,
+    "Abstract": "In recent years, systems utilizing AI and IoT have been introduced. The development of IoT enhances the relationship between people and things, and convenience is improving. AI is also utilized to automate tasks that have been performed by humans, and to control various tasks. It is also beginning to be applied to building facilities, and there are situations where buildings interact cooperatively with each other. In this paper, we address the issue of controlling building facilities. Buildings are equipped with air conditioners, storage batteries, and solar panels. The goal is to control HVAC system considering the traffic of people and the state of storage batteries. Since each building has different target situations, it is important to find the optimal policies for each building. We aim to solve this problem by using reinforcement learning and to develop a framework that can learn various policies by the simple reward functions. In this study, we have experimentally shown that the control is optimal for power saving scenarios. For building facilities, we proposed various basic reward functions and also confirmed that flexible policies can be learned by combining these functions. Furthermore, we show that the learning convergence can be accelerated by federated learning while preserving privacy among the buildings."
+}

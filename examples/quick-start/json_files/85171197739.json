@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171197739,
+    "Title": "Balancing Thermal Comfort with Energy Consumption in Buildings Using Digital Twins, IoT Sensors, and Real-time Dashboards to Inform Occupant Decision Making",
+    "Author": "Saadatifar S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "On average, up to 40% of the energy consumed in buildings is spent on space heating or cooling (Adegbenro et al., 2021). Finding the optimum temperature setpoint to save energy while maintaining occupants' comfort has been an ever-challenging issue in most spaces, particularly in open spaces with collective users. To save energy, Facilities-Managers (FMs) use the human comfort zone for temperature and humidity to determine the HVAC setpoints. This practice can, however, result in occupants' dissatisfaction with the thermal environment due to their diverse thermal preferences. In buildings where occupants have control over the ambient temperature of the space, users often change the thermostat setpoints to an unnecessarily high or low value, as they believe it will result in a more immediate temperature change. They then often forget to return the temperature to the base setpoint, resulting in unpredictable changes in energy consumption and operating costs. The solution to this unfortunate reality lies in a better understanding of building occupants' behavior and preferences to efficiently control energy consumption while increasing the thermal comfort among occupants. This research investigates the impact of live IoT temperature data on users' thermal satisfaction with work environments. We present a pilot study, that uses an open-plan workplace on the Carnegie Mellon University campus. An Occupant-Centric Digital Twin (OCDT), a term coined by the first author of this paper, is used in this study to provide a live thermal map to occupants. OCDT displays the real-time temperature data of the existing indoor microclimates on a large screen in the open workplace. A grid of IoT sensors was used to capture temperature changes in discrete locations. The live thermal map enables occupants to make choices about where to work so that it matches their individual thermal preferences. With the rise of 'hot-desking' as a flexible organizational office strategy, the OCDT can provide increased agency to occupants to identify zones that meet their needs without compromising energy efficiency. We posit that this approach will result in higher thermal satisfaction and reduced energy consumption."
+}

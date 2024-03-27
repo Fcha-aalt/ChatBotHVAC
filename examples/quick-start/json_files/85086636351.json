@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086636351,
+    "Title": "Cyber Attack and Fault Identification of HVAC System in Building Management Systems",
+    "Author": "Sheikh A.",
+    "Journal": "2019 9th International Conference on Power and Energy Systems, ICPES 2019",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICPES47639.2019.9105438",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Veermata Jijabai Technological Institute",
+    "Affliation Country": "India",
+    "Cited by count": 21,
+    "Abstract": "In today's modern life the smart buildings play an important role in providing a luxurious environment with reduced energy consumption and environmental concern. For managing every smart equipment according to the requirement and comfort, the centralized management system called the Building Management System (BMS) performs an essential part. The operations of BMS is majorly coordinated with the communication layer or a cyber layer. Thus, the BMS is very much prone to cyber attacks and can lead to malfunctioning of major components in BMS. Another important aspect is electrical faults in the system irrespective of any cyber attacks. The paper focuses, firstly, to identify the electrical fault and attack with proposed Boolean Identification Strategy (BIS). Secondly, after the identification of attack, the paper analyzes the type of attacks with pattern recognition using Machine Learning classifier. The results show the effectiveness of proposed strategies by recognizing the pattern of the two most familiar cyber attacks."
+}

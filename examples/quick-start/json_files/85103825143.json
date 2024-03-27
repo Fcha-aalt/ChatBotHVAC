@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103825143,
+    "Title": "Superinsulation materials for energy-efficient train envelopes",
+    "Author": "Wernery J.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-04-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/app11072939",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Empa - Swiss Federal Laboratories for Materials Science and Technology",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 7,
+    "Abstract": "While traction energy is the main energy used in passenger trains, the energy required to condition the passenger area is significant and can account for up 40% of the total energy use. Due to space constraints, passenger train envelopes are usually only insulated with a few centimetres of con-ventional insulation materials, leading to relatively high U-values and high energy transmissions in climates where heating or cooling is necessary. Here, the use of superinsulation materials in trains for heating/cooling demand reduction was evaluated. Selected commercially available superinsulation materials were screened and benchmarked in terms of thermal conductivity, fire safety, behaviour under vibration and preferred use position within the train envelope. Both the specific vacuum insulation panels and silica aerogel boards that were tested were found suitable for the application in train envelopes in terms of their thermal, fire and mechanical properties. While vacuum panels have the best insulation performance, aerogel boards offer higher flexibility during installation and reduced risk of damage-related performance loss. Both materials can greatly enhance the energy efficiency and thermal comfort of trains and can be implemented cost-neutrally. However, new policy frameworks are likely to be necessary to promote energy efficiency and the broad implementation of thermal superinsulation in trains."
+}

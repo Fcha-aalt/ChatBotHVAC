@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074213717,
+    "Title": "Predicting heating load in energy-efficient buildings through machine learning techniques",
+    "Author": "Moayedi H.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/app9204338",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ton-Duc-Thang University",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 25,
+    "Abstract": "The heating load calculation is the first step of the iterative heating, ventilation, and air conditioning (HVAC) design procedure. In this study, we employed six machine learning techniques, namely multi-layer perceptron regressor (MLPr), lazy locally weighted learning (LLWL), alternating model tree (AMT), random forest (RF), ElasticNet (ENet), and radial basis function regression (RBFr) for the problem of designing energy-efficient buildings. After that, these approaches were used to specify a relationship among the parameters of input and output in terms of the energy performance of buildings. The calculated outcomes for datasets from each of the above-mentioned models were analyzed based on various known statistical indexes like root relative squared error (RRSE), root mean squared error (RMSE), mean absolute error (MAE), correlation coefficient (R2), and relative absolute error (RAE). It was found that between the discussed machine learning-based solutions of MLPr, LLWL, AMT, RF, ENet, and RBFr, the RF was nominated as the most appropriate predictive network. The RF network outcomes determined the R2, MAE, RMSE, RAE, and RRSE for the training dataset to be 0.9997, 0.19, 0.2399, 2.078, and 2.3795, respectively. The RF network outcomes determined the R2, MAE, RMSE, RAE, and RRSE for the testing dataset to be 0.9989, 0.3385, 0.4649, 3.6813, and 4.5995, respectively. These results show the superiority of the presented RF model in estimation of early heating load in energy-efficient buildings."
+}

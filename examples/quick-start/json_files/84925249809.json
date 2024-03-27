@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84925249809,
+    "Title": "A smart home architecture based on resource name service",
+    "Author": "Yang C.",
+    "Journal": "Proceedings - 17th IEEE International Conference on Computational Science and Engineering, CSE 2014, Jointly with 13th IEEE International Conference on Ubiquitous Computing and Communications, IUCC 2014, 13th International Symposium on Pervasive Systems, Algorithms, and Networks, I-SPAN 2014 and 8th International Conference on Frontier of Computer Science and Technology, FCST 2014",
+    "Publication Date": {
+        "$date": "2015-01-26T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/CSE.2014.351",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Chinese Academy of Sciences",
+    "Affliation Country": "China",
+    "Cited by count": 21,
+    "Abstract": "Smart home contains centralized controlled lights, Heating, Ventilation and Air Conditioning (HVAC), appliances, security locks of gates and doors and other intelligent equipment, to provide convenient, comfortable, energy efficient and secure services to users. Although many countries and organizations have designed various smart home architectures, there are still some problems in these existing solutions. One problem is the interoperability among multiple appliances in home environment. Another rising problem is the difference of identifiers, operating platform and programming languages accepted for smart home systems. Heterogeneous services and devices need to be interoperable each other in order to perform joint execution of tasks. Therefore, the heterogeneity problem of appliance and identifier leads to poor compatibility in smart home systems. This paper proposes a novel smart home architecture based on Resource Name Service (RNS), which defines the participating parties of smart home and the relationships between them, and designs the specific process of smart home services. This architecture can achieve interoperability among various vendors and improve the compatibility without doing much extra changes on these existing smart home appliances."
+}

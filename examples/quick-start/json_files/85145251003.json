@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145251003,
+    "Title": "Data-driven prediction of energy consumption of district cooling systems (DCS) based on the weather forecast data",
+    "Author": "Zhao X.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2023-03-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.scs.2022.104382",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Accurate prediction of energy consumption is the theoretical basis to achieve the low-carbon operation and maintenance of building HVAC systems. Existing studies either use only partial weather data resulting in low accuracy or need to build a three-dimensional building model which is difficult to achieve. The aim of this study is to develop a simple and convenient model for the energy consumption prediction of DCS using easily obtained weather data. To achieve the above purpose, this investigation first analyzes the linear correlation between the outdoor environmental parameters with the actual measured energy consumption data. It indicated that partial weather data and energy consumption data have the highest linear correlation. Then, the backpropagation artificial neural network (BP-ANN) algorithm was adopted to construct the energy consumption prediction model and the main parameters affecting its prediction performance were determined. Finally, the accuracy of the proposed BP-ANN model was tested. The results showed that the proposed energy consumption prediction model driven by weather data was suitable for the energy consumption prediction of a district comprising multiple buildings without requiring details of buildings and systems. In addition, the proposed method is not only helpful to the energy consumption prediction and intelligent operation and maintenance of DCS, but also can be transferred to any district comprising multiple buildings easily."
+}

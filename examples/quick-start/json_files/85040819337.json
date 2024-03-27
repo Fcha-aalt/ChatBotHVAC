@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040819337,
+    "Title": "The status quo of operation of HVAC water-side systems in China: A perspective from BAS data",
+    "Author": "Feng F.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.12.649",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Building stock is a substantial consumer of energy worldwide, and HVAC systems are substantial consumers in buildings. Therefore, it is of great importance to improve the energy efficiency of HVAC systems. For existing HVAC systems, energy savings can be achieved by optimizing the operation strategies. To identify current chiller operation limitations, and evaluate their impacts on energy consumption, a systematic study has been performed. First, the information about operation strategies in about 15 buildings are collected, by either on-site survey or data mining from BAS data. Then, three features(i.e. Avgp, Stdp and Rcap-T) are proposed to characterize these operation strategies. Finally, the influence of these three features on cooling energy consumptions are analyzed. It is found that Rcap-T(correlation coefficient between cooling capacity of online chillers and outdoor air temperature) has strong negative impact on cooling energy usage."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083094828,
+    "Title": "A simple but energy-efficient HVAC control synthesis for data centers",
+    "Author": "Fliess M.",
+    "Journal": "2019 International Conference on Control, Automation and Diagnosis, ICCAD 2019 - Proceedings",
+    "Publication Date": {
+        "$date": "2019-07-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICCAD46983.2019.9037900",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Laboratoire d'Informatique de l'Ecole Polytechnique",
+    "Affliation Country": "France",
+    "Cited by count": 3,
+    "Abstract": "The air conditioning management of data centers, a key question with respect to energy saving, is here tackled via the recent model-free control synthesis. Mathematical modeling becomes useless in this approach. The tuning of the corresponding intelligent proportional controller is straightforward. Computer simulations show excellent tracking performances in various realistic situations, like CPU load or temperature changes."
+}

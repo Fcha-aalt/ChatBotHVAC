@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84945949759,
+    "Title": "Occupancy detection via iBeacon on Android devices for smart building management",
+    "Author": "Corna A.",
+    "Journal": "Proceedings -Design, Automation and Test in Europe, DATE",
+    "Publication Date": {
+        "$date": "2015-04-22T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.7873/date.2015.0753",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Politecnico di Milano",
+    "Affliation Country": "Italy",
+    "Cited by count": 79,
+    "Abstract": "Building heating, ventilation, and air conditioning (HVAC) systems are considered to be the main target for energy reduction due to their significant contribution to commercial buildings' energy consumption. Knowing a building's occupancy plays a crucial role in implementing demand-response HVAC. In this paper we propose a new solution based on the iBeacon technology. This solution is different from the previous ones because it leverages on the Bluetooth Low Energy standard, which provides lower power consumption. Moreover, the iBeacon protocol can be used both on iOs systems and Android ones, making this new approach portable. Differently from our previous work based on iOS devices, in this paper we focus on an Android based solution with the aim of increasing the accuracy of the location and the energy efficiency of the entire system. We increased the accuracy by 10% and the energy efficiency by 15%."
+}

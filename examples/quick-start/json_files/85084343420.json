@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084343420,
+    "Title": "Optimization of operation times of a heating system in office building",
+    "Author": "Yang I.",
+    "Journal": "Journal of Asian Architecture and Building Engineering",
+    "Publication Date": {
+        "$date": "2020-07-03T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/13467581.2020.1751169",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Dongguk University, Seoul",
+    "Affliation Country": "South Korea",
+    "Cited by count": 3,
+    "Abstract": "A method is proposed for optimizing the operation times of a heating system in an office building for saving energy. The method involves determining the optimal start and stop times of the heating system by using an optimized artificial neural network (ANN) model, which was developed in this study. A program based on back-propagation learning was used for ANN learning. Furthermore, the amount of initial learning data, the optimal time interval for measuring the input data and the acceptable error for the practical application of the ANN model to real buildings were determined from the results of a daily simulation performed using the optimized ANN model integrated with a program for room air temperature prediction. An evaluation of the ANN’s performance in determining the optimal start and stop times of a building heating system for unexperienced learning data showed its potential to save energy."
+}

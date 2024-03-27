@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127555360,
+    "Title": "Optimal Control Strategies for Demand Response in Buildings under Penetration of Renewable Energy",
+    "Author": "Chen Y.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12030371",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Key Laboratory of Multiphase Flow and Heat Transfer of Power Engineering",
+    "Affliation Country": "China",
+    "Cited by count": 13,
+    "Abstract": "The penetration rates of intermittent renewable energies such as wind and solar energy have been increasing in power grids, often leading to a massive peak-to-valley difference in the net load demand, known as a “duck curve”. The power demand and supply should remain balanced in real-time, however, traditional power plants generally cannot output a large range of variable loads to balance the demand and supply, resulting in the overgeneration of solar and wind energy in the grid. Meanwhile, the power generation hours of the plant are forced to be curtailed, leading to a decrease in energy efficiency. Building demand response (DR) is considered as a promising technology for the collaborative control of energy supply and demand. Conventionally, building control approaches usually consider the minimization of total energy consumption as the optimization objective function; relatively few control methods have considered the balance of energy supply and demand under high renewable energy penetration. Thus, this paper proposes an innovative DR control approach that considers the energy flexibility of buildings. First, based on an energy flexibility quantification framework, the energy flexibility capacity of a typical office building is quantified; second, according to energy flexibility and a predictive net load demand curve of the grid, two DR control strategies are designed: rule-based and prediction-based DR control strategies. These two proposed control strategies are validated based on scenarios of heating, ventilation, and air conditioning (HVAC) systems with and without an energy storage tank. The results show that 24–55% of the building’s total load can be shifted from the peak load time to the valley load time, and that the duration is over 2 h, owing to the utilization of energy flexibility and the implementation of the proposed DR controls. The findings of this work are beneficial for smoothing the net load demand curve of a grid and improving the ability of a grid to adopt renewable energies."
+}

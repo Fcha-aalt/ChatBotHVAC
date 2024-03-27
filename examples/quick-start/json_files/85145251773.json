@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145251773,
+    "Title": "Assessing retrofit strategies for mosque buildings using TOPSIS",
+    "Author": "Marzouk M.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.egyr.2022.12.073",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 5,
+    "Abstract": "Energy demand is rapid increase with the increase in usage of energy-consuming devices and growth in global buildings floor area. For this reason, many countries have developed policies and rating systems for converting current buildings to more energy-efficient and sustainable ones. However, religious buildings such as mosques were given little attention. Mosques are considered one of the unique building types for their operational scheme, and occupancy pattern throughout the year differ from any other types of buildings. Many factors affect mosques’ operational performance, such as energy wastage from their intermittent operation, poor building envelope characteristics, excessive lighting and HVAC systems, and poor thermal and visual comfort for the occupants. This paper presents a framework that aids in assessing and enhancing the operational performance of mosque buildings using five main evaluation criteria. The development of the framework involves four main stages. The first stage involves data acquisition using 3D laser scanning for electronic building documentation and site investigation that identifies the main factors affecting mosques’ operational performance. The second stage involves constructing the BIM model for developing the energy analysis model using IESVE (Integrated Environmental Solutions-Virtual Environment) software. Then, the third stage considers proposing different retrofit strategies that could be applied to evaluate their impact on the mosques’ operational performance. Finally, the last stage identifies the assessment criteria for evaluating the impact of the proposed retrofit strategies and developing a decision-making model using the Analytical Hierarchy Process (AHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) as decision-making techniques. The framework is demonstrated using an actual case study of Imam Al-Hussein Mosque in Cairo, Egypt, to demonstrate its main features."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071735237,
+    "Title": "Heat flux sensing for machine-learning-based personal thermal comfort modeling",
+    "Author": "Jung W.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/s19173691",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Virginia Tech College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 26,
+    "Abstract": "In recent years, physiological features have gained more attention in developing models of personal thermal comfort for improved and accurate adaptive operation of Human-In-The-Loop (HITL) Heating, Ventilation, and Air-Conditioning (HVAC) systems. Pursuing the identification of effective physiological sensing systems for enhancing flexibility of human-centered and distributed control, using machine learning algorithms, we have investigated how heat flux sensing could improve personal thermal comfort inference under transient ambient conditions. We have explored the variations of heat exchange rates of facial and wrist skin. These areas are often exposed in indoor environments and contribute to the thermoregulation mechanism through skin heat exchange, which we have coupled with variations of skin and ambient temperatures for inference of personal thermal preferences. Adopting an experimental and data analysis methodology, we have evaluated the modeling of personal thermal preference of 18 human subjects for well-known classifiers using different scenarios of learning. The experimental measurements have revealed the differences in personal thermal preferences and how they are reflected in physiological variables. Further, we have shown that heat exchange rates have high potential in improving the performance of personal inference models even compared to the use of skin temperature."
+}

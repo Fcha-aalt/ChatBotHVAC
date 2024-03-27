@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85119112442,
+    "Title": "Energy, Thermal Comfort and Pathologies—A Current Concern",
+    "Author": "Teixeira I.",
+    "Journal": "Studies in Systems, Decision and Control",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-030-89617-1_25",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Universidade do Minho",
+    "Affliation Country": "Portugal",
+    "Cited by count": 1,
+    "Abstract": "Objective: In view of the flow rate established by law of 10 renewals per hour to protect spilled particles, conclude if these are removed from the domain and the thermal comfort is maintained in the room. Background: Currently, any building or project needs to meet standards of comfort and energy efficiency for certification. It is important to study comfort, but also to study the extraction of particles expelled during a sneeze phenomenon. Particles are studied with particular importance due to the panorama that we experience today with the pandemic situation. The Sars-Cov-2 virus is still a subject of study in several areas, especially due to its easy form of contagion. The study of the behavior of water particles expelled through the mouth facilitates the perception of risk, as well as preventive measures to be adopted. Method: For the study, numerical simulation was used, namely the Ansys ® program. For this, a mannequin was modeled inside a 15 m 2 room, whose HVAC system incorporates an insufflation grid and an extraction grid. The mannequin has an associated respiratory cycle and during the same period it suffers a sneeze period expelling water particles. Results: Due to the obtained PMV, the thermal comfort of the occupant cannot be ensured, having to adopt a greater diffusion of the inflated air. The behavior of the particles expelled during a sneeze is predicted."
+}

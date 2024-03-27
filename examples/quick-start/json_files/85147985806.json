@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147985806,
+    "Title": "Identifying Energy Inefficiencies Using Self-Organizing Maps: Case of A Highly Efficient Certified Office Building",
+    "Author": "Talei H.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/app13031666",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+    "Affliation Country": "Morocco",
+    "Cited by count": 1,
+    "Abstract": "Living and working in comfort while a building’s energy consumption is kept under control requires monitoring a system’s consumption to optimize the energy performance. The way energy is generally used is often far from optimal, which requires the use of smart meters that can record the energy consumption and communicate the information to an energy manager who can analyze the consumption behavior, monitor, and optimize energy performance. Given that the heating, ventilation, and air conditioning (HVAC) systems are the largest electricity consumers in buildings, this paper discusses the importance of incorporating occupancy data in the energy efficiency analysis and unveils energy inefficiencies in the way the system operates. This paper uses 1-year data of a highly efficient certified office building located in the Houston area and shows the power of self-organizing maps and data analysis in identifying up to 4.6% possible savings in energy. The use of time series analysis and machine-learning techniques is conducive to helping energy managers discover more energy savings."
+}

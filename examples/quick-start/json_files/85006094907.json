@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006094907,
+    "Title": "ClimaCon: An Autonomous Energy Efficient Climate Control Solution for Smart Buildings",
+    "Author": "Farag W.A.",
+    "Journal": "Asian Journal of Control",
+    "Publication Date": {
+        "$date": "2017-07-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1002/asjc.1426",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "American University of the Middle East",
+    "Affliation Country": "Kuwait",
+    "Cited by count": 6,
+    "Abstract": "In modern buildings, climate control is an essential aspect to ensure the utmost comfort for the occupants, even though, this very feature represents 40% ~ 70% of the energy consumption of these buildings. Therefore, using energy efficient climate control systems becomes a crucial requirement of modern smart buildings. In this paper, we propose an autonomous energy-efficient climate control solution “ClimaCon”. ClimaCon is an external extension to any Heat Ventilation and Air Conditioning (HVAC) system. The main objective of this solution is to achieve the best thermal comfort for individuals in all building zones with the least possible energy consumption. The solution consists of several closed loops to control the HVAC actuators while getting measurements and feedback signals through wireless sensing nodes. These nodes are distributed across pre-determined locations in the building zones. ClimaCon theory of operation is based on observing the thermal comfort of occupants based on predicted mean vote index, and maintaining it within pre-specified limits; while allowing the execution of various energy saving profiles. The performance of ClimaCon is evaluated using many test cases and extensive simulation studies. These studies prove the ability of the proposed solution to maintain the thermal comfort of occupants in various zones while implementing different energy saving profiles."
+}

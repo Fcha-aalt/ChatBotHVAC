@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962799586,
+    "Title": "Token based scheduling for energy management in building HVAC systems",
+    "Author": "Radhakrishnan N.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2016-07-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.apenergy.2016.04.023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nanyang Technological University",
+    "Affliation Country": "Singapore",
+    "Cited by count": 52,
+    "Abstract": "A new hierarchical distributed architecture for control and scheduling of Heating, Ventilation, and Air Conditioning (HVAC) operations in multi-zone commercial buildings is proposed. Each zone has an associated Zone Module responsible for determining its cooling needs which are specified in terms of tokens. Tokens are a surrogate for the amount of chilled air supplied to each zone in a service interval. Token requests are computed by Zone Modules using occupancy forecasts, thermostat information, all available sensor data, and weather forecasts to capture the cooling energy necessary to meet user-specified temperature constraints. A Central Scheduler gathers token requests from all Zone Modules and allocates tokens to minimize the energy consumption of the chiller and fans. Zone Modules maintain and update local thermal models based on new measurements and recompute token requests in a model predictive control framework. This distributed control/scheduling approach is robust to varying environmental conditions and user constraints. It is scalable to realistic buildings with a large number of zones, and has low deployment cost. The proposed architecture can readily accommodate chiller efficiency through Coefficient of Performance (COP) specifications, as well as constraints on cooling air mass flow rates, fan capacities, duct pressure distribution, and damper opening constraints. Simulation studies reveal that the proposed approach suffers modest performance loss as compared with centralized non-linear scheduling strategies. These centralized strategies, however, are not scalable to buildings with 300+ zones and suffer prohibitive deployment costs."
+}

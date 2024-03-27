@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071843380,
+    "Title": "A simulation framework for quantifying the influence of occupant behavior on savings of energy efficiency measures",
+    "Author": "Sun K.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.26868/25222708.2017.139",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "The performance of energy conservation measures (ECMs) is influenced by uncertainties such as climate change, operation modes and occupant behavior in buildings. Occupant behavior has a significant impact on building energy use and is one of the biggest uncertainties that affect the effectiveness of building retrofits. This study introduces a simulation framework to quantify the impact of occupant behavior on energy savings of ECMs. Three types of occupant behavior style, austerity, normal and wasteful, were defined to represent different levels of energy consciousness in terms of the control of HVAC, window, lights and plug-in equipment. A case study was performed in a real building to demonstrate the application of the framework. Based on the simulation results, the impact of occupant behavior on ECM savings vary with the type of ECM: for occupant-independent ECMs, which are purely technology-driven and have little interaction with the occupants, such as reducing LPD, reducing EPD, improving envelope properties, improving system efficiency and daylighting control, the energy saving percentage is barely affected by occupant behavior style; while for occupant-dependent ECMs, which have strong interaction with the occupants, such as VRF system and natural ventilation, the energy saving percentage is significantly affected by occupant behavior style. Although ECM savings with different occupant behavior styles would vary depending upon many factors, the presented simulation framework is robust and can be adopted to quantify the impact on ECM savings of other uncertainty factors such as climate change and building operation mode."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100936985,
+    "Title": "A Knowledge-based reinforcement learning control approach using deep Q network for cooling tower in HVAC systems",
+    "Author": "Yu Z.",
+    "Journal": "Proceedings - 2020 Chinese Automation Congress, CAC 2020",
+    "Publication Date": {
+        "$date": "2020-11-06T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/CAC51589.2020.9327385",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Science and Technology Beijing",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "In order to improve the control performance of the complex mechatronic system, like the cooling tower in HVAC systems, a data-driven control approach based on model-free deep reinforcement learning method is proposed. The deep Q network (DQN) method, as one of the approaches in reinforcement learning (RL) scheme, can learn and obtain robust feedback control laws by using direct interaction data from the environment. At the same time, radial basis function neural network (RBFNN) is used for the design of deep Q network. Furthermore, the prior knowledge is used to develop an exploration strategy for the RL controller. And the strategy can guide the RL controller to explore the action space, which leads reduction on the training time as compared to traditional DQN controller. At last, the results of simulation show that the DQN controller can achieve lower Integral Absolute Error (IAE) and Integral Square Error (ISE) compared to Proportional integral (PI) controller."
+}

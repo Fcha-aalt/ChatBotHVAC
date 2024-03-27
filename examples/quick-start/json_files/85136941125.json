@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136941125,
+    "Title": "Machine Learning Methods for Automated Fault Detection and Diagnostics in Building Systems—A Review",
+    "Author": "Nelson W.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15155534",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Energy consumption in buildings is a significant cost to the building’s operation. As faults are introduced to the system, building energy consumption may increase and may cause a loss in occupant productivity due to poor thermal comfort. Research towards automated fault detection and diagnostics has accelerated in recent history. Rule-based methods have been developed for decades to great success, but recent advances in computing power have opened new doors for more complex processing techniques which could be used for more accurate results. Popular machine learning algorithms may often be applied in both unsupervised and supervised contexts, for both classification and regression outputs. Significant research has been performed in all permutations of these divisions using algorithms such as support vector machines, neural networks, Bayesian networks, and a variety of clustering techniques. An evaluation of the remaining obstacles towards widespread adoption of these algorithms, in both commercial and scientific domains, is made. Resolutions for these obstacles are proposed and discussed."
+}

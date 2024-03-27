@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172728502,
+    "Title": "Application of Knowledge Representation and Reasoning to Building Indoor Air Quality",
+    "Author": "Delgoshaei P.",
+    "Journal": "Environmental Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-9822-5_212",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Institute of Standards and Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The importance of indoor air quality (IAQ) has been recognized for centuries, with increased interest in the relationship of IAQ to energy efficiency and other building performance issues in the last several decades. Managing IAQ requires an understanding of the complex interactions between buildings, systems, occupants and environmental conditions as well as the interactions of IAQ and related performance issues. Most efforts to address IAQ are specific to the affected buildings, spaces and occupants, and those tasked with solving IAQ problems generally need to consider a wide range of information that can be difficult to access and manage. Knowledge Representation and Reasoning (KRR) techniques are being developed for buildings to organize such information and ultimately enhance building performance. Specifically, Semantic Web technologies have been used to create models representing building system components and their relationships. Such models can improve building analytics and enterprise knowledge management to access the contextual information necessary for automated fault detection and diagnostics, control system configuration to optimize energy use, building commissioning and other applications. This paper describes how KRR can be used to address IAQ with discussion of an example using measured indoor CO2 concentrations to evaluate ventilation rates."
+}

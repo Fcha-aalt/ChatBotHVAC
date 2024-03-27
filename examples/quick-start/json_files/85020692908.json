@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85020692908,
+    "Title": "Occupancy learning-based demand-driven cooling control for office spaces",
+    "Author": "Peng Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2017-09-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.buildenv.2017.06.010",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "ETH Zürich",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 78,
+    "Abstract": "Occupancy in buildings is one of the key factors influencing air-conditioning energy use. Occupant presence and absence are stochastic. However, static operation schedules are widely used by facility departments for air-conditioning systems in commercial buildings. As a result, such systems cannot adapt to actual energy demand for offices that are not fully occupied during their operating time. This study analyzes a seven-month period of occupancy data based on motion signals collected from six offices with ten occupants in a commercial building, covering both private and multi-person offices. Based on an occupancy analysis, a learning-based demand-driven control strategy is proposed for sensible cooling. It predicts occupants’ next presence and the presence duration of the remainder of a day by learning their behavior in the past and current days, and then the predicted occupancy information is employed indirectly to infer setback temperature setpoints according to rules we specified in this study. The strategy is applied for the controls of a cooling system using passive chilled beams for sensible cooling of office spaces. Over the period of two months both a baseline control and the proposed demand-driven control were operated on forty-two weekdays of real-world occupancy. Using the demand-driven control, an energy saving of 20.3% was achieved as compared to the benchmark. We found that energy savings potential in an individual office was inversely correlated to its occupancy rate."
+}

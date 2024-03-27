@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055740077,
+    "Title": "Climate change impacts on peak building cooling energy demand in a coastal megacity",
+    "Author": "Ortiz L.",
+    "Journal": "Environmental Research Letters",
+    "Publication Date": {
+        "$date": "2018-08-31T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1088/1748-9326/aad8d0",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Grove School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 37,
+    "Abstract": "Buildings and the atmosphere are intrinsically connected via cooling and heating systems. Global climate is projected to grow warmer, with an increasing fraction of the population living in urban centers. This introduces the challenge for new approaches to project future energy demand changes in cities. In New York City (NYC), the focus of our study, while air conditioning only accounts for 9% of all building energy end use, it is the main driver of annual peak electric demand. Here, we present end of century building cooling electric demand projections for NYC using a high resolution (1 km) configuration of the Weather Research and Forecasting model coupled to a building energy model and forced by bias-corrected CESM1 global simulations. High resolution urban canopy parameters such as building height and plant area fraction derived from a public tax-lot level dataset are used as input to the urban physics parameterization. Cooling demand increases in RCP4.5 ranged between 1% and 20% across all days, with largest increases on days below 50th percentile demand. Results show that end of century building cooling demand on days below the 50th percentile may be up to 80% higher than the 2006-2010 period in the RCP8.5 scenario. The largest percent increases per unit area were found over less densely populated boroughs of Brooklyn, Queens, and Staten Island. Maximum summer cooling demand for the entire city is projected to increase between 5% and 27% for RCP4.5 and RCP8.5, respectively. Overall, analysis shows a close to 8% increase in cooling demand per 1 °C increase in temperature."
+}

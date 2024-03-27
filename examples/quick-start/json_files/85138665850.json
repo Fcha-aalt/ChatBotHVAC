@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138665850,
+    "Title": "Deep learning-based facial attribute classification from indoor thermal images",
+    "Author": "Li P.",
+    "Journal": "Xi'an Jianzhu Keji Daxue Xuebao/Journal of Xi'an University of Architecture and Technology",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.15986/j.1006-7930.2022.03.015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Thermal camera is a non-invasive method to predict individual thermal comfort which helps saving HVAC energy. While thermal comfort differs a lot between different groups of age and gender, existing literature lack research on the detection of age and gender using thermal cameras for accurate prediction of human thermal comfort in the built environment. To explore the feasibility of using deep learning to automatically recognize gender and age from thermal images, we establish a dataset of thermal images and visible-light images, study the impacts of algorithms (four convolutional neural networks; ResNet-50, DenseNet-121, DenseNet-201, and Inception-V3), thermal image filters, and image cropping on the recognition accuracy, and compare the recognition performances using thermal images and visible-light images. The results show that the gender classification accuracy can reach 98. 7 % using Inception-V3, meaning that there is a significant difference between male and female thermal images. The highest age classification accuracy (80. 0%) is achieved using ResNet-50 when the dataset is divided into three classes-young, middle-aged, and old. It is noticed that there is little difference between young and middle-aged thermal images but a more obvious difference between the middle-aged and the old ones. The achieved accuracies are higher than or comparable to those in the literature. This study demonstrates that convolutional neural network is suitable for gender and age recognition from thermal images."
+}

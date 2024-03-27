@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056528997,
+    "Title": "Integration of Thermal and Visual Comfort in the Retrofit of Existing Buildings",
+    "Author": "Ballarini I.",
+    "Journal": "Proceedings - 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe, EEEIC/I and CPS Europe 2018",
+    "Publication Date": {
+        "$date": "2018-10-16T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/EEEIC.2018.8493671",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Politecnico di Torino",
+    "Affliation Country": "Italy",
+    "Cited by count": 5,
+    "Abstract": "Within the nearly zero-energy building framework, it is necessary to guarantee the best trade-off between energy performances and indoor environmental quality. In this paper, the thermal and visual comfort levels related to energy refurbishment measures in compliance with the nearly zero-energy building requirements are assessed for an office building, chosen as case study. Energy efficiency measures consist in a combination of envelope and technical systems refurbishment measures, involving both HVAC and lighting. The energy and comfort calculations are carried out through dynamic simulation using Energy Plus and DIVA, for thermal and visual performances respectively. The results point out that the energy retrofit actions of building envelope lead to significant energy savings for thermal uses but cause higher electricity demand for lighting consequent to daylighting reduction. The research aims to reduce the imbalance between visual and thermal comfort and ensure the best performance in both domains."
+}

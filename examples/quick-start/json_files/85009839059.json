@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85009839059,
+    "Title": "Integrated dynamic modelling and multivariable control of HVAC components",
+    "Author": "Satyavada H.",
+    "Journal": "2016 European Control Conference, ECC 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ECC.2016.7810448",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Delft Center for Systems and Control",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 11,
+    "Abstract": "The field of energy efficiency in buildings offers challenging opportunities from a control point of view. Heating, Ventilation and Air-Conditioning (HVAC) units in buildings must be accurately controlled so as to ensure the occupants' comfort and reduced energy consumption. While the existing HVAC models consist of only one or a few HVAC components, this work involves the development of a complete HVAC model for one thermal zone. Also, a novel multivariable control strategy based on PI auto-tuning is proposed by combining the aforementioned model with optimization of the desired (time-varying) equilibria. One of the advantages of the proposed PI strategy is the use of time-varying input equilibria and zone setpoint temperature, which can lead to important energy savings. A comparison with a baseline control strategy with constant setpoint temperature is presented: the comparison results show good tracking performance and improved energy efficiency in terms of HVAC energy consumption."
+}

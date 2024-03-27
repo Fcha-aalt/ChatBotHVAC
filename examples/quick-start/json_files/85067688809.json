@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067688809,
+    "Title": "Comparison of machine learning models for occupancy prediction in residential buildings using connected thermostat data",
+    "Author": "Huchuk B.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.buildenv.2019.106177",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 83,
+    "Abstract": "Occupancy detection capabilities provided by modern connected thermostats enable adaptive thermal control of residential buildings. While this adaptation might simply consider the current occupancy state, a more proactive optimized system could also consider the probability of future occupancy in order to balance comfort and energy savings. Because such proactive control relies on accurate occupancy prediction, we comparatively evaluate a number of machine learning models for predicting measurements of the future occupancy state of homes that is critically enabled by thermostat data from real households in ecobee's Donate Your Data program. We consider a variety of models including simple heuristic and historical average baselines, traditional machine learning classifiers, and sequential models commonly used for time series prediction. We evaluate the performance of each model according to temporal, behavioural, and computational efficiency characteristics. Our key overall finding is that the random forest algorithm matched or outperformed the other candidate models, had consistently high accuracy predicting over a range of time horizons, and is relatively efficient to train for individual “edge” devices."
+}

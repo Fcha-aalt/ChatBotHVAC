@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84948394013,
+    "Title": "Evaluation of Lighting Performance Risk Using Surrogate Model and EnergyPlus",
+    "Author": "Hu J.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.proeng.2015.08.471",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Philips Research",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 7,
+    "Abstract": "In building retrofit projects, numerous sources of uncertainty about building performance need to be addressed. Deterministic simulations are usually used to estimate the potential performance difference from a baseline building. This approach needs building model calibration. Varying uncertain building parameters could lead to orders of magnitude simulation times. For example, in a lighting retrofit project, uncertainty (e.g., lamp input wattage, and varying weather conditions may negatively affect model calibration and lighting energy savings, which increases the chance of default on performance contract. Therefore, the aim of this paper is to develop a method that can conduct risk analysis based on building model (e.g., building information modelling). A stochastic occupancy model is used to simulate the occupancy pattern. Two lighting control strategies (occupancy and daylight controls) and two luminaire types (LED and fluorescent) are considered. Historical weather data is analyzed using statistical analysis, and the extreme weather conditions are generated to evaluate the impact of weather conditions on the lighting and HVAC energy usage. Then, EnergyPlus is used to simulate the energy usage based on different lamp types, control strategies, occupancy patterns, and weather conditions. A surrogate model is developed by using a small sample size of simulation data to construct an approximation surface to enable fast computing time. This method can evaluate impact of uncertainty of risk factors (e.g., occupancy level, luminaire type, weather) on lighting and HVAC energy usage and lighting electricity demand. This method can also prioritize risk factors based on sensitivity analysis on building performance and help users to choose different lamp types to minimize risks."
+}

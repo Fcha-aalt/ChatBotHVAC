@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120410255,
+    "Title": "Verifying of the feasibility and energy efficiency of the largest certified passive house office building in China: A three-year performance monitoring study",
+    "Author": "Han F.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2021.103703",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität Innsbruck",
+    "Affliation Country": "Austria",
+    "Cited by count": 12,
+    "Abstract": "The high energy efficiency of passive houses (PH) has been widely known and proved over the past thirty years. In its operation phase, it is normally to investigate its energy consumption through the monitoring of building systems, in which the HVAC system is much more complicated than expected. In particular in a complex HVAC concept, it can easily lead to system failures or an increase in large and unnecessary energy consumption, if the HVAC system is not properly commissioned before/after being put into operation. The building systems could be commissioned and optimized based on long-term monitoring results. In the research framework of a PH design and commissioning mode, this article verifies the feasibility of the largest certified PH office building in China, taking into consideration the local climate conditions, the actual energy consumption, and the corresponding indoor environmental comfort, etc. Compared with similar local conventional office buildings, the electricity consumption of this building can be greatly reduced, while indoor environment is still within the comfort range. Its annual energy efficiency can be improved by approximately 69% higher than current Chinese public building standards. The comparison of the monitoring data with the predicted results, also confirms its energy efficiency of this PH building and shows that the HVAC systems commissioning and optimization can bring further energy saving improvement. This case study can provide a good experience for subsequent PH public buildings and a basis for policy makers in China."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153103512,
+    "Title": "A hierarchical multi-purpose roller shade controller to enhance indoor comfort and energy efficiency",
+    "Author": "Tabadkani A.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s12273-023-1003-7",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Stantec Inc.",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Building envelope is the sole interface with outdoors that can lie in the level of integrating control strategies to enhance occupant’s comfort and building performance. However, in the literature, there is still a lack of multi-purpose control strategies which can balance diverse and antagonistic aspects of occupant comfort while keeping the building energy consumption under control. Therefore, this research proposed an integrated simulation-based workflow using EnergyPlus and Python-based package, OpyPlus, to adjust a roller shade for single occupied office space in a hot and arid climate. The developed system aims to improve both occupant’s visual and thermal comfort considering daylight level, potential glare at occupant’s field of view, view to outdoor satisfaction, and Fanger PMV method, and then, managing the HVAC system in favor of enhancing building energy efficiency. Furthermore, the controller’s performance was compared to multiple fixed controls and another multi-agent control scenario from visual and thermal comfort and energy performance perspectives. The developed control system could perform effectively to provide a glare-free view and higher thermally comfortable indoor environment by 99% for the occupant across the year, while improving the heating and cooling loads. The research provides novel insights and potential future integrations for facade designers and building operators."
+}

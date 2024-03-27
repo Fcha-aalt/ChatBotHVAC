@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175689118,
+    "Title": "Analysing the indoor temperature ranges for an efficient control of HVAC systems",
+    "Author": "Barbadilla-Martín E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-12-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113681",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Sevilla, Escuela Técnica Superior de Ingeniería",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "The selection of a suitable indoor temperature is a challenge to society, since its relationship with thermal comfort and energy consumption. The adaptive thermal comfort theory addresses this problem relating indoor with outdoor temperatures and based on that, defines temperature ranges. This paper defines a fuzzy logic-based methodology to assess the suitability of indoor adaptive temperature ranges proposed by existing regulations of the real thermal sensation of the occupants. For this purpose, the study suggests considering four indicators to evaluate the representativeness of different comfort ranges on the real preferences of the occupants. Based on that, four metrics are proposed for interpreting the needs of the occupants of a building and the changes required to the temperature ranges to satisfy such needs. To validate the proposed methodology, questionnaires on the thermal sensation of the occupants of office buildings considering three case studies (Mediterranean, Europe, ASHRAE) are used, showing the results obtained the representativeness of adaptive comfort ranges for such databases. The feasible introduction of this methodology in a conditioning systems would assist in decision making regarding energy efficiency, thermal comfort and a balance between them."
+}

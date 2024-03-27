@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152214450,
+    "Title": "Occupancy Detection based on WI-FI SysLog Data",
+    "Author": "Abdelghani B.A.",
+    "Journal": "Proceedings - 21st IEEE International Conference on Machine Learning and Applications, ICMLA 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICMLA55696.2022.00268",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Detroit Mercy",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Residential and commercial buildings consume almost 27% of the total energy in the United States. Therefore, accurate occupancy detection is necessary and valuable to increase the efficiency of the building's Heating, Ventilation, and Air Conditioning (HVAC) system while maintaining the occupants' comfort. The occupancy detection process involves deploying two fundamental types of sensors - environmental sensors (humidity, carbon dioxide, temperature, and light sensors) and specialized sensors (Passive infrared, Radio Frequency Identification sensors, cameras, and WI-FI). These sensors are used with three primary categories of algorithms - analytical, knowledge-based, and data-driven. Our paper uses Syslog data from a university building network to generate eight different datasets after removing non-essential data and retaining only those needed. A framework is then proposed, which consists of two stages. The first stage compares the results of four machine learning algorithms, including K-Nearest Neighbors (KNN), Random Forest (RF), eXtreme Gradient Boosting (XGB), and Logistic Regression (LR), to choose the best two models. In this work, XGB and RF produce the most accurate results. The second stage tests the best two models on eight datasets composed of the whole year dataset, four semester-based datasets, and three season-based datasets. In this work, the semester-based dataset gives the most accurate results with a Root Mean Square Error (RMSE) of 2.51 and the highest coefficient of determination (R2) of 0.48."
+}

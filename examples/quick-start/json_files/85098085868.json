@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098085868,
+    "Title": "Air conditioner component optimum operation point search through a deep reinforcement learning algorithm",
+    "Author": "Yoon M.S.",
+    "Journal": "International Conference on Control, Automation and Systems",
+    "Publication Date": {
+        "$date": "2020-10-13T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.23919/ICCAS50221.2020.9268387",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Korea Testing Laboratory",
+    "Affliation Country": "South Korea",
+    "Cited by count": 1,
+    "Abstract": "A deep reinforcement machine learning algorithm is applied to an energy-efficient optimal operation point search of an inverter air conditioner. The combination of the two factors of compressor output (COM) and electronic expansion valve (EEV) opening, which have a major influence on the efficiency (EER) of an air conditioner, is analyzed with the algorithm over 5 days. It displays a repetitive stabilization pattern 12 hours after the commencement of the deep learning algorithm, and finds the optimal (COM, EEV) combination with the maximum EER. An arbitrary case (600, 400) that satisfies the target cooling capacity (9200 W) is started with an initial value to reach (420, 230) with the optimal EER at a given condition (given product specification, standard test condition (T1 condition)). In this study, since the optimal point of (COM, EEV) exists at the boundary of the action domain, it inevitably has a repeating learning pattern. The repetitive stabilization pattern is examined for two cases of the discount factor of 0.5 and 0.99. When the discount factor is 0.5, it shows a shortsighted behavior to the present reward value more clearly than when it is 0.99. This kind of experimental study can be extended to find the optimum operating point when several components of an air conditioner are operating simultaneously."
+}

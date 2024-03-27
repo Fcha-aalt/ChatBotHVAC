@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095976697,
+    "Title": "Simulation of thermal management in a surgical operating theatre and its experimental verification",
+    "Author": "Eldegwy A.",
+    "Journal": "AIAA Propulsion and Energy Forum and Exposition, 2019",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.2514/6.2019-4224",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 0,
+    "Abstract": "Due to the importance of effectiveness the surgical team and patient health, daily attention is given to the quality of the air and the thermal comfort conditions in the surgical operating theatres. Pioneers in medical applications imposed many restrictions on comfort criteria to establish healthy environment. These cases have been compared numerically to assess their compliance with international standards of operating theatre thermal comfort requirements. Recent developments in air conditioning technologies and applications lead to improved performance and development the airflow model in the design of air-conditioned rooms for greater comfort and more energy efficient. The present work utilizes a Computational Fluids Dynamics procedure (CFD) for the analyses of the performance of HVAC system, through investigating airflow patterns, temperature and relative humidity contours as well as the most commonly used comfort parameters: the Predicted Mean Vote (PMV), and the Predicted Percentage of Dissatisfied (PPD) based on Fanger model. Five design cases are investigated in this research work. It was concluded that the fifth case, that was characterized by 30 ACH and 18 oC inlet temperature yields good results for thermal comfort parameters (PPD, PMV) and comply with ISO 7730 standard recommendations. This work also concluded that the effect of low temperature with a constant flow rate is less than the effect of increasing the flow rate with a constant temperature of the thermal comfort. Results of simulation show that a good agreement with experimental data and adopted standard."
+}

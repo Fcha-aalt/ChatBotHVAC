@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006746640,
+    "Title": "WalkSense: Classifying home occupancy states using walkway sensing",
+    "Author": "Soltanaghaei E.",
+    "Journal": "Proceedings of the 3rd ACM Conference on Systems for Energy-Efficient Built Environments, BuildSys 2016",
+    "Publication Date": {
+        "$date": "2016-11-16T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1145/2993422.2993576",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Virginia",
+    "Affliation Country": "United States",
+    "Cited by count": 27,
+    "Abstract": "Home automation systems can save a huge amount of energy by detecting home occupancy and sleep patterns to automatically control lights, HVAC, and water heating. However, the ability to achieve these benefits is limited by a lack of sensing technology that can reliably detect zone occupancy states. We present a new concept called Walkway Sensing based on the premise that motion sensors are more reliable in walkways than occupancy zones, such as hallways, foyers, and doorways, because people are always moving and always visible in walkways. We present a methodology for deploying motion sensors and a completely automated algorithm called WalkSense to infer zone occupancy states. WalkSense can operate in both offline (batch) and online (real-time) mode. We evaluate our system on 350 days worth of data from 6 houses. Results indicate that WalkSense achieves 96% and 95% average accuracies in offline and online modes, respectively, which translates to over 47% and 30% of reduced energy wastage, and 71% and 30% of reduced comfort issues per day, in comparison to the conventional offline and online approaches."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85157994871,
+    "Title": "Indoor temperature preference setting control method for thermal comfort and energy saving based on reinforcement learning",
+    "Author": "Li W.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-08-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106805",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an University of Architecture and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "The optimal control of heating, ventilation, and air-conditioning (HVAC) systems affects people's living and building energy consumption. Many studies have introduced personal thermal sensation into the air-conditioning system to reduce energy consumption while improving the indoor thermal environment. However, there are limitations that require multiple adjusted temperature settings to create a room thermal environment that meets personal thermal comfort needs, and the impact of room temperature set values on air-conditioning energy consumption is often ignored. This study proposes an indoor temperature preference setting control method (ITPSCM) for thermal comfort and energy saving based on reinforcement learning (RL), which uses personal thermal comfort and the energy-saving effect of the system as the reward function. Q-learning is employed to obtain optimized room temperature settings to meet users' temperature preferences. Several comparative experiments are carried out in an indoor environment control testbed, and the experimental data is used to train the RL algorithm. As the results show, compared with the temperature set value-based control method, the ITPSCM can realize an indoor thermal environment that meets personal thermal comfort preferences in the early stages of air-conditioning system operation. With just the thermal comfort as a reward, 22.34% of daily energy consumption can be saved; with both the thermal comfort reward and energy-saving effect reward are considered, 26.48% of daily energy consumption can be saved."
+}

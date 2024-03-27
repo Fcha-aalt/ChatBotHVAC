@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141850915,
+    "Title": "Achieving energy savings through artificial-intelligence-assisted fault detection and diagnosis: Case study on refrigeration systems",
+    "Author": "Lee D.",
+    "Journal": "Case Studies in Thermal Engineering",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.csite.2022.102499",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 3,
+    "Abstract": "This study developed an innovative auto-scale transfer learning (ASTL) technology for artificial intelligence (AI) assisted fault detection and diagnosis (FDD). Openly available data on water chiller faults, namely the RP-1043 data set, were used to train the developed ASTL system. The data of water chillers were then transferred to refrigeration systems for FDD. AI-assisted FDD was conducted with an internet of things (IoT) system to complete a case study on 100 refrigeration systems located in 39 different places. The power of these refrigeration systems ranged from 1/4 to 10 hp, and the froze products such as fresh foods, pickled foods, dairy products, and meat products. The practical case studies conducted in this research indicates that energy savings can be achieved by conducting AI-assisted FDD for refrigeration systems. The energy savings for equipment with a power of 1/4-10 hp were 13.43%-26.83%. The application of AI-assisted FDD in refrigeration systems resulted in higher energy conservation than did its application in HVAC systems. In addition, AI-assisted FDD effectively reduced the transportation costs and personnel costs required for equipment maintenance, and the annual cost of the AI platform and the installation cost of the IoT system had the total return of 40.92%."
+}

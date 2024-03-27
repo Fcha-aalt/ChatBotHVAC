@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151537323,
+    "Title": "Building Energy Performance Analysis of the Application of a Vision-based Deep Learning Approach for Occupancy Activity Detection",
+    "Author": "Tien P.W.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.30303",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 0,
+    "Abstract": "Occupancy and occupant activities within building spaces can significantly impact the energy performance of buildings and the operations of heating, ventilation, and air-conditioning (HVAC) systems. This paper explores the application of a vision-based deep learning approach for occupancy activity detection. 1,200 coloured images of occupancy performing different types of activities were collected and preprocessed before the development of a detection method based on a convolutional neural network, which was deployed to an AI-based camera. Experiments were conducted, data about the occupancy and activities performed were collected and were used to form the deep learning influenced profile (DLIP). Based on the results, overall detection accuracy of 98.65% was achieved. Along with typically 'scheduled' occupancy profiles, a building energy simulation (BES) tool was used to further assess the proposed method. Results indicate that using the deep learning approach can provide a more accurate prediction of the occupancy heat gains within a building space while minimising the occurrence of overestimation in occupancy heat gains by up to 64.27%. The application of the occupancy detection approach can also benefit towards the provision of the exact times when the room setpoint temperature can be adjusted to help reduce unnecessary building energy loads, while also maintaining a thermally comfortable environment for occupants."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063410640,
+    "Title": "An hourly electricity consumption calculation method for hvac terminal units with classification and regression tree on the basis of sub-metering",
+    "Author": "Ji Y.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-03-04T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/238/1/012002",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Beijing University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Building energy efficiency is an important section of energy conservation, while the premise of mining energy-saving potential is clearly obtain the specific energy consumption of each building service system. So electricity sub-metering was widely implemented in China in recent years. Main building energy systems and high-power electrical equipment all can be metered directly except the HVAC terminal units (like fan coils and air handing units), because they are always mixed with lighting system caused by existing electricity circuit design. It is an obstacle to get detailed and systematic sub-metering data. Therefore, an indirect calculation algorithm is necessary. Considering the fact that the amount of historical sub-metering data is huge, the algorithm should be calculated fast and ensure a certain degree of accuracy. And given the variety of building types, it is better that the algorithm also has classification function. To solve above problem, an automatic HVAC terminals energy use calculation method is proposed in this paper. The core algorithm of this method is classification and regression tree (CART). In this research, the establishment of CART model is achieved and the selection of input variables is discussed. Finally, this method is demonstrated and validated in an actual building located in Shanghai."
+}

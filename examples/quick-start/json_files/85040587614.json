@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040587614,
+    "Title": "Hierarchical Classification of Low Resolution Thermal Images for Occupancy Estimation",
+    "Author": "Walmsley-Eyre L.",
+    "Journal": "Proceedings - 2017 IEEE 42nd Conference on Local Computer Networks Workshops, LCN Workshops 2017",
+    "Publication Date": {
+        "$date": "2017-11-14T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/LCN.Workshops.2017.59",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Western Australia",
+    "Affliation Country": "Australia",
+    "Cited by count": 13,
+    "Abstract": "Occupancy estimators (sensors which can accurately estimate the number of people occupying a space) hold great potential for reducing the power usage of lighting and heating, ventilation, and air conditioning (HVAC) systems. In this paper we use low-resolution thermal sensors for occupancy estimation, due to their high temporal and spatial resolution and low invasiveness. We extend the connected component analysis and frame-classification approach taken in prior work with several new features designed to provide interesting information about the frame and components, and also examine an alternative approach that classifies the connected components individually. This is done by creating a prototype system used to collect and label data from scenes. We found that the new features significantly improve accuracy, but that the connected component classification approach is no better than frame classification for typical scenes with few occupants. In scenes with many or close occupants, We found that connected component classification produced more accurate predictions."
+}

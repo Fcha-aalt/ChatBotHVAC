@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122015809,
+    "Title": "The potential of harnessing real-time occupancy data for improving energy performance of activity-based workplaces",
+    "Author": "Brambilla A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15010230",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 2,
+    "Abstract": "Currently, the available studies on the prediction of building energy performance and real occupancy data are typically characterized by aggregated and averaged occupancy patterns or large thermal zones of reference. Despite the increasing diffusion of smart energy management systems and the growing availability of longitudinal data regarding occupancy, these two domains rarely inform each other. This research aims at understanding the potential of employing real-time occupancy data to identify better cooling strategies for activity-based-working (ABW)-supportive offices and reduce the overall energy consumption. It presents a case study comparing the energy performance of the office when different resolutions of occupancy and thermal zoning are applied, ranging from the standard energy certification approach to real-time occupancy patterns. For the first time, one year of real-time occupancy data at the desk resolution, captured through computer logs and Bluetooth devices, is used to investigate this issue. Results show that the actual cooling demand is 9% lower than predicted, unveiling the energy-saving potential to be achieved from HVAC systems for non-assigned seating environments. This research demonstrates that harnessing real-time occupancy data for demand-supply cooling management at a fine-grid resolution is an efficient strategy to reduce cooling consumption and increase workers’ comfort. It also emphasizes the need for more data and monitoring campaigns for the definition of more accurate and robust energy management strategies."
+}

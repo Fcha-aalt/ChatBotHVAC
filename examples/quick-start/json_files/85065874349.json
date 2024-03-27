@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85065874349,
+    "Title": "Virtual sensor based on a deep learning approach for estimating efficiency in chillers",
+    "Author": "Alonso S.",
+    "Journal": "Communications in Computer and Information Science",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/978-3-030-20257-6_26",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad de León",
+    "Affliation Country": "Spain",
+    "Cited by count": 4,
+    "Abstract": "Intensive use of heating, ventilation and air conditioning (HVAC) systems in buildings entails an analysis and monitoring of their efficiency. Cooling systems are key facilities in large buildings, and particularly critical in hospitals, where chilled water production is needed as an auxiliary resource for a large number of devices. A chiller plant is often composed of several HVAC units running at the same time, being impossible to assess the individual cooling production and efficiency, since a sensor is seldom installed due to the high cost. We propose a virtual sensor that provides an estimation of the cooling production, based on a deep learning architecture that features a 2D CNN (Convolutional Neural Network) to capture relevant features on two-way matrix arrangements of chiller data involving thermodynamic variables and the refrigeration circuits of the chiller unit. Our approach has been tested on an air-cooled chiller in the chiller plant at a hospital, and compared to other state-of-the-art methods using 10-fold cross-validation. Our results report the lowest errors among the tested methods and include a comparison of the true and estimated cooling production and efficiency for a period of several days."
+}

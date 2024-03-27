@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089269193,
+    "Title": "Equivalent contact temperature (ECT) for personal comfort assessment as extension for ISO 14505-2",
+    "Author": "Schmidt C.",
+    "Journal": "Proceedings of 10th Windsor Conference: Rethinking Comfort",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "This paper introduces a new calculation method for the determination of the so-called equivalent contact temperature (ECT). It completes the missing contact area related thermal comfort information that is currently neglected in (ISO 14505-2, 2016), but which is inevitable for the evaluation of the local and overall thermal comfort of passengers in vehicles. There is strong evidence that currently used central HVAC units, which are based on convective heating and cooling of entire vehicle cabins will be replaced by various combinations of much more energy efficient decentralized systems that locally act on the human body in the future. However, such concepts must be able to provide the same level of thermal comfort to the passengers as currently existing HVAC systems to guarantee their acceptance. For this reason, the work at hand introduces an appropriate evaluation scheme, which holds for summer and winter test settings. Introduced experimental results provide the fundamental correlations between ECTs and corresponding thermal comfort votes for two distinct summer settings. The latter are made compatible to the existing evaluation schemes of (ISO 14505-2, 2016)."
+}

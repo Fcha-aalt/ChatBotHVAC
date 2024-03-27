@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089343119,
+    "Title": "Energy management and demand response with intelligent learning for multi-thermal-zone buildings",
+    "Author": "Gao Y.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.118411",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Electrical and Computer Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "This paper presents an optimal building energy management strategy for the demand response of multi-thermal-zone buildings in the smart electricity grid environment. The proposed method includes a machine learning model, based on a neural network, for a building heating ventilation and air conditioning system. The learned model is then applied to an optimization problem to determine the optimal management scheduling of building loads. The goal of the optimization problem is to minimize building electricity costs and reduce the overall building energy consumption during peak load hours while satisfying human comfort demand. To overcome the coupling issue between the building internal-heat-gain loads and the building heating ventilation and air conditioning system, an iterative algorithm is proposed to solve the optimization problem. In each iteration, a mixed-integer linear programming technique is used to solve a sub-optimization problem for the building internal-heat-gain loads and its results are then applied to another sub-optimization problem, solved by using a particle swarm technique, for the building heating ventilation and air conditioning system. The iterative optimization algorithm stops when convergence between the optimization for the building heating ventilation and air conditioning system and the optimization for the building internal-heat-gain loads is properly reached. EnergyPlus is used to build and simulate complex buildings with multiple-thermal zones according to real-life conditions. The simulation model is also used to test and evaluate the effectiveness of the proposed machine-learning model and the iterative optimization algorithm and the improvement of building energy management in terms of energy consumption efficiency, cost saving, and satisfaction of human comfort."
+}

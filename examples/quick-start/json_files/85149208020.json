@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149208020,
+    "Title": "Implementation of a Hybrid Technique for the Predictive Control of the Residential Heating Ventilation and Air Conditioning Systems",
+    "Author": "Ray M.",
+    "Journal": "Engineering, Technology and Applied Science Research",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.48084/etasr.5027",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kalinga Institute of Industrial Technology, Bhubaneswar",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "Since daily energy needs are increasing, it is imperative to find ways to save energy, such as improving the energy consumption of buildings. Heating Ventilating and Air-Conditioning (HVAC) loads account for the majority of a building's energy use. The accurate estimation of energy consumption and the examination of various ways to improve the energy efficiency of buildings are very important. This paper presents an analysis of HVAC loads in a residential building by examining three Neural Networks (NNs): Feed-Forward (FF), Cascaded Forward Backpropagation (CFBP), and Elman Backpropagation (EBP) networks, based on Mean Absolute Error (MAE), Mean Square Error (MSE), and Mean Relative Error (MRE). Furthermore, these networks were combined in hybrid NNs to obtain more optimized results. These results were also compared with other approaches and showed better prediction performance."
+}

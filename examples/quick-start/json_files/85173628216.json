@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173628216,
+    "Title": "The impact of a kinetic façade on the lighting performance and energy efficiency of a public building: the case of Dubai frame",
+    "Author": "Alawaysheh A.",
+    "Journal": "International Journal of Sustainable Energy",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/14786451.2023.2248514",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "British University in Dubai",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 0,
+    "Abstract": "This paper proposes a novel framework for selecting a kinetic system strategy to enhance the performance of the building while preserving its architectural concepts. Dubai Frame, which is one of the most iconic buildings in Dubai, was chosen to act as a case study. A parametric model was developed for adjusting the opening ratios of the panel’s solid parts in the façade geometrics using the Grasshopper plugin in Rhino. Integrated Environmental Solutions (IES) simulation software was used and validated by calibration of the actual monthly electricity bills and real measurement of lux value against the predicted readings. The simulation assessed the total energy savings in terms of electricity and cooling loads and cost savings in terms of the KW per hour of electricity generated. In addition, it examined daylight illuminance levels for nine scenarios of the proposed kinetic system. The research has revealed several important results that include the finding that the optimal kinetic system results in 20% energy savings and 31% reduction in daylight illuminance levels while taking into account the current situation of the building and its aesthetic values. Abbreviations: UAE, United Arab Emirates; IEQ, Indoor Environmental Quality; PCM, Phase change materials; ASHRAE, The American Society of Heating, Refrigerating and Air-Conditioning Engineers; LEED, Leadership in Energy and Environmental Design system; HVAC, Heating, ventilation and air conditioning; RH, Relative Humidity; WWR, Window Wall Ratio; LR, Literature Review; RSMF, Room Surface maintenance factor; LMF, Luminaire maintenance factor; VAT, Value added tax; IHG, Internal Heat Gains."
+}

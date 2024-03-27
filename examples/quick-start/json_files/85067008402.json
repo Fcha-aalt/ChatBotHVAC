@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067008402,
+    "Title": "Simulating the impact of occupant behavior on energy use of HVAC systems by implementing a behavioral artificial neural network model",
+    "Author": "Deng Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.06.015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lyles School of Civil Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 39,
+    "Abstract": "The current methods for simulating building energy consumption are often not accurate, and various types of occupant behavior may explain this inaccuracy. The present study used the EnergyPlus program to simulate the energy consumption of HVAC systems in office buildings. Measured energy data from the offices were used to validate the simulated results. When using the actual behavior from the offices, the difference between the simulated results and the measured data was less than 13%. When a behavioral artificial neural network (ANN) model was implemented in the energy simulation, the energy simulation performed as well as using the actual occupant behavior. However, energy simulation using constant thermostat set point without considering occupant behavior was not accurate. Further simulations demonstrated that adjusting the thermostat set point and the clothing level of the occupants could lead to a 25% variation in energy use in interior offices and 15% in exterior offices. The behavior data obtained from the other buildings revealed lower behavior occurrence among occupants, and the energy simulation with the behavioral ANN model calculated a wider comfort zone and a higher variation in energy use due to occupant behavior. Finally, energy consumption could be reduced by 30% with thermostat setback control and 70% with occupancy control."
+}

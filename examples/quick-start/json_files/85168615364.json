@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168615364,
+    "Title": "Data-driven methods for the reduction of energy consumption in warehouses: Use-case driven analysis",
+    "Author": "Shaer I.",
+    "Journal": "Internet of Things (Netherlands)",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.iot.2023.100882",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Western University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "On a global scale, buildings account for a significant portion of energy consumption and CO2 emissions, contributing to inclement environmental conditions. The Heating, Ventilation, and Air Conditioning (HVAC) system is an important energy consumer in buildings, which can be controlled to reduce overall energy consumption. This paper provides an overview of the HVAC control problem for energy reduction in warehouses. In particular, this paper first introduces the enabling technologies for HVAC control. After that, an extensive explanation of the warehouse environment is provided. Issues such as multi-zone spaces, occupancy profiling, and ambient environmental conditions are highlighted in connection to energy consumption. Next, a survey of traditional solutions followed by the proposed solution of incorporating Reinforcement Learning (RL) and Supervised Learning techniques are discussed. After that, an in-depth summary of the challenges associated with the implementation of these techniques is examined. Lastly, a use case study is conducted to demonstrate the outlined challenges using a dataset collected in a real-world environment."
+}

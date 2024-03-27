@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048865482,
+    "Title": "Real-time optimized HVAC control system on top of an IoT framework",
+    "Author": "Rajith A.",
+    "Journal": "2018 3rd International Conference on Fog and Mobile Edge Computing, FMEC 2018",
+    "Publication Date": {
+        "$date": "2018-05-23T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/FMEC.2018.8364062",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Hitachi, Ltd.",
+    "Affliation Country": "Japan",
+    "Cited by count": 31,
+    "Abstract": "Heating Ventilation and Air Conditioning (HVAC) systems consume a significant portion of energy within corporate buildings, mainly due to the lack of stringent monitoring which results in compromising either energy efficiency or user comfort. We propose a simple optimized HVAC control system that automates the HVAC operation in real-time for an optimal cost-comfort trade-off using optimization techniques and demand response. Our system is built on top of an IoT (Internet of Things) framework, where thermal parameters from sensors and user feedback information are collected for real-time processing in our distributed cloud environment. We utilize a predictive model using time-series forecasting based on Artificial Neural Network, Multilayer Perceptron (MLP) and optimize the HVAC control problem using Mixed Integer Linear Programming (MILP) problem. User feedback is periodically obtained to set the desired temperature dynamically and is also utilized for subjective evaluation of HVAC effectiveness. Our experiments indicate that we achieve 20%-40% reduction in energy consumption (summer) approximately and maintain user thermal comfort consistently."
+}

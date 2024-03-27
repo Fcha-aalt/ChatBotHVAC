@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84925669408,
+    "Title": "Optimizing tradeoffs among housing sustainability objectives",
+    "Author": "Karatas A.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2015-05-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.autcon.2015.02.010",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Michigan, Ann Arbor",
+    "Affliation Country": "United States",
+    "Cited by count": 27,
+    "Abstract": "The sustainability of housing units can be improved by integrating green building equipment and systems such as energy-efficient HVAC systems, building envelopes, water heaters, appliances, and water-efficient fixtures. The use of these green building measures often improves the environmental and social performances of housing units; however they can increase their initial cost and life cycle cost. This paper presents a multi-objective optimization model that is capable of optimizing housing design and construction decisions in order to generate optimal/near-optimal tradeoffs among the three sustainability objectives of maximizing the operational environmental performance of housing units, maximizing the social quality of life for their residents, and minimizing their life cycle cost. The model is designed as a multi-objective genetic algorithm to provide the capability of optimizing multiple housing objectives and criteria that include minimizing carbon footprint and water usage during housing operational phase, maximizing thermal comfort, enhancing indoor air and lighting quality, improving neighborhood quality, and minimizing life cycle cost. An application example is analyzed to illustrate the use of the developed model and evaluate its performance. The results of this analysis illustrate the novel capabilities of the model in generating 210 near-optimal tradeoff solutions for the analyzed housing example, where each represents an optimal/near-optimal and unique tradeoff among the aforementioned three sustainability optimization objectives of maximizing the operational environmental performance of housing units, maximizing the social quality of life for their residents, and minimizing their life cycle cost. These novel capabilities of the developed model are expected to improve the design and construction of housing units and maximize their overall sustainability."
+}

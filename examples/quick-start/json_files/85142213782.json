@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142213782,
+    "Title": "Double-Layered Model Predictive Control for Building HVAC Systems Considering Thermal Comfort",
+    "Author": "Zhou C.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ifacol.2022.08.055",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Xi'an Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "This paper provides an optimization-based control approach for the building HVAC systems to reduce the energy consumption under the operational uncertainties. In order to achieve high energy efficiency while satisfying the thermal comfort of occupants, we propose a double-layered model predictive control approach, where the upper layer calculates the optimal steady state target while optimizing the performance index, and the lower layer utilizes a dynamic controller to track the steady state target. By utilizing this framework, the soft constraints such as the comfort level can be relaxed to find a feasible operation point when the presence of unknown disturbance leads to an unreachable external target. We setup a test in a 25m2 office located at an educational complex in Xi'an Jiaotong University, China. The results show that our approach maintains the room temperature in the comfort range for the occupants and achieves 7% energy reduction compared to the benchmarks."
+}

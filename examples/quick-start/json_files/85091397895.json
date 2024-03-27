@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091397895,
+    "Title": "Review on HVAC system optimization towards energy saving building operation",
+    "Author": "Selamat H.",
+    "Journal": "International Energy Journal",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universiti Teknologi Malaysia",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 10,
+    "Abstract": "Works on the optimization of heating, ventilation and air-conditioning (HVAC) systems have been done extensively because of its high amount of building electrical energy usage. This paper provides a review on the optimizations works of HVAC systems based on three main approaches – HVAC operational parameters optimization, HVAC controller parameters optimization and building design parameters optimization. For the system’s operational parameters, the optimization is based on the HVAC’s conventional and predictive energy consumption models which is clear the predictive HVAC system models can get better response to reduce energy consumption compare to conventional energy consumption model. In most works, the thermal comfort model, either indicated by the indoor air quality (IAQ) or the predicted mean vote (PMV) was included. It is be noticed that between IAQ comfort index and PMV comfort index the PMV had a better response that can get 46% reduce the energy consumption. In addition, in the HVAC’s controller optimization approach, its objective is to improve the output response of the HVAC system in order to avoid unnecessary energy usage by optimizing the controller parameters that employ controllers such as Fuzzy Logic, Neural Network and Proportional-Integral-Derivative (PID) controllers. It is clear that among the different controller optimizations mentioned above the fuzzy logic tuning optimization has a better response to reduction of energy consumption rather than other controller optimization approach. Meanwhile, the optimization of building design parameters approach is done before the construction of the buildings so as to reduce the energy consumption, where factors such as HVAC system type, construction material type and window dimensions are determined through the optimization process. This paper reviews the works based on the three approaches of HVAC system optimizations with the objective of reducing energy usage without sacrificing the comfort of occupants inside the building that is recommended to us e predictive HVAC system approaches with fuzzy logic controller. Moreover, comparing different tools for building parameter and design optimization including SEDICAE, EXRETopt and EneryPlus, the EXRETopt by using PMV comfort index makes to 62% reduction of energy consumption."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85021306997,
+    "Title": "Optimization of roof solar reflectance under different climate conditions, occupancy, building configuration and energy systems",
+    "Author": "Piselli C.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-09-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.06.045",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Perugia",
+    "Affliation Country": "Italy",
+    "Cited by count": 32,
+    "Abstract": "Cool roofs have been widely proved to represent an effective strategy for building thermal-energy performance improvement during the cooling season. However, their effectiveness along the whole year can be affected by building features and other boundary conditions. The present work aims at assessing the energy performance of high solar reflectance roof solutions in different climate zones, when implemented in a variety of building typologies. Therefore, an optimization study was carried out to select the optimum roof solar reflectance able to minimize building annual HVAC energy consumption. In this work, Italian climate zones were considered as case study conditions. The analysis was performed through dynamic simulation of validated standard ASHRAE building reference models. Moreover, the role of (i) type of HVAC system operating, (ii) presence and intensity of internal gains, and (iii) roof thermal insulation level was evaluated on the resulting optimum roof reflectance capability. Results show that the optimum roof solar reflectance varies under different climate conditions, mainly depending on heating or cooling dominated conditions. However, all further analyzed boundary conditions, i.e. building typology, HVAC system, internal gains, and roof insulation level, affect building energy performance and, therefore, the optimum roof reflectance identification. In the hottest climate, the optimum roof solar reflectance resulted to be consistently equal to the maximum considered, i.e. 0.8, also with varying the other parameters. Moreover, the annual HVAC energy need is more sensitive to roof reflectance in the apartment building, showing 17% of energy savings with standard model characteristics. On the other hand, in heating dominated climates, the optimum roof solar reflectance is more variable, ranging over all the considered values, because it is affected by the additional boundary conditions. On the contrary, the variability of HVAC need due to roof solar reflectance variation is generally lower."
+}

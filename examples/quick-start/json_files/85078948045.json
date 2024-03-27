@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078948045,
+    "Title": "Impacts of projected climate change scenarios on heating and cooling demand for industrial broiler chicken farming in the Eastern U.S",
+    "Author": "Izar-Tenorio J.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2020-05-10T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.jclepro.2020.120306",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 13,
+    "Abstract": "Industrial poultry production is a resource-intensive activity due to specific indoor temperature requirements to ensure optimal chicken growth. The energy consumption to maintain this ideal microclimate demands substantial operating expenses that are subject to climate conditions. As such, energy demand for heating and cooling (HVAC) for commercial broiler chicken production may be influenced by increased temperatures that occur due to climate change. This study focuses on evaluating the effects of climate change on future HVAC demands in a typical commercial broiler house in the Eastern U.S. To estimate such demands, we developed a simplified thermodynamic model that uses downscaled air temperature as input. These inputs stemmed from twenty General Circulation Models (GCM) for business-as-usual (RCP 8.5) and moderate (RCP 4.5) climate change scenarios. Our results indicate that increased temperatures from climate change scenarios by mid-century will increase energy demand for cooling by 5.5 ± 1.8% (RCP 4.5) and 6.6 ± 2.1% (RCP 8.5), and reduce energy demand for heating by 9.0 ± 3.2% (RCP 4.5) and 10.3 ± 3.7% (RCP 8.5) with respect to 2018. Furthermore, our results suggest that warmer temperatures under climate change will substantially increase water withdrawals for evaporative cooling. However, there may be a point where cooling pads may not be efficient enough to cool down chickens and other innovative alternatives may be required. Such changes could include the use of air conditioning units, which would further increase electricity demand. Efficiency improvements that could mitigate some of the negative changes in energy demand could include increasing the size of the house, modifying the production schedule to minimize energy use, and adding insulation."
+}

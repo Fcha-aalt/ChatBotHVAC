@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173268465,
+    "Title": "Assessment of the energy implications adopting adaptive thermal comfort models during the cooling season: A case study for Mediterranean nursing homes",
+    "Author": "Vergés R.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-11-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113598",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "The growing demand in the use of cooling in buildings for the effects of climate change and the thermal comfort conditions requires the adoption of energy conservation measures. Implementing adaptive thermal comfort models can result in a significant decrease in energy consumption, especially in buildings where the users are groups of vulnerable people. However, no study has proposed a prediction of energy consumption from a comfort-based approach for nursing homes. This article presents the development of adaptive consumption models to assess the energy implications of HVAC systems for the cooling season by measuring real data on energy consumption and environmental conditions. The adaptive consumption models are implemented in eight nursing homes located in two different climates (Mediterranean and Continental-Mediterranean). The findings reveal that adaptive thermal comfort control methods result in important energy savings in comparison to a fixed set point temperature. The study demonstrates a potential average energy savings of up to 9.9 % (8.1 % in Mediterranean climate and 11.7 % in the Continental-Mediterranean climate) for the analysed nursing homes. The prediction of energy consumption from an adaptive comfort-based approach in nursing homes will enhance their energy efficiency ensuring the well-being of their vulnerable residents by maintaining optimal thermal comfort. These findings hold significant value for the effective energy management of buildings in future climate change scenarios and warrant careful consideration by nursing home facility managers."
+}

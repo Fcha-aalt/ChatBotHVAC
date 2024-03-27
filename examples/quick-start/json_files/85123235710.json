@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123235710,
+    "Title": "Sensitivity analysis of coating mortars according to their specific heat, specific gravity, thermal conductivity, and thickness in contribution to the global thermal performance of buildings",
+    "Author": "Mendes V.F.",
+    "Journal": "Sustainable Materials and Technologies",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.susmat.2021.e00381",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Federal de Ouro Preto",
+    "Affliation Country": "Brazil",
+    "Cited by count": 7,
+    "Abstract": "Although coating (plastering) mortars are an important element of masonry systems, their impact on the building's overall thermal performance is still unclear. In this sense, the present work performed a sensitivity analysis on the influence of the thermophysical properties of coating mortars on the internal temperature and thermal load of two buildings. The authors aimed to fill the gap between the mortars' properties, their manufacturing specifications, and the actual effect of their application on the building's total energy performance. The methodology included energy simulations on EnergyPlus considering all Brazilian bioclimatic zones. We varied the mortars' specific heat, specific gravity, thermal conductivity, and thickness from 25% to 200% from baseline values. We also analysed the results through Decision Tree technique (XGBoost). The thermal conductivity (proportional to the specific gravity) was the less significant property, whereas the thickness and the specific heat were the most influential ones. The differences between the best and worst mortars reached 356 °C and 224 kWh/year for the house, and 736 °C and 45 kWh/year for the commercial building. The results showed that the optimal combination of the tested properties is a function of the bioclimatic characteristics of the region, the building layout, and the existence and schedule of the HVAC system. The simulations also evidenced that the strategy of solely decreasing the thermal conductivity without considerations for the thermal capacity, which is often used in the manufacturing of conventional insulating mortars, is ineffective. Therefore, assertively adjusting the mortars' thermophysical properties can be a promising complementary strategy for improving the thermal performance of buildings."
+}

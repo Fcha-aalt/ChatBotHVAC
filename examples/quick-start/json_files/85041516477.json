@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041516477,
+    "Title": "A Heuristic-Based Smart HVAC Energy Management Scheme for University Buildings",
+    "Author": "Jindal A.",
+    "Journal": "IEEE Transactions on Industrial Informatics",
+    "Publication Date": {
+        "$date": "2018-11-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/TII.2018.2802454",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Thapar Institute of Engineering &amp; Technology",
+    "Affliation Country": "India",
+    "Cited by count": 44,
+    "Abstract": "Energy management in commercial buildings is a challenging task due to their specific set of requirements. One such building that has not been fully investigated in the literature to provide energy efficiency is a university building. There are many challenges associated while managing the energy of a university building, such as-scheduling of classes, availability of faculty, and capacity of classrooms. To address these challenges for providing better energy efficiency, an efficient heating, ventilation, and air-conditioning (HVAC) management scheme for a university building is presented in this paper. The HVAC loads are chosen as these are more flexible in the classrooms than other loads, such as-lighting and projectors. In this paper, the HVAC energy management problem is formulated as a mixed-integer linear programming (MILP) problem. To solve this problem, a heuristic-based algorithm is proposed, which optimally minimizes the use of HVAC without affecting user comfort. Moreover, it also minimizes the cost of rescheduling the classes on a given day. The results obtained on the dataset traces taken from a university building clearly indicate that the proposed scheme reduces the energy demand of HVAC systems by 19.75% for an entire week without affecting the user comfort. Moreover, this scheme shows superior performance when compared with existing commercial demand response management schemes with respect to load reduction and cost savings."
+}

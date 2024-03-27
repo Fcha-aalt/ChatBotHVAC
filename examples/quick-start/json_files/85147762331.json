@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147762331,
+    "Title": "Energy efficiency package for rooftop unit replacement: laboratory testing and validation of energy savings",
+    "Author": "Mathew P.A.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/23744731.2022.2148821",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Over half of commercial building floor area in the US is served by packaged rooftop units (RTUs). With a typical useful life in the 10-20 years range, RTU replacement is a periodic necessity in commercial buildings and an opportunity for upgrading to higher-efficiency units. We designed a package of energy efficiency measures that can be used in conjunction with an RTU replacement, including advanced controls, high-efficiency low pressure-drop air filters, energy monitoring and, optionally, window films and cool-roofs to reduce loads and size of the replacement RTUs. We conducted side-by-side laboratory testing of the package to evaluate energy savings and thermal comfort relative to an existing building baseline. Daily HVAC energy savings for the RTU replacement package averaged 61% across all seasons. The test data showed that the ASHRAE Guideline 36 controls significantly reduced thermal loads and this was a key contributor to the savings, in addition to the higher efficiency of the RTU itself. The laboratory testing also revealed some challenges with installation and commissioning of Guideline 36. Overall, the results demonstrate that significant savings can be realized in existing office buildings by incorporating relatively low-risk, proven measures in conjunction with an RTU replacement."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938078188,
+    "Title": "POD approach to determine in real-time the temperature distribution in a cavity",
+    "Author": "Tallet A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2015-11-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.buildenv.2015.07.007",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "La Rochelle Université",
+    "Affliation Country": "France",
+    "Cited by count": 25,
+    "Abstract": "In most buildings, heating, ventilation and air conditioning (HVAC) systems are controlled by indoor air temperature. However, the temperature sensor is often misplaced in the building and the measured temperature is not representative of the perceived temperature. In a context where the buildings must ensure good thermal comfort for the occupants while remaining energy efficient, the knowledge of the temperature distribution in the building is crucial. In this paper, we propose a method which enables to obtain in real-time the temperature distribution in a room. It is decomposed into two steps: an \"offline\" step and an \"online\" step. The offline step consists in constituting a database of several flow regimes (several Reynolds numbers and Rayleigh numbers) with CFD simulations. This sampling enables then to build a POD (Proper Orthogonal Decomposition) basis. In the online step, knowing the inlet and outdoor temperatures, the temperature in the occupation zone is obtained in real-time using an optimization algorithm and POD reconstruction. The velocity in the occupation zone is likewise determined. The method is approved on a tridimensional ventilated room. The results produce a good accuracy. Moreover, a parametric study has been made in order to determine the influence of the number and the position of the sensors and the kept POD modes number."
+}

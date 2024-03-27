@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115393944,
+    "Title": "Development of novel PMV-based HVAC control strategies using a mean radiant temperature prediction model by machine learning in Kuwaiti climate",
+    "Author": "Park J.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.108357",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Conformity Laboratories",
+    "Affliation Country": "South Korea",
+    "Cited by count": 25,
+    "Abstract": "Kuwait is one of the hottest regions globally, where air conditioners (ACs) are indispensable for indoor thermal environment. However, the AC energy consumption has reached excessive levels mainly due to the energy-intensive behavior of occupants who don't frequently control the AC set temperature. This study aims to develop Thermal Comfort-based Controller (TCC) using predicted mean vote (PMV) control and to evaluate thermal environment and energy efficiency when TCC is applied to AC control. TCC is a system that automatically controls rooftop packaged AC which is widely used in Kuwaiti houses. As mean radiant temperature (MRT) is one of the most important value for PMV control in areas such as Kuwait where solar radiation is strong and the outdoor air temperature is very high this study developed, machine learning models to effectively estimate MRT without actual measurement. First, the experimental results, conducted at Real-scale Climatic Environment Chamber, revealed that the actual measured MRT was 1.5 °C higher than the air temperature on average, indicating the possibility of underestimating PMV in Kuwaiti climate. Next, machine learning models (i.e., linear regression, regression tree, and artificial neural network) to estimate MRT automatically were developed and evaluated through computer simulations. The simulation results proved that machine learning models can accurately estimate MRT with only a few data that are easily collected in residential buildings. As a result, when the three estimation models were used, it was closer to the PMV range (−0.2 to +0.2), and the energy consumption was also reduced by more than 10%."
+}

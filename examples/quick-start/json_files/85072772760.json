@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072772760,
+    "Title": "Data analysis of building sensors for efficient energy management and future trends in the eu",
+    "Author": "Crasta C.",
+    "Journal": "2019 Electric Power Quality and Supply Reliability Conference and 2019 Symposium on Electrical Engineering and Mechatronics, PQ and SEEM 2019",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/PQ.2019.8818242",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tallinna Tehnikaülikool",
+    "Affliation Country": "Estonia",
+    "Cited by count": 2,
+    "Abstract": "Thermal comfort is an important aspect of home and office environments for maintaining proper human health and wellbeing. This paper presents the results of data analysis techniques employed on measured data of building sensors. The study underscores the importance of data pre-processing in data analysis. The data analysis reveals hidden characteristics of room temperature evolution which are influenced by different physical parameters recorded by sensors installed in a room. This influence is made clearer when seasonal data and different data pre-processing methods are considered. Space heating and cooling accounts for a significant portion of a building's energy consumption. Thus, deep analysis of room temperature data could prove a useful parameter to unlock sustainable energy efficiency measures using future-oriented technologies and solutions, such as Information and Communication Technology (ICT), Internet of Things (IoT), blockchain with smart contracts."
+}

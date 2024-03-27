@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152233341,
+    "Title": "The Impact of HVAC Operational Strategies on Energy Use in an Office Building in a Hot Climate",
+    "Author": "Najid M.A.",
+    "Journal": "Journal of Architectural Engineering",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1061/JAEIED.AEENG-1452",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "King Fahd University of Petroleum and Minerals",
+    "Affliation Country": "Saudi Arabia",
+    "Cited by count": 0,
+    "Abstract": "Office buildings, characterized by high internal heat gains, represent a major share of energy use, mainly due to HVAC systems, especially in commercial facilities. Such energy use becomes more significant in locations with harsh climatic conditions. The careful design, selection, and operation of HVAC and energy systems, however, can contribute to major reductions in the energy use in buildings. In this paper, we present the outcomes of a study conducted to assess the impact of HVAC operational strategies on energy use in office buildings in the hot and humid climate of Saudi Arabia. The study utilized detailed building-energy simulation coupled with utility-use data. The results revealed annual electrical energy savings ranging from an average of 1.9% for each 1°C increase in the thermostat setpoint temperature up to 42.4%, when limiting HVAC system operation to occupied hours only. On an average, there was about a 1.4% penalty in the annual energy for each hour of increase in the HVAC system start-up time. However, this penalty should not be avoided at the expense of compromising thermal comfort. In summary, a combination of appropriate HVAC operational strategies can have a significant impact on a building's annual energy savings, as demonstrated in the presented case study."
+}

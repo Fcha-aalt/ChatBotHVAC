@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114753331,
+    "Title": "Experimental investigation of a multi-kWh cold storage device based on phase change materials",
+    "Author": "De Falco M.",
+    "Journal": "Journal of Energy Storage",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.est.2021.102883",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università Campus Bio-Medico di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 4,
+    "Abstract": "An innovative technology to store cold energy for civil applications and based on Phase Change Materials (PCM) is presented and experimentally validated. The storage tank is coupled to a hydronic chiller in a Heating, Ventilation and Air Conditioning (HVAC) system with the aim of optimizing its performance shaving the cold energy peaks required by the users. The system is composed of a tank containing a heterogeneous mixture of an organic PCM and water. The two liquids are immiscible and water is stratified in the lower part of the tank, PCM in the upper part. A coaxial water-water heat exchanger is immersed in the PCM volume. Water stream from HVAC system (primary circuit) and the water contained in the storage tank (secondary circuit) are fed to the heat exchanger. Then, the secondary circuit water is sent back to the top of the tank through nozzles and the water drops descend by gravity into the volume of PCM. By this way, the PCM is solidified uniformly and quickly, and cold energy is stored in the form of latent heat. In this paper, a prototype able to store up to 25 kWh of energy through PCM solidification is presented. A detailed testing campaign is carried out and an optimized strategy for the cold energy storage system operation is proposed. The experimental results demonstrates that the tank is fully charged in 2.5 h and discharged in 1.6 h."
+}

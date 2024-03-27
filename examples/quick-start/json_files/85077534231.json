@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077534231,
+    "Title": "Decentralized eMPC based fault tolerant control for energy efficiency in a multi-zone building",
+    "Author": "Mona S.",
+    "Journal": "Conference on Control and Fault-Tolerant Systems, SysTol",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/SYSTOL.2019.8864747",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indian Institute of Technology Mandi",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "This paper presents a novel integrated decentralized fault-diagnosis and fault-tolerant approach based on the decentralized economic model predictive control strategy for an HVAC system in a multi-zone building. The Interconnected zones of the building are coupled primarily due to the walls they share, whose direct temperature measurement is either difficult to obtain or is not available. To overcome this problem and estimate the wall temperatures of zones, a full order nonlinear state-observer is designed. Further, using these estimates, we decompose the system into control-oriented thermal models of individual zones. Subsequently, an integrated decentralized fault-diagnosis and fault-tolerant approach based on the decentralized economic model-predictive control is designed which can be easily scaled to buildings with a large number of zones, thereby, making it suitable for real-time implementation. A one-storey building with three zones is used for demonstrating the efficacy of control and monitoring approach."
+}

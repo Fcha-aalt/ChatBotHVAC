@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84963655901,
+    "Title": "A decomposition and coordination-based method for chiller plant optimization",
+    "Author": "Zhang D.",
+    "Journal": "Proceedings of the 2015 International Conference on Complex Systems Engineering, ICCSE 2015",
+    "Publication Date": {
+        "$date": "2016-01-18T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ComplexSys.2015.7385974",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 3,
+    "Abstract": "Since chiller plants consume a large portion of the energy use in the buildings with HVAC systems, growing attention has been paid to chiller plant optimization. A typical chiller plant includes devices such as chillers, cooling towers, primary pumps and condenser pumps. Operation settings of a device are zeros when the device is off; otherwise, they are within positive ranges. With nonlinearity in heat exchange, chiller plant optimization is a mixed-integer nonlinear problem. Establishing a problem formulation with a good balance between accuracy and simplicity is usually difficult. For example, water temperature is critical in improving chiller efficiency while chiller power consumption is a highly nonlinear function of the temperature. In this paper, for simplicity, devices of the same class are assumed identical. To save energy and simplify the problem, a formulation with chilled water supply temperature as an additional decision variable and condenser water supply temperature as a parameter is established. To obtain good solutions and save computational effort, surrogate Lagrangian relaxation (SLR) combined with sequential quadratic programming (SQP) with good initialization is used. Numerical testing shows that power consumption is significantly reduced with maximum savings around 18% in a partial load condition by using our method as compared with a baseline using current strategies."
+}

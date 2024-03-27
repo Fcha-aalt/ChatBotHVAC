@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016748833,
+    "Title": "A thermal comfort evaluation of the container house using the thermal admittance simulation process",
+    "Author": "Shih H.Y.",
+    "Journal": "Applied System Innovation - Proceedings of the International Conference on Applied System Innovation, ICASI 2015",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1201/b21811-113",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Chia-Nan University of Pharmacy and Science Taiwan",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "In recent years, building energy efficiency is increasingly being valued. For architectural design, we not only consider its functionality but also evaluate the comfort requirement of its interior and exterior ventilation, environment control, and the use of the material. In this paper, commercial software, Autodesk Ecotect Analysis, is implemented to evaluate the thermal distribution of the container house for predicting the energy use and efficiency. In order to verify the feasibility of the simulation process, we compare the measured data and simulating results of a 20-feet long container house at Tainan City. Less than 10% error is considered as a good agreement and holds a promise for further expectation. Based on the two studies, different weather and sun radiations are shown at the thermal comfort of the container house. Therefore, designers could acquire more adequate information for evaluating and designing the HVAC in a preliminary design stage via the efficient simulation process."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113773729,
+    "Title": "Analysis on Energy-Efficient HVAC System for Buildings",
+    "Author": "Patel N.",
+    "Journal": "Lecture Notes in Mechanical Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-16-3132-0_21",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Suresh Gyan Vihar University",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "HVAC system plays a very important role for the building, as it has captured almost 45–50% of the electrical load of any building. This study shows that how we can make sure conventional HVAC to energy-efficient HVAC system. This study also shows that it will also reduce the carbon footprint as electrical load going down."
+}

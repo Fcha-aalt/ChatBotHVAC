@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123625919,
+    "Title": "Indoor and Outdoor Conditions Utilized Energy Saving Scheme for HVAC Cooling Water Systems in Smart Commercial Buildings",
+    "Author": "Walgama S.",
+    "Journal": "2021 IEEE Electrical Power and Energy Conference, EPEC 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/EPEC52095.2021.9621546",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Moratuwa",
+    "Affliation Country": "Sri Lanka",
+    "Cited by count": 0,
+    "Abstract": "With the substantial contribution from the building sector for the inevitable growth of global energy consumption, involvement of energy efficient operation and control methods in buildings' Heating, Ventilating and Air Conditioning (HVAC) systems is of utter importance. This paper proposes an energy saving scheme for cooling water systems in central HVAC systems by employing indoor and outdoor environmental conditions of the considered building. Simplified models of the system components were applied to formulate the energy minimization problem and simulation results were obtained by developing the proposed algorithm in MATLAB. The results verify that the proposed strategy allows a reduction of 1078.235 kWh on annual total energy usage with a 1.85% improvement on average system Coefficient of Performance (COP) compared to that of the water flow control method. Utilization of this innovative method for HVAC cooling water systems in smart commercial buildings is beneficial for real control applications due to the inherent efficiency, robustness, and simplicity."
+}

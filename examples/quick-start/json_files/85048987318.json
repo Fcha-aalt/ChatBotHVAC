@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048987318,
+    "Title": "A framework of smart and secure power electronics driven HVAC thermal inertia in distributed power systems",
+    "Author": "Cao Y.",
+    "Journal": "IEEE Green Technologies Conference",
+    "Publication Date": {
+        "$date": "2018-06-05T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/GreenTech.2018.00031",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "This paper explores a framework of combining expertise in power electronics, power systems, and cyber-physical security to tackle future inertia lacking and security concerned smart grids. In particular, power electronics and motor driven building HVAC systems serve as an investigation example. Dynamic room temperature adjustment without sacrificing occupants' comfort is an effective but virtual bi-directional form of energy storage, creating useful power systems inertia. First order control realized inertia at a 10 s to 15 min timescale is reviewed, and second order inertia at a sub-second scale is proposed, behaving as a virtual synchronous machine (VSM). Simulation results of local HVAC drive' dynamic responses as well as IEEE 118 bus systems containing such VSM's demonstrate the effectiveness. Internet data driven HVAC microcontrollers, replacing any conventional local communication, expose vulnerability to hacking. Cyber security measure is proposed to prepare such IoT devices to become online."
+}

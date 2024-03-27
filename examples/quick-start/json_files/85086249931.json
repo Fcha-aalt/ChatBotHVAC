@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086249931,
+    "Title": "A comprehensive optimization solution for buildings with distributed energy resources and V2G operation in smart grid applications",
+    "Author": "Yusuf J.",
+    "Journal": "2020 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2020",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ISGT45199.2020.9087656",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Buildings as a group contribute the highest amount of energy use and man-made carbon di oxide emission in U.S. Energy efficient measures and optimal use of distributed energy resources can help to improve sustain ability to a great extent. This paper presents a comprehensive solution for an existing standard office building to optimize the energy purchased from the grid equipped with a variety of distributed energy resources (DERs). The building includes 180 kW solar Photovoltaic (PV), 150 kWh Battery Energy Storage System (BESS) and five Electric Vehicle (EV) charging stations. Two Plug-in Electric Vehicles (PEV) are available for level II grid to vehicle (G2V) activities and one fast charging level III electric trolley is available for both G2V and vehicle to grid (V2G) operation. A multi objective Mixed Integer Liner Programming (MILP) problem has been formulated to reduce the total cost of grid energy and life cycle degradation cost due to BESS and EV activities. It considers and models all the components associated with building such as Heating Ventilation and Air Conditioning (HVAC), comfort assessment, lighting and miscellaneous plug loads as constraints to solve the optimization model. This exhaustive model results in an optimal schedule for HVAC, lighting, BESS and EV to provide the maximum cost benefit to the building end user. It also shows that level III EV provides higher cost savings compared to level II EV operation."
+}

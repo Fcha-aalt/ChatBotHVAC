@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073203465,
+    "Title": "Predictive maintenance system for efficiency improvement of heating equipment",
+    "Author": "Santiago A.R.",
+    "Journal": "Proceedings - 5th IEEE International Conference on Big Data Service and Applications, BigDataService 2019, Workshop on Big Data in Water Resources, Environment, and Hydraulic Engineering and Workshop on Medical, Healthcare, Using Big Data Technologies",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/BigDataService.2019.00019",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade de Aveiro",
+    "Affliation Country": "Portugal",
+    "Cited by count": 2,
+    "Abstract": "Heating appliances such as HVAC systems consume around 48% of the energy power spent on household appliances every year. With this in mind, it is relevant to increase the efficiency of those solutions. Moreover, a malfunctioning device can increase this value even further. Thus, there is a need to develop methods that allow the identification of eventual failures before they occur. This is only achievable when services capable of analyzing data, interpret it and obtaining knowledge from it, are created. This paper presents an infrastructure that supports the inspection of failure detection in boilers, making viable to forecast faults and errors. A major part of the work is data analysis and the creation of procedures that can process it. The main goal is creating an efficient system able to identify, predict and notify the occurrence of failure events. Our fundamental contribution is the possibility to scale the system to others datasets, being able to resolve different Big Data issues."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103210088,
+    "Title": "Time-Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings",
+    "Author": "Song J.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/TSG.2021.3066547",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gwangju Institute of Science and Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 20,
+    "Abstract": "In this paper, a novel mask-based load disaggregation scheme is presented to extract flexible load profiles in buildings. Flexible loads are those that can be adjusted as needed and examples of such loads are heating, ventilation, and air-conditioning (HVAC), and lighting loads. Knowledge about the flexible sub-load in buildings is crucial for demand-side management programs. However, the load decomposition performance of conventional disaggregation methods may be limited mainly because similar profiles are superimposed on the entire load of the buildings. Motivated by these problems, a deep neural network (DNN)-based mask, termed DNNM, is proposed. It is customized in a time-frequency (T-F) domain to effectively extract the flexible portion of loads. To the best of our knowledge, the DNNM is to achieve load disaggregation using the distinctive T-F properties of the flexible loads. Particularly, a new mask is designed to increase the load disaggregation accuracy by determining the appropriate ratio of flexible load in the mixed loads, adaptively for different T-F elements. Numerical evaluations for residential and commercial building loads show that the proposed DNNM scheme outperforms the conventional disaggregation models in discriminating the contributions of the flexible load from the total power consumption."
+}

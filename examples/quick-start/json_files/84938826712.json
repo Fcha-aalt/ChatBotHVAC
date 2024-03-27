@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938826712,
+    "Title": "Economizer performance and verification: The effect of human behavior on economizer efficiency and thermal comfort in Southern California",
+    "Author": "Kensek K.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Southern California",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "While air-side economizers have the potential to significantly reduce cooling-related energy loads in buildings, they require proper maintenance and operation to achieve these energy savings and will experience diminished performance efficiency if improperly operated. By comparison, air conditioners require more electricity to provide cooling but are less dependent on external factors. In buildings reliant solely or primarily upon economizers to provide cooling, factors such as human behavior, location and orientation, energy model accuracy, HVAC calibration and sizing, and climatic anomalies must be given consideration to ensure the system provides adequate thermal comfort at all times. Prior energy simulations of an economizer verified potential energy savings over an air conditioner, while keeping interior air temperatures within the comfort zone in California Climate Zone 8. A residential unit was studied, measurements taken, and results compared with the simulations. The study determined methods of increasing the efficiency that can be achieved from economizers and influences that external factors can have on the thermal comfort and overall energy consumption. It illustrates the large potential for free cooling that remains underused, the importance of redundancies within economizer-based HVAC systems to achieve savings, and suggestions to prevent adverse effects that can occur from a compromised system."
+}

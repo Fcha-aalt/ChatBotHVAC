@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168840385,
+    "Title": "Advancing sustainability in the maritime sector: energy design and optimization of large ships through information modelling and dynamic simulation",
+    "Author": "Buonomano A.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2023-11-25T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.applthermaleng.2023.121359",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 1,
+    "Abstract": "This paper deals with a new energy design approach for ships to reduce the fuel consumption and the related environmental impact. The proposed method is based on the application of the Building Information Modeling (BIM) to Building Energy Modeling (BEM) technique. Specifically, by a BIM model of the ship a 3D physics-based model (BEM) can be suitably created. Then, by BEM the ship energy performance is simulated under real and dynamic operating conditions. By the presented method the whole design-to-delivery process of the ship can be simplified and speeded up with respect to traditional approaches, without losing reliability. As an example, HVAC systems design is easier through BIM since a high number of thermal zones can be effectively handled. Due to BEM, also the optimal design for exploiting waste heat recoveries of on-board combustion engines is easier and faster. To show the capability of the proposed approach a suitable case study was developed. Basically, it concerns the energy performance analysis of the Allure of the Seas, a 6000-passenger cruise ship operating in the Caribbean Sea. Two different scenarios for recovering the waste heat of the ship diesel generators are investigated. Simulation results highlight that significant primary energy saving can be obtained by optimizing the strategy to recover the available thermal energies (up to 600 MWh per trip), with a remarkable amount of avoided pollutant emissions (58, 0.06, 4.0, 0.2, 2.0 kg/km of CO2, PM2.5, NOx, HC, SOx, respectively).The presented new approach can be easily adopted to design and optimize the energy system of any new or existing ships, with the twofold aim to achieve economic savings and to fulfil environmental sustainability standards."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962436645,
+    "Title": "Demand response potential of ventilation systems in residential buildings",
+    "Author": "Rotger-Griful S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-06-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.03.061",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aarhus Universitet",
+    "Affliation Country": "Denmark",
+    "Cited by count": 64,
+    "Abstract": "Heating, ventilating and air conditioning (HVAC) systems in buildings are attractive assets to provide flexible consumption from the demand-side. This flexibility can be applied to balance the intermittent electricity generation of renewable energy sources. This paper assesses the demand response potential of ventilation fans in Nordic countries considering indoor climate conditions using a 12-storey building as test bed. First, a model of the ventilation system is proposed and evaluated for the test bed. The model presents good accuracy and generalisation potential. Second, the installation conducted to remote control the building fans is detailed. Third, the flexibility potential of the ventilation system in the test bed is analysed to provide ancillary services and prolonged load sheds. Experimental results show the need to aggregate several systems to provide ancillary services and the feasibility of prolonged load sheds without compromising the comfort of the residents. Fourth, the impact of aggregating ventilation systems is evaluated by simulations. Simulated results show that by aggregating buildings similar to the test bed in Aarhus (Denmark) it would be possible to provide 1.57 MW of power reduction. The trade-off for this flexibility is reducing the comfort of the residents and energy efficiency by overall consuming more energy."
+}

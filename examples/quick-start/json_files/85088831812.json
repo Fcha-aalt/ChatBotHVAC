@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088831812,
+    "Title": "Using open BIM and IFC to enable a comprehensive consideration of building services within a whole-building LCA",
+    "Author": "Theißen S.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/su12145644",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technology Arts Sciences TH Köln",
+    "Affliation Country": "Germany",
+    "Cited by count": 28,
+    "Abstract": "Holistic views of all environmental impacts for buildings such as Life Cycle Assessments (LCAs) are rarely performed. Building services are mostly included in this assessment only in a simplified way, which means that their embodied impacts are usually underestimated. Open Building Information Modeling (BIM) and Industry Foundation Classes (IFC) provide for significantly more efficient and comprehensive LCA performance. This study investigated how building services can be included in an open BIM-integrated whole-building LCA for the first time, identified challenges and showed six solution approaches. Based on the definition of 222 exchange requirements and their mapping with IFC, an example BIM model was modeled before the linking of 7312 BIM objects of building services with LCA data that were analyzed in an LCA tool. The results show that 94.5% of the BIM objects could only be linked by applying one of the six solution approaches. The main problems were due to: (1) modeling by a lack of standardization of attributes of BIM objects; (2) difficult machine readability of the building services LCA datasets as well as a general lack of these; and (3) non-standardized properties of building services and LCA specific dataset information in the IFC data format."
+}

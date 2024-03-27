@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063507377,
+    "Title": "IoT Solution approach for energy consumption reduction in buildings : Part 3. Mathematical model of building and experimental results",
+    "Author": "Avotins A.",
+    "Journal": "2018 IEEE 59th Annual International Scientific Conference on Power and Electrical Engineering of Riga Technical University, RTUCON 2018 - Proceedings",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/RTUCON.2018.8659890",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Riga Technical University",
+    "Affliation Country": "Latvia",
+    "Cited by count": 4,
+    "Abstract": "IoT solutions enable to gather more detailed consumption and sensor data, and paper deals with real measurements, where as a measurement object a university faculty building is selected, that has Building Management system, lighting, HVAC systems, and in consumption it is comparable also to industrial building. For data analysis, real measurement parameters like electrical power consumption, room temperatures, humidity, CO2 levels, heat energy, ventilation system pressures and also data from meteorological weather station are obtained simultaneously for several months, using LoRaWAN network and sensors, thus giving ability to have wide data analysis options, to crosscheck complex systems. Also buildings simplified mathematical model is created using 6R1C approach. Paper also describes experiments carried out to compare real measurement data with theoretically calculated values using the 6R1C model."
+}

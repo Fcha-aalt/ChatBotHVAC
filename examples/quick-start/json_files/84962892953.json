@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962892953,
+    "Title": "Study of thermal performance and operation strategy of a compound ground source heat pump Heating system",
+    "Author": "Wei Z.",
+    "Journal": "Transactions - Geothermal Resources Council",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "The ground-source heat-pump (GSHP) system is being more and more attractive for air conditioning because of the high energy efficiency and reliable operation stability. Air conditioning energy consumption accounting for the proportion of the national total energy consumption increases gradually, which has reached 22.75%. Thus energy conservation and research in the field of Heating Ventilation Air Conditioning(HVAC) has become one of the key research direction of energy saving and emission reduction. This paper presents thermal performance and economic analysis of a composite power system in the heating season which consists of a GSHP system and a heat storage tank. We built an engineering project and simulated the system condition by TRNSYS and found that the coefficient of performance (COP) of the composite system is about 0.2 higher than a GSHP system, and it will save 8.96% of electricity. As a result of different electricity price in Tianjin, this system costs 25.3% less than GSHP systems."
+}

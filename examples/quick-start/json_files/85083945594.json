@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083945594,
+    "Title": "Requirements for a computerized approach to plan sensor placement in the HVAC systems",
+    "Author": "Liu X.",
+    "Journal": "EG-ICE 2010 - 17th International Workshop on Intelligent Computing in Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Buildings account for 39% of the total energy consumption in the United States. More than half of the energy consumed in both residential and commercial buildings is used by the HVAC and lighting systems. With the growing concerns on energy efficiency, researchers in the HVAC domain are looking for approaches that improve performance of the HVAC systems. Because the HVAC systems utilize a large number of sensors, the effectiveness of the algorithms largely depends on how accurately the data collected reflect the environment being sensed. Therefore, the selection and deployment of sensors are critical for the HVAC control systems. The current practice of choosing and installing sensors depends on commonly agreed rules and technicians' domain knowledge and experiences. However, three problems limit the efficiency and effectiveness of the current practice. First, determining the placement of sensors requires consideration of many information items about a building, such as the dimension of its thermal zones and the size of the windows. Second, HVAC systems monitor and control the indoor air environment which is dynamic and volatile. Factors in the surrounding environment, such as human movement and operation of devices, can impact the sensor measurements. Understanding the cause-effect relationships is important in determining sensor placement. Third, the trade-off between the number of sensors used and the quality of information obtained needs to be analyzed to get an optimal solution. It is difficult for the HVAC technicians to manually collect the required information items, analyze the cause-effect relationships, and calculate the optimal solution. This paper discusses the impact of sensor placement on the performance of HVAC systems and reviews previous research studies on sensor placement from different domains. The paper concludes with a discussion on the requirements of a computerized approach to plan for the type, number and location of sensors in HVAC systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145262458,
+    "Title": "Digital Twin framework for automated fault source detection and prediction for comfort performance evaluation of existing non-residential Norwegian buildings",
+    "Author": "Hosamo H.H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-02-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2022.112732",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitetet i Agder",
+    "Affliation Country": "Norway",
+    "Cited by count": 19,
+    "Abstract": "Numerous buildings fall short of expectations regarding occupant satisfaction, sustainability, or energy efficiency. In this paper, the performance of buildings in terms of occupant comfort is evaluated using a probabilistic model based on Bayesian networks (BNs). The BN model is founded on an in-depth analysis of satisfaction survey responses and a thorough study of building performance parameters. This study also presents a user-friendly visualization compatible with BIM to simplify data collecting in two case studies from Norway with data from 2019 to 2022. This paper proposes a novel Digital Twin approach for incorporating building information modeling (BIM) with real-time sensor data, occupants’ feedback, a probabilistic model of occupants’ comfort, and HVAC faults detection and prediction that may affect occupants’ comfort. New methods for using BIM as a visualization platform, as well as a predictive maintenance method to detect and anticipate problems in the HVAC system, are also presented. These methods will help decision-makers improve the occupants’ comfort conditions in buildings. However, due to the intricate interaction between numerous equipment and the absence of data integration among FM systems, CMMS, BMS, and BIM data are integrated in this paper into a framework utilizing ontology graphs to generalize the Digital Twin framework so it can be applied to many buildings. The results of this study can aid decision-makers in the facility management sector by offering insight into the aspects that influence occupant comfort, speeding up the process of identifying equipment malfunctions, and pointing toward possible solutions."
+}

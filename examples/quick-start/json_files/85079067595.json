@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079067595,
+    "Title": "Smart Building Energy Management using Nonlinear Economic Model Predictive Control",
+    "Author": "Ostadijafari M.",
+    "Journal": "IEEE Power and Energy Society General Meeting",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/PESGM40551.2019.8973669",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Voiland College of Engineering and Architecture",
+    "Affliation Country": "United States",
+    "Cited by count": 21,
+    "Abstract": "Owing to the call for energy efficiency, the need to optimize the energy consumption of commercial buildings-responsible for over 40% of US energy consumption-has recently gained significant attention. Moreover, the ability to participate in the retail electricity markets through proactive demand-side participation has recently led to development of economic model predictive control (EMPC) for building's Heating, Ventilation, and Air Conditioning (HVAC) system. The objective of this paper is to develop a price-sensitive operational model for building's HVAC systems while considering inflexible loads and other distributed energy resources (DERs) such as photovoltaic (PV) generation and battery storage for the buildings. A Nonlinear Economic Model Predictive Controller (NL-EMPC) is presented to minimize the net cost of energy usage by building's HVAC system while satisfying the comfort-level of building's occupants. The efficiency of the proposed NL-EMPC controller is evaluated using several simulation case studies."
+}

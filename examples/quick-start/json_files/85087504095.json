@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087504095,
+    "Title": "Data-driven occupant-behavior analytics for residential buildings",
+    "Author": "Sun Y.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.118100",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pacific Northwest National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 18,
+    "Abstract": "Many advances have been made in building technology to help save energy, but influencing the behavior of the occupants is still necessary to achieve low-energy use targets. One of the most practical ways to influence and change occupant behaviors is through incentives. Developing incentives for energy-saving and quantifying the impact of occupant behaviors are both active areas of research. In this paper, we propose a data analytics framework for detecting changes in occupant behaviors, which will help build an analytics feedback loop from behavior impact to incentive design. The framework has two major parts. The first forecasts energy consumption for each occupant, while the second determines a probability distribution for changes in energy consumption. The parts are interchangeable with other existing machine learning and statistical methods. A specific instantiation of the framework, using kernel ridge-regression for forecasting and k-means to find an empirical behavior distribution, is described in detail. An HVAC use-case with 5 different incentivized behaviors is used as an example to show that the framework can detect behavior changes induced by incentives. Furthermore, we show that some simpler behavior-change detection methods do not work, further justifying the use of advanced analytics."
+}

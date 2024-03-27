@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85176736279,
+    "Title": "LEVERAGING HVAC SET POINT CHANGES FOR OPERATIONAL ENERGY PERFORMANCE EFFICIENCY AND FLEXIBILITY IN COMMERCIAL BUILDINGS: EXPERIMENTS IN A MOIST CLIMATE ZONE",
+    "Author": "Grekin R.",
+    "Journal": "Proceedings of ASME 2023 17th International Conference on Energy Sustainability, ES 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1115/es2023-107885",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Stanford University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In this work, real-world demand flexibility experiments for Heating, Ventilation, and Air Conditioning (HVAC) systems were conducted over the summer of 2022 in sections of a commercial building at a corporate campus in New Jersey (US Climate Zone 5A, Moist Cold). These experiments measured the decrease in cooling load observed associated with an increase in the temperature set point for the air discharged from eight central air handling units (AHU) serving approximately 17,500 square meters. It was found that using outside air enthalpies for estimating cooling loads in climates that have higher humidity is more accurate than using the mean daily temperatures, the parameter most used in the literature. For the median observed outside air enthalpy of 60 kJ/kg, it was found that temperature set point increases of 2°F (1.11°C) for the AHU discharge air temperature decreased expected cooling load by 3.5-11.9% per AHU. These results highlight the importance of considering outside air humidity in addition to temperature in flexibility models. These experiments also show that it is possible to implement load reduction techniques in buildings with limited controls, which reinforces the large potential for electricity and emissions savings from leveraging these opportunities across the US."
+}

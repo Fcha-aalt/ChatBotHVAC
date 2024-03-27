@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85093823046,
+    "Title": "Optimization of advanced fuzzy based control system of institutional building management system (BMS) in australian subtropical climate",
+    "Author": "Ghadi Y.Y.",
+    "Journal": "6th International Conference on Energy Research and Development, ICERD 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "CQUniversity Australia",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "A significant number of institutional buildings in Australia are quite old and not energy efficient. The main reason behind this is that, most of these buildings are controlled using conventional building management system (BMS) which relies on static temperature set points for heating, ventilation and air conditioning (HVAC) system and the ON/OFF control system for lightings. Use of advanced fuzzy logic controllers in BMS is essential to increase both, institutional buildings' energy savings and buildings' control system efficiency. Advanced fuzzy logic controllers allow utilization of real life events such as natural light availability, the status of ambient air to heat or cool the building, the determination of actual indoor thermal load by performing head count (occupants' number), etc. In this paper an advanced fuzzy based controller is optimized and analysed in order to decide the proposed system (i.e. fuzzy based control system) adaption as well as the proposed system's add-on possibility to the building's existing control system. The building is located at subtropical Rockhampton campus of Central Queensland University, Queensland, Australia. The controller examined and used are: solar irradiation (natural light), head count, shading possibilities of windows and humidity status which will lead to mechanical and electrical load reduction. The early stage of system optimisation showed that, the proposed system has potential in saving energy, reducing greenhouse gas emission and improving indoor air quality (IAQ) which is presented and discussed in this paper."
+}

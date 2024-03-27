@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84947087162,
+    "Title": "Free Cooling Investigation of RCMS Data Center",
+    "Author": "Hassan S.F.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.egypro.2015.07.175",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National University of Sciences and Technology",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 9,
+    "Abstract": "Cooling equipment consume most of the electric power inside data centers, which serve as a back bone of modern-day information technology infrastructure. Most data centers use traditional vapor compression systems, which not only consume a lot of energy, but also have to be continually operated round the year to ensure optimum operation of all the equipment and servers within. A lot of attention is therefore focused on energy saving methods and free cooling is one of these technologies. In this study, the free cooling potential of Islamabad has been determined. Outside dry-bulb temperature and relative humidity are used as control parameters, and have been estimated using meteorology data of past sixteen years. This data is then used to optimize energy efficiency of the Research Center for Modeling and Simulation (RCMS) data center at National University of Sciences and Technology (NUST). Using the load data obtained from detailed analysis of RCMS data center, it is determined that significant savings in energy through free cooling can be achieved during the months of December, January, and February."
+}

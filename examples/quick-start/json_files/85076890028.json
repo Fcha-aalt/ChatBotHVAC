@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076890028,
+    "Title": "The combined use of BIM, IR thermography and HFS for energy modelling of existing buildings and minimising heat gain through the building envelope: a case-study from a UAE building",
+    "Author": "Alhaidary H.",
+    "Journal": "Advances in Building Energy Research",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1080/17512549.2019.1703812",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "American University of Sharjah",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 8,
+    "Abstract": "Climate change has driven energy conservation into buildings, pressuring engineers into developing newer energy efficient buildings and effectively retrofitting the older ones. This research presents a practical method of creating an energy model of a modern office building using a Building Information Modelling (BIM)–Infra-Red Thermography (IRT)–Heat Flux sensors (HFS) framework that ensures a high level of accuracy with relative ease. The energy model is created with little input of the HVAC system, simulating real-life lack-of-information scenarios, and subsequently verified with consumption data extracted from the building’s own energy metre and the district’s chiller plant it’s connected to. The calibrated model is then used to investigate various passive heat-gain reduction measures through the building envelope such as the effect of the building’s orientation, shading, insulation levels, and window performance. Limitations of conserving energy through the building envelope were highlighted through the law of diminishing returns and the SHGC was pointed out to be the single most effective thermophysical window property in conserving energy. Numerically, the replacement of the windows saved 1.6% compared to the total 2.77% of energy saved. The study focuses on the climate of the United Arab Emirates and furthermore evaluates some BIM interoperability challenges."
+}

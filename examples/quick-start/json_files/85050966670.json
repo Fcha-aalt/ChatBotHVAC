@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050966670,
+    "Title": "An Artificial Neural Network (ANN) model to predict the electric load profile for an HVAC system <sup>⁎</sup>",
+    "Author": "Alamin Y.I.",
+    "Journal": NaN,
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ifacol.2018.06.231",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad de Almería",
+    "Affliation Country": "Spain",
+    "Cited by count": 18,
+    "Abstract": "A better management of the Heating, Ventilating and Air Conditioning (HVAC) systems and the integration of renewable energies are two ways to get a Net Zero Energy Buildings (NZEB). Thus, methods to predict the Electrical Load Demand (ELD) for the HVAC system are extremely important, to reach this goal. This paper describes the development and assessment of a fan-coil power demand predictive Artificial Neural Network (ANN) model for a characteristic laboratory inside a research centre located at Almería (Southeast of Spain). As the model is aimed to be used as part of advanced building energy control schemes, some specific requirements, as a trade off between accuracy and simplicity, have been considered. The main consideration for improving new thermal comfort control system is how to save energy without affect the users’ comfort. The performed experiments show a quick prediction with acceptable final results for a short-term prediction horizon using real data. Moreover, a detailed discussion of the obtained ANN model, which has been validated using real data saved from the research centre used as case-study, has been included."
+}

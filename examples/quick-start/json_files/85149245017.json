@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149245017,
+    "Title": "A Critical Analysis of the Energy Requirements of a Commercial Building Based on Various Types of Glass Insulations",
+    "Author": "Ahmed I.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su15042998",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Engineering and Technology, Lahore",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 0,
+    "Abstract": "Heat loss through the building envelope comprises air leaks through the cracks and largely through the windows, which is the weakest link of the thermal envelope. Therefore, it is necessary to devise a systematic approach to analyze the rightful selection of glass for buildings. The investigation is to analyze the energy-saving potential of different glasses and their comparisons to the initial capital cost to find the payback time in terms of energy saving by using two different types of equipment. The quantitative simulation study was completed on the Hourly Analysis Program (HAP) to analyze the annual energy consumption of the HVAC system for seven glasses and two types of chilled water equipment. The results show that the performance glasses with a tint had better efficiency in terms of energy saving, with a payback time of 3–7 months. A comparison of all glasses illustrated that float glass contributes the most to the total cooling load among all glasses, which were 5.04%, 5.7%, 7.6%, and 8.9% for the N, S, E, and W orientations, respectively. Moreover, the lowest contribution of glass to the total cooling load was given by tinted double-glazed glass, which was 2%, 2.3%, 3.0%, and 3.01% for N, S, E, and W orientations, respectively."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179071951,
+    "Title": "Benchmarking energy consumption in universities: A review",
+    "Author": "Quevedo T.C.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2024-04-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.jobe.2023.108185",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Universidade Federal de Santa Catarina",
+    "Affliation Country": "Brazil",
+    "Cited by count": 2,
+    "Abstract": "Universities have an important role towards a sustainable future. It is essential to understand their energy consumption and how to improve their efficiency. This paper aims to review the literature, between the years 2000 and 2023, investigating what influences energy consumption in universities, obtaining benchmarks for their energy consumption, and highlighting the potential for further research. Results showed that energy use in university campuses often presents great complexity due to the integration of several types of services in the same building or group of buildings. The studies in the literature categorized the end-uses by lights, plug loads, and HVAC system (the most prominent), highlighting the importance of monitoring them during the usage. Furthermore, it was observed that occupant behavior has a significant impact in energy usage, due to the building operation, and the space usage. Therefore, by comparing results and limitations of the studies reviews, we suggest addressing the space usage type in universities buildings for future benchmark development. Moreover, there is still a gap in developing more specific Key Performance Indicators for universities to improve the disclosure of benchmarking information."
+}

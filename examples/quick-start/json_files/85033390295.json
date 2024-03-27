@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85033390295,
+    "Title": "A Performance Assessment Method for Main HVAC Equipment with Electricity Submetering Data",
+    "Author": "Ji Y.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.proeng.2017.10.320",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Beijing University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "HVAC system is one of the biggest contributors to building energy use, and meanwhile a considerable part of energy is wasted due to the faulty operation of it. Hence, detecting and diagnosing HVAC system faults and improving energy efficiency are of large economic and environmental impact worldwide. However, the current study or application is highly limited by the scarcity of energy usage data, while in recent years electricity submeter was widely implemented and massive amounts of submetering data were accumulated in China. The aim of this paper is therefore to develop a performance assessment framework which is specifically designed for HVAC systems in such commercial buildings with electricity submetering data. This framework consists of three parts. 1) A HVAC terminal energy usage disaggregation algorithm and 2) a cooling load estimation algorithm are firstly performed to make up data deficiency. And then, 3) a diagnosis algorithm is proposed, which uses EPI generated from a Chinese standard (GB/T 17981-2007) as the benchmarks. Finally, a real case study in Shanghai is presented to illustrate the proposed framework and shows that the building operators can easily identify the poor performance area."
+}

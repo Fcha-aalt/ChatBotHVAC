@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098104244,
+    "Title": "Occupant-aware energy management: Simulated energy savings achievable through application of temperature setpoints learned through end-user feedback",
+    "Author": "Konis K.",
+    "Journal": "ASHRAE and IBPSA-USA Building Simulation Conference",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Southern California",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "Parametric building energy simulations are performed to quantify the range of annual HVAC energy savings achievable through comfort-optimized adjustments to conventional heating and cooling setpoints in office buildings. Savings potential is examined in context with occupant subjective feedback, using pilot data from (N=45) real building occupants collected with a novel mobile sensing platform from 2-week pilot studies in four (4) commercial buildings. Machine learning techniques are used to generate probabilistic models of thermal discomfort from physical and subjective measures. Models are then interpreted to determine the largest setpoint range achievable while maintaining thermal conditions that are acceptable to 80 percent of building occupants surveyed. Outcomes are extrapolated across three (3) building vintages (pre-1980, post-1980, and ASHRAE 90.1-compliant) and eight (8) California climate zones to determine the potential range of energy savings achievable from implementing customized setpoints learned through occupant subjective feedback and concurrent thermal sensing."
+}

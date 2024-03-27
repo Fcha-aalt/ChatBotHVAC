@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096942995,
+    "Title": "PersonalisedComfort: a personalised thermal comfort model to predict thermal sensation votes for smart building residents",
+    "Author": "Rehman S.U.",
+    "Journal": "Enterprise Information Systems",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/17517575.2020.1852316",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Air University Islamabad",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 30,
+    "Abstract": "Internet of Things (IoT) empowered Heating, Ventilation, and Air Conditioning (HVAC) buildings are considered to monitor and control the regulation of thermostats, sensors, actuators, and control devices smartly. In this article, we propose a novel model named PersonalisedComfort to predict the thermal sensation votes of individuals living in a building. We use publicly available standard dataset ASHRAE RP-884 for experimentation and analysis. We apply conventional machine learning algorithms and deep learning algorithms to predict the thermal sensation vote. PersonalisedComfort achieves an accuracy of 85% to predict thermal sensation votes which 8% higher than state-of-the-art studies."
+}

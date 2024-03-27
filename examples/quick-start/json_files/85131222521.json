@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131222521,
+    "Title": "Physics-guided Gaussian process for HVAC system performance prognosis",
+    "Author": "Zhang J.",
+    "Journal": "Mechanical Systems and Signal Processing",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ymssp.2022.109336",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Case School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Prognosis is crucial for tracking and predicting a system's performance and provides the basis for predictive maintenance. Prognosis techniques are broadly classified into model-based and data-driven methods, which rely on physical knowledge and data learning, respectively. While data-driven methods alleviate limitations associated with model-based methods due to assumptions needed to simplify system complexity, they generally require a large amount of training data to properly capture the system behavior and make the models generalizable. This study addresses these issues by presenting a physics-guided Gaussian process (PGGP) that integrates physical knowledge with data learning in three aspects: (1) analytical equations, which model the physical degradation trend, are embedded as the mean function of Gaussian process (GP) to guide the prognosis; (2) kernel functions of GP are designed to model the time-varying variation in degradation; (3) the parameters of physical mean function and kernel functions are jointly optimized through data learning to capture the information not embedded in existing physical knowledge. Evaluated using a dataset of heating, ventilation, and air conditioning system, PGGP has consistently achieved higher prediction accuracy as compared to data-driven methods without embedded physics, including standard GP, Support Vector Machine (SVM), and Recurrent Neural Network (RNN), by at least 11.4%, 31.7% and 5.0%, respectively. In addition, PGGP has demonstrated improved data efficiency, outperforming standard GP, SVM and RNN by up to 59.9%, 75.5% and 68.4%, respectively, in the scenario of the least amount of training data, which is critical to ensuring early forecast of system degradation and support predictive maintenance."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161410660,
+    "Title": "A study on optimization of HVAC system in buildings using gray wolf optimizer (GWO) and artificial neural network (ANN)",
+    "Author": "Pham V.H.S.",
+    "Journal": "Asian Journal of Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s42107-023-00747-6",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Viet Nam National University Ho Chi Minh City",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 1,
+    "Abstract": "This study analyzes the algorithm models of gray wolf optimizer (GWO) and artificial neural network (ANN) to optimize the heating, ventilation, and air-conditioning (HVAC) system operations and other building parameters to minimize annual energy consumption and maximize thermal comfort. The study is inspired by the combination of gray wolf optimizer (GWO) and artificial neural network (ANN) to improve exploration ability, speed up convergence, and reduce local optimization to find the best results. The HVAC system is installed in a building that integrates a variable air volume (VAV) system and a dedicated outdoor air system (DOAS). Several parameters including thermostat setting, passive solar design and refrigeration system control are considered as decision variables. Then, the predicted percentage of dissatisfied (PPD) and annual building energy consumption is selected as the objective function. Multi-objective optimization is used to optimize the system with two objective functions. ANN has made a relationship between the decision variables and the objective function. GWO will result in a number of design variables that can be changed to achieve the optimal system for thermal comfort and annual energy consumption. In summary, the optimization considering two objectives showed the best results regarding thermal comfort and energy consumption compared to the base design."
+}

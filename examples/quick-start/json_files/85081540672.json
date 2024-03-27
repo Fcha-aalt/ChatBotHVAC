@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081540672,
+    "Title": "An integrated energy simulation model for buildings",
+    "Author": "Kampelis N.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13051170",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technical University of Crete",
+    "Affliation Country": "Greece",
+    "Cited by count": 14,
+    "Abstract": "The operation of buildings is linked to approximately 36% of the global energy consumption, 40% of greenhouse gas emissions, and climate change. Assessing the energy consumption and efficiency of buildings is a complex task addressed by a variety of methods. Building energy modeling is among the dominant methodologies in evaluating the energy efficiency of buildings commonly applied for evaluating design and renovation energy efficiency measures. Although building energy modeling is a valuable tool, it is rarely the case that simulation results are assessed against the building’s actual energy performance. In this context, the simulation results of the HVAC energy consumption in the case of a smart industrial near-zero energy building are used to explore areas of uncertainty and deviation of the building energy model against measured data. Initial model results are improved based on a trial and error approach to minimize deviation based on key identified parameters. In addition, a novel approach based on functional shape modeling and Kalman filtering is developed and applied to further minimize systematic discrepancies. Results indicate a significant initial performance gap between the initial model and the actual energy consumption. The efficiency and the effectiveness of the developed integrated model is highlighted."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077269082,
+    "Title": "Predicting impact of cooling set-point change on demand reduction in real-time",
+    "Author": "Lingamallu M.",
+    "Journal": "BuildSys 2019 - Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2019-11-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1145/3360322.3361005",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "International Institute of Information Technology, Hyderabad",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Based on recent strategies in peak demand reduction for HVAC systems, simple measures like increasing cooling set-point temperatures serves as an effective Demand Response (DR). Majority of the past studies in demand response focus majorly on developing strategies that reduce peak demand and on demand side energy management to optimize energy consumption with the help of renewable energy resources. Research in estimating the potential of DR programs is required and is gaining momentum. It is essential to develop reliable estimation models that can be applied in real-time. We therefore focus on developing a model that predicts the impact of change in HVAC set-point temperature on cooling energy demand. During model evaluation, we made an observation that after a DR event when the set-points are back to normal schedule, sudden and rapid peaks occur in the demand while it is ramping up as set-point temperatures are reduced. For buildings which have a prescribed demand limit, these peaks cause huge demand penalty. We further propose a strategy to enable a stable ramping up process."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163505805,
+    "Title": "Exergy Analysis of the Air Handling Unit at Variable Reference Temperature: Methodology and Results",
+    "Author": "Martinaitis V.",
+    "Journal": "Exergy Analysis of the Air Handling Unit at Variable Reference Temperature: Methodology and Results",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-030-97841-9",
+    "Source Type": "Book",
+    "Document Type": "bk",
+    "Document Type Description": "Book",
+    "Affliation": "Vilniaus Universitetas",
+    "Affliation Country": "Lithuania",
+    "Cited by count": 0,
+    "Abstract": "This book explore how exergy analysis can be an important tool for assessing the sustainability of buildings. Building's account or around 40 percent of total energy conditions depending on local climatic conditions. Due to its nature, exergy analysis should become a valuable tool for the assessment of building sustainability, first of all considering their scope and the dependence of their energy demands on the local environmental and climatic conditions. Nonetheless, methodological bottlenecks do exist and a solution to some of them is proposed in this monograph. First and foremost, there is the still-missing thermodynamically viable method to apply the variable reference environment temperature in exergy analysis. The monograph demonstrates that a correct approach to the directions of heat exergy flows, when the reference temperature is considered variable, allows reflecting the specifics of energy transformation processes in heating, ventilation, and air conditioning systems in a thermodynamically viable way. The outcome of the case analysis, which involved coordinated application of methodologies based on the Carnot factor and coenthalpies, was exergy analysis indicators – exergy efficiency and exergy destroyed – obtained for air handling units and their components. These methods can be used for the purposes of analysing and improving building technical systems that, as a rule, operate at a variable environment temperature. Exergy analysis becomes more reliable in designing dynamic models of such systems and their exergy-based control algorithms. This would improve the possibility to deploy them in building information modelling (BIM) technologies and the application of life cycle analysis (LCA) principles in designing buildings, thus improving the quality of the decision-making process. Furthermore, this would benefit other systems where variable reference environment plays a key role. This book is relevant to academics, students and researchers in the field of thermodynamic analysis considering HVAC equipment, building energy systems, energy efficiency, sustainable development of technical systems of energy, mechanics, and construction, as well as preservation of natural resources. Planners, designers, engineers of HVAC equipment, building energy systems, and developers of appropriate simulation tools (e.g., BIM) will also find it of use."
+}

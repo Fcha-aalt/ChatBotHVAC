@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061347907,
+    "Title": "Visualization of building performance using sankey diagrams to enhance the decision-making process",
+    "Author": "Abdelalim A.",
+    "Journal": "Simulation Series",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 1,
+    "Abstract": "Nowadays, there are various building energy performance optimization methods available to designers. The aim of these methods is to vary building parameters to optimize the energy performance of the building in the early design stage and during operation and to choose the appropriate alternatives evaluated through multi-criteria objectives. However, current visualization methods have some limitations in evaluating simulation results in relation to non-performative or qualitative analysis. This paper investigates the feasibility of using Sankey diagrams to visualize and understand the upstream and downstream performance impacts of building design decisions. The current target audience is primarily architects and design engineers. The aim of this paper is to provide a workflow to obtain, analyze, and visualize energy flows obtained from simulation outputs. The developed workflow is applied to large office commercial reference building models that comply with the national energy code of Canada for buildings. Samples of Sankey diagrams are presented to visualize the impact of changing building/system components on the whole system performance and demonstrate energy-saving strategies."
+}

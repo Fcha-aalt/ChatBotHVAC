@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163156785,
+    "Title": "A novel and lean data-based method to calculate the actual HVAC zone energy consumption and cooling load in sustainable smart cities using a single temperature sensor",
+    "Author": "Magdy M.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.egyr.2023.05.225",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nova University Lisbon",
+    "Affliation Country": "France",
+    "Cited by count": 1,
+    "Abstract": "Sustainability and energy savings are two intertwined research aims for humanity's long-term survival, aligned with the Paris Agreement and the Egyptian vision of 2030. The purpose of this research is to minimize the cost needed to measure the HVAC energy consumption in educational and commercial buildings to save energy for energy efficiency strategies to serve the future smart and sustainable cities. These facilities are among the most energy-consuming loads, and this research proposes a technique to determine real HVAC energy consumption and cooling load using a single-sensor method. Calculating the as-built HVAC energy usage and real cooling load, especially in complex HVAC systems like VRV, which are some of the most challenging gaps, is achieved through a revolutionary and cost-effective approach. The proposed approach computes the actual HVAC energy consumption of each specific zone in the building using data from a single temperature sensor. Furthermore, the real and instantaneous cooling load of each zone was calculated, and the results show a promising agreement between the proposed techniques and the real measured consumption of the HVAC system. This approach can be integrated into the BMS building management system to determine the actual HVAC energy usage and cooling load for each zone individually in real time, enabling significant energy reduction decisions with optimal cost efficiency. Furthermore, it can be used by the BMS system as a real-time On-Board Diagnostic of the HVAC system."
+}

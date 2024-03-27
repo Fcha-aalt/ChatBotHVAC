@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089585329,
+    "Title": "Transfer Learning for HVAC System Fault Detection",
+    "Author": "Dowling C.P.",
+    "Journal": "Proceedings of the American Control Conference",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.23919/ACC45564.2020.9147772",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "UW College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Faults in HVAC systems degrade thermal comfort and energy efficiency in buildings and have received significant attention from the research community, with data driven methods gaining in popularity. Yet the lack of labeled data, such as normal versus faulty operational status, has slowed the application of machine learning to HVAC systems. In addition, for any particular building, there may be an insufficient number of observed faults over a reasonable amount of time for training. To overcome these challenges, we present a transfer method-ology for a novel Bayesian classifier designed to distinguish between normal operations and faulty operations. The key is to train this classifier on a building with a large amount of sensor and fault data (for example, via simulation or standard test data) then transfer the classifier to a new building using a small amount of normal operations data from the new building. We demonstrate a proof-of-concept for transferring a classifier between architecturally similar buildings in different climates and show few samples are required to maintain classification precision and recall."
+}

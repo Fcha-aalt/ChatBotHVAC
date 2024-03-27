@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041004436,
+    "Title": "An artificial intelligence-based method to efficiently bring CFD to building simulation",
+    "Author": "Mazuroski W.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2018-09-03T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1080/19401493.2017.1414880",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pontifícia Universidade Católica do Paraná",
+    "Affliation Country": "Brazil",
+    "Cited by count": 16,
+    "Abstract": "A computational procedure known as co-simulation has been proposed in the literature as a possibility to extend the capabilities and improve the accuracy of building performance simulation (BPS) tools. Basically, the strategy relies on the data exchanging between the BPS and a specialized software, where specific physical phenomena are simulated more accurately thanks to a more complex model, where advanced physics are taken into account. Among many possibilities where this technique can be employed, one could mention airflow, three-dimensional heat transfer or detailed HVAC systems simulation, which are commonly simplified in BPS tools. When considering complex models available in specialized software, the main issue of the co-simulation technique is the considerable computational effort demanded. This paper proposes a new methodology for time-consuming simulations with the purpose of challenging this particular issue. For a specific physical phenomenon, the approach consists of designing a new model, called prediction model, capable to provide results, as close as possible to the ones provided by the complex model, with a lower computational run time. The synthesis of the prediction model is based on artificial intelligence, being the main novelty of the paper. Basically, the prediction model is built by means of a learning procedure, using the input and output data of co-simulation where the complex model is being used to simulate the physics. Then the synthesized prediction model replaces the complex model with the purpose of reducing significantly the computational burden with a small impact on the accuracy of the results. Technically speaking, the learning phase is performed using a machine learning technique, and the model investigated here is based on a recurrent neural network model and its features and performance are investigated on a case study, where a single-zone house with a triangular prism-shaped attic model is co-simulated with both CFX (CFD tool) and Domus (BPS tool) programs. Promising results lead to the conclusion that the proposed strategy enables to bring the accuracy of advanced physics to the building simulation field–using prediction models–with a much reduced computational cost. In addition, re-simulations might be run solely with the already designed prediction model, demanding computer run times even lower than the ones required by the lumped models available in the BPS tool."
+}

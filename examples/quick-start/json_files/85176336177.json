@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85176336177,
+    "Title": "EECO: An AI-Based Algorithm for Energy-Efficient Comfort Optimisation",
+    "Author": "Segala G.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16217334",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Bruno Kessler Foundation",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "Environmental comfort takes a central role in the well-being and health of people. In modern industrial, commercial, and residential buildings, passive energy sources (such as solar irradiance and heat exchangers) and heating, ventilation, and air conditioning (HVAC) systems are usually employed to achieve the required comfort. While passive strategies can effectively enhance the livability of indoor spaces with limited or no energy cost, active strategies based on HVAC machines are often preferred to have direct control over the environment. Commonly, the working parameters of such machines are manually tuned to a fixed set point during working hours or throughout the whole day, leading to inefficiencies in terms of comfort and energy consumption. Albeit effective, previous works that tackle the comfort–energy tradeoff are tailored to the specific environment under study (in terms of geometry, characteristics of the building, etc.) and thus cannot be applied on a large industrial scale. We address the problem from a different angle and propose an adaptive and practical solution for comfort optimisation. It does not require the intervention of expert personnel or any customisations around the environment while it implicitly analyses the influence of different agents (e.g., passive phenomena) on the monitored parameters. A convolutional neural network (CNN) predicts the long-term impact on thermal comfort and energy consumption of a range of possible actuation strategies for the HVAC system. The decision on the best HVAC settings is taken by choosing the combination of ON/OFF and set point (SP), which optimises thermal comfort and, at the same time, minimises energy consumption. We validate our solution in a real-world scenario and through software simulations, providing a performance comparison against the fixed set point strategy and a greedy approach. The evaluation results show that our solution achieves the desired thermal comfort while reducing the energy footprint by up to approximately 16% in a real environment."
+}

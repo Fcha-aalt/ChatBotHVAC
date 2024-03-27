@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134179806,
+    "Title": "Real-Time Human Activity Recognition in Smart Home on Embedded Equipment: New Challenges",
+    "Author": "Najeh H.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-031-09593-1_10",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Laboratoire des Sciences et Techniques de l'Information, de la Communication et de la Connaissance (Lab-Sticc)",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "Building Energy Management (BEM) and monitoring systems should not only consider HVAC systems and building physics but also human behaviors. These systems could provide information and advice to occupants about the significance of their practices with regard to the current state of a dwelling. It is also possible to provide services such as assistance to the elderly, comfort and health monitoring. For this, an intelligent building must know the daily activities of its residents and the algorithms of the smart environment must track and recognize the activities that the occupants normally perform as part of their daily routine. In the literature, deep learning is one of effective supervised learning model and cost-efficient for real-time HAR, but it still struggles with the quality of training data (missing values in time series and non-annotated event), the variability of data, the data segmentation and the ontology of activities. In this work, recent research works, existing algorithms and related challenges in this field are firstly highlighted. Then, new research directions and solutions (performing fault detection and diagnosis for drift detection, multi-label classification modeling for multi-occupant classification, new indicators for training data quality, new metrics weighted by the number of representations in dataset to handle the issue of missing data and finally language processing for complex activity recognition) are suggested to solve them respectively and to improve this field."
+}

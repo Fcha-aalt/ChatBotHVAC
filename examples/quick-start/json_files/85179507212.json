@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179507212,
+    "Title": "Predicting Air Infiltration and Window State in Residential Dorms using Deep Neural Networks Coupled with EnergyPlus",
+    "Author": "Pandey P.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1401",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Buildings use about one-third of all the energy produced. Due to inaccurate modeling from building simulation engines, the total annual energy requirement of the building is mostly underestimated. This discrepancy in energy prediction affects the preliminary HVAC sizing, increasing the overall building energy consumption. We measured the energy usage of sixteen residential dorms over a year. We measured energy consumed by every building element like lighting, HVAC, plug-load, refrigerator, stove, exhaust hood, and water heater and applied these as a fraction schedule inside EnergyPlus. Using contact sensors, we measured the occupant behavior of using 48 windows and 64. We developed a window opening model for estimating the window's state using three layered Deep Neural Network (DNN). We constructed the mass balance model to estimate the Air Exchanges per Hour (ACH) using the CO2 decay data during window opening. Using these ACH data, we trained another DNN model that could predict the window operation ACH of individual dorms. We trained another DNN model to predict dynamic infiltration ACH. All trained DNN models were embedded into EnergyPlus using the newly released EnergyPlus Application Programming Interface (API). Finally, the actual HVAC energy consumption was compared with the traditional and DNN-embedded EnergyPlus simulations."
+}

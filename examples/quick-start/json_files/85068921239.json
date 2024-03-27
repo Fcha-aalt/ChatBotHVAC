@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068921239,
+    "Title": "An improved association rule mining-based method for revealing operational problems of building heating, ventilation and air conditioning (HVAC) systems",
+    "Author": "Zhang C.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-11-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2019.113492",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang University",
+    "Affliation Country": "China",
+    "Cited by count": 52,
+    "Abstract": "Energy wastes in heating, ventilation and air conditioning (HVAC) systems of buildings are very common due to lots of operational problems. It is in great need to develop data mining-based methods to discover these operational problems from the historical data of HVAC systems. In the past years, researchers had realized that association rule mining was one of the most effective algorithms to solve this problem. But, most of the mined operational patterns are useless. It is time-consuming to check them manually. In this study, an improved association rule mining-based method is proposed to enhance the performance of data mining and to filter out useless rules automatically. It contains three steps, i.e., data preprocessing, association rule mining and post mining. In the step of data preprocessing, a kernel density estimation-based approach is developed to filter out outliers automatically. And, a kernel density estimation-based approach is developed to transform numerical data into categorical data automatically. In the step of association rule mining, the FP-growth algorithm is utilized to extract raw association rules from the preprocessed data. In the step of post mining, a novel comparison-based approach is developed to reduce the amount of useless association rules. Evaluations are made using the historical operational data of the chiller plant of a commercial building. Results show that the proposed data preprocessing approaches are effective in outlier identification and data transformation. And, the proposed comparison-based approach can filter out 54.98% of the mined association rules automatically which are useless for discovering operational problems."
+}

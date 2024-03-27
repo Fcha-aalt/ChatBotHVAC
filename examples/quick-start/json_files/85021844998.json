@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85021844998,
+    "Title": "Trusted Interconnections between a Centralized Controller and Commercial Building HVAC Systems for Reliable Demand Response",
+    "Author": "Jones C.B.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2017-06-14T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ACCESS.2017.2714647",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sandia National Laboratories, New Mexico",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "Dynamic smart grid operations require that utilities that incorporate intermittent renewable energy resources provide creative and inclusive solutions to reduce and shift electrical demand. Commercial building HVAC systems have been used as a dispatchable load, but are limited by the lack of interoperability. Increased operability can be achieved using a secure and reliable interconnection device, which can provide direct bidirectional communications between the utility and the building automation system (BAS) controllers. This paper developed and tested a building automation intrusion detection system (BAIDS) that can provide a cyber-secure connection between public and private BAS networks. The BAIDS was used in a hardware-in-the-loop experiment that connected an actual photovoltaic array with a BAS control test bed and a building zone model. The BAIDS device allowed for critical control signals to pass from the public network directly to a fan controller in a BAS private network. At the same time, the BAIDS device provided intrusion detection monitoring to identify malicious activity. The network traffic was evaluated using an adaptive resonance theory (ART) artificial neural network. The ART algorithm was able to learn normal traffic activity on the private and public networks. The algorithm was then used to detect unauthorized attempts to access the interconnection device and a malicious cyber-physical attack on the BAS."
+}

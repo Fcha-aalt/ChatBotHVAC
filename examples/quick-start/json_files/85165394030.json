@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85165394030,
+    "Title": "Predicting Thermal Comfort in Buildings With Machine Learning and Occupant Feedback",
+    "Author": "Skaloumpakas P.",
+    "Journal": "2023 IEEE International Workshop on Metrology for Living Environment, MetroLivEnv 2023 - Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/MetroLivEnv56897.2023.10164051",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "HOLISTIC IKE",
+    "Affliation Country": "Greece",
+    "Cited by count": 7,
+    "Abstract": "This scientific paper discusses the importance of thermal comfort control in buildings for providing high-quality working and living environments. The paper proposes a machine learning-based approach for assessing thermal comfort, which incorporates feedback from building occupants and installed temperature sensors. The approach aims to provide a more accurate estimation of thermal sensation and facilitate energy management for building managers through the provision of precise predictions of thermal comfort, thereby supporting effective HVAC control actions. The approach is characterized by its reliance on external and internal temperatures of the building, as well as human responses to a plain thermal comfort questionnaire, to evaluate the thermal comfort of the occupants in different spaces. The paper describes a methodological approach to enhance the accuracy of thermal comfort evaluation in an iterative fashion without causing discomfort to occupants. The effectiveness of the proposed approach was demonstrated through its validation and testing at the ASM Headquarters. Neural networks were initially utilized to forecast the hour-ahead internal temperatures of the different offices and the external temperature of the building. Afterwards, classification models were deployed to predict the thermal sensation of the occupants providing a useful input for an HVAC controller or for controlling natural ventilation in the building in order to maintain the occupants' environment comfortable."
+}

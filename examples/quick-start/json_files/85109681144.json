@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109681144,
+    "Title": "Adaptive predictive control method for improving control stability of air-conditioning terminal in public buildings",
+    "Author": "Li X.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-10-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111261",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "School of Metallurgy, Northeastern University",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Due to the characteristic of large scale, multiple equipment, variable working conditions and complex debugging of air conditioning system in public buildings, the energy efficiency and operating level of the system are limited in the process of operation, and the actual operation effect will deviate from the design expectation. In addition, it is difficult to build an accurate mechanism model and to implement corresponding online control, so the commissioning for controller parameter tuning has to rely on human experience. Meanwhile, the response of indoor temperature to system regulation variables is different for different terminals due to lag characteristic, which would further affect the stability for the overall system. To solve the above problems, an adaptive predictive control method is proposed based on the physical-data driven hybrid model, which could not only realize online self-tuning of terminal controller but also improve control stability of terminal and overall system. Then, taking variable air volume air-conditioning system as the study object, the effectiveness of the proposed method is validated through comparative experiments. Results show that the proposed method can improve control stability of terminal and overall system. Achievements will have important theoretical significance and wide application prospect for improving the adaptability ability and the overall operating level of air-conditioning system in public buildings, which has complex and time-varying operation condition."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85051549109,
+    "Title": "PhD forum: Scalable energy disaggregation: Data, dimension and beyond",
+    "Author": "Pathak N.",
+    "Journal": "Proceedings - 2018 IEEE International Conference on Smart Computing, SMARTCOMP 2018",
+    "Publication Date": {
+        "$date": "2018-07-26T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/SMARTCOMP.2018.00063",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering and Information Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Energy disaggregation approaches have been employed for various smart living applications to keep the consumers aware of their everyday power consumption behavior, and its overall impact on the utility bill and the environment. These techniques have been widely investigated at a coarse level to improve the energy efficiency related to HVAC operations, residents comfort management and occupancy detection in built environments. We investigate the relevance of energy disaggregation for different energy analytics applications with the availability of the additional information related to human activities of daily living (ADLs), acoustic signature of the appliances, metadata of the buildings, thermostat setpoints, and external weather conditions of the built environment to help improve the energy disaggregation approaches. We investigate two threads of applications-indoor pervasive environment and large-scale energy analytics. The indoor pervasive environment uses pervasive sensing for granular energy usage and energy activity detection, and the large-scale energy analytics focus energy analytics at a macro scale where we focus on non-intrusive algorithms for non-intrusively determine energy usage behavior at a large scale."
+}

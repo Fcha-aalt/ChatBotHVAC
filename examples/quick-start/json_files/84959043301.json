@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84959043301,
+    "Title": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Author": NaN,
+    "Journal": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Publication Date": {
+        "$date": "2015-11-04T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 38 papers. The topics discussed include: a data-driven meta-data inference framework for building automation systems; analyzing metadata schemas for buildings - the good, the bad, and the ugly; multi-user energy consumption monitoring and anomaly detection with partial context information; from pressure to path: barometer-based vehicle tracking; water or slime? a platform for automating water treatment systems; energy efficiency gains in daily grass heating operation of sports facilities through supervisory holistic control; microgrid losses - when the whole is greater than the sum of its parts; intuitive appliance identification using image matching in smart buildings; controlling actuation in central HVAC systems in buildings; and MapSentinel: map-aided non-intrusive indoor tracking in sensor-rich environments."
+}

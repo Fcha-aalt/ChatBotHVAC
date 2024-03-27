@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150419085,
+    "Title": "Rapid monitoring of indoor air quality for efficient HVAC systems using fully convolutional network deep learning model",
+    "Author": "Shin S.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110191",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hanyang University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 13,
+    "Abstract": "Indoor air quality (IAQ) monitoring technology is crucial for achieving optimized heating, ventilation, and air conditioning (HVAC) strategies for efficient energy management. In this study, a fully convolutional network (FCN)-based deep learning regression model was proposed to overcome the limitations of conventional computational methods and deep neural network (DNN) architectures. Through a data-driven image-to-image training model, rapid prediction of the mean age of air (MAA) was realized without spatial information loss. In addition, even for the changed internal geometry, robust MAA prediction was realized without additional model training or structural changes via a data preprocessing method of generating 2D images. Consequently, compared with the DNN regression model, prediction error using the FCN-based model, in terms of mean absolute error and root mean squared error, was decreased by ∼43.14% and ∼34.77%, respectively. Furthermore, the prediction performances for untrained conditions using additional prepared test datasets were compared quantitatively and qualitatively, depending on the divided zones. These results support a novel virtual sensing method for IAQ monitoring systems for future digital transformation technologies, HVAC, and energy management."
+}

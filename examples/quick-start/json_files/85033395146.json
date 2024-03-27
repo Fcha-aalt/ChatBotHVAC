@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85033395146,
+    "Title": "A Novel Method of Minimizing Power Consumption for Existing Chiller Plant",
+    "Author": "Xue X.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.proeng.2017.10.058",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "Chiller consumes a significant power ratio in HVAC system. In order to minimize the power consumption of chiller, many efforts have been made on load predictions and optimal control strategies. The performance of chiller (e.g., COP) and dedicated devices (e.g., operation variables) play very important roles in chiller power consumption. However, it is difficult to find proper model to predict accurate chiller COP chiller in practice. Moreover, how the operating variables of the chiller system affects the over power consumption need to be identified. This paper therefore aims to find out a simple and accurate COP prediction model for chiller and investigates the optimal values of operating variables related to the chiller system. By com-paring kinds of models (e.g., SL, BQ, MP, GNU, QHP and BP-ANN), BP-ANN is considered as the proper model in predicting COP of chiller accurately. By adopting GA-based operating variables identification, optimal values of the variables can be found in specified ranges as well. This study evaluates the performance of different COP prediction models by using actual operation data of chiller plant in a commercial building. Furthermore, optimal settings for operating variables have also been identified in resulting of minimum power consumption of chiller plant."
+}

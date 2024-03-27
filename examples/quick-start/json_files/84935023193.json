@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84935023193,
+    "Title": "Design and implementation of energy efficiency in hvac systems based on robust pid control for industrial applications",
+    "Author": "Imal M.",
+    "Journal": "Journal of Sensors",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1155/2015/954159",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kahramanmaras Sütçü Imam Üniversitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 2,
+    "Abstract": "Energy efficiency in heating, ventilating, and air-conditioning (HVAC) systems is a primary concern in process projects, since the energy consumption has the highest percentage in HVAC for all processes. Without sacrifice of thermal comfort, to reset the suitable operating parameters, such as the humidity and air temperature, would have energy saving with immediate effect. In this paper, the simulation-optimization approach described the effective energy efficiency for HVAC systems which are used in industrial process. Due to the complex relationship of the HVAC system parameters, it is necessary to suggest optimum settings for different operations in response to the dynamic cooling loads and changing weather conditions during a year. Proportional-integral-derivative (PID) programming was developed which can effectively handle the discrete, nonlinear and highly constrained optimization problems. Energy efficiency process has been made by controlling of alternative current (AC) drivers for ventilation and exhaust fans, according to supplied air flow capacity and differential air pressure between supplied and exhaust air. Supervisory controller software was developed by using programmable controllers and human machine interface (HMI) units. The new designed HVAC control system would have a saving potential of about 40% as compared to the existing operational settings, without any extra cost."
+}

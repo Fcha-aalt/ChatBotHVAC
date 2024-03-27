@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121590466,
+    "Title": "Hardware-based emulator with deep learning model for building energy control and prediction based on occupancy sensors’ data",
+    "Author": "Ye Z.",
+    "Journal": "Information (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/info12120499",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Electrical and Computer Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) is the largest source of residential energy consumption. Occupancy sensors’ data can be used for HVAC control since it indicates the number of people in the building. HVAC and sensors form a typical cyber-physical system (CPS). In this paper, we aim to build a hardware-based emulation platform to study the occupancy data’s features, which can be further extracted by using machine learning models. In particular, we propose two hardware-based emulators to investigate the use of wired/wireless communication interfaces for occupancy sensor-based building CPS control, and the use of deep learning to predict the building energy consumption with the sensor data. We hypothesize is that the building energy consumption may be predicted by using the occupancy data collected by the sensors, and question what type of prediction model should be used to accurately predict the energy load. Another hypothesis is that an in-lab hardware/software platform could be built to emulate the occupancy sensing process. The machine learning algorithms can then be used to analyze the energy load based on the sensing data. To test the emulator, the occupancy data from the sensors is used to predict energy consumption. The synchronization scheme between sensors and the HVAC server will be discussed. We have built two hardware/software emulation platforms to investigate the sensor/HVAC integration strategies, and used an enhanced deep learning model—which has sequence-to-sequence long short-term memory (Seq2Seq LSTM)—with an attention model to predict the building energy consumption with the preservation of the intrinsic patterns. Because the long-range temporal dependencies are captured, the Seq2Seq models may provide a higher accuracy by using LSTM architectures with encoder and decoder. Meanwhile, LSTMs can capture the temporal and spatial patterns of time series data. The attention model can highlight the most relevant input information in the energy prediction by allocating the attention weights. The communication overhead between the sensors and the HVAC control server can also be alleviated via the attention mechanism, which can automatically ignore the irrelevant information and amplify the relevant information during CNN training. Our experiments and performance analysis show that, compared with the traditional LSTM neural network, the performance of the proposed method has a 30% higher prediction accuracy."
+}

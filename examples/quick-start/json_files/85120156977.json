@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120156977,
+    "Title": "Exploratory comparison of control algorithms and machine learning as regulators for a personalized climatization system",
+    "Author": "Metzmacher H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2021.111653",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 8,
+    "Abstract": "Modern air conditioning makes up a large part of global energy consumption. HVAC systems are the most energy consuming devices in the building sector and also contribute to greenhouse gas emission in the transportation sector when used for vehicle cabin climatization. Conventional HVAC systems are designed to heat or cool air volumes of entire rooms or zones. A much more efficient way is to condition a person directly by generating a microclimate around the body through the use of local conditioning actuators taking into account the respective individual's preference. This work proposes a so called personalized thermal conditioning testing system which offers a server based, modular platform to test actuators, control strategies and facilitate monitoring and data collection. The focus of this work lies in the evaluation of control algorithms and machine learning heuristics that are used to train individual thermal comfort models used to adapt the system's actuators to user preferences. Specifically, the control methods ON/OFF, Proportional-Integral-Derivative (PID) and Model predictive control (MPC) are compared. Monte Carlo sampling, regression tree, support-vector machine and multilayer perceptron heuristics are assessed as machine learning techniques for individual model training. A brief introduction of the modular system architecture is given, and results from a controller experiment and preliminary user study are presented. The system was able to successfully train and compare control and machine learning algorithms in real-time, and to integrate sensors, actuators, as well as skin temperature measurement with a thermal camera."
+}

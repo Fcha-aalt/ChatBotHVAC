@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105756637,
+    "Title": "The net CO<inf>2</inf> reduction potential from active HVAC indoor CO<inf>2</inf> mitigation, reducing source energy usage, in comparison with CO<inf>2</inf> mitigation directly from outdoor air",
+    "Author": "Leidel J.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "There is a compelling body of evidence calling for a reduction in the amount of carbon dioxide (CO2) that mankind is emitting into the atmosphere. A segment of climate science community contends that we will be required to actively “reduce” the magnitude of our atmospheric CO2 content, not merely reduce mankind’s contribution to the increase. Five methods of CO2 mitigation are briefly mentioned, followed by the description of a sixth, innovative method of using chemical or adsorption scrubbing techniques to remove indoor air CO2 from building HVAC systems for the purpose of reducing the required outdoor air (OA) ventilation to provide energy and CO2 reductions. The reduced OA ventilation will correspond to a reduced source energy consumption while simultaneously scrubbing other indoor air contaminants, improving indoor air quality (IAQ). A building HVAC energy model is presented in which an indoor air CO2 scrubbing technology is incorporated. Although the scrubbed indoor CO2 is merely vented and released into outdoor air, the resulting reduction in source fossil fuel energy related CO2 emissions is calculated for the analysis of the net CO2 reduction potential. An eQuest building model is utilized for three different locations in the USA (Atlanta, Detroit, and Los Angeles) and the 2016 USEPA eGrid database is used to calculate the local electric powerplant source CO2 emissions. The results indicate that regions in the United States with both high HVAC loads for heating and/or cooling coupled to a carbon intense local electric supply will benefit the most by utilizing the proposed HVAC / CO2 mitigation system. Of the three sample areas, Detroit had the highest CO2 source emissions saving potential from this application at 66,560 lb/yr (30,255 kg/yr) followed by Atlanta with 46,149 lb/yr (20,977 kg/yr). The mild southern California weather coupled with the less carbon intense electric grid only produced 2,340 lb/yr (1,064 kg/yr) source CO2 reductions. The addition of other energy conservation measures or site renewable energy generation would obviously increase these source carbon reductions. If the human occupant respiration CO2 were captured and permanently sequestered from this same office building’s indoor air, 55,600 lb/yr (25,300 kg/yr) would be sequestered. Ultimately, the hypothesis of this paper is that a more lucrative market for these emerging CO2 scrubbing techniques may first find a beneficial use in the HVAC product and/or energy efficiency space. This application may create a viable business model in which these technologies are deployed, tested and refined as profitable HVAC products, and then hopefully deployed in future years for direct atmospheric CO2 mitigation. Further study of this concept seems warranted, and the author invites future discussion and critical review of this papers concepts and conclusions."
+}

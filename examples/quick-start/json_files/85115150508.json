@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115150508,
+    "Title": "Analysis of the Impact of AC Faults and DC Faults on the HVDC Transmission Line",
+    "Author": "Singh D.",
+    "Journal": "Lecture Notes in Electrical Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-16-2354-7_12",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Malaviya National Institute of Technology Jaipur",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "Over the course of the year, the demand for electricity for industrial, residential, commercial, agricultural, and other purposes has been much greater. There is a need to transfer tremendous power over distances that are much too long. These days, the HVDC system is being proposed. For overhead transmission lines over 700 km and underground cables over 40 km, HVDC is economical. Yet, HVDC lags behind HVAC from a security point of view. Faults may occur in the HVDC system, and these seriously affect the converter and station inverter. To enhance system reliability, it is essential to isolate these faults. To isolate these faulty segments, there is a need to understand fault characteristics. Gird-side (AC-side) faults were analyzed in this paper as SLG fault, LLG fault, and LLLG fault. And HVDC-side faults were also analyzed in this paper as line to line and line to ground faults. In this paper, the PSCAD/EMTDC-Simulink model has been used to demonstrate the different fault characteristics."
+}

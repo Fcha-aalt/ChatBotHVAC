@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086104502,
+    "Title": "Enhancing trains envelope – heating, ventilation, and air conditioning systems: A new dynamic simulation approach for energy, economic, environmental impact and thermal comfort analyses",
+    "Author": "Barone G.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.117833",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 31,
+    "Abstract": "Nowadays, due also to high hygrothermal comfort requirements, the energy consumption for heating/cooling of modern trains can reach 30% of the related overall electricity demand. Energy-saving of train Heating, Ventilation and Air Conditioning systems can be suitably assessed through dynamic simulation approaches. Specifically, the weather solicitation has to be dynamically accounted for by considering the actual moving train location and orientation. Through such methodology different innovative actions for energy efficiency, environmental impact reduction and comfort enhancement can be analysed by also assessing their economic feasibility. In this paper, a novel simulation tool for the complete performance analysis of trains was developed in TRNSYS environment. To show the capabilities of the considered approach, a novel case study referred to an existing medium-distance train operating in South Italy is presented. Heating/cooling loads and demands, and the related electricity requirements, are dynamically assessed for the standard and revamped train. Several energy saving actions are considered for the coupling between the envelope and the Heating, Ventilation and Air Conditioning systems enhancement. The obtained results return significant benefits in terms of energy saving, avoided CO2 emissions and comfort. Paybacks depend on operating conditions. Useful design and operating criteria for trains manufacturers and users are provided."
+}

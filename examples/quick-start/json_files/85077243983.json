@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077243983,
+    "Title": "Skin temperature extraction using facial landmark detection and thermal imaging for comfort assessment",
+    "Author": "Aryal A.",
+    "Journal": "BuildSys 2019 - Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2019-11-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1145/3360322.3360848",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Southern California",
+    "Affliation Country": "United States",
+    "Cited by count": 36,
+    "Abstract": "Despite the large share of energy consumption, current HVAC systems in buildings fail to meet their primary purpose of maintaining comfortable indoor conditions. Current \"one size fits all\" approach to control the thermal conditions in an environment lead to a high degree of occupant dissatisfaction. Advancements in Internet of Things and Machine Learning have opened the possibility of deploying different sensors at a wide scale to monitor environmental and physiological information and using collected sensor data to model individual comfort requirements. Thermal imaging has recently gained interest as one of the possible ways to monitor physiological information (skin temperature) for thermal comfort assessment. Previous studies have shown that skin temperatures from different regions of the face, such as forehead, nose, cheeks and ears can provide useful information for predicting thermal sensation at an individual level. However, existing approaches to process thermal images either rely on manual temperature extraction or use methods that are less reliable in accurately identifying different facial regions. One of the major challenges of using thermal imaging for monitoring skin temperatures in actual buildings is that occupants may move relative to the camera. It is not practical to expect building occupants to be oriented facing the cameras at all times, therefore, it is important to be able to extract as much information as possible from instances where it is feasible to extract relevant information. In this paper, we describe an approach to extract skin temperature by locating specific regions of the face in thermal images. The approach involves combining data from RGB images with thermal images and leveraging facial landmark detection in RGB images. We also evaluate our approach with existing approach of face detection used in previous studies. Our study demonstrates that facial landmark detection provides a more accurate calculation of different locations in the face compared to previous studies. We show an improvement in overall quantity and quality of temperature measurements extracted from thermal images compared to previous studies. More accurate temperature measurements from thermal images can improve the accuracy of thermal imaging for modeling and predicting thermal comfort."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85046637157,
+    "Title": "Identification and adaptive control using RBF neural networks of multi-zone building heating system",
+    "Author": "Siham F.",
+    "Journal": "2017 5th International Conference on Electrical Engineering - Boumerdes, ICEE-B 2017",
+    "Publication Date": {
+        "$date": "2017-12-12T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICEE-B.2017.8192104",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Abderrahmane Mira - Béjaïa",
+    "Affliation Country": "Algeria",
+    "Cited by count": 1,
+    "Abstract": "In recent years identification and control algorithms applied to heating, ventilation and air conditioning (HVAC) systems have been paid an increasing attention. The main idea of this paper is to exploit the learning capacity of Radial Basic Function Neural Networks (RBFNN) for adaptation and control of multi-zone building heating regulation. Several inputs and disturbances that influence the indoor temperature are considered. The simulation results demonstrate the efficacy of this control strategy in terms of minimal energy consumption and desired thermal comfort."
+}

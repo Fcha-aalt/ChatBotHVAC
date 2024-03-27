@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064467116,
+    "Title": "Energy performance comparison of a 3-fluid and 2-fluid liquid desiccant membrane air-conditioning systems in an office building",
+    "Author": "Storle D.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.energy.2019.03.121",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Saskatchewan",
+    "Affliation Country": "Canada",
+    "Cited by count": 17,
+    "Abstract": "In this paper, the cooling and dehumidifying capacities of two liquid desiccant membrane air-conditioning (M-LDAC) systems are investigated and compared when installed in an office building located in a hot-humid climate (Miami, Florida). The building HVAC system consists of a radiant cooling system to cover the sensible load and either a 2-fluid or 3-fluid M-LDAC system to meet the latent load. The systems are simulated over the warmest week of the year using TRNSYS simulation software and modelled using a previously developed analytical model for the 2-fluid M-LDAC system and empirical models for the 3-fluid M-LDAC systems. Sensitivity studies are performed where the systems are evaluated under different latent load conditions due to different occupant densities and infiltration rates. The 2-fluid and 3-fluid M-LDAC systems can meet the latent loads at lower occupant densities and infiltration rates but fail to provide thermal comfort conditions as occupancy and infiltration rates increase. It is concluded that the 3-fluid M-LDAC system uses less energy to meet the latent load than the 2-fluid M-LDAC system. The 2-fluid M-LDAC system consumes 50% more energy than the 3-fluid M-LDAC system to provide thermal comfort to the office building during the weekly simulation."
+}

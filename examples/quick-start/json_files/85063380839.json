@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063380839,
+    "Title": "Simple Thermal Energy Storage Tank for Improving the Energy Efficiency of an Existing Air-conditioning System",
+    "Author": "Maruyama K.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-03-04T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/238/1/012057",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nagoya City University",
+    "Affliation Country": "Japan",
+    "Cited by count": 3,
+    "Abstract": "This study aims to improve the energy efficiency of heating, ventilation, and air-conditioning (HVAC) system in existing building by adding a thermal energy storage (TES) tank. By installing the TES tank with volume of 1 m3 in the chilled water loop of HVAC system. it can make charge/discharge surplus heat from heat source equipment. The chilled water can be delivered not only to secondary side but also to TES tank, while the required heat load is less than the rated capacity of the heat source equipment, it does not need to shrink its output and can be operated under the relatively higher load ratio without falling down efficiency. The charge/discharge progress is considered occurring within short-term less than an hour. During the discharge progress the heat source equipment can be turn off or idling operation yields reduce operation hour of heat source equipment and achieve energy-saving. In this paper, a case study is conducted to evaluate the energy efficiency improvement by adding TES tank into HVAC system using system energy simulation, coupling two-dimensional, steady-quasi TES numerical model that is verified by comparison with the measurement data. The error of the TES numerical model compared with the experiment was less than 5%. From the case study results, it is found that the TES tank can improve energy efficiency of HVAC system because of increasing the COP of the heat-source equipment reduces its energy consumption and reducing operation time of the primary chilled water pumps."
+}

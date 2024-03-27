@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84946566251,
+    "Title": "Experimental testing of a random neural network smart controller using a single zone test chamber",
+    "Author": "Javed A.",
+    "Journal": "IET Networks",
+    "Publication Date": {
+        "$date": "2015-11-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1049/iet-net.2015.0020",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Glasgow Caledonian University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 22,
+    "Abstract": "Monitoring and analysis of energy use and indoor environmental conditions is an urgent need in large buildings to respond to changing conditions in an efficient manner. Correct estimation of occupancy will further improve energy performance. In this work, a smart controller for maintaining a comfortable environment using multiple random neural networks (RNNs) has been developed. The implementation of RNN-based controller is demonstrated to be more efficient on hardware and requires less memory compared to both artificial neural networks and model predictive controllers. This controller estimates the number of room occupants by using the information from wireless sensor nodes placed in the Heating, Ventilation and Air Conditioning (HVAC) duct and the room. For an occupied room, the controller can switch between thermal comfort mode (based on predicted mean vote set points) and user defined mode (i.e. occupant defined set points for heating/cooling/ventilation). Furthermore, the hybrid particle swarm optimisation with sequential quadratic programming training algorithms are used (for the first time to the best of the authors' knowledge) for training the RNN and results show that this algorithm outperforms the widely used gradient descent algorithm for RNN. The results show that occupancy estimation by smart controller is 83.08% accurate."
+}

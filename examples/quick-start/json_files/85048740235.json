@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048740235,
+    "Title": "Improved thermal comfort modeling for smart buildings: A data analytics study",
+    "Author": "Zhang W.",
+    "Journal": "International Journal of Electrical Power and Energy Systems",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ijepes.2018.06.026",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "School of Computer Science and Engineering",
+    "Affliation Country": "Singapore",
+    "Cited by count": 29,
+    "Abstract": "Thermal comfort is a key consideration in the design and modeling of buildings and is one of the main steps to achieving smart building control and operation. Existing solutions model thermal comfort based on factors such as indoor temperature. However, these factors are not directly controllable by building operations, and instead are a by-product of complex interactions between controllable parameters such as air conditioning setpoint and other environmental conditions. In this paper, we use machine learning (ML) to bridge the gap between controllable building parameters and thermal comfort, by conducting an extensive study on the efficacy of different ML techniques for modeling comfort levels. We show that neural networks are especially effective, and achieve 98.7% accuracy on average. We also show these networks can lead to linear models where thermal comfort score scales linearly with the HVAC setpoint, and that the linear models can be used to quickly and accurately find the optimal setpoint for the desired comfort level."
+}

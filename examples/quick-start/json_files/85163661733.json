@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163661733,
+    "Title": "A Systematic Literature Review of Cleanroom Ventilation and Air Distribution Systems",
+    "Author": "Bhattacharya A.",
+    "Journal": "Aerosol and Air Quality Research",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.4209/aaqr.220407",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Cleanroom ventilation systems are well-established; however, the advantages and limitations of current practices need to be examined and explained further. This study begins by looking over the history of cleanroom ventilation systems that creates the basis for understanding ventilation rate specifications, terminologies employed in ventilation effectiveness, and recognizing scientific studies that correlate ventilation effectiveness with air change rates. This systematic review includes a comprehensive summary that contains a set of historical data and evidence that may be used to specify ventilation requirements in cleanrooms. Scientific articles are classified in terms of laboratory experiments, simulations/numerical analysis, or hybrid. HVAC designers and operators can use published codes and guidelines more efficiently if the terminology is properly understood and the design solutions are easy to implement. The present study aims to provide a deep insight into understanding the role of ventilation on the transport mechanisms of unwanted particles in cleanrooms. Historically, the ventilation rate is typically over-estimated, based on the experience of the designer, to ensure indoor air quality and thermal performance. However, the excess rate significantly impacts the system’s energy consumption. Hence, it is crucial to investigate existing recommendations to ensure if they have a scientific basis or could be proven theoretically before further implementations. Besides, any possible risks and influences associated with the traditional methods must be assessed to guarantee the facility’s performance, sustainability, and energy efficiency."
+}

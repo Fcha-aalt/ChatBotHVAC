@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84954229562,
+    "Title": "Comparing the performance of on/off, PID and fuzzy controllers applied to the heating system of an energy-efficient building",
+    "Author": "Ulpiani G.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2015.12.027",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università Politecnica delle Marche",
+    "Affliation Country": "Italy",
+    "Cited by count": 55,
+    "Abstract": "This paper investigates and compares the energetic and ergonomic performance of three different control logics (on-off, PID, fuzzy), used to regulate the emission of the heating system of an energy-efficient building. Tests were carried out on an experimental building, equipped with three electric radiators and a sensor network mapping internal, external and surface thermal conditions. The building-technical system ensemble was evaluated in real time for a monitoring period of five/six days of non-occupancy, winter/midseason weather and Mediterranean climate. All controllers were assessed with regard to thermal comfort and energy consumption in order to return an exhaustive scenario of possible strengths and weaknesses. The comparison showed that fuzzy logic, properly configured, outperformed both PID and on/off controllers reducing energy consumption of 30-70% and maintaining thermal dissatisfaction between comfort limits for all the monitoring period."
+}

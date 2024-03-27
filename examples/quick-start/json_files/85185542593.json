@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185542593,
+    "Title": "Improving the Indoor Air Quality of Office Buildings in the Post-Pandemic Era—Impact on Energy Consumption and Costs",
+    "Author": "D’Agostino D.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2024-02-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.3390/en17040855",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "Before the COVID-19 pandemic, ventilation in buildings was not always given its due importance. The World Health Organization has highlighted the important role of air exchange with the outdoors in improving the air quality in buildings; buildings should, therefore, be equipped with mechanical ventilation or adequate air conditioning systems. This paper aims to investigate different retrofit solutions for air conditioning, evaluating them in terms of energy consumption and cost and the impact of increased outdoor air exchange rates on countering the propagation of COVID-19; the latter is the main novelty of the paper. As a case study, we take an existing office building located in Central Italy that was previously not equipped with a mechanical ventilation system (a system with primary air was introduced during the study). The energy analysis was conducted using dynamic simulation software after validation through energy bills; energy and economic analyses were conducted considering different external-air exchange rates. An optimal number of outdoor air changes was found to mitigate the risk of COVID-19 infection, a finding in line with the international literature. The increase in air changes with outdoor air leads to a rise in energy consumption and costs. These values were evaluated for different air conditioning systems and operational schedules. These drawbacks can be made less significant by combining interventions in the system with energy-efficiency measures applied to the building envelope."
+}

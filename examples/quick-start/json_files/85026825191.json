@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85026825191,
+    "Title": "Towards energy efficient operational patterns in air handling units in highly sensed buildings",
+    "Author": "Dedemen G.",
+    "Journal": "Digital Proceedings of the 24th EG-ICE International Workshop on Intelligent Computing in Engineering 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "NYU Tandon School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Building Energy Consumption accounts for more than 40 % of the total energy consumption in the U.S, and Heating Ventilating and Air Conditioning (HVAC) systems have a major share in the building energy consumption. Building Automation Systems (BAS) provide a valuable data source for energy savings in HVAC systems. However, there are a vast number of HVAC operational parameters stored in BAS, and not every operational parameter recorded in BAS is correlated with energy consumption. The facility management industry needs help to make sense of the captured BAS data and identify operational parameters relevant to the energy consumption. Data-driven approaches help facility managers monitor the patterns that occur between such parameters and energy consumption, and reveal energy efficient configurations of the parameters to prevent energy waste. This study provides a methodology that guides facility managers to define subset of operational parameters over a data captured and analyzed from a highly sensed building. Our results demonstrated that the number of AHU operational parameters dictate energy consumption can significantly be reduced to a subset by following the proposed approach. Case study analysis using the approach showed that pressure after cooling coil (PAC), supply air pressure (SAP), and fan speed (FSPD) were within the subset for the building analyzed."
+}

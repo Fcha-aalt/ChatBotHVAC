@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064459792,
+    "Title": "Reducing university air handling unit energy usage through controls-based energy efficiency measures",
+    "Author": "Shea R.P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-07-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.04.020",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton",
+    "Affliation Country": "United States",
+    "Cited by count": 26,
+    "Abstract": "With heating, ventilation, and air conditioning (HVAC) consuming the largest share of commercial building energy usage in the U.S., identifying HVAC energy efficiency measures can have a large impact. Thus, this research provides results from a University of Dayton case study of twelve total air handling units (AHUs) in five diverse buildings – academic, athletics, administrative, place of worship, and library – that were analyzed for energy savings through three energy efficiency measures: reducing AHU static pressure (SP), scheduling AHUs off overnight, and identifying and fixing economizer controls. First, variable air volume (VAV) damper position distributions were created to identify over-pressurized AHUs and step down their SP accordingly. Eleven of the twelve AHUs were determined to be over-pressurized and lowering their SP to final setpoints ranging 0.8 – 1.2 inches water-gauge resulted in average fan energy savings of 33%. Next, nine of the twelve AHUs were found to be serving unoccupied zones overnight and were in turn scheduled off for seven to twelve hours per night depending on building usage, resulting in 35% average energy savings. Lastly, AHU fraction outdoor air was calculated and compared to ideal economizer fraction outdoor control. All economizers were identified as fully or partially malfunctioning and if fixed could result in an average of 17% cooling savings."
+}

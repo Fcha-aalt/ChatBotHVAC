@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121267647,
+    "Title": "BIM-based analysis of energy efficiency design of building thermal system and HVAC system based on GB50189-2015 in China",
+    "Author": "Zhao T.",
+    "Journal": "International Journal of Low-Carbon Technologies",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1093/ijlct/ctab051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Dalian University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Recently, the application of building information modeling (BIM) in building energy efficiency design programs has been emphasized in research. In China, faced with requirements in building energy efficiency design standards and specifications, researchers have been using BIM as a platform for breaking up bottlenecks in energy simulation and design software, and BIM is considered the key to improve the efficiency of building energy efficiency design. Firstly, based on the trade-off energy consumption judgment method proposed in the 'Public Building Energy Efficiency Design Standard (GB50189-2015)', this study combines the BIM platform with an orthogonal simulation design adopting an experimental building construction project in a cold region of China, to thereby study the influences of different envelope structural parameters on cooling and heating loads. Then, this study analyzes the continuity and consistency of data exchange between different BIM-related software, through the modeling software Revit and the sustainable analysis software Ecotect. Finally, through the experiment, the critical factors of the optimized design of the building envelope are investigated and applied for the optimized design of the building thermal system. In addition, this study uses BIM to complete an energy efficiency design for a laboratory heating, ventilation and air conditioning (HVAC) system. According to the experimental results, the following conclusions can be drawn: this study proposes a BIM-based optimized design method of building thermal system, which complies with various Chinese building energy efficiency standards and polices and can be used as a reference for Chinese designers. Also, the issues and challenges in building consumption simulation based on BIM technology and the application of BIM technology in the design of building thermal HVAC systems are discussed, and the development trends of BIM technology in China are analyzed. Building thermal system and HVAC system design are the key points of building efficiency design. The optimized design method proposed in this paper is of great significance to this system design. The optimized design method can improve the design efficiency of designers while complying with China's standards and policies. Therefore, it can save costs, improve the economic benefits of the projects and, at the same time, obtain an ideal building efficiency design."
+}

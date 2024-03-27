@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063086148,
+    "Title": "Adaptive thermochromic roof system: Assessment of performance under different climates",
+    "Author": "Hu J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.02.040",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Case School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 58,
+    "Abstract": "Thermochromic materials possess the ability to reversibly change the optical properties in response to the environmental temperature. They have the potential to reduce the energy demand in building operations by modulating the heat transport through the building envelope, i.e., limiting undesired solar heat gain during the hot seasons and increasing solar heat gain during the cold seasons. This is an advantage over conventional cool roof technology. This study aims to evaluating the performance of adaptive thermochromic roof designed by covering regular building roof with thermochromic (TC) coating. TC coating is prepared by incorporating thermochromic pigment and TiO 2 nanoparticle is added to enhance its effectiveness. Optical characterisation shows the temperature-dependent solar reflectance of 18–26% for TC coating and 35–59% for TC/TiO 2 coating. EnergyPlus analyses is performed to evaluate impact of thermochromic roof on energy performance of the buildings in seven U.S. geographic locations. The simulation results show that compared to common roof (asphalt shingle), thermochromic roof is effective in reducing the building HVAC load demand, which saves up to 40.9% of total energy consumption, 47.7% of energy cost, and 46.7% of energy associated CO 2 emissions for the buildings in San Fran., CA. In comparison with conventional cool roof, thermochromic roof demonstrates benefits in reducing the overall energy use of the buildings, which reduces up to 7.7% of total energy consumption, 3.6% of energy cost, and 28.5% of energy associated CO 2 emissions. The effectiveness of thermochromic roof depends upon the geographic regions. This work demonstrates that performance of thermochromic roof systems to improve energy efficiency of buildings across different climatic zones."
+}

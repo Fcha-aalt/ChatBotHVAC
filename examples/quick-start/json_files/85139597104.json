@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139597104,
+    "Title": "Factors influencing indoor air pollution in buildings using PCA-LMBP neural network: A case study of a university campus",
+    "Author": "Zhang H.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109643",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Florida",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "This study investigated indoor air quality (IAQ) and its association with building characteristics and environmental factors in eleven different campus buildings in Gainesville, Florida. Integrated indoor and outdoor sensor systems are built and installed to measure the levels of airborne particulate matter (PM2.5 and PM10), nitrogen dioxide (NO2), ozone (O3), relative humidity (RH), and temperature continuously in 10 min intervals for two weeks for each case building. Twenty building-related characteristics were collected through a walkthrough-based survey, HVAC historical data, and construction drawings. Through these data, a PCA-assisted Levenberg-Marquardt Backpropagation (LMBP) neural network model was developed for rapidly and accurately analyzing and predicting the interaction between IAQ and its affecting factors. Factors with significant contributions to indoor exposure were may mostly be determined by outdoor sources. This is evidenced by the strong associations that were found between indoor PM(2.5-10) and O3 values and their corresponding outdoor values and factors, including distance from the major traffic (DFMT), cracks occurring, outdoor temperature, and humidity. Indoor NO2 concentrations were affected by DFMT, indoor O3, indoor RH, number of air grilles, room volume, and window-to-wall ratio. Also, the comparison shows that the PCA-LMBP model outperforms the traditional BP-ANN and multi-linear regression methods. The average values of 1.34, 2.53, and 4.86 were obtained for the root-mean-square error (RMSE) of PCA-LMBP, BP-ANN, and MLR models, respectively. These results can be accordingly referred for the follow-up studies that analyze IAQ in similar building and environmental conditions."
+}

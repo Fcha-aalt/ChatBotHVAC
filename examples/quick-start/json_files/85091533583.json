@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091533583,
+    "Title": "Investigation of mechanical ventilation for cooling in high-rise buildings",
+    "Author": "Sha H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-12-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110440",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université de Sherbrooke",
+    "Affliation Country": "Canada",
+    "Cited by count": 23,
+    "Abstract": "Cooling-related energy consumption is growing rapidly in buildings. High-rise buildings usually have high cooling loads and cooling-related energy consumptions. Reducing the cooling load of high-rise buildings is critical for decreasing cooling-related energy consumption and peak electricity demand. Due to their cold climates, ventilative cooling (VC) is available for a long time throughout the year in Canada and Northern Europe, not only during shoulder seasons, but also in summer periods. Mechanical ventilation is an option for providing VC and reducing high-rise cooling load. However, the mechanical ventilation system in high-rise buildings is typically designed and used for maintaining indoor air quality, rather than for removing indoor heat. This study aims to use the mechanical ventilation system for VC in high-rise buildings and explore the associated energy saving approaches. Energy models of components in the cooling system were developed. Based on the models developed, different energy saving approaches were proposed, including applying the optimal control method, using energy efficient fans, and increasing nominal fan flow rates. A case study was conducted on an institutional high-rise building to validate the models developed and evaluate the proposed energy saving approaches. It was found that with energy efficient fans, applying the optimal control method and increasing the nominal ventilation flow rate can achieve energy savings for cooling. Increasing the optimal nominal ventilation rate further does not significantly increase energy savings. The conclusions of this study provide vital information regarding high-rise VC for new building design and HVAC system retrofit in existing buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185007819,
+    "Title": "IoT-Based Edge Computing and Image Processing for Occupancy Detection",
+    "Author": "Guo C.",
+    "Journal": "ICICN 2023 - 2023 IEEE 11th International Conference on Information, Communication and Networks",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICICN59530.2023.10393844",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Xi'an Jiaotong-Liverpool University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "A primary strategy for the energy-efficient operation of commercial office buildings is to offer dynamic building services, including lighting, heating, ventilating, and air conditioning (HVAC). Therefore, it is necessary to propose an effective and high-accuracy guaranteed real-time video occupancy detection optimisation algorithm according to a model predictive control (MPC) system. In this paper, we propose a YOLOv5 occupation detection algorithm to enhance the accuracy of making informed decisions and control actions on video occupancy detection systems, where the MPC system uses multiple cameras to capture and average the number of people, and a DHTII sensor will be used to measure temperature and humidity and sent to the MPC program through a Raspberry Pi-based script. Simulation results demonstrate the effectiveness of deep learning-based methods in enhancing the accuracy and real-time performance of video occupancy detection systems, paving the way for more efficient and intelligent building management solutions."
+}

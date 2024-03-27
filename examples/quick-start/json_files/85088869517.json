@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088869517,
+    "Title": "Improved Method for Approximation of Heating and Cooling Load in Urban Buildings for Energy Performance Enhancement",
+    "Author": "Das S.",
+    "Journal": "Electric Power Components and Systems",
+    "Publication Date": {
+        "$date": "2020-07-29T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/15325008.2020.1793838",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Trident Academy of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "Estimation of a building’s heating and cooling loads is an important factor taken into account implementation of energy saving measures in order to enhance energy performance of the building. In this work, the heating and cooling loads are predicted to enhance the building energy performance using different types of artificial neural networks namely, Elman network, recurrent network and back propagation network. The effect of eight input variables (relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, glazing area distribution) on two output variables (heating load and cooling load of residential buildings) is studied. The collected features are given as input to various neural networks for predicting the heating and cooling loads. The performance of the method is calculated in terms of mean absolute error, mean square error and mean relative error. Among all the networks back-propagation neural network has highest accuracy. The mean absolute error in predicting the loads is found to be 0.1 for heating load and 0.1254 for cooling load which is much better than already existing methods. The results of the work further reinforce the fact that ANN is an important tool for prediction and analysis of energy performance of a building."
+}

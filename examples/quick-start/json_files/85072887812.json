@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072887812,
+    "Title": "Chilled water pump trouble-shooting by A.I.: A case study",
+    "Author": "Adhikary P.",
+    "Journal": "ARPN Journal of Engineering and Applied Sciences",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "New Horizon College of Engineering",
+    "Affliation Country": "India",
+    "Cited by count": 3,
+    "Abstract": "Artificial intelligence (Artificial Neural Network-ANN, Fuzzy Expert System - FES, Genetic Algorithm - GA etc.) are widely accepted as a technology offering an alternative way to tackle complex and ill-defined problems in HVAC industry. It can learn from previous data, are fault tolerant, are able to deal with non-linear problems and, once trained, can perform prediction and generalisation at a very high speed. It has been used in diverse applications in controlling system, robotics, manufacturing, optimisation, signal processing etc. This study presents application of ANN in HVAC chilled water pump (Various Global Chilled Water Pump Manufacturers: Grundfos, KSB, Armstrong, Kirloskar etc.) trouble shooting. In all those models, multiple hidden layer architecture has been used. Errors reported in these models are within acceptable limits, which suggest that AI or ANN can be used for such modelling. Good agreement was found between the ANN forecast results and actual pump manufacturer data (not shown here for the company privacy policy) for the Chilled Water Pump trouble shooting. To the best of the author's knowledge these novel approaches for application of Artificial Neural Network (ANN)in chilled water pump (HVAC) trouble shooting problem is absent in fluid mechanics literature due to its assessment complexity."
+}

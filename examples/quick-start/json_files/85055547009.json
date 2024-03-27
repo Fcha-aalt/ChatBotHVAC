@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055547009,
+    "Title": "Model Predictive Control of Induction Machine for Energy Efficient HVAC Operation",
+    "Author": "Zhang H.",
+    "Journal": "International Conference on Innovative Smart Grid Technologies, ISGT Asia 2018",
+    "Publication Date": {
+        "$date": "2018-09-18T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ISGT-Asia.2018.8467875",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nanyang Technological University",
+    "Affliation Country": "Singapore",
+    "Cited by count": 0,
+    "Abstract": "Recently, the energy efficiency in the building has attracted significant research attention. Many papers talk about the optimizations around the Heating Ventilation and Air-Conditioning (HVAC) system, such as sensors and model predictive control (MPC)-based thermostats in the system. However, most of them do not consider the energy usage on the drive level where the fans and pumps are powered by the Induction Machine (IM) which consumes about 50% to 75% of total energy consumption in the overall HVAC system. The various drive control strategies might render different energy savings by considering the losses in the IM (e.g., switching, current, and torque loss) in the different HVAC operating conditions (e.g., ambient temperature changes, etc This paper has analyzed the drive performance under different HVAC operating conditions, including the simulation results for the speed and torque ripples; torque loss and fan power consumption."
+}

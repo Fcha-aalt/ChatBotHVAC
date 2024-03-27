@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055650282,
+    "Title": "Optimal demand charge reduction for commercial buildings through a combination of efficiency and flexibility measures",
+    "Author": "Zhang Y.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2018-07-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.apenergy.2018.03.150",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Baumann Consulting",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "A substantial part of electricity bills in commercial buildings can consist of demand charges. Lowering the peak power and/or reducing the hours that a power threshold is exceeded can drastically reduce demand charges. The ability to do so by dynamic, operational adjustments reflects the “energy flexibility” of the building. This paper targets the optimal combination of design and operational measures in a retrofit or new design project that delivers the most effective way of reducing demand charges by increasing energy flexibility and efficiency of commercial buildings. This goal is achieved through an analysis of all feasible energy consumption and peak reduction measures in different building types and in different use contexts. A search algorithm that compares all possible interventions will deliver the optimum. This leads to a stochastic optimization approach with recognition of the effects of all possible sources of uncertainty. This paper evaluates the measures that are commonly adopted to decrease energy consumption and increase energy flexibility, including (1) upgrading building components and installing energy efficient equipment; (2) applying dynamic building load control strategies; (3) installing a rooftop photovoltaic panel array. Operational interventions include the manipulation of thermostat settings and the voltage reduction of lighting and appliances (in some cases including HVAC components) in the building, which may cause some level of thermal and visual discomfort during certain periods. In order to support retrofit and design improvement decisions, an approach is developed to find the optimal mix of measures that maximize the net present value of the investment in all measures over twenty years for the owner. This paper analyzes the optimal solutions for three commercial building types, office, hospital, and retail. The paper suggests a modeling and optimization framework that can be used by building designers and operators to make optimal investment decisions to reduce demand charges. The paper shows a novel support of the decision making by building operators when faced with the opportunity to reduce demand charges."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938826903,
+    "Title": "Energy-efficient static pressure reset in VAV systems",
+    "Author": "Ma Y.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Critical zone reset control is considered to be the most energy-efficient air-handling unit (AHU) control strategy in variable-air-volume (VAV) systems. This paper presents a novel application of this control strategy that dynamically resets the duct static pressure setpoint to reduce AHU fan power in VAV systems. It also develops a methodology to calculate fan power normalized for airflow rate. The proposed control strategy takes into account common constraints in commercial buildings. The selection and tuning of control parameters allow the proposed control strategy to be applicable to buildings with a variety of building automation systems and hardware limitations. The proposed control strategy was implemented in an office building in Dayton, Ohio. Fan power savings were realized at all times during the post-baseline period, without affecting the performance of the building HVAC system. The average observed fan power savings in this case study after implementation of the proposed control strategy was 51%, compared to a constant duct-pressure setpoint. Higher savings are expected in buildings with oversized AHUs. Higher savings are also expected in buildings with continuous HVAC operations, since fan power savings are greatest at the low airflow rates that occur during unoccupied hours."
+}

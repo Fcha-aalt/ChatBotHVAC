@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137180730,
+    "Title": "Energy Consumption Prediction and Diagnosis of Heating Ventilation and Air Conditioning System Based on Bidirectional LSTM Method",
+    "Author": "Cong Y.",
+    "Journal": "Proceedings - 2022 International Conference on Computer Engineering and Artificial Intelligence, ICCEAI 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICCEAI55464.2022.00134",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Qingdao University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Data driven models of heating ventilation and air conditioning (HVAC) such as Back Propagation (BP) neural network, Support Vector Machine (SVM), Long Short Term Memory (LSTM) and bidirectional Long Short Term Memory (BiLSTM) offer an excellent opportunity for the prediction of energy consumption. In contrast, different kinds of input characteristics and complex actual operating conditions reduce the accuracy of the prediction. In this paper, a large scale of operation data was collected from the EnergyPlus simulation, which was previously developed based on the characteristics of a real case study house. The paper discusses the influence of outdoor environment, previous output, temperature schedule on the prediction accuracy. The results indicate that BiLSTM method could lead to more stable energy consumption prediction and outdoor relative humidity has significantly improved the accuracy of prediction."
+}

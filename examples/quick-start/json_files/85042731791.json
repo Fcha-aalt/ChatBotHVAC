@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042731791,
+    "Title": "Three-dimensional OpenFOAM simulation to evaluate the thermal comfort of occupants, indoor air quality and heat losses inside an indoor swimming pool",
+    "Author": "Limane A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-05-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.02.037",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université de Sherbrooke",
+    "Affliation Country": "Canada",
+    "Cited by count": 23,
+    "Abstract": "This paper presents the thermo-ventilation study in turbulent regime of the airflow with heat and mass transfer in an indoor swimming pool, using the OpenFOAM (Open Field Operation and Manipulation) software. For this purpose, a solver has been developed and adapted to the HVAC domain (Heating, Ventilation and Air-Conditioning) in order to predict various parameters such as the velocity, temperature and relative humidity. This solver is also used to quantify the indoor air quality and the thermal comfort of occupants using respectively the concept “age of air” and the comfort index EDT (Effective Draft Temperature). The numerical results obtained are in good agreement with the measurements carried out previously in the simulated indoor swimming pool. The 24-h statistical analysis for typical winter and summer days showed that, unlike seasonal climate changes, daily climate changes do not have an effect on the pool's internal environment. The calculated thermal flux through the pool envelope showed that it has a good thermal insulation despite the importance of thermal losses caused mainly by the water in the basin. However, the calculated age of air showed a relatively poor ventilated zone essentially due to the weak diffusion of the inlet air, while the calculated EDT indicated that the discomfort caused by the sensation of heat predominates in the swimming pool whether in summer or in winter. The proposed modification of the air blowing conditions improved considerably the indoor air quality and the thermal comfort of occupants. Indeed, the age of air showed lower and homogeneous values and the EDT indicated a predominance of thermal comfort in the living spaces of the swimming pool. In addition, the thermal losses decreased considerably."
+}

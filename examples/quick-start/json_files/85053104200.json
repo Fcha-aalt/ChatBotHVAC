@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053104200,
+    "Title": "Modelling of electricity demand in residential buildings using artificial neural networks",
+    "Author": "Jasiński T.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2018-08-13T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1051/e3sconf/20184900048",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lodz University of Technology",
+    "Affliation Country": "Poland",
+    "Cited by count": 1,
+    "Abstract": "Electricity is the basis for the functioning of modern society. It is used for many purposes, including HVAC systems. Information on future electricity demand is an important element from the point of view of both the real estate user and other entities on the energy market. The study forecasts the demand for electricity on the basis of data from over 12,000 buildings. The model was created using one of the tools from the area of artificial intelligence - neural networks. Over 15,000 networks differing in architecture, number of nerve cells, activation functions, sets of explanatory variables and learning algorithms have been tested. The paper presents those from the tested models, which were characterized by the highest precision of operation."
+}

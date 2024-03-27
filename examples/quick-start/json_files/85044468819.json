@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044468819,
+    "Title": "Development of fuzzy based smart building energy and comfort management system",
+    "Author": "Omarov B.",
+    "Journal": "International Conference on Control, Automation and Systems",
+    "Publication Date": {
+        "$date": "2017-12-13T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.23919/ICCAS.2017.8204473",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Khoja Akhmet Yassawi International Kazakh-Turkish University",
+    "Affliation Country": "Kazakhstan",
+    "Cited by count": 11,
+    "Abstract": "Building energy management is a major topic of research and development, as well as, buildings constitute the substantial amount of energy consumption in the worldwide. Design of an automated controller for energy efficiency operation in the building is one of the main methods to reduce energy consumption by keeping comfort level for inhabitants. In this paper, we introduce an alternative way to save energy by using fuzzy logic based approach. Fuzzy logic has been widely used to simulate energy consumption model and to control heating, ventilation and humidifying devices. Simulation results illustrate the behavior relation of whole system and each control parameter."
+}

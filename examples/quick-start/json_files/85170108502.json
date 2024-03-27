@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85170108502,
+    "Title": "Simulation and Field Experiments for Various VAV System Controls and Configurations",
+    "Author": "Ridwana I.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Cincinnati",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Energy efficiency in the building sector can lead to a significant reduction of the total carbon footprint in the environment produced by buildings. Hence, designing efficient building systems and controls is crucial to decreasing building energy consumption and carbon emission. This paper proposes to utilize both ducts of the dual VAV system configuration simultaneously to minimize energy usage and maximize efficiency. One air handling unit can be operated as a dedicated outdoor air unit to serve the ventilation load while the other serves the building load. To attain the benefits of a dual VAV system in this way, a specific control sequence is proposed in this paper. Single duct VAV, single duct fan-powered VAV, dual duct with common outdoor intake, and dual VAV systems are modeled for a case study multi-zone building to demonstrate this concept. Annual heating, cooling, and fan energy consumption of these four systems are then compared to evaluate the energy savings. After that, field studies are performed for a single duct VAV system as the baseline and dual VAV system in the fully instrumented HVAC lab at the University of Cincinnati, Ohio. It is observed in the simulation studies that using both VAV systems simultaneously leads to significantly lower heating and fan energy consumption for the case study building. Moreover, the field experiment result validates the simulation results, and about 29% fan power savings are obtained over 24 hours by using this configuration. Thus, this study demonstrates the potential of adopting a dual VAV system widely over the other three baselines to achieve energy efficiency with the proposed sequence of control in multizone buildings."
+}

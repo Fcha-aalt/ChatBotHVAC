@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132401402,
+    "Title": "Energy Efficient Solutions for Commercial Kitchen Design using CFD Simulations",
+    "Author": "Khalil D.",
+    "Journal": "International Conference on Efficient Building Design: Material and HVAC Equipment Technologies",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Dar Al-Handasah",
+    "Affliation Country": "Egypt",
+    "Cited by count": 0,
+    "Abstract": "Commercial kitchens are complex environments with multiple components ventilation systems that consists of hood exhaust, makeup air systems and conditioned supply air interacting together and affecting the conditions in the space. In order to achieve both acceptable indoor thermal conditions and energy efficiency, these components have to operate together in accord. This is especially relevant as indoor climate in commercial kitchens is often considered unsatisfactory due to the high sensible and latent loads released by the cooking appliances which in turn eventually affect the kitchen personal’ comfort and productivity. In fact, experiments and studies have shown that a temperature rise of 5.5°C above the comfort level in kitchen space would decrease the productivity by 30%, which means that the task will be assigned to three individuals instead of only one. In addition, energy Efficiency and cost savings in commercial kitchens depend on many factors such as the climate where the kitchen is located. A percentage of 24-36 % of the total energy consumed in food service facilitates are consumed by the HVAC system and mainly the kitchen ventilation system. The following study aims to investigate and optimize the thermal comfort of kitchen personal working near the hot cooking area. For this purpose, a detailed investigation of supply delivery and thermal distribution is carried out using a full-scale 3D Computational Fluid Dynamics (CFD) model for a representative commercial kitchen where the appliances heat dissipation and cooking fumes are taken into consideration. Specifically, the effect of relevant HVAC system parameters (such as the type of air outlets and their distribution, the supply air temperature, extraction and make-up total air flow rates and air speeds) on the thermal conditions is assessed using the SET thermal comfort index as defined in ASHRAE 55. The findings from the study indicated that using hood Type (II) with linear slot diffuser throwing air downwards with a relatively high velocity (2.5 m/s) in Models 3 and 4 aided in the effective containment of hot fumes emitted from the cooking appliances and acted as a buffer between the hot kitchen and the conditionned circulation area, which subsequently led to improved thermal distribution and comfort for the occupants."
+}

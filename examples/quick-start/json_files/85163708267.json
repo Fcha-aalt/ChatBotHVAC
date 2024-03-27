@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163708267,
+    "Title": "ANN prediction model to improve employees’ thermal satisfaction in tropical green office buildings",
+    "Author": "Abeyrathna W.P.",
+    "Journal": "Asian Journal of Civil Engineering",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1007/s42107-023-00779-y",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Moratuwa",
+    "Affliation Country": "Sri Lanka",
+    "Cited by count": 0,
+    "Abstract": "Employee satisfaction is paramount as it directly impacts their productivity and health, particularly in the office environment, where thermal comfort plays a crucial role. Existing quantitative methods for evaluating thermal comfort satisfaction solely focus on building structural elements. To bridge this gap, a study was conducted, surveying 1223 staff members across six green office buildings to assess their satisfaction with thermal comfort. The analysis introduced a proposed network of thermal comfort features to aid in designing the questionnaire and measuring the environment. The study employed a range of resampling methods and feature selection techniques that integrated statistical analysis methods and machine learning algorithms to overcome the imbalanced dataset. As a result, a predictive model using the Feedforward Neural Network algorithm was developed, enabling a comprehensive comparison with the Random Forest, Decision Tree, and Support Vector Machine models. The study identified significant factors influencing thermal comfort satisfaction, including smart HVAC control, workstation distance from windows, window-to-wall ratio, wall and room insulation type, and insulation depth. The predictive model achieved an accuracy of 73%, and its interpretability supports its practical application in office design. By utilising this predictive model, building designers and managers can make informed decisions, uncovering situations where green building certifications may not meet employees’ expected level of thermal comfort. Ultimately, optimising employee thermal comfort can lead to enhanced productivity. Graphical abstract: [Figure not available: see fulltext.]"
+}

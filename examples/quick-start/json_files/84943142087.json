@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84943142087,
+    "Title": "Lighting control and monitoring for energy efficiency: A case study focused on the interoperability of building management systems",
+    "Author": "Pellegrino A.",
+    "Journal": "2015 IEEE 15th International Conference on Environment and Electrical Engineering, EEEIC 2015 - Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-07-22T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/EEEIC.2015.7165258",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Politecnico di Torino",
+    "Affliation Country": "Italy",
+    "Cited by count": 7,
+    "Abstract": "The paper presents some results of a project carried out within the 7th European Research Framework Program, aimed at developing an event-driven user-centric middleware for monitoring and managing energy consumption in public buildings. One of the strengths of the designed system is to allow an easy integration of heterogeneous technologies and their hardware independent interoperability. This is a feature of great importance to existing buildings, where standing controls could be integrated with new technologies to enhance a greater building energy efficiency. The functionality of the system has been tested in some representative spaces of existing public buildings. Control strategies and hardware infrastructures have been defined to manage the operation of HVAC and lighting plants. The paper focuses on the results obtained by applying the designed system and control strategies to the electric lighting plants of different office spaces."
+}

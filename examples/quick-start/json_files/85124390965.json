@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124390965,
+    "Title": "Heat pipe-based waste heat recovery systems: Background and applications",
+    "Author": "Abdelkareem M.A.",
+    "Journal": "Thermal Science and Engineering Progress",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.tsep.2022.101221",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Egypt",
+    "Cited by count": 49,
+    "Abstract": "Heat pipes are becoming gradually more popular as a passive heat transfer technology due to their effective performance. The heat pipe heat exchanger (HPHE) is an effective tool in recovering waste heat. The present paper provides a comprehensive review of the state-of-the-art background of heat pipe for various waste heat recovery systems (WHRSs). Furthermore, the present paper focuses on a number of the most prevalent applications of utilizing heat pipe for WHR such as heating ventilating and air conditioning (HVAC) systems, solar photovoltaic, water desalination, ceramic kiln industry, steel industry, internal combustion engines, generators, and electronic components in which the heat pipe introduces several benefits. The waste heat resource, type and description of the employed heat pipe, and the working fluid for each application are studied comprehensively. Internal and external thermal modeling techniques, theories, and methodologies are presented for various applications. Based on the energy efficiency improvement, economic investment, and environmental impacts, the employing of HPHE in different applications is a successful and promising technology. Finally, the current challenges and future perspectives related to the use of the heat pipe for WHR in various applications are introduced."
+}

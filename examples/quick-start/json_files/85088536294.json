@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088536294,
+    "Title": "Using AI Simulations to Dynamically Model Multi-agent Multi-team Energy Systems",
+    "Author": "Franklin D.M.",
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-52246-9_2",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kennesaw State University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The complexity of energy systems is well known as they are complex and intricate systems. As a result, many extant studies have used many simplifications or generalizations that do not accurately reflect the nature of this complex system. In particular, most HVAC systems are modeled as a single unit, or several large units, rather than as a hierarchical composite (e.g., as a floor rather than as a collection of disparate rooms). The net result of this is that the simulations are too generic to perform meaningful analysis, machine learning, or integrated simulation. We propose using a multi-agent multi-team strategic simulations framework called SiMAMT to better define, model, simulate, and learn the HVAC environment. SiMAMT allows us to create distinct models for each type of room, hierarchically aggregate them into units (like floors, or sections), and then into larger sets (like buildings or a campus), and then perform a simulation that interacts with each sub-element individually, the teams of sub-elements collectively, and the entire set in aggregation. Further, and most importantly, we additionally model another ‘team’ within the simulation framework - the users of the systems. Again, each individual is modeled distinctly, aggregated into sub-sets, then collected into large sets. Each user, or agent, is performing on their own but with respect to the larger team goals. This provides a simulation that has a much higher model fidelity and more applicable results that match the real-world."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044621941,
+    "Title": "Upgrade of a typical office building automation system for enabling open energy management services",
+    "Author": "Vašak M.",
+    "Journal": "Proceedings of International Conference on Smart Systems and Technologies 2017, SST 2017",
+    "Publication Date": {
+        "$date": "2017-12-12T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/SST.2017.8188716",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+    "Affliation Country": "Croatia",
+    "Cited by count": 7,
+    "Abstract": "Together with the rapidly increasing trends of smart systems, there is a clear need for integration tools of different technologies spanning from individual user to smart city conception. With 40% of total world energy consumption, building systems are put in the central focus of the area. The paper introduces modular technology integration strategy based on model predictive control and focuses on technological prerequisites for three identified building subsystems with a clear hierarchical distinction: zone thermal level, central heating, cooling and air-conditioning level, and energy flows level incorporating local microgrid. The focus is put on a typical office building automation system with the intention to non-invasively introduce a building energy management system upon it that coordinates different and heterogenous energy-relevant building subsystems present on the different levels. The considered building acts as one of the eight pilot test sites in the Danube region started within the 3Smart project. Such an open and modular building energy management approach is expected to finally introduce great savings and building energy-efficiency improvement but also enable active building participation on energy grids and markets."
+}

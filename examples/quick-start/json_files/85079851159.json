@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079851159,
+    "Title": "Managing thermal comfort in contemporary high-rise residential buildings: Using smart thermostats and surveys to identify energy efficiency and comfort opportunities",
+    "Author": "Stopps H.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-04-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.106748",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 36,
+    "Abstract": "Heating, ventilation and air conditioning (HVAC) operation is the largest contributor to residential building energy use and can significantly influence occupant thermal comfort and behaviours. Despite the boom in high-rise residential building construction, little is known about the relationship between occupant comfort and behaviors and HVAC operation in these contemporary buildings. In this study, connected thermostat data and occupant surveys from 55 participants across two contemporary high-rise condominium buildings were used to characterize this relationship to reveal opportunities for improved comfort and energy efficiency. Survey data indicated that occupant thermal discomfort was prevalent across both buildings in the heating and cooling seasons (48% and 53% reporting discomfort in heating and cooling seasons, respectively). The measured data corroborated the survey findings showing that over-conditioning of suites is a chronic issue across seasons. However, investigation into the temperatures of suites located in different parts of the buildings indicated that the overheating was influenced by wind, solar radiation and winter stack effect, but not in the ways suggested by building physics (e.g. air moving in opposite direction of predicted stack effect). This supports our hypothesis that the MAU operational characteristics and incorrect balancing of air duct networks are likely causing over-conditioning but further investigation is ongoing to confirm this. Analysis of suite HVAC unit runtimes also revealed low runtimes in heating season, which may limit the effectiveness of improved (e.g. occupant-based) in-suite HVAC controls, given the minimal space conditioning energy consumption in these particular suites. This study demonstrates the potential for using connected thermostat data as a diagnostic tool to identify opportunities for energy savings in the building."
+}

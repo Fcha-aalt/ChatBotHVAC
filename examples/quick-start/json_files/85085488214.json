@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085488214,
+    "Title": "One step forward toward smart city Utopia: Smart building energy management based on adaptive surrogate modelling",
+    "Author": "Gonçalves D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-09-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110146",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for Mechanical Technology and Automation (TEMA)",
+    "Affliation Country": "Portugal",
+    "Cited by count": 33,
+    "Abstract": "This study steps into the roadmap of agenda 2030 to mitigate the human footprint on an environment with the aim of management of energy consumption in residential/commercial buildings. In order to materialize this concept, a new generation of adaptable systems of intelligent supervisory predictive control (ISPC) is introduced and implemented in which energy consumption tends to be minimized without sacrificing occupants thermal comfort. The methodology of ISPC includes building thermal simulation and multi-objective optimization algorithm that interact with conventional machine-level controllers of HVAC systems, to define optimized setpoints considering current and forecasted operation conditions. The development of a reliable surrogate model, based on robust machine learning techniques, is a key feature to confer greenness to a building in order to promote sustainability in the built environment and finally to have a smart green building. It is showed that the proposed ISPC is capable of delivering a robust, energy- and cost-effective decision while being independent of the HVAC system. The implemented energy management, as a non-destructive retrofitting procedure, can be applied to both new and existing buildings and with any level of HVAC technology."
+}

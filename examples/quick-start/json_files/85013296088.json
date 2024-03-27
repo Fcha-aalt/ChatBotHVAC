@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85013296088,
+    "Title": "Alternative ventilation strategies in U.S. offices: Comprehensive assessment and sensitivity analysis of energy saving potential",
+    "Author": "Rackes A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2017-05-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.buildenv.2017.01.027",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 25,
+    "Abstract": "Mature technologies exist to reduce the heating, ventilation, and air-conditioning (HVAC) energy associated with ventilation and use ventilation proactively to save energy. This study investigated the energy use impacts in U.S. office buildings of multiple alternative ventilation strategies that combined: economizing, demand controlled ventilation (DCV), supply air temperature reset (SR), and/or a doubled ventilation rate. We used energy simulations in a Monte Carlo analysis, sampling 17 building inputs and varying locations to match the climate zone distribution of the U.S. office stock. Results indicated the possibility for significant savings compared to a baseline that ventilated constantly at a minimum rate in both a small office type with a constant air volume (CAV) HVAC system and a medium office type with a variable air volume (VAV) system. In 95% of instances, HVAC source energy savings were 5–25% in the small-CAV office (median: 11%) and 6–42% in the medium-VAV office (median: 27%). In the small-CAV office, DCV typically saved the most energy, usually from heating, and heating degree days and occupant density were decisive influences. In the medium-VAV office, economizing and SR were most important, DCV usually only had minor impacts, and zone temperature setpoints, along with climate indicators, were the critical influences. Other than infiltration, envelope characteristics did not strongly influence energy impacts. The untapped primary energy savings of alternative ventilation strategies over the 74% of U.S. office floorspace reasonably represented by our modeling was estimated at 36 TWh per year, with an annual value of U.S. $1.25 billion."
+}

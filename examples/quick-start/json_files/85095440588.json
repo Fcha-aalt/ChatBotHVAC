@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095440588,
+    "Title": "Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning",
+    "Author": "Du Y.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.apenergy.2020.116117",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tickle College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 140,
+    "Abstract": "Residential heating, ventilation, and air conditioning (HVAC) has been considered as an important demand response resource. However, the optimization of residential HVAC control is no trivial task due to the complexity of the thermal dynamic models of buildings and uncertainty associated with both occupant-driven heat loads and weather forecasts. In this paper, we apply a novel model-free deep reinforcement learning (RL) method, known as the deep deterministic policy gradient (DDPG), to generate an optimal control strategy for a multi-zone residential HVAC system with the goal of minimizing energy consumption cost while maintaining the users’ comfort. The applied deep RL-based method learns through continuous interaction with a simulated building environment and without referring to any prior model knowledge. Simulation results show that compared with the state-of-art deep Q network (DQN), the DDPG-based HVAC control strategy can reduce the energy consumption cost by 15% and reduce the comfort violation by 79%; and when compared with a rule-based HVAC control strategy, the comfort violation can be reduced by 98%. In addition, experiments with different building models and retail price models demonstrate that the well-trained DDPG-based HVAC control strategy has high generalization and adaptability to unseen environments, which indicates its practicability for real-world implementation."
+}

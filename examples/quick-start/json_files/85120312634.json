@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120312634,
+    "Title": "Demonstration of optimal scheduling for a building heat pump system using economic-mpc",
+    "Author": "Sawant P.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14237953",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Applied Sciences Offenburg",
+    "Affliation Country": "Germany",
+    "Cited by count": 4,
+    "Abstract": "It is considered necessary to implement advanced controllers such as model predictive control (MPC) to utilize the technical flexibility of a building polygeneration system to support the rapidly expanding renewable electricity grid. These can handle multiple inputs and outputs, uncertainties in forecast data, and plant constraints, amongst other features. One of the main issues identified in the literature regarding deploying these controllers is the lack of experimental demonstrations using standard components and communication protocols. In this original work, the economic-MPC-based optimal scheduling of a real-world heat pump-based building energy plant is demonstrated, and its performance is evaluated against two conventional controllers. The demonstration includes the steps to integrate an optimization-based supervisory controller into a typical building automation and control system with off-the-shelf HVAC components and usage of state-of-art algorithms to solve a mixed integer quadratic problem. Technological benefits in terms of fewer constraint violations and a hardware-friendly operation with MPC were identified. Additionally, a strong dependency of the economic benefits on the type of load profile, system design and controller parameters was also identified. Future work for the quantification of these benefits, the application of machine learning algorithms, and the study of forecast deviations is also proposed."
+}

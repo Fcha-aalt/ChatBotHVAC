@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85026678513,
+    "Title": "Numerical investigation of the energy performance of an Opaque Ventilated Façade system employing a smart modular heat recovery unit and a latent heat thermal energy system",
+    "Author": "Diallo T.M.O.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.apenergy.2017.07.042",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Hull",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 33,
+    "Abstract": "The building sector is responsible for more than 40% of the EU's total energy consumption. To reduce the energy consumption in buildings and to achieve the EU's fossil fuel saving targets for 2020 and beyond 2050, the energy efficient retrofitting strategies are critically important and need to be implemented effectively. This paper presents a dynamic numerical investigation of the energy performance of an innovative façade integrate-able energy efficient ventilation system (E2VENT) that incorporates a smart modular heat recovery unit (SMHRU) and a latent heat thermal energy system (LHTES). A number of component simulation models, including SMHRU, LHTES, Cladding and Building Energy Management System (BEMS), were developed and then integrated using the TRNSYS software which is an advanced building energy performance simulation tool. On this basis, sizing, optimisation and characterisation of the system elements including the HVAC system and insulation layer thickness were carried out. The overall energy efficiency of the E2VENT system and its impact on the energy performance of a post-retrofit building were then investigated. In particular, the heating and cooling energy performance of the E2VENT façade module was numerically studied at five different climatic conditions in Europe. Furthermore, the innovative E2VENT retrofitting was compared with traditional retrofittings in terms of the energy efficiency and primary energy savings. It was found that the innovative E2VENT solution can achieve 16.5–23.5% building primary energy saving and compared to the traditional retrofitting, the E2VENT solution can achieve two times less primary energy consumption. Thanks to this efficiency the development of this solution for buildings retrofit is promising."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115005387,
+    "Title": "Simulation Driven Design of HVAC Systems under Competing HVAC Noise and Defrost Performance Requirements",
+    "Author": "Nagarajan V.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2021-08-31T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.4271/2021-01-1020",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Dassault Systemes",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "It is particularly easy to get tunnel vision as a domain expert, and focus only on the improvements one could provide in their area of expertise. To make matters worse, many Original Equipment Manufacturers (OEMs) are silo-ed by domain of expertise, unconsciously promoting this single mindedness in design. Unfortunately, the successful and profitable development of a vehicle is dependent on the delicate balance of performance across many domains, involving multiple physics and departments. Taking for instance the design of a Heating, Ventilation & Air Conditioning (HVAC) system, the device's primary function is to control the climate system in vehicle cabins, and more importantly to make sure that critical areas on the windshield can be defrosted in cold weather conditions within regulation time. With the advent of electric and autonomous vehicles, further importance is now also placed on the energy efficiency of the HVAC, and its noise. During the development of the defrost mode of an HVAC, the first priority is to satisfy the certification tests for defrost performance, verifying the vehicle's safety. Since no realistic prototype of the vehicle interior can be built in early stages, this can lead to an increased mass flow rate through the HVAC defrost registers, and consequently increased noise levels from the HVAC. Furthermore, the complexity of the windshield and defroster topography is not considered in detail at the early design stage, resulting in dead zones and hindering visibility. Limited testing focusing mainly on passing defrost regulations leads to more defrost noise, and complaints from consumers. In this paper, we will present a novel Computational Fluid Dynamics (CFD) method to digitally design quiet HVAC systems through virtual defrost performance certification with reduced development time. Using this method, we will show that simulation can be used to drive early stage optimization of both defrost performance and noise in a CAD based parametric optimization."
+}

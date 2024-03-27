@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102759569,
+    "Title": "Nonconvex thermal modelling and energy optimization for multizone commercial buildings with VAV type HVAC units",
+    "Author": "Hasan A.S.M.J.",
+    "Journal": "Proceedings - 2020 International Conference on Smart Grids and Energy Systems, SGES 2020",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/SGES51519.2020.00171",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, Riverside",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Energy efficiency is an important issue for buildings as they are among the largest users of electricity in the U.S. As a substantial and controllable load in buildings, Heating, Ventilation, and Air Conditioning (HVAC) systems have been seen as a major candidate for optimization processes. Variable air volume (VAV) type HVAC units though most familiar, have not been modeled in a detailed way for optimization due to their nonconvex attributes. The contemporary optimization solvers can deal with such non-convexities. Leveraging this attribute, detailed modeling of VAV type HVAC units was done for a multi-zone single-storied commercial building and an optimization problem was formulated to minimize the total power usage of all HVAC units in the building. The results showed that 3.91% energy savings and 5.55% maximum peak reduction were achieved using this optimization. Moreover, the zone temperature setpoints became much more stable while staying within the human thermal comfort range. Energy and peak demand savings will also provide economic and environmental benefits if it can be widely implemented."
+}

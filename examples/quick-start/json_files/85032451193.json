@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032451193,
+    "Title": "Demonstrational zone of energy efficiency of BSTU after V.G. Shukhov",
+    "Author": "Koshlich Y.",
+    "Journal": "International Multidisciplinary Scientific GeoConference Surveying Geology and Mining Ecology Management, SGEM",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.5593/sgem2017/42/S17.022",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Belgorod State Technological University named after V.G.Shoukhov",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 4,
+    "Abstract": "The basic tasks of building and production sphere, housing and communal services are connected with life protection and comfortable conditions creations for people. In this way the automated control systems of distributed energy supply and life support facilities play an important part. The main scientific direction in this area is increasing their energy efficiency. Paper represents results of implementation of automated dispatch control systems of distributed energy supply and life support facilities that includes renewable energy sources. On the basis of the system it was developed demonstrational zone (demozone) of energy efficiency of Belgorod State Technological Univercity after V.G. Shukhov(BSTU after V.G. Shukhov) which have been including automated dispatch control system of energy supply and life support systems of Stary Oskol city buildings, distributed energy facilities of Belgorod State Technological University named after V.G. Shukhov and Belgorod National Research Univercity, distributed facilities of manufacturing enterprises and educational institutions. It was implemented web-based access technology on the basis of reversed AJAX and “long poll” that allows using demozone as interactive laboratory base with remote control and monitoring of real equipment of energy supply engineering systems (heating and HVAC systems, boilers, thermal solar power plants etc.). Demonstrational zone structure on the lower technological level also includes thermal solar power plants that uses for hot water supply of university buildings.This creation helped to developed some engineering approach to design of automated dispatch control systems of distributed energy supply and life support facilities. Nowadays demozone of energy efficiency of BSTU after V.G. Shukhov is base of scientific research in the areas of renewable energy sources, energy efficiency and power engineering."
+}

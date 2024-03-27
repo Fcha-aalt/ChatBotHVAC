@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064195382,
+    "Title": "Strategic control and cost optimization of thermal energy storage in buildings using EnergyPlus",
+    "Author": "Kamal R.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-07-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2019.04.017",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 72,
+    "Abstract": "An operational strategy to optimize building operating energy costs for suppliers and consumers is an important challenge for electrical power utilities. There are various supply-side measures that utilities have to take to ensure continuous energy supply for building heating and air-conditioning. During peak energy demand, utilities are often forced to use more expensive and less efficient generation, thereby increasing the cost of energy. However, some demand-side management practices behind the consumer meter can help in meeting this challenge. One such measure is the use of thermal storage for heating, ventilation, and air-conditioning applications in commercial buildings. There is a gap of adequate knowledge of an optimal control strategy of cold storage operation in buildings adapting to applicable time of day tariffs to minimize annual energy use and annual energy cost of operation. There is also a need to use commercially available tools to avoid the use of complex mathematical models. This study demonstrates strategic controls with six operating modes for using thermal energy storage to shift peak electricity demand, using the time of day tariffs as a decision variable, and reducing operating costs, while also minimizing the size of the system. EnergyPlus was used to model a standard reference large office building for three thermal energy storage system cases: mixed chilled water storage, stratified chilled water storage, and ice storage. An annual average shifting of 25–78% of peak electricity was achieved from the simulation results. The strategy was able to achieve an annual 10–17% cost reduction for consumers using the time of use rates available from a local utility."
+}

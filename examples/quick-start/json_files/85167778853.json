@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85167778853,
+    "Title": "Learning Residual Dynamics via Physics-Augmented Neural Networks: Application to Vapor Compression Cycles",
+    "Author": "Chinchilla R.",
+    "Journal": "Proceedings of the American Control Conference",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.23919/ACC55779.2023.10155954",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, Santa Barbara",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "In order to improve the control performance of vapor compression cycles (VCCs), it is often necessary to construct accurate dynamical models of the underlying thermo-fluid dynamics. These dynamics are represented by complex mathematical models that are composed of large systems of nonlinear and numerically stiff differential algebraic equations (DAEs). The effects of nonlinearity and stiffness may be ameliorated by using physics-based models to describe characteristic system behaviors, and approximating the residual (unmodeled) dynamics using neural networks. In these so-called 'physics-augmented' or 'physics-informed' machine learning approaches, the learning problem is often solved by jointly estimating parameters of the physics component model and weights of the network. Furthermore, such approaches also often assume the availability of full-state information, which typically are not available in practice for energy systems such as VCCs after deployment. Rather than concurrently performing state/parameter estimation and network training, which often leads to numerical instabilities, we propose a framework for decoupling the network training from the joint state/parameter estimation problem by employing state-constrained Kalman smoothers customized for VCC applications. We show the effectiveness of our proposed framework on a Julia-based, high-fidelity simulation environment calibrated to a model of a commercially-available VCC and achieve an accuracy of 98% calculated over 24 states and multiple initial conditions under realistic operating conditions."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078664953,
+    "Title": "Indoor environmental quality analysis for optimizing energy consumptions varying air ventilation rates",
+    "Author": "Mancini F.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/su12020482",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 28,
+    "Abstract": "The energy refurbishment of the existing building heritage is one of the pillars of Italian energy policy. Aiming for energy efficiency and energy saving in end uses, there are wide and diversified improvement strategies, which include interventions on the building envelope and Heating, Ventilation, and Air Conditioning (HVAC) systems, with the introduction of renewable energy sources. The research aims at evaluating the building energy consumptions and Indoor Environmental Quality (IEQ), varying the airflow rates handled by the HVAC system. A Case Study (the Aula Magna of a university building) is analysed; an in-situ monitoring campaign was carried out to evaluate the trend of some environmental parameters that are considered to be significant when varying the external airflow rates handled by the HVAC system. Additionally, dynamic simulations were carried out, with the aim of evaluating the energy savings coming from the airflow rates reduction. The results of this case study highlight the opportunity to achieve significant energy savings, with only slight variations in IEQ; a 50% reduction in airflow rate would decrease energy consumption by up to 45.2%, while increasing the carbon dioxide concentration from 545 ppm to 655 ppm, while the Particulate Matter and Total Volatile Organic Compounds increase is insignificant."
+}

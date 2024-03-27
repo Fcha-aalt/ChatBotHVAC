@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182771450,
+    "Title": "Energy-Saving Practice of Variable Frequency Drive Technology in Data Center HVAC System",
+    "Author": "Ai C.",
+    "Journal": "2023 5th International Conference on Power and Energy Technology, ICPET 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICPET59380.2023.10367206",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kunming University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "The variable-frequency drive technology (VFD) can modify the motor speed or torque by varying the frequency and voltage of the AC motor input power according to the load demand as a way to save energy. To analyse the energy saving effect of variable-frequency drive technology applied to data centre heating, ventilation, and air conditioning (HVAC) systems, this paper applies VFD technology to data centre fluorine pump-compressor composite air conditioning systems, implements monitoring and analysis of the operational energy efficiency of this system before and after retrofit, and combines the actual application of this technology. The findings indicate that the VFD technology can substantially reduce the number of compressor starts and stops, reduce the compressor start-up inrush current, and improve the power system's stability. Furthermore, utilising this technology, the HVAC system can effectively synchronise with the load and fluctuations in outdoor temperature and humidity, resulting in accurate temperature regulation and optimal utilisation of outdoor cooling resources. This approach can lead to significant energy conservation of up to 42.95% when compared to extreme hot and cold weather conditions. The findings of the study indicate that the utilisation of VFD technology exhibits commendable adaptability and yields favourable outcomes in regions with varying temperature ranges. The minimum PUE value recorded was 1.228."
+}

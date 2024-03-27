@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85010806738,
+    "Title": "Energy Retrofit of a Historic Building Using Simplified Dynamic Energy Modeling",
+    "Author": "Mancini F.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2016-11-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.egypro.2016.11.152",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 27,
+    "Abstract": "Energy retro-commissioning of historical buildings is an important challenge that implies both historic-artistic and technological aspects concerning the improvement in energy efficiency and comfort. A critical analysis of each possibility is essential in order to preserve the balance between efficiency and architecture. The research focuses on a historical building owned by ANCE (Associazione Nazionale Costruttori Edili), situated in Rome in the Nomentano district. Retrofitting hypothesis were made in order to improve HVAC systems, building's envelope and building's management, always respecting its architectural features. An energy audit has been done in order to evaluate the possibilities. The first step of the study consisted of a measure campaign conducted by Avvenia to know more about the actual use of the building. Next, a dynamic simplified energy modeling of the building has been built using the software Archi Energy. This allowed to preview the effect of modifications on the HVAC and envelope systems. Although starting from an original medium energy performance, simulations showed that it would be possible to reach a further reduction of energy needs by making simple changes in the management/controls domain and, with higher costs, by upgrading envelope components. This study shows that a correct approach can lead to both relevant energetic results and the conservation of architectural characteristics of historical buildings."
+}

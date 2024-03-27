@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102000864,
+    "Title": "Residential net-zero energy buildings: Review and perspective",
+    "Author": "Wei W.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2021-05-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.rser.2021.110859",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 142,
+    "Abstract": "Advancements in residential net-zero energy buildings (NZEBs) could significantly reduce energy consumption and greenhouse gas emissions. NZEB design considerations broadly categorize into energy infrastructure connections, renewable energy sources, and energy-efficiency measures. There is a lack of systematic literature review focused on recent progress in residential NZEBs. Therefore, this work provides an overview of each category including recent developments (last ≈ 10 years), aiming to provide references and support of wider and more successful implementation of residential NZEBs throughout the globe. The discussed energy infrastructure connections include electrical grids, district heating/cooling networks, and energy storage options including vehicle-to-home and hydrogen storage. Renewable energy sources considered here are solar photovoltaic and solar thermal, wind, and biomass including micro combined heat and power (CHP) systems. The final category detailed is energy-efficiency measures, which include improved building envelope designs, efficient HVAC systems, efficient domestic hot water systems, and phase change material integration. Within these categories there are many technology options, which makes selecting the ‘best’ configuration more difficult but allows design flexibility to adapt to local climates and other considerations (i.e. building codes, energy resources, costs). This paper provides references and highlights technology options to achieve residential NZEBs throughout the world."
+}

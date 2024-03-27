@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84997719956,
+    "Title": "Structural observability analysis and EKF based parameter estimation of building heating models",
+    "Author": "Perera D.",
+    "Journal": "Modeling, Identification and Control",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.4173/mic.2016.3.3",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of South-Eastern Norway",
+    "Affliation Country": "Norway",
+    "Cited by count": 3,
+    "Abstract": "Research for enhanced energy-efficient buildings has been given much recognition in the recent years owing to their high energy consumptions. Increasing energy needs can be precisely controlled by practicing advanced controllers for building Heating, Ventilation, and Air-Conditioning (HVAC) systems. Advanced controllers require a mathematical building heating model to operate, and these models need to be accurate and computationally efficient. One main concern associated with such models is the accurate estimation of the unknown model parameters. This paper presents the feasibility of implementing a simplified building heating model and the computation of physical parameters using an off-line approach. Structural observability analysis is conducted using graph-theoretic techniques to analyze the observability of the developed system model. Then Extended Kalman Filter (EKF) algorithm is utilized for parameter estimates using the real measurements of a single-zone building. The simulation-based results confirm that even with a simple model, the EKF follows the state variables accurately. The predicted parameters vary depending on the inputs and disturbances."
+}

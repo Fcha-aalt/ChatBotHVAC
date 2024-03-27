@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076318178,
+    "Title": "Architecture for Automation System Metrics Collection, Visualization and Data Engineering - HAMK Sheet Metal Center Building Automation Case Study",
+    "Author": "Dang K.",
+    "Journal": "Open Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1515/eng-2019-0065",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hämeen ammattikorkeakoulu",
+    "Affliation Country": "Finland",
+    "Cited by count": 1,
+    "Abstract": "Ever growing building energy consumption requires advanced automation and monitoring solutions in order to improve building energy efficiency. Furthermore, aggregation of building automation data, similarly to industrial scenarios allows for condition monitoring and fault diagnostics of the Heating, Ventilations and Air Conditioning (HVAC) system. For existing buildings, the commissioned SCADA solutions provide historical trends, alarms management and setpoint curve adjustments, which are essential features for facility management personnel. The development in Internet of Things (IoT) and Industry 4.0, as well as software microservices enables higher system integration, data analytics and rich visualization to be integrated into the existing infrastructure. This paper presents the implementation of a technology stack, which can be used as a framework for improving existing and new building automation systems by increasing interconnection and integrating data analytics solutions. The implementation solution is realized and evaluated for a nearly zero energy building, as a case study."
+}

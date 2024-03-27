@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099000172,
+    "Title": "IoT-Based HVAC Monitoring System for Smart Factory",
+    "Author": "Islam F.B.",
+    "Journal": "International Conference on ICT Convergence",
+    "Publication Date": {
+        "$date": "2020-10-21T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICTC49870.2020.9289249",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "It Convergence Engineering Kumoh National Institute of Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 9,
+    "Abstract": "This paper presents an Internet of Things (IoT) Based HVAC monitoring platform for smart factory. A system model of energy-efficient Heating, Ventilation and Air Conditioning (HVAC) management in smart factory, which is useful for monitoring, controlling and saving energy. The hardware implementation was done using prototype built with Raspberry pi model B, temperature sensor, humidity sensor, current sensor and Micro-controller to gather and monitor data related to the HVAC for a typical smart factory. The system can collect local/raw data needed for the analysis using an off-the-shelf Big data analytics software. MATLAB pattern recognition toolbox was used to test, train and vaildate the behaviour of data collected and processed using R programming software. The paper presents a promising insights into the combined usage of IoT technologies, Big data analytics and neural network to solve future generation smart factory problems of HVAC management"
+}

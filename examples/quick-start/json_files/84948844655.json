@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84948844655,
+    "Title": "Quantification of flexibility in buildings by cost curves - Methodology and application",
+    "Author": "De Coninck R.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2016-01-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.apenergy.2015.10.114",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "KU Leuven",
+    "Affliation Country": "Belgium",
+    "Cited by count": 144,
+    "Abstract": "The smart grid paradigm implies flexible demand and energy storage in order to cope with the variability of renewable energy sources. Buildings are often put forward as a potential supplier of flexibility services through demand side management (DSM) and distributed energy storage, partly as thermal energy. This paper presents a bottom-up approach for the quantification of this flexibility service. Cost curves are computed from the solution of optimal control problems with low-order models. These curves show the amount of flexibility and their associated cost. The method is generic and can be applied to heating, ventilation and air-conditioning (HVAC) services, thermal energy storage (TES) and local electricity production. A case study is performed on a monitored office building in Brussels, Belgium. The results reveal a large variation in both flexibility and cost depending on time, weather, utility rates, building use and comfort requirements. The study shows that for the studied day, flexibility is not for free. The mean flexibility cost has the same order of magnitude as the imbalance price in the Belgian power system."
+}

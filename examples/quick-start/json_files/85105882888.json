@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105882888,
+    "Title": "A Comprehensive Review of Auto-Reclosing Schemes in AC, DC, and Hybrid (AC/DC) Transmission Lines",
+    "Author": "Mehdi A.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACCESS.2021.3077938",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SKKU College of Information and Communication Engineering",
+    "Affliation Country": "South Korea",
+    "Cited by count": 13,
+    "Abstract": "The integration of distributed generators has changed the paradigm of modern power transmission systems. To cope with energy demands, electrical networks emphasize the efficient utilization of power transmission. Thus, high-voltage DC (HVDC) and hybrid (AC/DC) transmission systems are also getting attention owing to their high efficiency in addition to the widely adopted high-voltage AC (HVAC) systems. Most faults in the bulk of transmission lines are temporary or intermittent. Auto-reclosing schemes can be used to prevent these faults. However, conventional auto-reclosing schemes based on constant dead time cannot recognize the fault nature within the assigned duration. Consequently, the accuracy of power grids can be compromised. Therefore, adaptive auto-reclosing schemes are convenient for overcoming the issues caused by the rapid restoration of faulty power lines. This can enhance system reliability and avoid power failures and blackouts. This study is based on a systematic, detailed, and thorough research review of the existing auto-reclosing schemes in all three power transmission lines, i.e., AC, DC, and hybrid (AC/DC). Subsequently, a critical analysis has been performed to assess the pros and cons of each existing adaptive auto-reclosing scheme. Finally, future recommendations are presented to improve adaptive auto-reclosing schemes in each medium."
+}

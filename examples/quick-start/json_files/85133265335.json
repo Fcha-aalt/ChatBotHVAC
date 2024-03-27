@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133265335,
+    "Title": "Artificially roughened solar air heating technology – A comprehensive review",
+    "Author": "Khimsuriya Y.D.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.applthermaleng.2022.118817",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gujarat Power Engineering and Research Institute",
+    "Affliation Country": "India",
+    "Cited by count": 25,
+    "Abstract": "For various heating applications like space heating, timber seasoning, food drying, HVAC processes, water desalination processes, etc., where a low to medium heating source is required, the solar air heater is the most promising device to supply the appropriate heated working fluid with least possible cost of heating processes. Over the years, the improvement in the performance of the SHAs has become a fascinating area of research. The thermal efficiency of SAH is low because the boundary layer generation on the absorber plate causes resistance to heat transmission. Artificial roughness is the most efficient technique to break the laminar boundary layer, hence improving heat transmission. In this paper, various artificial roughness geometries used by various researchers have been reported. Based on the correlations and optimum parameters for the respective roughness provided by the respective authors, Nu, f, and thermohydraulic performance parameter have been calculated for the eleven roughness geometries using Microsoft excel 2021, and a comparison has been made to opt for the best roughness among them. At Re = 24,000, internal conical ring obstacles with impinging jets give the highest Nu compared to other roughness geometries; which has Nu 4.89 times higher than the smooth SAH. Similarly, at Re = 24,000, f for discrete reverse NACA 0040 profile roughness has been found to have the lowest value of f compared to the other roughness geometries, and it has f as 1.32 times higher compared to the smooth SAH. Thermohydraulic performance parameter (η) was found highest for perforated conical disc inserts with helical corrugations roughness at Re<16000 and lowest for perforated delta roughness at Re>16000. The thermohydraulic performance parameter (η) has a maximum value of 2.440 for a hybrid broken arc with staggered ribs roughness at Re = 24,000. It has been noted that tremendous numerical and experimental work has been reported in the literature. In this study, key findings are discussed, the influence of the various roughness parameters on heat transmission and pressure drop are summarized, and recommendations are also provided for future research."
+}

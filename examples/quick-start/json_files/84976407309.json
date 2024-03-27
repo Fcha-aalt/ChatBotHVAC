@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84976407309,
+    "Title": "Decentralized optimal control of variable speed parallel-connected pumps",
+    "Author": "Dai Y.",
+    "Journal": "14th International Conference of IBPSA - Building Simulation 2015, BS 2015, Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "This paper introduces a novel idea of decentralized method for the optimal control of variable speed parallel-connected pumps (VSPs) in Heating, Ventilation and Air Conditioning (HVAC) systems. In this decentralized control system, each VSP, which is equipped with a decentralized controller embedded with identical control algorithm, becomes a smart pump and could communicate with each other to work collaboratively to meet the control requirements and to be energy efficient. A decentralized optimal control algorithm is developed and validated through simulation by different cases, and further demonstrated through hardware application. Compared with the traditional centralized control method, this decentralized control method is much more flexible and more efficient."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063392148,
+    "Title": "Sensitivity Analysis of Infiltration Rates Impact on Office Building Energy Performance",
+    "Author": "Tian Z.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-03-04T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/238/1/012019",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Soochow University",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "Modeling and predicting building infiltration impact on building energy performance presents a challenge. This paper analyses the modeling method of infiltration rates in different simulation programs. Field blower door test results of building infiltration rates are compared and summarized. Based on literature simulation and field study data, this research analyses the building infiltration rates on the office building HVAC energy use under various climate conditions. Suggested and preferred infiltration rates under various climates are listed."
+}

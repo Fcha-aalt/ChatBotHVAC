@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064460998,
+    "Title": "Modeling and fault diagnosis design for HVAC systems using recurrent neural networks",
+    "Author": "Shahnazari H.",
+    "Journal": "Computers and Chemical Engineering",
+    "Publication Date": {
+        "$date": "2019-07-12T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.compchemeng.2019.04.011",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "McMaster University, Faculty of Engineering",
+    "Affliation Country": "Canada",
+    "Cited by count": 79,
+    "Abstract": "In this work, we develop models and a fault detection and isolation (FDI) methodology for heating, ventilation and air conditioning (HVAC) systems that utilizes recurrent neural networks (RNN). The FDI design does not require the existence of plant fault history, mechanistic models or a set of expert rules to isolate faults. The key is to first use plant data to build predictive models and input/output estimators, and then embed them within FDI filters. A distributed FDI framework is designed consisting of local FDI (LFDI) schemes that communicate with each other for improved FDI. The distributed FDI framework enables diagnosis of multiple faults in different components of the HVAC system when a fault in one of the control components directly affects the other subsystems. The effectiveness of the proposed FDI scheme is shown via simulation examples on a simulation test bed, as well as using real data. The simulations revealed superior performance of the proposed FDI methodology over FDI approaches using subspace based models for both simulation and real data cases."
+}

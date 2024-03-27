@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182928633,
+    "Title": "Safe4Rail-3: Advanced safety architecture and components for Next Generation Train Control and Monitoring System in Railways",
+    "Author": "Abuteir M.",
+    "Journal": "Transportation Research Procedia",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.trpro.2023.11.789",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "TTTech Computertechnik AG",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "The Train Control and Monitoring System (TCMS) is considered the brain and the communications backbone of the train with an important role on vehicle performances. The Next Generation TCMS (NG-TCMS) aims to overcome the embedded limitations of the existing TCMS concepts and standards from the 1990s to increase the capacity, trustworthiness, reliability, while reducing the Life Cycle Costs of trains. This paper presents an overview of the Safe4Rail-3 project activities and expected contributions to the development of the NG-TCMS, including device development and antenna simulations."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85165973740,
+    "Title": "Chiller load prediction based on CEEMDAN-BiLSTM-Attention model for sufficient data and small sample data cases",
+    "Author": "Zhang X.",
+    "Journal": "Proceedings of 2023 IEEE 12th Data Driven Control and Learning Systems Conference, DDCLS 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/DDCLS58216.2023.10166047",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Wuhan University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Maintaining indoor thermal comfort with heating, ventilation, and air conditioning (HVAC) systems requires a significant amount of energy, with chillers accounting for over 50% of the total. Therefore, a technical path based on chiller load prediction is essential to achieve low energy operation of air conditioning systems in buildings. Many machine learning methods have been widely used for load prediction, but for new buildings, there is still a lack of data to support model training for HVAC chiller load prediction. To address the above load prediction problems, this paper proposes the CEEMDAN-BiLSTM-Attention method for improving chiller load prediction accuracy. The final experimental findings are contrasted with the traditional prediction models like CNN, LSTM and hybrid models (CNN-LSTM, CNN-BiLSTM) and so on. Meanwhile, as for the case of small data samples, this paper builds two migration models CNN-LSTM-TL and CNN-BiLSTM-TL for the comparison. The results demonstrate that the CEEMDAN-BiLSTM-Attention model outperforms the other models in predicting chiller load for both buildings with sufficient data and buildings with small sample data."
+}

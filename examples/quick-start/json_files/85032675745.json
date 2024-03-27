@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032675745,
+    "Title": "A method to identify dynamic zones for efficient control of HVAC systems",
+    "Author": "Kumar V.",
+    "Journal": "Proceedings - IEEE International Symposium on Circuits and Systems",
+    "Publication Date": {
+        "$date": "2017-09-25T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ISCAS.2017.8050507",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Samsung RandD Institute",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "Energy Management System (EMS) in Smart Buildings is responsible for providing thermal comfort to its occupants in an energy efficient manner. To achieve this, the EMS usually divides the floor of a building into multiple zones with predefined static boundaries. Next, it derives the optimal Heating Ventilation and Air Conditioning (HVAC) control parameters based on the average environmental characteristics (e.g. average temperature, humidity and occupancy) for each zone. Because the HVAC acts based on the average conditions in a zone, static zones can display considerable variation within their boundaries from the desired ambient conditions. A more adaptive approach is therefore called for in order to reduce deviations from desired ambient conditions. In this paper, we propose a graph theoretic region growing approach to dynamically identify zones with similar ambient conditions. The boundary of these dynamic zones can be adapted continuously as the environmental conditions change. In this manner, the HVAC parameters can be adapted to zones with smaller variations, thereby achieving the desired ambient conditions across the floor with higher accuracy. The efficacy of the proposed approach is demonstrated for a single floor in a building using real time data collected from various sensors (humidity and temperature) and occupancy. Finally, dynamic zone information can be used to save energy. Simulation results indicate considerable energy savings."
+}

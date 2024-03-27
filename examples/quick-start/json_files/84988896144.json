@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84988896144,
+    "Title": "Activity Detection in Smart Home Environment",
+    "Author": "Skocir P.",
+    "Journal": "Procedia Computer Science",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.procs.2016.08.249",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+    "Affliation Country": "Croatia",
+    "Cited by count": 38,
+    "Abstract": "Detection of human activities is a set of techniques that can be used in wide range of applications, including smart homes and healthcare. In this paper we focus on activity detection in a smart home environment, more specifically on detecting entrances to a room and exits from a room in a home or office space. This information can be used in applications that control HVAC (heating, ventilation, and air conditioning) and lighting systems, or in Ambient Assisted Living (AAL) applications which monitor the people's wellbeing. In our approach we use data from two simple sensors, passive infrared sensor (PIR) which monitors presence and hall effect sensor which monitors whether the door is opened or closed. This installation is non-intrusive and quite simple because the sensor node to which sensors are connected is battery powered, and no additional work to ensure power supply needs to be performed. Two approaches for activity detection are proposed, first based on a sliding window, and the other based on artificial neural network (ANN). The algorithms are tested on a dataset collected in our laboratory environment."
+}

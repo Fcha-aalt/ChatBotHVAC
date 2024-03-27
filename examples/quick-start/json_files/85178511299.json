@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178511299,
+    "Title": "Enhancing Building Energy Efficiency Through Its Windows",
+    "Author": "Nguyen D.H.",
+    "Journal": "2023 10th International Conference on Power and Energy Systems Engineering, CPESE 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/CPESE59653.2023.10303083",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kyushu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 1,
+    "Abstract": "This paper investigates the problem of enhancing the energy efficiency of buildings which eventually contributes to the carbon neutrality and sustainability. To achieve that, two strategies are proposed based on the exploitation of the functioning of building windows for thermal losses prevention and renewable power generation. More specifically, the first strategy proposes an integrated control scheme for lighting and heating, ventilation, and air conditioning (HVAC) systems under controllable blinds or curtains. Numerical simulations and calculations are then carried out to show the effectiveness of this strategy. Next, in the second strategy, it is proposed to employ the so-called solar windows to obtain clean power generation via solar cells attached to building windows. A realistic experiment is performed for an office building, which reveals the viability of such solar power generation strategy."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085943535,
+    "Title": "Effects of combined central air conditioning diffusers and window-integrated ventilation system on indoor air quality and thermal comfort in an office",
+    "Author": "Park D.Y.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.scs.2020.102292",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Advanced Institute of Science and Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 35,
+    "Abstract": "Despite the advantages of building enclosure systems for improving ventilation efficiency and reducing energy consumption, there is a large difference in performance from the central heating, ventilating, and air-conditioning (HVAC) system. This study investigated the performance of a smart window-integrated ventilation (SWV) system in conjunction with a centralized HVAC system for enhancing indoor air quality (IAQ) and thermal comfort in a typical single-occupancy office. To evaluate the performance of two coupled systems, IAQ and thermal comfort in an office were analyzed for satisfying seasonally optimal ventilation scenarios using computational fluid dynamics simulations. A set of scenarios for case study was determined by outdoor temperature, supply airflow rate and temperature, and operation strategy of the two systems. Numerical results showed that using the SWV system as an aid to the HVAC system was more effective in winter than in summer for improving IAQ and thermal comfort. Only in the summer, the SWV led to poor IAQ. In spring and autumn, there were scenarios in which the SWV system performed similar to the HVAC system. Therefore, depending on indoor and outdoor conditions, the SWV system can be a good choice as an auxiliary means of the HVAC system or for single operation."
+}

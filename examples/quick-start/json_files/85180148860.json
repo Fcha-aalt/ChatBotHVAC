@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85180148860,
+    "Title": "Comparison of two deep reinforcement learning algorithms towards an optimal policy for smart building thermal control",
+    "Author": "Silvestri A.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1088/1742-6596/2600/7/072011",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "ETH Zürich",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 0,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems are the main providers of occupant comfort, and at the same time, they represent a significant source of energy consumption. Improving their efficiency is essential for reducing the environmental impact of buildings. However, traditional rule-based and model-based strategies are often inefficient in real-world applications due to the complex building thermal dynamics and the influence of heterogeneous disturbances, such as unpredictable occupant behavior. In order to address this issue, the performance of two state-of-the-art model-free Deep Reinforcement Learning (DRL) algorithms, Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC), has been compared when the percentage valve opening is managed in a thermally activated building system, modeled in a simulated environment from data collected in an existing office building in Switzerland. Results show that PPO reduced energy costs by 18% and decreased temperature violations by 33%, while SAC achieved a 14% reduction in energy costs and 64% fewer temperature violations compared to the onsite Rule-Based Controller (RBC)."
+}

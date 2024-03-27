@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160544924,
+    "Title": "Technologies for a Diagnostic Technique for HVAC Systems Using IoT and Cloud-Based Architecture",
+    "Author": "Ivanovic N.",
+    "Journal": "2023 International Interdisciplinary PhD Workshop, IIPhDW 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/IIPhDW54739.2023.10124398",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universität Rostock",
+    "Affliation Country": "Germany",
+    "Cited by count": 1,
+    "Abstract": "Optimizing the energy efficiency in Heating, Ventilation, and Air Conditioning (HVAC) systems is becoming increasingly important as costs rise and the environment needs to be protected. Existing plants are often not adequately digitized to identify unnecessary excess consumption. The overall goal of the project described in this work is the development of an Internet of Things (IoT)-based diagnostic technique for those systems. Our intended system will allow the evaluation of the performance of HVAC systems with as few additional measurement points as possible. The main contributions of this paper are (a) a comparison of different cloud providers, (b) a description of the architecture of the system, and (c) an initial evaluation of the value added to the case study enterprise by the system in use."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151525159,
+    "Title": "Coupling of neural models for predicting indoor temperatures and heating loads in buildings",
+    "Author": "Delcroix B.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.30290",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Hydro-Québec",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Building energy models are critical to forecast the energy use and to improve the operations of HVAC systems. However, these models are building-specific, and their development is tedious, error-prone and time-consuming. Compared to traditional white-box and grey-box models, black-box models need less development time and no information about the building properties, and only rely on collected data. In this work, a model coupling two neural networks is developed and used to simulate the building energy behaviour: both networks predict successively the indoor temperatures and heating loads of each room. The model is trained, validated and compared to experimental data obtained for seven houses in Canada heated by electric baseboards controlled by connected thermostats (on average, ten thermostats per house). For simulations with a time horizon of two days and a time-step of one hour, errors are promising, especially in winter where root mean square errors are up to 0.29 °C for indoor temperatures and 1050 Wh for heating loads. In summer, errors are higher due to the free-floating nature of simulations, with root mean square errors up to 1.09 °C for indoor temperatures and 139 Wh for heating loads."
+}

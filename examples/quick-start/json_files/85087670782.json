@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087670782,
+    "Title": "Optimization of a building energy performance by a multi-objective optimization, using sustainable energy combinations",
+    "Author": "Li X.",
+    "Journal": "Evolving Systems",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/s12530-020-09350-5",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Yulin University",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "Nowadays the application of the sustainable resources (SERs) of the energy and significant role of the building sector due to environmental effects is notable. Therefore, finding the optimum combination of SERs is an important target to be noticed by the designers to achieve sustainable buildings. Regarding the energy consumption for local warm-water, electrical appliances, and to cool and heat the building space, a new method is suggested in this study to design the optimized combination of the sustainable energy systems to unify the building energy demand. Minimization of the two objectives including the initial energy request and the investment expense is considered as the multi-criteria optimization. Also, to find the expense-optimum solution, the universal expense has been studied. Furthermore, a limitation of achieving the SER combination’s minimum amount in line with the Albanian laws is regarded. The Grass Fibrous Root Optimization algorithm is applied as the optimization process using MATLAB® and DesignBuilder simulation software. Because the solutions should adhere to the lowest SER combination’s levels recommended through present regulations, a limitation is studied, too. A regular residential case of Tirana, in Albania, is chosen to be investigated by using the proposed methodology and regarding the present laws related to the efficiency of the energy. SER systems include heat pumps (HPs), PV panels, thermal solar energy systems. It has resulted that, the initial energy demand saves up to 29.5 kWh/m2 a and the universal expense up to 78,850 € as provided by the methodology comparing a building composition not considering the SERs. Aiming at sustainable development, the proposed methodology can be useful regarding two aspects including economic profits for the holders and the environmental advantages."
+}

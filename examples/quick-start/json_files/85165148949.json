@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85165148949,
+    "Title": "Cost-optimal analysis of energy efficient hvac solution-sets for low-energy apartment buildings",
+    "Author": "Gibbons L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-09-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113332",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lunds Universitet",
+    "Affliation Country": "Sweden",
+    "Cited by count": 1,
+    "Abstract": "Numerous cost-optimal studies have been undertaken by EU member states to define minimum energy performance requirements for buildings within that member state in accordance with the Energy Performance of Buildings Directive. As few of these studies have examined the effect of heating and ventilation system parameters on life cycle cost (LCC) and energy use in detail, this paper analysed 84 HVAC solution-sets, including parameters for the heating supply system, heating distribution system and ventilation system, for a case study in Norway. The choice of heating supply system was the dominant parameter, with ground source heat pump solutions offering the lowest purchased energy use and LCC. Electric water heating and district heating systems had low capital costs which make these options more attractive to property developers looking for a good return on investment. Using an exhaust ventilation system with an exhaust air heat pump lowered LCC and capital costs for ground source heat pump and district heating systems but does not meet current Norwegian energy regulations. Despite using more energy, a constant setpoint schedule resulted in a lower LCC than a variable setpoint system due to the variation in hourly energy pricing and the dominant role of monthly pricing based on peak load. The choice of yearly heating strategy and heat emitter had a relatively small impact on energy use, capital cost and LCC. With all the parameters combined, there was variation within each heating system of up to 21 kWh/(m2∙year) in energy use, 78 Euro/m2 in capital cost and 236 Euro/m2 in LCC. Therefore, it is important that such system parameters are considered in cost-optimal assessments to give a fair comparison of HVAC systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058222932,
+    "Title": "Deep learning for free space optics in a data center environment",
+    "Author": "Darwesh L.",
+    "Journal": "Proceedings of SPIE - The International Society for Optical Engineering",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1117/12.2321025",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Ben-Gurion University of the Negev",
+    "Affliation Country": "Israel",
+    "Cited by count": 4,
+    "Abstract": "Over the last few years, there has been an exponential increase in the amount of communication network traffic, where the data center (DC) is a major building block of this network. However current DCs face various problems in the light of current demands, such as high power consumption, low scalability and low flexibility. It is necessary to build a new high speed data center which could support this exponential growth. One of the technologies that could scale up the performance of the data center is free space optical (FSO) communication. FSO communication could provide an adaptive, flexible and dynamic network that could meet the performance requirements of future DCs. However, no one has characterized the optical communication channel in DC. In DC there is an HVAC system that causes non-homogeneous changes in temperature and air velocity that can affect the performance of the optical signal. In this work, we demonstrate that by using deep learning algorithms for channel estimation and signal detection, without knowledge of the channel model, we can improve the signal detection and increase the performance of the optical communication in DC environment."
+}

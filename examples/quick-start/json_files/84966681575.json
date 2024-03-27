@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84966681575,
+    "Title": "Improving occupancy presence prediction via multi-label classification",
+    "Author": "Sangogboye F.C.",
+    "Journal": "2016 IEEE International Conference on Pervasive Computing and Communication Workshops, PerCom Workshops 2016",
+    "Publication Date": {
+        "$date": "2016-04-19T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/PERCOMW.2016.7457147",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Syddansk Universitet",
+    "Affliation Country": "Denmark",
+    "Cited by count": 23,
+    "Abstract": "Heating and cooling of commercial buildings accounts for a large proportion of worldwide energy consumption. There exists an opportunity to reduce energy waste by improving the scheduling of heating, ventilation, and air conditioning (HVAC) based on occupancy. However, to enable this potential, we require more accurate methods for predicting occupancy to deliver the required level of comfort when rooms are occupied. This paper examines the novel use of multi-label classification (MLC) for predicting occupancy of rooms based on data from motion sensors. Stating the occupancy prediction problem as an MLC problem enables the use of existing MLC algorithms and provides a solid foundation for evaluating the performance of the predictive models. Our implemented algorithms are benchmarked against an existing occupancy prediction technique (PreHeat) on a dataset from two commercial buildings. The results show that PreHeat and Support Vector Machine (SVM) outperforms other algorithms for rooms with high occupancy frequency. Other machine learning algorithms outperform PreHeat and SVM for rooms with low occupancy frequency. In total, SVM provides a more robust performance than other algorithms with a significantly higher count of highest prediction accuracy for observed scenarios. Our experimental results also highlight that prediction performance for commercial buildings depends more on occupancy frequency than occupancy rate, and the occupancy state before the prediction horizon. By presenting more accurate algorithms for occupancy prediction, we hope to foster the development of more energy-efficient HVAC scheduling systems to reduce overall energy consumption."
+}

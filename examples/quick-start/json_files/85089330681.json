@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089330681,
+    "Title": "Large-scale building thermal modeling based on artificial neural networks: Application to smart energy management",
+    "Author": "Rajaoarisoa L.",
+    "Journal": "Artificial Intelligence Techniques for a Scalable Energy Transition: Advanced Methods, Digital Technologies, Decision Support Tools, and Applications",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-42726-9_2",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Université de Lille",
+    "Affliation Country": "France",
+    "Cited by count": 7,
+    "Abstract": "This chapter focuses specifically on the development of a smart building energy management (SBEM) system. The system has two main goals: the first one is, by using an artificial neural network, to estimate and predict the thermal behavior of a large-scale building including instrumented and non-instrumented thermal zone. The second one consists, via a human graphical interface, in providing different advice to users to educate and attract them about energy reduction challenges. The originality of this chapter is close to the nature of the intervention of the system. It does not act directly on the HVAC building systems, as an automation system could realize, but on the USER. In other terms, it consists in inviting USER to have a good behavior to reduce energy consumption. So, by means of the student residential located in Douai in the North of the France, we validate the thermal behavior model developed and we also realize different factors analysis which may affect the energy consumption for optimization purposes. This leads in setting well the human interface to be sure that each user sticks to each advice in order to guarantee an efficient smart building energy management system design."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84991577445,
+    "Title": "Model-Based Predictive Control for building energy management. I: Energy modeling and optimal control",
+    "Author": "Salakij S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-12-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.09.044",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chulalongkorn University",
+    "Affliation Country": "Thailand",
+    "Cited by count": 71,
+    "Abstract": "The simultaneous heat and moisture transfer in the building envelope has an important influence on the indoor climate and the overall thermal performance of buildings. In this work, the development of a Building Energy Analysis Model (BEAM) predicting whole building heat and moisture transfer is presented. The coupled heat and moisture transfer model takes into account most of the main hygrothermal effects in buildings. The coupled system model is implemented in Matlab, and verified with EnergyPlus. Furthermore, BEAM is reduced via a physically based model order reduction to a lower order system model (Re-BEAM) to be easily integrated with a control algorithm. By utilizing Re-BEAM, a Model-Based Predictive Control (MBPC) method is developed to incorporate critical building information into control algorithms, such that the building energy consumption is minimized while comfort conditions are maintained. The resulting optimal setpoint schedule can be applied on any HVAC system. Simulation results of a building structure demonstrate the superiority in terms of energy and peak load reductions compared with traditional constant control methods and control methods that use a occupants-varying temperature schedule."
+}

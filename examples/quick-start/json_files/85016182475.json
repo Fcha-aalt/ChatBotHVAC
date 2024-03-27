@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016182475,
+    "Title": "Short-term temperature prediction in buildings using advanced data analysis techniques",
+    "Author": "Carrasco J.",
+    "Journal": "Engineering Intelligent Systems",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat de València",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "Reduction in energy consumption is of paramount importance due to the influence that it has on the economic, politics and on the use of natural resources. Within this field, energy efficiency in buildings sector constitutes one of the main concerns due to the fact that approximately 40% of total world energy consumption corresponds to this sector. Predicting the indoor temperature in advance can help to act more efficiently on Heating, Ventilation fans and Air Conditioning (HVAC) systems, and thus to reduce the consumption. This work tackles the application of machine learning methods to forecast indoor temperature in an office building, using several prediction horizons. The obtained results showed the validity of the used approximation."
+}

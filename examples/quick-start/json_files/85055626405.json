@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055626405,
+    "Title": "Real-time object detection system for building energy conservation: An IP camera based system",
+    "Author": "Chandrasiri A.P.",
+    "Journal": "Proceeding of the 34th Annual ARCOM Conference, ARCOM 2018",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Moratuwa",
+    "Affliation Country": "Sri Lanka",
+    "Cited by count": 2,
+    "Abstract": "In the contemporary world, there is a rapid introduction of automated and intelligent building systems. These technologies offer new and exciting opportunities to increase the connectivity of devices in built environments, particularly for energy conservation. Most of the developed building energy conservation systems are based on sensors, thus, the application of those systems is limited to small spaces due to maintainability issues. The reliability of these sensor-based systems is still argued as sensors are not capable enough for multi-person tracking and real-time object detection. Giving emphasis to these limitations, the current study introduces a realtime object detection, tracking and counting system for building energy conservation particularly, for HVAC and lighting based on IP CCTV cameras. An experimental research design was employed for the study. Initially, CCTV images from three objects: human heads, lighted vehicles, and non-lighted vehicles were collected from 12 offices. Subsequently, these objects were trained using the machine learning and the real-time object detection was performed using a Single Shot Detector model. The proposed system was developed using the Python programming language. The developed system comprised of three basic features namely, object detection, object tracking and counting, and HVAC and lighting control. This system enables real-time object classification for human heads, lighted vehicles, and non-lighted vehicles, therefore, reduces excessive energy consumed by air conditioning and lighting depending on the nature and movements of the objects. With the use of this system, facility managers can make built environments much comfortable for occupants while deducting excessive energy consumption and human effort taken to manage comfort levels of buildings."
+}

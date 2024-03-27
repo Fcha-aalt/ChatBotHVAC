@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84958629655,
+    "Title": "Equipment and energy usage in a large teaching hospital in Norway",
+    "Author": "Rohde T.",
+    "Journal": "Journal of Healthcare Engineering",
+    "Publication Date": {
+        "$date": "2015-08-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1260/2040-2295.6.3.419",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SINTEF Foundation for Scientific and Industrial Research",
+    "Affliation Country": "Norway",
+    "Cited by count": 23,
+    "Abstract": "This article presents a study of how equipment is used in a Norwegian University hospital and suggests ways to reduce hospital energy consumption. Analysis of energy data from Norway's newest teaching hospital showed that electricity consumption was up to 50 % of the whole-building energy consumption. Much of this is due to the increasing energy intensity of hospital-specific equipment. Measured power and reported usage patterns for equipment in the studied departments show daytime energy intensity of equipment at about 28.5 kBTU/ft2 per year (90 kWh/m2 per year), compared to building code standard value of only 14.9 kBTU/ft2 (47 kWh/m2 per year) for hospitals. This article intends to fill gaps in our understanding of how users and their equipment affect the energy balance in hospitals and suggests ways in which designers and equipment suppliers can help optimize energy performance while maintaining quality in the delivery of health services."
+}

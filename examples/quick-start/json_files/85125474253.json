@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125474253,
+    "Title": "An occupant-centric adaptive façade based on real-time and contactless glare and thermal discomfort estimation using deep learning algorithm",
+    "Author": "Wang Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-04-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.108907",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Ministry of Industry and Information Technology",
+    "Affliation Country": "China",
+    "Cited by count": 10,
+    "Abstract": "Individual comfort is one necessary dimension from which to evaluate the indoor visual and thermal environment. However, the study of real-time, noncontact measurements of personal thermal comfort and the corresponding control system is not comprehensive. This paper aims to propose a workflow to design an adaptive façade that considers occupants' glare and thermal discomfort. From 280 valid questionnaires, the correlation between 13 defined postures and glare and thermal discomfort was determined. A CNN (Convolutional Neural Network) is introduced to build a model to identify user behaviours. By taking the key point coordinates parsed by the OpenPose algorithm as input, the CNN-based model can recognize the 13 defined postures and a “Sitting” type. An adaptive façade control system is proposed based on the captured occupant postures and spatial position. Validation results from volunteers showed that the CNN-based model could recognize user postures and respond immediately. After training for 40 epochs using 1260 videos as the training set, a model with 0.121 cross-entropy loss on the validation set was selected, and its accuracy reached 91.67% in the test. The adaptive façade units and the HVAC system are dynamically adjusted based on the extracted discomfort states. The set opening factor changes in steps of 0.1, and the set temperature of the HVAC system changes in steps of 1 °C at 15 min intervals. This allows the potential to build a personalized visual and thermal environment, which helps to improve the visual and thermal comfort of occupants."
+}

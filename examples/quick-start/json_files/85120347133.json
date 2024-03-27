@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120347133,
+    "Title": "Chilled water temperature resetting using model-free reinforcement learning: Engineering application",
+    "Author": "Qiu S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2021.111694",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 18,
+    "Abstract": "Optimal operation of chillers could be realized by controlling chiller on–off status and resetting chilled water supply/return temperature. The chilled water supply temperature could influence both chiller power and indoor comfort simultaneously. Hence, it is necessary to optimize its set point. By combining the reinforcement learning (RL) technique and expertise knowledge, a hybrid model-free chilled water temperature resetting method for chillers is proposed, to improve the robustness and learning speed of RL control. The proposed method and the comparative expert manual control are applied to control an actual HVAC system in Shanghai. Engineering practice results suggest: (1) the energy-saving performance of the hybrid model-free method is close to that of expert manual control, with limited comfort sacrifice, acceptable robustness, learning speed and control stability; (2) without model establishing and persistent manual overwatch work, the proposed control method could conserve manual labor before and after the intervention of optimized control. Based on the engineering practice, a supplementary simulation study is conducted, which indicates: (1) the performance of the proposed method only takes one cooling season to converge; (2) the proposed hybrid method outperforms both pure RL-based control and pure rule-based control in the first training cooling season, while inferior to model predictive control; (3) the proposed method is an acceptable alternative for systems without sufficient data or certain equipment condition, due to its online self-learning mechanism and low pre-condition requirement on historical data and models."
+}

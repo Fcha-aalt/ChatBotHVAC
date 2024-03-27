@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84942470288,
+    "Title": "HVAC-aware occupancy scheduling",
+    "Author": "Lim B.P.",
+    "Journal": "Proceedings of the National Conference on Artificial Intelligence",
+    "Publication Date": {
+        "$date": "2015-06-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Australian National University",
+    "Affliation Country": "Australia",
+    "Cited by count": 6,
+    "Abstract": "Energy consumption in commercial and educational buildings is impacted by group activities such as meetings, workshops, classes and exams, and can be reduced by scheduling these activities to take place at times and locations that are favorable from an energy standpoint. This paper improves on the effectiveness of energy-aware room-booking and occupancy scheduling approaches, by allowing the scheduling decisions to rely on an explicit model of the building's occupancy-based HVAC control. The core component of our approach is a mixed-integer linear programming (MILP) model which optimally solves the joint occupancy scheduling and occupancy-based HVAC control problem. To scale up to realistic problem sizes, we embed this MILP model into a large neighbourhood search (LNS). We obtain substantial energy reduction in comparison with occupancy-based HVAC control using arbitrary schedules or using schedules obtained by existing heuristic energy-aware scheduling approaches."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141505399,
+    "Title": "Honeycomb: An open-source distributed system for smart buildings",
+    "Author": "Xing T.",
+    "Journal": "Patterns",
+    "Publication Date": {
+        "$date": "2022-11-11T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.patter.2022.100605",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing National Research Center for Information Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "Restricted by the hierarchical and centralized system architecture, smart buildings face challenges such as limited adaptability and robustness, single application functionalities, and complex configurations. To address the above shortcomings, we learn from the activity patterns of natural bee swarms and propose Honeycomb, an open-source smart-building solution with fully distributed architecture. Honeycomb is a robust, flexible smart-building solution without any central server or global leader. An asynchronous leaderless spanning tree-based communication pattern is developed to generate and maintain the communication topology of Honeycomb in real time. Benefiting from this communication pattern, Honeycomb has plug-and-play ability. Various distributed applications are designed for building operating tasks and are deployed in a real Honeycomb prototype. The prototype demonstrates significant energy efficiency improvement from the control of the heating, ventilation, and air conditioning (HVAC) system with video-based occupancy information. Feedback on our Honeycomb prototype through questionnaires of users shows high acceptance of the controlled indoor environment."
+}

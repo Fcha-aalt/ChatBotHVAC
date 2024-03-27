@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058645330,
+    "Title": "CASANET energy management system: A wireless sensors based solution for heaters control",
+    "Author": "Naji N.",
+    "Journal": "ACM International Conference Proceeding Series",
+    "Publication Date": {
+        "$date": "2018-10-18T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3289100.3289124",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Ecole Nationale des Sciences Appliquées de Kénitra",
+    "Affliation Country": "Morocco",
+    "Cited by count": 3,
+    "Abstract": "Energy Efficient Buildings (EEB) rely on Energy Management System (EMS) to optimize energy consumption, and on Information and Communication Technologies (ICT) to implement relevant energy policies. Data acquisition constitutes a major ICT component for EMS, and consists mostly on deploying appropriate Wireless Sensor Network (WSN). The acquired data is then processed to monitor building's loads and appliances. In this paper, we present an EMS solution developed in a real-world project (CASANET EMS) deployed at a university campus. At this stage of the project, CASANET EMS controls electrical heaters and is based on the classical control method. This control method takes as input several parameters to decide on the adequate timing for turning heaters On/Off. The CASANET EMS is shaped to fit educational, administrative, and residential buildings at the university campus."
+}

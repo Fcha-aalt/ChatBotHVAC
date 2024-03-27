@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84945258906,
+    "Title": "Status and development of electric vehicle integrated thermal management from BTM to HVAC",
+    "Author": "Zhang T.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2015-08-22T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.applthermaleng.2015.02.001",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Jilin University",
+    "Affliation Country": "China",
+    "Cited by count": 139,
+    "Abstract": "Currently, electric vehicle (EV) are facing unprecedented development opportunities under the support of national policy guidelines and local governments. There is a great potential to substitute EV for internal combustion engine vehicles in the future. However, the practical applications are facing with some essential issues need to be break through, such as battery performance deterioration in some extreme climate areas and driving conditions, heat pump (HP) lower efficiency and defrosting problems under cold temperature region, and vehicle-mounted energy complementation, etc. Therefore, investigations of electric vehicle thermal management (VTM) have gaining increasing attentions in China and other countries. This paper reviewed the status of electric vehicle thermal management worldwide, meanwhile, the basic proposal for further development in the field was presented. From battery thermal management (BTM) to heating ventilation air conditioning (HVAC), a coming work should aim at more research on basic problems, such as exploration of efficient and compact liquid heat exchanger, precise and synergy control of BTM, cold and hot impact phenomena and improving method, mechanism of thermal runaway, ignition and explosion and relative inhibition method, establishment of electric vehicle integrated thermal management system, low energy consumption and frosting inhibition of HP, reutilization of vehicle-mounted energy by PCM thermal storage, and experimental and simulation analysis method system. These explorations will strengthen theoretical and practical understanding and accelerate more extensive application of EV in different regional environment."
+}

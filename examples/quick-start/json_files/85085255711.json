@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085255711,
+    "Title": "Airflow Direction Control of Air Conditioners Using Deep Reinforcement Learning",
+    "Author": "Sakuma Y.",
+    "Journal": "Proceedings of 2020 SICE International Symposium on Control Systems, SICE ISCS 2020",
+    "Publication Date": {
+        "$date": "2020-03-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.23919/SICEISCS48470.2020.9083565",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Keio University",
+    "Affliation Country": "Japan",
+    "Cited by count": 9,
+    "Abstract": "Achieving a uniform comfort within an indoor housing environment is important for health and productivity while saving the energy consumption of a Heating, Ventilation, and Air Conditioners (HVAC) device. The optimal control of an HVAC system is a well-studied area. While many works explore the optimal temperature set-point, a few works consider effective airflow direction control. This work proposes an airflow direction control method that aims uniform comfort of the indoor environment using a deep reinforcement learning (DRL) approach. We implemented our proposed DRL framework using computational fluid dynamics (CFD) simulation software. Our proposed method was evaluated for comfort and energy consumption. The experimental results show the improvements for our proposed method in comfort by 21.3 % while reducing energy consumption by 34.5 % for the average than the baseline method."
+}

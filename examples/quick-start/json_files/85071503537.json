@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071503537,
+    "Title": "Development and field evaluation of data-driven whole building fault detection and diagnosis strategy",
+    "Author": "Chen Y.",
+    "Journal": "Proceedings of the Annual Conference of the Prognostics and Health Management Society, PHM",
+    "Publication Date": {
+        "$date": "2018-08-24T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Beijing University of Civil Engineering and Architecture",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Faults, i.e., malfunctioned sensors, components, control, and systems, in a building have significantly adverse impacts on the building's energy consumption and indoor environment. To date, extensive research has been conducted on the development of component level fault detection and diagnosis (FDD) for building systems, especially the Heating, Ventilating, and Air Conditioning (HVAC) system. However, for faults that have multi-system impacts, component level FDD tools may encounter high false alarm rate due to the fact that HVAC subsystems are often tightly coupled together. Hence, the detection and diagnosis of whole building faults is the focus of this study. Here, a whole building fault refers to a fault that occurs in one subsystem but triggers abnormalities in other subsystems and have significant adverse whole building energy impact. The wide adoption of building automation systems (BAS) and the development of machine learning techniques make it possible and cost-efficient to detect and diagnose whole building faults using data-driven methods. In this study, a whole building FDD strategy which adopts weather and schedule information based pattern matching (WPM) method and feature based Principal Component Analysis (FPCA) for fault detection, as well as Bayesian Networks (BNs) based method for fault diagnosis is developed. Fault tests are implemented in a real campus building. The collected data are used to evaluate the performance of the proposed whole building FDD strategies."
+}

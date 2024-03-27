@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130473289,
+    "Title": "Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning",
+    "Author": "Deng X.",
+    "Journal": "IEEE Internet of Things Journal",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/JIOT.2022.3175728",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "Building energy consumption accounts for a large figure of total energy consumption and keeps a rapid increase. Energy for heating, ventilation, and air conditioning (HVAC) is the main contribution. To save energy with maintaining comfort, control methods have been studied, including rule-based methods, model predictive control, and deep reinforcement learning (DRL). While their performance in real applications can be restricted by the highly nonstationary building environment caused by factors like weather conditions. Especially, for multizone HVAC control with multiple controllers, variation of the controller policy causes potential nonstationarity for each other. Current solutions to the nonstationarity based on model-based methods add complexity for building modeling and decrease the control efficiency. In addition, although massive data are available with the development of the Internet of Things (IoT) in smart buildings, high-level exploitation of data in the context-aware system is not yet explored to detect environment changes for smart building control. To this end, we propose a novel context-aware model-free DRL method called Trans-Context soft actor-critic (SAC) for multizone HVAC control, which combines a transformer-encoder-based context-aware system and the state-of-the-art DRL algorithm SAC. The context-aware system disentangles the nonstationarity by learning context data from IoT sensors. Besides, Trans-Context SAC is a model-free method without the need for building modeling. We evaluate Trans-Context SAC in a simulation-based case study on a multizone commercial building. Results demonstrate that Trans-Context SAC can achieve up to 15.9% of energy saving compared to other baselines with maintaining thermal comfort. Besides, Trans-Context SAC obtains the generalization for unseen environments."
+}

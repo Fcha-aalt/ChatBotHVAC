@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089232742,
+    "Title": "Pervasive and real-time Indoor Environmental Quality (IEQ) monitors",
+    "Author": "De Dear R.",
+    "Journal": "Proceedings - 9th International Windsor Conference 2016: Making Comfort Relevant",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Sydney",
+    "Affliation Country": "Australia",
+    "Cited by count": 2,
+    "Abstract": "The green buildings sector in Australia has, to date, focused primarily on energy efficiency. Other dimensions of building sustainability such as Indoor Environmental Quality (IEQ) are less well developed and certainly less well understood by the industry. With concern for occupant productivity burgeoning in recent years the green building spotlight is shifting onto IEQ as a key performance indicator. This paper describes a radically new approach to IEQ monitoring based on low-cost desk-based devices (SAMBA) that include sensors for thermal comfort (air and radiant temperatures, air speed and humidity), acoustics (SPL), lighting (lux) and air quality (CO2, CO, TVOC, Formaldehyde and PM10). Relatively modest unit-cost makes it feasible for SAMBAs to be installed in each HVAC zone of large office buildings. The SAMBA network architecture is a self-forming mesh that does not require access to the host organisation's ICT infrastructure. Observational data are relayed wirelessly to a gateway placed centrally within the building that transmits data through the public cellular network to the IEQ Laboratory's server every 15 minutes. Various IEQ indices and compliance metrics are calculated in real-time and presented on a web-based IEQ dashboard to which the building operator and any other interested parties (e.g. owner, tenant, occupants, public) have access. This new approach to pervasive and continuous performance monitoring ushers built environmental quality into the \"Internet of Things\" and opens up completely new IEQ field research opportunities."
+}

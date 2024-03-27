@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85093090015,
+    "Title": "Development and evaluation of occupancy-aware HVAC control for residential building energy efficiency and occupant comfort",
+    "Author": "Turley C.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-10-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13205396",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 30,
+    "Abstract": "Occupancy-aware heating, ventilation, and air conditioning (HVAC) control offers the opportunity to reduce energy use without sacrificing thermal comfort. Residential HVAC systems often use manually-adjusted or constant setpoint temperatures, which heat and cool the house regardless of whether it is needed. By incorporating occupancy-awareness into HVAC control, heating and cooling can be used for only those time periods it is needed. Yet, bringing this technology to fruition is dependent on accurately predicting occupancy. Non-probabilistic prediction models offer an opportunity to use collected occupancy data to predict future occupancy profiles. Smart devices, such as a connected thermostat, which already include occupancy sensors, can be used to provide a continually growing collection of data that can then be harnessed for short-term occupancy prediction by compiling and creating a binary occupancy prediction. Real occupancy data from six homes located in Colorado is analyzed and investigated using this occupancy prediction model. Results show that non-probabilistic occupancy models in combination with occupancy sensors can be combined to provide a hybrid HVAC control with savings on average of 5.0% and without degradation of thermal comfort. Model predictive control provides further opportunities, with the ability to adjust the relative importance between thermal comfort and energy savings to achieve savings between 1% and 13.3% depending on the relative weighting between thermal comfort and energy savings. In all cases, occupancy prediction allows the opportunity for a more intelligent and optimized strategy to residential HVAC control."
+}

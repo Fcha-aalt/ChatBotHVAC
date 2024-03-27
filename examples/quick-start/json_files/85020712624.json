@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85020712624,
+    "Title": "Using a Calibrated Building Energy Simulation Model to Study the Effects of Improving the Ventilation in a School",
+    "Author": "Bernardo H.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.04.044",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidade de Coimbra, Instituto de Engenharia de Sistemas E Computadores de Coimbra",
+    "Affliation Country": "Portugal",
+    "Cited by count": 10,
+    "Abstract": "This paper aims at presenting the development of a calibrated building energy simulation model of a school building to study the impact of improving the ventilation system on energy performance. The simulation model was developed with the DesignBuilder/Energyplus software and it was calibrated based on data collected during an energy audit to the school building. Schools need high outdoor airflow rates to remove indoor air contaminants related to occupants and building components, thus requiring mechanical ventilation systems. Due to budget restrictions, school managers decided to schedule the building management system to keep the HVAC systems active only between 6:00 am and 10:00 am. According to the values measured in this school, it was patent that the CO2 concentration was too high in certain periods. Too high peak values undermine the indoor air quality in the remaining occupancy time of the classroom, harming the work conditions for teachers and students. To solve this problem, an extended usage schedule of the mechanical ventilation was simulated (8:00 am to 5:00 pm) according to the required enhancement of indoor air quality, which together with the adoption of the new calculated fresh air flow rates will enhance air quality while avoiding excessive cost, thus increasing energy efficiency."
+}

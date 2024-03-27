@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85030240547,
+    "Title": "An integrated FDD system for HVAC&amp;R based on virtual sensors",
+    "Author": "Kim W.",
+    "Journal": "Fault Detection: Methods, Applications and Technology",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Pacific Northwest National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "According to the US Department of Energy, space heating, ventilation and air conditioning system account for 40% of residential primary energy use and for 30% of primary energy use in commercial buildings. A study released by the Energy Information Administration indicated that packaged air conditioners are widely used in 46% of all commercial buildings in the US This study indicates that the annual cooling energy consumption related to the packaged air conditioner is about 160 trillion Btus. Therefore, an automated FDD (Fault Detection and Diagnostics) system that can automatically detect and diagnose faults and evaluate fault impacts has the potential for improving energy efficiency along with reducing service costs and comfort complaints. The primary bottlenecks to diagnostic implementation in the field are the high initial costs of additional sensors. To prevent those limitations, virtual sensors with low cost measurements and simple models are developed to estimate quantities that would be expensive and or difficult to measure directly. The use of virtual sensors can reduce costs compared to the use of real sensors and provide additional information for economic assessment. The virtual sensor can be embedded in a permanently installed control or monitoring system and continuous monitoring potentially leads to early detection of faults. The virtual sensors of individual equipment components can be integrated to estimate overall diagnostic information using the output of each virtual sensor."
+}

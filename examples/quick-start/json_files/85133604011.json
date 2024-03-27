@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133604011,
+    "Title": "Hybrid Models for Indoor Temperature Prediction Using Long Short Term Memory Networks—Case Study Energy Center",
+    "Author": "Di Già S.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12070933",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Torino",
+    "Affliation Country": "Italy",
+    "Cited by count": 5,
+    "Abstract": "In the European Union States, household energy usage accounts on average for 40% of overall energy consumption and is responsible for a considerable amount of carbon dioxide emissions. The urgent need to take concrete action to identify solutions that can ensure more effective usage of energy in households, both because of environmental and political reasons, has been repeatedly stated by the European Parliament. White box, grey box and black box predictive models were demonstrated to be a feasible approach to predict the indoor temperature to implement an effective energy management strategy. This study has the purpose of illustrating the potentiality of an LSTM Artificial Neural Network in a short and long-term prediction of the indoor temperature in 15 offices distributed on three storeys of an existing building (Energy Center of Turin (Italy)). The indoor temperature was predicted two hours, five hours and one entire day ahead. The performance of these algorithms has been evaluated not only based on two main criteria (i.e., Root Mean Squared Error and Mean Absolute error) but also by considering the adaptability of the model between the three floors and in terms of different years. Moreover, the proposed work explains how parameters affect performances, aiming to properly identify the optimal model structure. Current results indicate that these models can provide accurate predictions for all the proposed time scales and could all potentially be used for predictive control purposes to optimise the energy demand. The novelty of this study is to show that these models can only be trained on data for a limited period and a specific plane, and then be reliable in predicting indoor temperature, both for different planes and for random periods, taking into account temperature and relative humidity. Furthermore, input parameters are limited to indoor HVAC variables, to ensure acceptable predictions regardless of outdoor parameters availability. The only exception is the outdoor temperature, because of its undeniable and proven importance, it was retained as the only exogenous input variable. Based on current literature and temperature perception capabilities, the results were considered acceptable if the RMSE was less than 0.15 or better yet 0.10, which is equivalent to an inaccuracy between the predicted and actual indoor temperature of 0.15◦ C/0.10◦ C. On average, the models trained on the Energy Center database achieved an error of 0.1◦ C in terms of RMSE."
+}

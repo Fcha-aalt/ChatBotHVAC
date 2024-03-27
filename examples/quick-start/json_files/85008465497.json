@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85008465497,
+    "Title": "New paths toward energy-efficient buildings: A multiaspect discussion of advanced model-based control",
+    "Author": "Atam E.",
+    "Journal": "IEEE Industrial Electronics Magazine",
+    "Publication Date": {
+        "$date": "2016-12-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/MIE.2016.2615127",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Boğaziçi Üniversitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 18,
+    "Abstract": "Energy efficiency in the building sector, where approximately 40% of total end-use energy is consumed [1], is a major concern today. Approximately half of building energy is used for heating, ventilation, and air conditioning (HVAC) [2]. A sustainable and potentially optimal solution (optimal in the context of mathematical optimization) for energyefficient buildings is to integrate renewable energy resources (for example, solar and geothermal energy [3]-[6]) into the structures and use intelligent advanced model-based control methods (AMBCMs). A significant potential exists for energy savings in the building sector since most buildings have manual or rule-based HVAC control systems, which may not be energy efficient [7], [8], and many buildings lack renewable energy integration."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100912991,
+    "Title": "Indoor temperature characterization and its implication on power consumption in a campus building",
+    "Author": "Khatouni A.S.",
+    "Journal": "2020 7th International Conference on Internet of Things: Systems, Management and Security, IOTSMS 2020",
+    "Publication Date": {
+        "$date": "2020-12-14T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/IOTSMS52051.2020.9340229",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Western University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Building monitoring and management are some of the important components of smart cities. It provides valuable information to the city manager and power supplier to better optimize their resources. With a steady rise in electricity prices in recent years, the importance of efficient use of the Heating, Ventilating, and Air-Conditioning (HVAC) systems becomes vital since they contribute to more than 10% of building power consumption. Given the growth on the Internet of Things (IoT) more HVAC equipment is being deployed with sensors. These sensors can produce large amounts of data that can be transformed into knowledge about the operation of a building. In this paper, we examine a large amount of sensor data from a building with more than 200 rooms. We analyze the power consumption of the building and compare different algorithms to predict the power consumption of the building using indoor and outdoor temperatures. We compare 8 different Machine Learning (ML) algorithms in order to examine their effectiveness. We then cluster rooms based on the temperature settings. Our evaluation results illustrate reasonable prediction accuracy and pinpoint several clusters with an inefficient temperature setting. The results can help the university to better utilize its resources and reduce the power consumption costs."
+}

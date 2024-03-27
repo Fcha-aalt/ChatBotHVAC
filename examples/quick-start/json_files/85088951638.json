@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088951638,
+    "Title": "Smoothing control of solar photovoltaic generation using building thermal loads",
+    "Author": "Jiang Z.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.apenergy.2020.115523",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gallogly College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 23,
+    "Abstract": "Distributed energy resources such as solar photovoltaic (PV) systems are seeing significant expansion in power grids worldwide. However, serious system integration issues have arisen including voltage fluctuations and accelerated aging of voltage regulation devices, when adopting mass amounts of volatile energy resources onto legacy distribution networks originally designed for unidirectional power flow. Building heating, ventilation and air-conditioning (HVAC) systems, collocated with the distributed generation, can be considered as flexible loads due to the inherent building thermal inertia. HVAC systems can be proactively controlled to improve voltage regulation of distribution networks with high PV penetrations. This paper presents a smoothing solution that modulates HVAC power in response to volatile PV generation as a means to mitigate fluctuations in the net demand and generation. To demonstrate the effectiveness and evaluate performance gains, hardware-in-the-loop (HIL) tests were carried out using a 3-ton variable-speed heat pump. The HIL tests leveraged a building thermal dynamic model and a steady-state power flow model for a 33-bus distribution network to capture realistic indoor thermal responses and distribution voltage variations during PV smoothing control. Test results showed that the developed strategy was effective in reducing variations of net demand and generation with negligible impact on indoor comfort. More than 55% reductions of voltage fluctuation were achieved and tap operations of voltage regulators could be fully or partially eliminated with proactive PV smoothing."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85092134636,
+    "Title": "Coupling simulation with artificial neural networks for the optimisation of HVAC controls in manufacturing environments",
+    "Author": "Mawson V.J.",
+    "Journal": "Optimization and Engineering",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/s11081-020-09567-y",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Strathclyde",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 10,
+    "Abstract": "Manufacturing remains one of the most energy intensive sectors, additionally, the energy used within buildings for heating, ventilation and air conditioning (HVAC) is responsible for almost half of the UK’s energy demand. Commonly, these are analysed in isolation from one another. Use of machine learning is gaining popularity due to its ability to solve non-linear problems with large data sets and little knowledge about relationships between parameters. Such models use relationships between inputs and outputs to make further predictions on unseen data, without requiring any understanding regarding the system, making them highly suited to dealing with the stochastic data sets found in a manufacturing environment. This has been seen in literature for determining electrical energy demand for residential or commercial buildings, rather than manufacturing environments. This study proposes a novel method of coupling simulation with machine learning to predict indoor workshop conditions and building energy demand, in response to production schedules, outdoor conditions, building behaviour and use. Such predictions can subsequently allow for more efficient management of HVAC systems. Based upon predicted energy consumption, potential spikes were identified and manufacturing schedules subsequently optimised to reduce peak energy demand. Coupling simulation techniques with machine learning algorithms eliminates the requirement for costly and intrusive methods of data collection, providing a method of predicting and optimising building energy consumption in the manufacturing sector."
+}

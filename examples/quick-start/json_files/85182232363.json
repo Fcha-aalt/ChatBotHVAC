@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182232363,
+    "Title": "Fault diagnosis of HVAC system with imbalanced data using multi-scale convolution composite neural network",
+    "Author": "Wu R.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1007/s12273-023-1086-1",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hubei University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Accurate fault diagnosis of heating, ventilation, and air conditioning (HVAC) systems is of significant importance for maintaining normal operation, reducing energy consumption, and minimizing maintenance costs. However, in practical applications, it is challenging to obtain sufficient fault data for HVAC systems, leading to imbalanced data, where the number of fault samples is much smaller than that of normal samples. Moreover, most existing HVAC system fault diagnosis methods heavily rely on balanced training sets to achieve high fault diagnosis accuracy. Therefore, to address this issue, a composite neural network fault diagnosis model is proposed, which combines SMOTETomek, multi-scale one-dimensional convolutional neural networks (M1DCNN), and support vector machine (SVM). This method first utilizes SMOTETomek to augment the minority class samples in the imbalanced dataset, achieving a balanced number of faulty and normal data. Then, it employs the M1DCNN model to extract feature information from the augmented dataset. Finally, it replaces the original Softmax classifier with an SVM classifier for classification, thus enhancing the fault diagnosis accuracy. Using the SMOTETomek-M1DCNN-SVM method, we conducted fault diagnosis validation on both the ASHRAE RP-1043 dataset and experimental dataset with an imbalance ratio of 1:10. The results demonstrate the superiority of this approach, providing a novel and promising solution for intelligent building management, with accuracy and F1 scores of 98.45% and 100% for the RP-1043 dataset and experimental dataset, respectively.[Figure not available: see fulltext.]"
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050516880,
+    "Title": "Applying innovations in circulator pump technology for commercial building applications",
+    "Author": "Vairamohan B.",
+    "Journal": "2017 IEEE Conference on Technologies for Sustainability, SusTech 2017",
+    "Publication Date": {
+        "$date": "2018-04-06T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/SusTech.2017.8333508",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Electric Power Research Institute, Inc",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "As government regulations push for higher efficiency in motors and motor driven systems, newer motor technologies, sensors and controls are being developed and introduced into the mainstream marketplace. However, the adoption of these new energy saving technologies is lower because of a lack of awareness of the benefits of emerging technologies. One of these 'unknown' technologies is the circulator pumps that are used principally for central heating systems and more common in Europe. There are approximately 14 million circulator pumps sold in Europe annually, which is expected to grow to 17 million (at a growth rate of 1.4%) by 2020. The installed base could be approximately 140 million or more circulator pumps. The total energy consumed by all the circulator pumps in Europe alone in 2005 was approximately 50 TWh, and is expected to rise as high as 55 TWh in 2020. In the U.S., there are approximately 30 million installations of circulator pumps with annual sales of approximately 3 million units. EPRI conducted laboratory tests on the selected 'new design' circular pump in 2013. Test results show that the selected pump (commercial name Magna 3) use at least 41% less power than an equivalent baseline pump. The permanent magnet motor along with the feedback loop control using a microprocessor-based controller helps reduce the overall power consumption of this circulator pump. The microprocessor constantly learns the system requirements and usage pattern and adjusts the speed of the pump by changing the pump performance curve. One of the shortcomings of the laboratory tests was that the full capabilities of the pump could not be evaluated due to limited laboratory test conditions. The field demonstration of this pump, therefore, focused on evaluating its additional features and capabilities in a real-life situation. This paper presents the results from the field demonstration of this circulator pump testing and the potential energy savings opportunities under various operating modes. Apart from the energy savings opportunities, the circulator pump also shows significant control system improvements and advanced smart sensors adaptations. This technology also exhibits the potential to reduce both water and energy use in commercial HVAC (centralized heating) as well as other hot water applications."
+}

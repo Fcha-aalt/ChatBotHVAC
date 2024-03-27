@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064920815,
+    "Title": "Grafted Nanofilms Promote Dropwise Condensation of Low-Surface-Tension Fluids for High-Performance Heat Exchangers",
+    "Author": "Khalil K.",
+    "Journal": "Joule",
+    "Publication Date": {
+        "$date": "2019-05-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.joule.2019.04.009",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "MIT School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 39,
+    "Abstract": "We have designed grafted polymer coatings using initiated chemical vapor deposition (iCVD), a solvent-free, substrate-independent, vapor-phase deposition process, that are capable of stable dropwise condensation of low-surface-tension fluids. Our iCVD coatings effectively increase the vapor-side heat transfer coefficient of the condenser, are stable under industrial environments, and can be applied in a scalable fashion. We explore how tuning the grafting of these iCVD films can minimize the contact angle hysteresis and impact droplet shedding and ultimately heat transfer performance. We measure a 4- to 8-fold enhancement in vapor-side heat transfer coefficients on a variety of substrates including industrially relevant heat exchanger metals such as steel and titanium. We demonstrate that iCVD can be applied to tubular geometries, which allows for direct translation to shell-and-tube heat exchangers, used across industries. Finally, we estimate the overall cycle efficiency improvement our coatings can provide to such processes using an example organic Rankine cycle. A majority of the work devoted to surface engineering for promoting dropwise condensation heat transfer has focused on steam. However, many industrial condensation processes such as HVAC, refrigeration, and organic Rankine cycles (ORCs)condense low-surface-tension fluids such as hydrocarbons and refrigerants. Here, we demonstrate dropwise condensation of these liquids using initiated chemical vapor deposition to graft low-energy nanofilms to a variety of heat exchanger materials, measure heat transfer coefficient improvement, and estimate overall cycle efficiency improvement for ORCs."
+}

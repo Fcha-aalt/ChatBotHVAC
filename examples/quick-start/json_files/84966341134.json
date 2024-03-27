@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84966341134,
+    "Title": "Energy consumption of non-retrofitted institutional building stock in Luxembourg and the potential for a cost-efficient retrofit",
+    "Author": "Hoos T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-07-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.03.065",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Luxembourg",
+    "Affliation Country": "Luxembourg",
+    "Cited by count": 14,
+    "Abstract": "The public building stock of a country, consisting of schools, offices, accommodation facilities, single- and multi-family homes, accounts for a high consumption of electrical and heat energy. Therefore, this stock is often subject to actions with the goal of lowering this energy usage by increasing the efficiency of those buildings. This is usually done by applying measures to the building envelope like insulation and/or new windows and by using a more efficient HVAC technology. But often, in the initial state, the current energy consumption of such a stock is unknown or only known for single buildings. In this case, the calculation of energy and cost savings is either impossible or not exact. This paper shows a way to quantify and categorize the end-energy for heat use of the public building stock in Luxembourg, which consists of a gross area of 1.744 million m2. This analysis was carried out in cooperation with the national administration of public buildings. A certain amount of sample buildings was analyzed and then separated into three groups of low, normal and high end-energy use. The boundaries of these groups were chosen according to literature values, derived from European retrofit projects, which also served as the source for possible renovation costs. This data was extrapolated to the whole stock. This information serves as a basis for future decisions concerning the retrofit of those buildings and makes a calculation of costs possible. As a result, the type of buildings with the highest potential for retrofit measures was identified. Schools, offices and accommodation facilities with a \"high\" consumption of more than 190 kWh/(m2a) show the highest economic potential with retrofit costs of 0.04-0.08 €/kWh if their energy consumption is lowered to values of around 90-100 kWh. Other groups of buildings show higher costs of around 0.07-0.19 €/kWh."
+}

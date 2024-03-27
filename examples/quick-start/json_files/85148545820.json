@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148545820,
+    "Title": "Future weather generator for building performance research: An open-source morphing tool and an application",
+    "Author": "Rodrigues E.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110104",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Association for the Development of Industrial Aerodynamic",
+    "Affliation Country": "Portugal",
+    "Cited by count": 10,
+    "Abstract": "Mathematical morphing of historical weather data to match the projected climate change scenario is a commonly used method to generate future weather files for building energy simulation. It is known for preserving the local weather characteristics, which is particularly important when designing or analyzing high-performance buildings. Researchers may use one of the available morphing tools. Unfortunately, current tools use future climate data from outdated climate models with lesser accuracy, coarser spatial resolution, and fewer climate scenarios than recent models. In addition, these tools are closed, preventing others from adding corrections, updating, and developing them further. This paper presents an open-source, cross-platform, and state-of-the-art morphing tool that generates future hourly weather data for the whole building performance simulation. The novel tool is applied to a real-case office building in Coimbra, Portugal. In the SSP5-8.5 scenario, simulations show thermal energy needs and electricity use will reduce by 60% in 2050 and 77% in 2080 for heating and will increase by 67% in 2050 and 121% in 2080 for cooling. As a result, the building's global electricity consumption will increase by 24% in 2050 and by 53% in 2080. The study is extended to other locations in Europe, concluding that the total HVAC energy needs will remain constant or even decrease in heating-dominated climates, mainly due to the significant drop in the heating demand in the future."
+}

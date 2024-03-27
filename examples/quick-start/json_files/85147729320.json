@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147729320,
+    "Title": "A feasibility study on emissions reductions and demand response in a seaport building",
+    "Author": "Segovia E.",
+    "Journal": "Proceedings - 26th International Conference on Circuits, Systems, Communications and Computers, CSCC 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/CSCC55931.2022.00040",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Teesside University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 2,
+    "Abstract": "Digital Twins play a vital role in analyzing dynamic behavior and increasing energy efficiency in an interconnected energy system. Energy consumption modelling in buildings is a fundamental part of developing a building energy digital twin, which allows the use of a virtual environment to run 'what-if' simulations to explore the impact of design modifications for improving the energy efficiency of buildings. This paper focuses principally on the HVAC demand in a seaport building used as an office space. It explores the flexibility and deployment of heat pumps for emissions reductions and demand response. The office building, located in Middlesbrough, UK was modelled using sensor data on electricity consumption, fuel oil consumption, inside temperature and humidity distribution and the subjective thermal experiences of the building occupants. Modelling errors of less than 6% for the demand for active power and less than 10% for the demand for reactive power were obtained. The models were then deployed for exploration of demand management, demand response and emissions reduction scenarios. The paper reports the potential for 33% cut in CO2 emissions per year by conversion of heating from fuel oil to heat pumps, and a 14% potential reduction in peak electricity load by the deployment of heuristic demand management / demand response controls."
+}

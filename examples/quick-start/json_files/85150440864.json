@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150440864,
+    "Title": "Optimization of operational strategy for ice thermal energy storage in a district cooling system based on model predictive control",
+    "Author": "Tang H.",
+    "Journal": "Journal of Energy Storage",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.est.2023.106872",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 5,
+    "Abstract": "Thermal energy storage (TES) has been widely applied in buildings to shift air-conditioning peak loads and to reduce operating costs by using time-of-use (ToU) tariffs. Meanwhile, TES control strategies play a vital role in maximizing the benefits of their application. To this end, an optimization framework that integrates data-driven cooling load prediction model, system physical model, and advanced optimization algorithm was proposed and applied to a district cooling system (DCS) coupled with an ice-based TES in Beijing, China. Operational strategy of the DCS was optimized based on the predicted cooling load to minimize operating cost under the current ToU tariff. The superior economic performance of the proposed optimization framework was verified by comparing it with two conventional operational strategies—that is, the optimal strategy reduced the operating cost over a two-month cooling period by approximately 8 %. Furthermore, the robustness of the proposed framework to weather forecast uncertainty was tested using three hypothetical weather forecasts of different accuracies as inputs. Although the operating cost decreased with the cooling load prediction accuracy, a diminishing return was evident. The impact of the ToU tariff adjustments was also considered for long-term strategic planning. It was evident that under the current ToU tariff structure, each 0.1 CNY increase in the off-peak rate led to a 9.2 % reduction in absolute cost-savings for the TES system over the regular system. The findings of this study have important implications for optimizing the application of TES for better building energy management and flexibility."
+}

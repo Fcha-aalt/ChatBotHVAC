@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145218117,
+    "Title": "Implementation of an AI ready BACS system in Treviso school with DCV (Demand Control Ventilation)",
+    "Author": "Magri M.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2022-03-08T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1051/e3sconf/202234302003",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Coster Group S.r.l.",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "The pandemic has highlighted the extreme importance of indoor air quality (IAQ). Especially in schools, so places that have always been critical for the spread of highly contagious viral diseases, IAQ is an increasingly necessary need. In the province of Treviso, a tailored system has been installed: there are both winter and summer air conditioning, plus AHU's capable of guaranteeing the necessary air exchange to obtain a healthy level of the air inside the classrooms. The county also intends to replicate this experience in all schools of its territory and monitor the operation of these plants continuously. The important matter is not only to implement systems equipped with HRV (heat recovery ventilation), but also to equip them with automation and control systems capable of implementing an high automation standard according to EN 15232-1 and a high SRI or Smart Readiness Indicator defined by the EPBD III directive 844/2018. A high index ensures an implementation of a distributed intelligence system all over the plant, connected to the cloud and capable of extrapolating the physical variables, then processing them with ML (machine learning) and AI (artificial intelligence) techniques optimized for the HVAC algorithms. At the end, it is not enough to detect quantities such as EI (environmental index) but it is also necessary to process the data for the purposes of predictive maintenance and much more."
+}

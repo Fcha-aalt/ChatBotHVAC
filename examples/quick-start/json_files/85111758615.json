@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111758615,
+    "Title": "BIoTA: Control-Aware Attack Analytics for Building Internet of Things",
+    "Author": "Haque N.I.",
+    "Journal": "Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks workshops",
+    "Publication Date": {
+        "$date": "2021-07-06T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/SECON52354.2021.9491621",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Florida International University",
+    "Affliation Country": "United States",
+    "Cited by count": 10,
+    "Abstract": "Modern building control systems adopt demand control heating, ventilation, and cooling (HVAC) for increased energy efficiency. The integration of the Internet of Things (IoT) in the building control system can determine real-Time demand, which has made the buildings smarter, reliable, and efficient. As occupants in a building are the main source of continuous heat and CO2 generation, estimating the accurate number of people in real-Time using building IoT (BIoT) system facilities is essential for optimal energy consumption and occupants' comfort. However, the incorporation of less secured IoT sensor nodes and open communication network in the building control system eventually increases the number of vulnerable points to be compromised. Exploiting these vulnerabilities, attackers can manipulate the controller with false sensor measurements and disrupt the system's consistency. The attackers with the knowledge of overall system topology and control logics can launch attacks without alarming the system. This paper proposes a building internet of things analyzer (BIoTA) framework1 that assesses the smart building HVAC control system's security using formal attack modeling. We evaluate the proposed attack analyzer's effectiveness on the commercial occupancy dataset (COD) and the KTH live-in lab dataset. To the best of our knowledge, this is the first research attempt to formally model a BIoT-based HVAC control system and perform an attack analysis."
+}

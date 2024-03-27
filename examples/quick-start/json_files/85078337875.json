@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078337875,
+    "Title": "A comparison of machine learning algorithms for forecasting indoor temperature in smart buildings",
+    "Author": "Alawadi S.",
+    "Journal": "Energy Systems",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/s12667-020-00376-x",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Malmö Högskola",
+    "Affliation Country": "Sweden",
+    "Cited by count": 41,
+    "Abstract": "The international community has largely recognized that the Earth’s climate is changing. Mitigating its global effects requires international actions. The European Union (EU) is leading several initiatives focused on reducing the problems. Specifically, the Climate Action tries to both decrease EU greenhouse gas emissions and improve energy efficiency by reducing the amount of primary energy consumed, and it has pointed to the development of efficient building energy management systems as key. In traditional buildings, households are responsible for continuously monitoring and controlling the installed Heating, Ventilation, and Air Conditioning (HVAC) system. Unnecessary energy consumption might occur due to, for example, forgetting devices turned on, which overwhelms users due to the need to tune the devices manually. Nowadays, smart buildings are automating this process by automatically tuning HVAC systems according to user preferences in order to improve user satisfaction and optimize energy consumption. Towards achieving this goal, in this paper, we compare 36 Machine Learning algorithms that could be used to forecast indoor temperature in a smart building. More specifically, we run experiments using real data to compare their accuracy in terms of R-coefficient and Root Mean Squared Error and their performance in terms of Friedman rank. The results reveal that the ExtraTrees regressor has obtained the highest average accuracy (0.97%) and performance (0,058%) over all horizons."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082684839,
+    "Title": "Multi-input multi-output (MIMO) artificial neural network (ANN) models applied to economized ccroll compressors",
+    "Author": "Ziviani D.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.18462/iir.icr.2019.1321",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Purdue University",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Predicting the compressor performance is an essential part in the design and optimization of HVAC&R equipment. The AHRI standard polynomial equations are well suited to map the performance of single-stage fixed-speed positive displacement machines, but present a number of well documented shortcomings especially in the case of compression enhancements (e.g. oil-flooding, injection, variable-speed). To this end, a Multi-Input Multi-Output Artificial Neural Network (ANN) model has been developed to map the performance of single-phase and two-phase injected scroll compressors. The ANN models are based on a multi-layer structure whose number of neurons has been optimized to obtain high-accuracy predictions. The models have been developed by using the open-source Keras package. The trained ANN models have been compared with the current state-of-the-art correlations available and they outperformed the existing correlations in terms of accuracy."
+}

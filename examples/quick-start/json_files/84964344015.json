@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964344015,
+    "Title": "Advanced occupancy sensing for energy efficiency in office buildings",
+    "Author": "Ekwevugbe T.",
+    "Journal": "Proceedings of the Institution of Mechanical Engineers. Part I: Journal of Systems and Control Engineering",
+    "Publication Date": {
+        "$date": "2016-05-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1177/0959651815625001",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "De Montfort University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 4,
+    "Abstract": "Control systems for heating, ventilation and air conditioning in non-domestic buildings often operate to fixed schedules, assuming maximum occupancy during business hours. Since lower occupancies usually mean less demand for heating, ventilation and air conditioning, energy savings could be made. Air quality sensing, often combined with temperature sensing, has performed sufficiently in the past for this if maintained properly, although sensor and control failures may increase energy use by as much as 50%. As energy costs increase, coupled with increased complexity in building services and reduced commissioning time, all placing ever higher demands on sensing, building controls must meet increasingly stringent environmental requirements, whilst also improving reliability. Sensor fusion offers performance and resilience to meet these demands, while cost and privacy are key factors which are also met. This article describes a neural network approach to sensor fusion for occupancy estimation. Feature selection was carried out using symmetrical uncertainty analysis, while fusion of sensor features used a back-propagation neural network, with occupant count accuracy exceeding 74%."
+}

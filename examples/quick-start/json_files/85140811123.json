@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140811123,
+    "Title": "A Hybrid Model-Based Approach on Prognostics for Railway HVAC",
+    "Author": "Galvez A.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ACCESS.2022.3211258",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Basque Research and Technology Alliance (BRTA)",
+    "Affliation Country": "Spain",
+    "Cited by count": 1,
+    "Abstract": "Prognostics and health management (PHM) of systems usually depends on appropriate prior knowledge and sufficient condition monitoring (CM) data on critical components' degradation process to appropriately estimate the remaining useful life (RUL). A failure of complex or critical systems such as heating, ventilation, and air conditioning (HVAC) systems installed in a passenger train carriage may adversely affect people or the environment. Critical systems must meet restrictive regulations and standards, and this usually results in an early replacement of components. Therefore, the CM datasets lack data on advanced stages of degradation, and this has a significant impact on developing robust diagnostics and prognostics processes; therefore, it is difficult to find PHM implemented in HVAC systems. This paper proposes a methodology for implementing a hybrid model-based approach (HyMA) to overcome the limited representativeness of the training dataset for developing a prognostic model. The proposed methodology is evaluated building an HyMA which fuses information from a physics-based model with a deep learning algorithm to implement a prognostics process for a complex and critical system. The physics-based model of the HVAC system is used to generate run-to-failure data. This model is built and validated using information and data on the real asset; the failures are modelled according to expert knowledge and an experimental test to evaluate the behaviour of the HVAC system while working, with the air filter at different levels of degradation. In addition to using the sensors located in the real system, we model virtual sensors to observe parameters related to system components' health. The run-to-failure datasets generated are normalized and directly used as inputs to a deep convolutional neural network (CNN) for RUL estimation. The effectiveness of the proposed methodology and approach is evaluated on datasets containing the air filter's run-to-failure data. The experimental results show remarkable accuracy in the RUL estimation, thereby suggesting the proposed HyMA and methodology offer a promising approach for PHM."
+}

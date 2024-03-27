@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84961942711,
+    "Title": "Simplified dynamic neural network model to predict heating load of a building using Taguchi method",
+    "Author": "Sholahudin S.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2016-11-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.energy.2016.03.057",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kookmin University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 110,
+    "Abstract": "Prediction of heating and cooling loads is necessary for building design and HVAC system operation, in order to reduce energy consumption. This study intended to develop a method for the prediction of the instantaneous building energy load, depending on various combinations of input parameters using a dynamic neural network model. The heating load was calculated for a typical apartment building in Seoul for a one-month period in winter using the Energy-Plus software. The data sets obtained were used to train neural network models. The input parameters included dry-bulb temperature, dew point temperature, direct normal radiation, diffuse horizontal radiation, and wind speed. The Taguchi method was applied to investigate the effect of the individual input parameters on the heating load. It was found that the outdoor temperature and wind speed are the most influential parameters, and that the dynamic model provides better results, as compared with the static model. Optimized system parameters, such as number of tapped delay lines and number of hidden neurons, were obtained for the present application. The results of this study show that Taguchi method can successfully reduce number of input parameters. Moreover dynamic neural network model can predict precisely instantaneous heating loads using a reduced number of inputs."
+}

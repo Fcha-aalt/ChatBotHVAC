@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147560000,
+    "Title": "An Interactive Task Conditioning System Featuring Personal Comfort Models and Non-Intrusive Sensing Techniques: A Field Study in Shanghai",
+    "Author": "Lu S.",
+    "Journal": "Technologies",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/technologies9040090",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilation and air-conditioning (HVAC) systems play a key role in shaping office environments. However, open-plan office buildings nowadays are also faced with problems like unnecessary energy waste and an unsatisfactory shared indoor thermal environment. Therefore, it is significant to develop a new paradigm of an HVAC system framework so that everyone could work under their preferred thermal environment and the system can achieve higher energy efficiency such as task ambient conditioning system (TAC). However, current task conditioning systems are not responsive to personal thermal comfort dynamically. Hence, this research aims to develop a dynamic task conditioning system featuring personal thermal comfort models with machine learning and the wireless non-intrusive sensing system. In order to evaluate the proposed task conditioning system performance, a field study was conducted in a shared office space in Shanghai from July to August. As a result, personal thermal comfort models with indoor air temperature, relative humidity and cheek (side face) skin temperature have better performances than baseline models with indoor air temperature only. Moreover, compared to personal thermal satisfaction predictions, 90% of subjects have better performances in thermal sensation predictions. Therefore, personal thermal comfort models could be further implemented into the task conditioning control of TAC systems."
+}

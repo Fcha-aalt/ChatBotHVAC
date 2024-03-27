@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044962741,
+    "Title": "Dynamic analysis of HVAC for industrial plants with different airflow control systems",
+    "Author": "Genco A.",
+    "Journal": "Thermal Science and Engineering Progress",
+    "Publication Date": {
+        "$date": "2018-06-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.tsep.2017.12.004",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi della Basilicata",
+    "Affliation Country": "Italy",
+    "Cited by count": 4,
+    "Abstract": "The aim of the present work is the analysis and optimization of HVAC control systems for environments under controlled thermo-hygrometric conditions in order to minimize energy consumption costs. A predictive mathematical model for the analysis of such systems has been validated in order to study the thermodynamics of conditioning processes for controlled microclimates. The model provides the hourly energy performance of an HVAC system by considering outside weather conditions. Based on such a simulation model, two different control systems have been implemented. Specifically, the first system is based on an adjustable airflow rate, whereas the second one on an adjustable inlet temperature of the controlled environment with a user-defined airflow rate profile. Both models estimate the energy consumption in terms of heating/cooling, humidification/dehumidification energy, reheat (when such process occurs) and electrical power demand due to fans and extractors. The results obtained with the two models have been compared under several climatic and set-point (comfort) conditions, thus assessing that the second control system with a minimum value of the airflow rate is the most efficient choice in terms of hot water and electrical power consumption. On the other hand, the adjustable airflow rate control system guarantees the comfort conditions for the whole microclimate."
+}

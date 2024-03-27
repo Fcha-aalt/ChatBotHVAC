@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061374753,
+    "Title": "An investigation of generative design for heating, ventilation, and air-conditioning",
+    "Author": "Berquist J.",
+    "Journal": "Simulation Series",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 4,
+    "Abstract": "Energy consumption in buildings contributes to 41% of global carbon dioxide emissions through electricity and heat production, making the design of mechanical systems in buildings of paramount importance. Industry practice for design of mechanical systems is currently limited in the conceptual design phase, often leading to sub-optimal designs. By using Generative Design (GD), many design options can be created, optimized and evaluated, based on system energy consumption and life-cycle cost (LCC). By combining GD for Architecture with GD for HVAC, two areas of building design can be analyzed and optimized simultaneously, resulting in novel designs with improved energy performance. This paper presents GD for HVAC, a Matlab script developed to create improved zone level mechanical systems for improved energy efficiency. Through experiments, GD methodologies are explored and their applicability and effect on building HVAC design is evaluated."
+}

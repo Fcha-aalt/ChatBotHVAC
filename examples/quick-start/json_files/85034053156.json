@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034053156,
+    "Title": "A fuzzy multiple attribute decision making tool for HVAC&amp;R systems selection with considering the future probabilistic climate changes and electricity decarbonisation plans in the UK",
+    "Author": "Shahrestani M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-01-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2017.10.089",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Reading",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 16,
+    "Abstract": "Buildings account for 40% of total energy consumption in the UK and more than 55% of this energy is used by heating, ventilation, air-conditioning and refrigeration (HVAC&R) systems. This significant energy demand and the ascending trend in utilising HVAC&R systems together with the global need to impose energy-efficiency measures underline the importance of selecting the most appropriate HVAC&R system during the design process. This paper reviewed and classified a broad range of principal multiple attribute decision making methods. Among them, the fuzzy multiple attribute decision making approach was adopted to develop a decision making tool for HVAC&R systems selection. This was mainly due to the ability of this method to deal with the uncertainties and imprecisions of the linguistic terms involved in the decision making process. In order to make a decision on HVAC&R systems selection, 58 alternative systems, including both primary and secondary parts, were examined. The scope of this study enabled the consideration of all 18 climate regions in the UK and included the effects of climate change. In addition, the Government's electricity decarbonisation plans were integrated within the developed decision making model for HVAC&R systems selection in office buildings in the UK. Finally, the model was transferred into a computational tool with a user-friendly interface."
+}

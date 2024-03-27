@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143762614,
+    "Title": "Towards Achieving Thermal Comfort through Physiologically controlled HVAC System",
+    "Author": "Ihianle I.K.",
+    "Journal": "International Conference Automatics and Informatics, ICAI 2022 - Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICAI55857.2022.9960018",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nottingham Trent University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 1,
+    "Abstract": "Thermal comfort in shared spaces is essential to occupants' well-being and necessary in the management of energy consumption. Existing thermal control systems for indoor shared spaces adjust temperature set points mechanically, making it difficult to intelligently achieve thermal comfort for all. Recent studies have shown that thermal comfort in a shared space is difficult to achieve due to individual preferences and the inability of occupants to reach a thermal compromise on temperature set points. This paper proposes a thermal comfort system capable of automatically adjusting the temperature set-points in a shared space whilst recognising individual preferences. The control strategy of the proposed system is based on an algorithm to adjust the temperature set point of the shared space using the individual thermal preferences and predicted thermal comfort value of the occupants. The thermal preferences of the occupants are determined first and used as part of the occupant's profile, which is mapped to thermal comfort values predicted from the occupants' measured physiological data and environmental data. A consensus can be reached by the algorithm to find the optimal temperature set-point, which takes into account individual thermal preferences and their physiological responses."
+}

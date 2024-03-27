@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071875297,
+    "Title": "Energy modeling with nonlinear-autoregressive exogenous neural network",
+    "Author": "Hussain S.A.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2019-08-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1051/e3sconf/201911103059",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 3,
+    "Abstract": "The model-based predictive control (MPC) is considered to be an effective tool for optimal control of building heating, ventilation, and air-conditioning (HVAC) systems. MPC need to update the operating set points of the local control loops that have a significant influence on the energy performance of the system. Performance of MPC relies on the accuracy of the system performance model. There are two commonly used modeling approach - conventional or analytical approach that is the way of process modeling for some time, but it tends to increase the online computational load as it requires a full mathematical description of the real system. Furthermore, such techniques rely on different simplifying assumptions that limit the accuracy of the performance model. A second commonly used technique is the data-driven approach. The neural network (NN) is the most potent data-driven approach. NN can accurately model complex nonlinear systems without even knowing the structure of the system and it also addresses the problem of the online computational load since the computational load moves to the offline training step. In order to set up neural network model-based predictive control (NNMPC), it is important to build a reliable energy model of HVAC system that can be used to perform multi-step-ahead prediction of system energy performance. In this paper, the energy modeling of the chiller plant is conducted. Data for the training of chiller plant energy model is generated from HVAC testbed build in TRNSYS simulation environment. The nonlinear-autoregressive neural network with exogenous input (NARX) is used to model the energy performance of the chiller plant. The NARX is a powerful method for forecasting of time series data and dynamic control problems. NARX model is first trained in the open-loop form with the actual output instead of feedback, using back-propagation with the Levenberg-Marquardt method; this model can be used to perform only one-step-ahead prediction. Open-loop NARX model is transformed into a closed-loop form, by connecting the internal feedback, i.e. actual output is replaced by predicted output, to perform multi-step-ahead prediction (for predictive control). Comparative analysis of developed NARX-based chiller model is carried out with respect to process data from testbed, which demonstrated the good accuracy of the NARX-based chiller model."
+}

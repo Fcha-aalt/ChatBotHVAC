@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085999005,
+    "Title": "Development and optimization of artificial neural network algorithms for the prediction of building specific local temperature for HVAC control",
+    "Author": "Demirezen G.",
+    "Journal": "International Journal of Energy Research",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1002/er.5537",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 23,
+    "Abstract": "This research accounts for the outcome of a major cloud-based smart dual fuel switching system (SDFSS) project, which is a dual-fuel integrated hybrid heating, ventilation, and air conditioning (HVAC) system in residential homes. The SDFSS was developed to enable optimized, flexible, and cost-effective switching between the natural gas furnace and electric air source heat pump (ASHP). In order to meet the optimal energy consumption requirements in the house and provide thermal comfort for the residents, various high-quality sensors and meters were installed to record multiple data points inside and outside the house. The performance of the system was monitored in the long term, which is a common practice in energy monitoring projects. Outdoor temperature data plays the most crucial role in operating HVAC systems and also is a key variable in the decision-making algorithm of the SDFSS controller. Therefore, this study introduces an innovative and unique approach to obtain the outdoor temperature that could potentially replace high precision sensors with a data-driven model utilizing weather station data at a time resolution of 2 minutes and 1 hour. In this work, a series of artificial neural network algorithms were developed, optimized, and implemented to predict the outdoor temperature with an average of 0.99 coefficient of correlation (R), 1.011 mean absolute error (MAE), and 1.315 root mean square error (RMSE). It has been demonstrated that the developed ANN is a reliable and powerful tool in predicting outdoor temperature. Thus, the proposed model is strongly suggested to be implemented as an alternative to temperature sensors in hybrid energy systems or similar systems requiring accurate ambient temperature measurements."
+}

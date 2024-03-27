@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85021399726,
+    "Title": "ISchedule: Campus-scale HVAC scheduling via mobile WiFi monitoring",
+    "Author": "Trivedi A.",
+    "Journal": "e-Energy 2017 - Proceedings of the 8th International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2017-05-16T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1145/3077839.3077846",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Massachusetts Amherst",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems account for over 50% of the energy consumed by commercial buildings. While \"smart\" HVAC technologies, such as learning thermostats, are widely available for residential use, commercial buildings typically rely on legacy systems that are difficult to upgrade and require facility managers to manually set HVAC schedules. In this paper, we propose a novel Machine Learning-driven technique to automatically learn custom occupancy-based HVAC schedules for buildings across a large campus. While our technique is compatible with any occupancy sensor, we leverage the existing wireless networking infrastructure that is omnipresent across any modern campus. We analyze building WiFi activity, specifically from smartphones, to infer detailed spatial occupancy patterns in each building, and present an algorithm that learns from these patterns to derive a custom HVAC schedule. Our approach is adaptive and dynamically adjusts its schedules as occupancy patterns change, much like a learning thermostat. To evaluate our techniques, we analyze data from several thousand WiFi access points deployed in 112 office buildings on a university campus. Our analysis reveals significant differences in occupancy patterns across and within buildings, motivating the need for our adaptive learning-based approach. Compared to the current static approach, our results demonstrate that learning HVAC schedules from mobile WiFi activity across the campus can yield a 37% reduction in waste time, a measure of energy savings, and a 3% reduction in miss time, a measure of user comfort."
+}

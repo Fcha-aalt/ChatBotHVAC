@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095440114,
+    "Title": "An interactive building control for the integrative HVAC system featuring personalized cooling in office buildings",
+    "Author": "Lu S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The effective HVAC operations not only achieve energy savings but also create a more comfortable indoor environment for occupants. Currently, commercial buildings, particularly open-plan office buildings are faced with problems like unnecessary energy waste and unsatisfactory shared indoor thermal environment. Therefore, it is significant to develop a new paradigm of HVAC system framework so that everyone could work under their preferred thermal environment and the system can achieve higher energy efficiency. Moreover, even if occupant behaviors and preferences have considerable impacts on HVAC performances, most of sensing systems for occupant-related factors may either result in privacy issue or are too intrusive. Hence, it is necessary to develop new non-intrusive and less private sensingframeworkfor monitoring individual thermal comfort in real-time. Lastly, taken human-in-the-loop into consideration, the proposed system aims to optimize energy performance and improve occupant thermal comfort by developing interactive control logics for an integrative HVAC system featuring personalized cooling with non-intrusive sensing techniques. Therefore, this paper proposes and evaluates two interactive control algorithms by conducting an in-situ and comparative study in a regular shared office space during cooling season. The proposed control algorithms are based on standard optimisation and reinforcement learning, respectively. The in-situ results have shown that control algorithms with standard optimization controller can minimise energy consumption while improve thermal comfort while the reinforcement learning-based controller has difficulty in covering all possible finite states if the controller is only dependent on occupants feedbacks."
+}

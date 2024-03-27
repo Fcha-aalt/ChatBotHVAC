@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171130615,
+    "Title": "From Town Gas to Hydrogen: Historical and Modern Perspectives on Transitions between Delivered Fuels in the Built Environment",
+    "Author": "Glanville P.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "GTI",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The distribution and delivery of fuels to the built environment is a mega-scale form of seasonal energy storage in the United States, delivering greater than 600 GW of energy during the winter, often in the form of heating, and with storage built up over periods of 6-8 months. Combined with Canada, this distribution system serves 85 million homes and businesses with a network spanning 5.4 million km. With increasing efforts to reduce the impact of buildings on the environment, the greater than 1,000 Mt CO2e/year emitted from this fuel consumption must be mitigated. In addition to energy efficiency and conservation, which remain the pillars of any climate mitigation scheme, one pathway to reduce CO2e emissions from buildings is displacing delivered fossil fuels (e.g. natural gas) with low or zero carbon fuels, which can include methane-based fuels and hydrogen, generated from renewable energies/feedstocks or employing integrated carbon capture. Seeking to scale-up the generation and distribution of these low or zero carbon fuels in many regions throughout the U.S. and Canada, utilities are demonstrating the injection, blending, and delivery of these fuels. Of particular note are the hydrogen-focused demonstrations, which seek to quantify the risks and benefits of distributing hydrogen using legacy and purpose-built infrastructure, and its impacts on the downstream homes and businesses, with activity in numerous large metropolitan areas and in cold and hot climate zones alike. This paper provides an overview of these North American utility projects, which displace delivered fossil fuels with low or zero carbon fuels, from the end user perspective and with a focus on the hydrogen-based fuels, both blended and 100%. The authors compare and contrast these projects with similar projects abroad, where in the U.K., Germany, and Japan, for instance, significant fractions of homes and businesses already enjoy access to these non-fossil fuels. Finally, using the historical transition from manufactured gases to widespread distribution of natural gas, a ~30 year transition that occurred from the 1920s to the 1950s, the authors draw comparisons between this significant historical energy transition to the modern context, considering safety implications, regionality, impacts on HVAC equipment, and the role of codes and standards."
+}

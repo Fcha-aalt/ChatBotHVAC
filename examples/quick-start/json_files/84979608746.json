@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84979608746,
+    "Title": "An automated optimization method for calibrating building energy simulation models with measured data: Orientation and a case study",
+    "Author": "Yang T.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2016-10-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.apenergy.2016.07.084",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 76,
+    "Abstract": "Due to the discrepancy between simulated energy consumption and measured data, it is essential to calibrate building energy models to improve its fidelity in evaluating the performance of retrofitting. Currently, most calibration methods are conducted manually to minimize this discrepancy, heavily relying on the knowledge and experience of analysts to discover a reasonable set of parameters. Because of the myriad independent and interdependent variables involved, the reliability of the entire simulation is largely undermined. In the presented paper, we propose a complete and fluent optimization automated calibration flow by introducing the mathematical optimization method (Particle Swarm Optimization is adopted) into the building energy model calibration process, thus leveraging the advantages of the efficiency and flexibility of the automated computer procedure. This approach is also characterized by its inclusivity, for it is compatible with other advanced manual methods and able to largely assist the experts in improving the efficiency of tuning relative input parameters. Moreover, a case in Shanghai is presented to verify the validity of the proposed method. After calibration, the simulation model demonstrates a satisfactory predicting accuracy. The calculated electricity consumption from the HVAC, lighting and equipment matches the actual monitored data with 11.6%, 7.3% and 7.2% CV (RMSE), respectively, and the total electricity consumption is within 6.1%."
+}

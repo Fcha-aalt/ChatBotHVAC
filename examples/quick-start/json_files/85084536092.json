@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084536092,
+    "Title": "Occupant-centric miscellaneous electric loads prediction in buildings using state-of-the-art deep learning methods",
+    "Author": "Das A.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.apenergy.2020.115135",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Khalifa University of Science and Technology",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 46,
+    "Abstract": "Buildings have emerged as one of the dominant sectors when it comes to worldwide energy consumption. While a large portion of this consumption is due to the Heating, Ventilation, and Air Conditioning (HVAC) loads, a significant portion is contributed through the use of standard equipment, also known as Miscellaneous Electric Loads (MEL). It is necessary to understand the consumption patterns to optimize the MELs of the occupants using the building and conduct accurate forecasts for building energy management. One of the methods to achieve that purpose is the employment of Deep Learning (DL) methods. This study provides an analysis using Long Short-Term Memory (LSTM) model as a baseline for predicting MELs. The predictions were conducted for a day-ahead and a week-ahead period. Furthermore, the results from the baseline model were then used in a comparative analysis with two other state-of-the-art DL models; Bidirectional Long Short-Term Memory (Bi-LSTM) and Gated Recurrent Units (GRU). The results from this study showed that both the Bi-LSTM and GRU models were significantly better than the LSTM model, especially when the prediction horizon was longer. The conclusions obtained can help implement these models in building energy management systems to draft strategic responses and schedules for more efficient energy usage."
+}

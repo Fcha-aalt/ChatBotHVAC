@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84916886857,
+    "Title": "Experimental study of occupancy-based control of HVAC zones",
+    "Author": "Goyal S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2015-02-05T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.apenergy.2014.11.064",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Florida",
+    "Affliation Country": "United States",
+    "Cited by count": 92,
+    "Abstract": "We present experimental evaluation of two occupancy-based control strategies for HVAC (heating, ventilation, and air-conditioning) systems in commercial buildings that were proposed in our earlier simulation work. We implement these strategies in a test-zone of Pugh Hall at the University of Florida campus. By comparing their performance against a conventional baseline controller (that does not use real-time occupancy measurements) on days when exogenous inputs-such as weather-are similar, we establish the energy savings potential for each of these strategies. The two control strategies are of vastly different complexity: one is a rule-based feedback controller while the other is based on MPC (model predictive control) that requires real-time optimization based on dynamic models. The results of the evaluation are consistent with those of our prior simulation work, that (i) both occupancy based controllers yield substantial energy savings over the baseline controller without sacrificing thermal comfort and indoor air quality, and (ii) the much higher complexity MPC controller yields negligible benefit over the simple rule-based feedback controller. The experimental evaluation provides further confidence that high degree of energy savings is possible with simple control algorithms that use real-time occupancy measurements."
+}

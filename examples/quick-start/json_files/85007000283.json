@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85007000283,
+    "Title": "Buildings performance comparison: From energy need to energy consumption",
+    "Author": "Ferrari S.",
+    "Journal": "SpringerBriefs in Applied Sciences and Technology",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1007/978-3-319-24136-4_8",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 2,
+    "Abstract": "Building heating and cooling energy needs result from the thermal balance calculation, and can be determined with a high degree of accuracy through the use of detailed dynamic energy simulation tools. On this basis, starting from a reference building shape, assuming the same time-related input parameters (such as the internal sources of heat, the ventilation and the indoor temperatures) and varying the construction elements, the energy performance of a set of alternative building solutions can be evaluated and compared. However, the related building energy consumption, which is also based on the characteristics of the active air conditioning systems, does not necessarily depend linearly on the calculated heating and cooling needs. A further overall energy performance comparison between the different building solutions should therefore be adjusted accordingly. In this chapter, reference climatization systems are defined and assigned to a set of case-study buildings. Final and primary energy consumption values are then calculated and the differences in the overall energy performance trends, compared to those based on the calculated energy needs, are assessed."
+}

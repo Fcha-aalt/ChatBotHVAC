@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055989173,
+    "Title": "Integrated ir vision sensor for online clothing insulation measurement",
+    "Author": "Lu S.",
+    "Journal": "CAADRIA 2018 - 23rd International Conference on Computer-Aided Architectural Design Research in Asia: Learning, Prototyping and Adapting",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carnegie Mellon University",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "As one of the most important building systems, HVAC plays a key role in creating a comfortable thermal environment. Predicted Mean Vote (PMV), an index that predicts the mean value of the votes of a large group of persons on the thermal sensation scale, has been adopted to evaluate the built environment. Compared to environmental factors, clothing insulation can be much harder to measure in the field. The existing research on real-time clothing insulation measurement mainly focuses on expensive infrared thermography (IR) cameras. Therefore, to ensure cost-effectiveness, the paper has proposed a solution consisting of a normal camera, IR and air temperature sensors and Arduino Nanos to measure clothing insulation in real-time. Moreover, the algorithm includes the initialization from clothing classification with pre-trained neural network and optimization of the clothing insulation calculation. A total of 8 tests have been conducted with garments for spring/fall, summer and winter. The current results have shown the accuracy of T-shirt classification can reach over 90%. Moreover, compared with the results with IR cameras and reference values, the accuracies of the proposed sensing system vary with different clothing types. Research shall be further conducted and be applied into the dynamic PMV-based HVAC control system."
+}

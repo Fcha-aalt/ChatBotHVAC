@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124033750,
+    "Title": "Real-time optimal control of HVAC systems: Model accuracy and optimization reward",
+    "Author": "Hou J.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.104159",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 6,
+    "Abstract": "Real-time optimal control is considered as an efficient tool to improve the energy efficiency of heating, ventilation, and air-conditioning (HVAC) systems. It minimizes the energy consumption of HVAC systems by searching the optimal settings (normally set-points) for local control loops. Generally, in a model-based real-time optimal control, a reliable and accurate model is important for optimization performance but not easy to be obtained in practice. Thus, model errors exist universally and cannot be avoided in the application. The model error may have a negative impact on the performance of real-time optimal control. For example, in power minimization, some individual optimization actions may lead to power use increase (negative reward) instead of power use decrease (positive reward). This paper analyzes the impact of model accuracy on individual optimization actions. Using numerical analysis, different sizes of model accuracy were investigated and the possibility of positive/negative reward was quantified in percentage. This paper also revealed that event-based optimal control with controlled thresholds could significantly reduce the percentage of negative reward when compared with a time-based optimal control (e.g. optimization was carried out every 30 min)."
+}

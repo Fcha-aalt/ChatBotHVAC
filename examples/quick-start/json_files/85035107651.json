@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85035107651,
+    "Title": "Impact of reference years on the outcome of multi-objective optimization for building energy refurbishment",
+    "Author": "Pernigotto G.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2017-11-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.3390/en10111925",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Free University of Bozen-Bolzano",
+    "Affliation Country": "Italy",
+    "Cited by count": 17,
+    "Abstract": "There are several methods in the literature for the definition of weather data for building energy simulation and the most popular ones, such as typical meteorological years and European test reference years, are based on Finkelstein-Schafer statistics. However, even starting from the same multi-year weather data series, the developed reference years can present different levels of representativeness, which can affect the simulation outcome. In this work, we investigated to which extent the uncertainty in the determination of typical weather conditions can affect the results of building energy refurbishment when cost-optimal approach is implemented for the selection of energy efficiency measures by means of the NSGA-II genetic algorithm coupled with TRNSYS simulations. Six different reference years were determined for two north Italy climates, Trento and Monza, respectively in the Alpine and in the continental temperate regions. Four types of energy efficiency measures, related to both building envelope and HVAC system, were applied to six existing building typologies. Results showed how the choice of reference year can alter the shape of the Pareto fronts, the number of solutions included and the selection among the alternatives of the energy efficiency measures, for the entire front and, in particular, for energy and economic optima."
+}

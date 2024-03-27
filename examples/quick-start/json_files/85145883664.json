@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145883664,
+    "Title": "Selective reinforcement graph mining approach for smart building energy and occupant comfort optimization",
+    "Author": "Haidar N.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2022.109806",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Laboratoire Informatique, Image et Interaction (L3i)",
+    "Affliation Country": "France",
+    "Cited by count": 1,
+    "Abstract": "Optimizing Building energy consumption is a key solution to reducing their environmental impact. In this context, Information Technology can be harnessed by deploying sensors inside buildings, to collect relevant data about both energy consumed and occupant behavior, since occupants influence building appliances, such as HVAC, lights, and hot water tanks. Predicting room occupancy can be a solution to heat/cool rooms for instance. But, as prediction models are not often accurate, we may face situations where HVAC is activated while the rooms are empty or vice-versa, leading to either a waste of energy or a lack of occupants’ comfort. To predict user behavior, detect prediction errors, and correct the model, we introduce a graph mining-based optimization method that combines an occupant behavior prediction model and a selective reinforcement learning method, where error detection relies on sensors that detect real-time occupancy of rooms. We experimented with our approach on simulated data and results showed that, compared to conventional HVAC management, our model can reduce up to 57.8% of HVAC energy consumption, and provide up to 94.3% of occupants’ comfort when using the prediction method only, and up to 80.1% of HVAC energy consumption, and provide up to 97% of occupants’ comfort when using the reinforcement method to correct prediction errors."
+}

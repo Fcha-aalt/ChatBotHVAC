@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044918380,
+    "Title": "Simulation and optimization of multi-split variable refrigerant flow systems",
+    "Author": "Alahmer A.",
+    "Journal": "Ain Shams Engineering Journal",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.asej.2017.01.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tafila Technical University",
+    "Affliation Country": "Jordan",
+    "Cited by count": 17,
+    "Abstract": "The use of a variable refrigerant flow (VRF) is being specified as an alternative solution to centralize HVAC systems in domestic building. This manuscript presents a comprehensive description of the configuration for the indoor and outdoor units of a multi-split VRF system. A case study of a hotel in Amman, Jordan was implemented. The suitable indoor and outdoor units were selected according to heating and cooling load. A sensitivity analysis of the effect of some parameters on heating and cooling loads were analyzed. Finally, the thermal human comfort indices of PMV and PPD were investigated. This study showed that even the main shortcoming of using VRF system due to its high initial cost, but this system is encouraged especially in small places due to its energy efficiency appeal at partial loads, satisfying optimum thermal human comfort, and a good substitute where scarcity of water and achieving more thermal human comfort."
+}

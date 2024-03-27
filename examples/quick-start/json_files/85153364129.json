@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153364129,
+    "Title": "Occupancy and Thermal Preference-Based HVAC Control Strategy Using Multisensor Network",
+    "Author": "Acquaah Y.T.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/JSEN.2023.3264474",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "North Carolina A&amp;T College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Human-in-the-loop heating, ventilation, and air conditioning (HVAC) control-based methodologies have gained much attention due to continual discomfort compliance of occupants in residential and commercial buildings; spawning thermal comfort research interest in leveraging emerging advanced technologies to address the prolonged problem of discomfort and energy efficiency. In the past, thermal comfort studies have been conducted to determine the thermal sensation, preference, and comfort based on the American Society of heating, refrigerating, and air-conditioning engineers (ASHRAE) Global Thermal Comfort Database II and customized dataset through machine learning. The ASHRAE Database II is an open-source database that includes sets of objective indoor climatic observations with corresponding subjective evaluations by the building occupants who were used as subjects in experiments. Environmental parameters and occupants' skin temperature have been used to develop machine learning algorithms to predict thermal comfort indices in both indoor and outdoor settings. However, none of these studies have investigated merging environmental parameters and thermal images to predict thermal comfort indices of occupants. In this study, the holistic understanding of individuals thermal comfort environment was considered by fusing analog environmental sensors and thermal images captured at the time of the subjective measurement. Wavelet-scattering features were obtained from the occupants' thermal image surroundings and joined to the environmental parameters. This research developed different machine learning models, processing methods and evaluated the results based on the fused dataset. The results show the possibility of real-time prediction of occupancy and thermal preference through classical machine learning, and stacked models with high accuracy. The proposed framework achieved an estimated 45% mean energy savings during a ten-day energy analysis."
+}

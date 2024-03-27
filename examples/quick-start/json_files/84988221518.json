@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84988221518,
+    "Title": "Temperature Control of a Commercial Building with Model Predictive Control Techniques",
+    "Author": "Mantovani G.",
+    "Journal": "IEEE Transactions on Industrial Electronics",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/TIE.2014.2387095",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Milano",
+    "Affliation Country": "Italy",
+    "Cited by count": 109,
+    "Abstract": "This paper addresses the problem of thermal energy control in shopping centers through the application of model predictive control (MPC) strategies. In particular, this paper uses an existing shopping center as pilot case, which is characterized by a large common multifloor space, which, in turn, gives rise to a significant vertical thermal stratification. This paper explores the importance of MPC parameters to energy efficiency and comfort levels. In addition, it addresses some notable extensions, from economic optimization, which paves the way to real-time pricing techniques, to integration with renewables, to robustness enforcement through Kalman filters, to hybrid control with switching signals mixed with continuous signals."
+}

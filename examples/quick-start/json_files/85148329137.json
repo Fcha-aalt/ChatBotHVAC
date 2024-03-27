@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148329137,
+    "Title": "Selection of HVAC technology for buildings in the tropical climate case study",
+    "Author": "Balbis-Morejón M.",
+    "Journal": "Alexandria Engineering Journal",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.aej.2023.02.015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de la Costa",
+    "Affliation Country": "Colombia",
+    "Cited by count": 1,
+    "Abstract": "In this paper, the integral performance indicator for selecting HVAC systems (ACPI) is applied to select the Air Conditioning (AC) system with better results in their life cycle for a typical building in Barranquilla, Colombia. The AC systems under study were: direct expansion system (Split and VRF), air-cooled system (VAC and VAV), and water-cooled system (Chiller). Of the six selection criteria of ACPI, the energy consumption index (EC) and thermal comfort (TC) were calculated through energy simulation of buildings, the regulations were used for IAQ and carbon emissions (CE), and were estimated the investment costs (IC) and operating and maintenance costs (OMC). The best-performance AC system for the building was the air-cooled AC system got the best ACPI values between 25 % and 22.4 %, followed by the water-cooled system with 22.3 %, and finally the direct expansion systems between 16.8 % and 13.5 %, influencing in this level of priority the IAQ and IC criteria. This study contributes to introducing in Colombia a multifactorial analysis to select the more proper AC system technology according to the building and location conditions."
+}

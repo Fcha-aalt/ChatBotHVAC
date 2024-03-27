@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084427461,
+    "Title": "Optimal set-point regulation in HVAC system for controllability and energy efficiency",
+    "Author": "Miyata S.",
+    "Journal": "Advances in Building Energy Research",
+    "Publication Date": {
+        "$date": "2020-04-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/17512549.2019.1578263",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 3,
+    "Abstract": "The energy management of heating, ventilating, and air-conditioning (HVAC) system is a primary concern in building projects. Although they allow us to identify opportunities for effective energy use, their⁠ cost can sometimes exceed the energy saved. On the contrary, controller tuning by e.g. set-point regulation, often provides solutions that incur relatively low or no extra cost. In this paper, a simulation-based optimization approach is proposed for the optimal set-point regulation of HVAC system. For this purpose, we developed dynamic models for the target HVAC system that can simulate system behaviour at intervals of one minute. The set-point values were optimized while assessing controllability. The optimization of set-points that considered only energy efficiency led to various faults and therefore, was not applicable. However, optimal set-points obtained by considering controllability can help avoid significant faults."
+}

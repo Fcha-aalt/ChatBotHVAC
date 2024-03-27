@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153678820,
+    "Title": "Reducing the consumption of household systems using hybrid deep learning techniques",
+    "Author": "Ma H.",
+    "Journal": "Sustainable Computing: Informatics and Systems",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.suscom.2023.100874",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Guangzhou Huashang College",
+    "Affliation Country": "China",
+    "Cited by count": 14,
+    "Abstract": "At present household consumes high power due to over usage of mobiles, refrigerators, washing machine, and other electrical appliances. It is necessary to optimize the incoming energy and the main of this research is to use machine learning for forecasting the energy for reducing the overconsumption of power. However, smart buildings are restricted, with limited power access and capacity associated with Heating, Ventilation, and Air Conditioning (HVAC) units. It further suffers from low communication capability due to device limitations. In this paper, a deep learning architecture is used to offer solutions to address these constraints. The deep learning algorithm considers three constraints, such as a multi-objective optimization problem and a fitness function, to resolve the price management problem and high-level energy consumption in HVAC systems. For multi-objective optimization problems, the Pareto front solutions are produced using the Pascoletti-Serafini scalarization method. The suggested models produce predictions based on power usage using Hybrid Deep Learning models. Models such as Long Short-Term Memory (LSTM) Gated Recurrent Unit (GRU) and Drop-CRU were used. To forecast upcoming load demand and avoid utilization peaks, the LSTM neural network has been preferred in this work. The study analyzes and optimizes the consumption of power in smart buildings by HVAC systems in terms of power loss, price management, and reactive power. Experiments are conducted over various scenarios to check the integrity of the system over various smart buildings and high-rise buildings. The results are compared in terms of various HVAC devices on various metrics and communication protocols, where the proposed (PS-LSTM) system is considered more effective than other models."
+}

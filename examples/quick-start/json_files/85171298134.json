@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171298134,
+    "Title": "FEASIBILITY ANALYSIS OF WATER MAIN GEOTHERMAL HEAT PUMP SYSTEM FOR RESIDENTIAL BUILDING APPLICATIONS",
+    "Author": "Kohut B.L.",
+    "Journal": "Proceedings of the Thermal and Fluids Engineering Summer Conference",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cleveland State University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Water main geothermal systems have the potential to bring geothermal heat pump systems to a larger scale, improve building energy efficiency, and reduce carbon emissions. There have been studies that show economic feasibility of operating these systems. This research provided an in-depth design, evaluation, and economic analysis of a water main geothermal system in a residential living space using TRNSYS 18 with the TESS component library package. The TRNSYS model provided the water main geothermal HVAC system energy usage requirements. The results were compared to a traditional geothermal HVAC system, air-source heat pump HVAC system, and electric furnace central air-conditioning HVAC system in Cleveland, OH. The energy usage requirements used for comparison were based upon electricity consumption in kWh. In Cleveland, OH the traditional geothermal HVAC system had the highest annual energy consumption resulting in the highest carbon dioxide emissions. The TRNSYS model provided the water main geothermal HVAC system annual water consumption requirement unknown before this research was conducted. In conclusion, the water main geothermal HVAC system is a viable economic solution that can improve building energy efficiency and reduce carbon emissions."
+}

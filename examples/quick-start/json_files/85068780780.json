@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068780780,
+    "Title": "Feasibility of Low-Cost Infrared Thermal Imaging to Assess Occupants' Thermal Comfort",
+    "Author": "Li D.",
+    "Journal": "Computing in Civil Engineering 2019: Smart Cities, Sustainability, and Resilience - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2019",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1061/9780784482445.008",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Michigan, Ann Arbor",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Understanding occupants' thermal comfort is essential for the effective operation of heating, ventilation, and air conditioning (HVAC) systems. Existing studies of the \"human-in-the-loop\" HVAC control generally suffer from: (1) excessive reliance on cumbersome human feedback; and (2) intrusiveness caused by conventional data collection methods. To address these limitations, this paper investigates the low-cost thermal camera as a non-intrusive approach to assess thermal comfort in real time using facial skin temperature. The framework developed can automatically detect occupants, extract facial regions, measure skin temperature, and interpret thermal comfort with minimal interruption or participation of occupants. The framework is validated using the facial skin temperature collected from twelve occupants. Personal comfort models trained from different machine learning algorithms are compared and results show that random forest model can achieve an accuracy of 85% and also suggest that the skin temperature of ears, nose, and cheeks are most indicative of thermal comfort."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087899249,
+    "Title": "Economic performance assessment of three renovated multi-family buildings with different HVAC systems",
+    "Author": "Khadra A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110275",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hogskolan i Gavle",
+    "Affliation Country": "Sweden",
+    "Cited by count": 15,
+    "Abstract": "The EU has adopted several policies to improve energy efficiency. One of these policies aims to achieve energy efficient renovations in at least 3% annually of buildings in EU. The aim of this study was to provide an accurate economic comparison between three similar multi-family buildings that have undergone the same energy efficiency measures, with essential differences regarding the installed ventilation systems. The selected ventilation systems were: 1) balanced mechanical ventilation with heat recovery; 2) exhaust ventilation with air pressure control; and 3) exhaust ventilation with an exhaust air heat pump. In the latter two cases, radiators pre-heat supply air. Life cycle cost analysis were conducted using real investment and operational costs for the three buildings. Sensitivity analysis was also made for different discount rates and energy price escalation patterns. It was found that the building with exhaust ventilation has the lowest life cycle cost. At 2% inflation rate, 3% real discount rate and 1% real energy price escalation, the building with exhaust air heat pump and the building with mechanical ventilation with heat recovery has 13% and 29% higher life cycle cost than the building with exhaust ventilation, respectively. The sensitivity analysis further showed that a lower discount rate gives higher future costs and gives more profitability of systems with heat recovery with lower future costs. Energy price assumptions have a crucial impact on the results and change the profitability of studied renovation packages."
+}

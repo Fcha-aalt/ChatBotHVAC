@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84973402708,
+    "Title": "Support vector regression and genetic algorithm for HVAC optimal operation",
+    "Author": "Chen C.",
+    "Journal": "Mathematical Problems in Engineering",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1155/2016/6212951",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 5,
+    "Abstract": "This study covers records of various parameters affecting the power consumption of air-conditioning systems. Using the Support Vector Machine (SVM), the chiller power consumption model, secondary chilled water pump power consumption model, air handling unit fan power consumption model, and air handling unit load model were established. In addition, it was found that R 2 of the models all reached 0.998, and the training time was far shorter than that of the neural network. Through genetic programming, a combination of operating parameters with the least power consumption of air conditioning operation was searched. Moreover, the air handling unit load in line with the air conditioning cooling load was predicted. The experimental results show that for the combination of operating parameters with the least power consumption in line with the cooling load obtained through genetic algorithm search, the power consumption of the air conditioning systems under said combination of operating parameters was reduced by 22% compared to the fixed operating parameters, thus indicating significant energy efficiency."
+}

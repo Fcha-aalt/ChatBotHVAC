@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175155787,
+    "Title": "Data-driven control of airborne infection risk and energy use in buildings",
+    "Author": "Risbeck M.J.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110893",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Johnson Controls",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The global devastation of the COVID-19 pandemic has led to calls for a revolution in heating, ventilation, and air conditioning (HVAC) systems to improve indoor air quality (IAQ), due to the dominant role of airborne transmission in disease spread. While simple guidelines have recently been suggested to improve IAQ mainly by increasing ventilation and filtration, this goal must be achieved in an energy-efficient and economical manner and include all air cleaning mechanisms. Here, we develop a simple protocol to directly, quantitatively, and optimally control transmission risk while minimizing energy cost. We collect a large dataset of HVAC and IAQ measurements in buildings and show how models of infectious aerosol dynamics and HVAC operation can be combined with sensor data to predict transmission risk and energy consumption. Using this data, we also verify that a simple safety guideline is able to limit transmission risk in full data-driven simulations and thus may be used to guide public health policy. Our results provide a comprehensive framework for quantitative control of transmission risk using all available air cleaning mechanisms in an indoor space while minimizing energy costs to aid in the design and automated operation of healthy, energy-efficient buildings."
+}

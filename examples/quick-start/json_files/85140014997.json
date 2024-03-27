@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140014997,
+    "Title": "A SECOND ORDER INDUCTIVE DEDUCTION APPROACH FOR IDENTIFICATION OF ROOM OCCUPANCY BY WIRELESS SENSORS",
+    "Author": "Jeevaraj D.",
+    "Journal": "Indian Journal of Computer Science and Engineering",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.21817/indjcse/2022/v13i5/221305184",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Bharath Institute of Higher Education and Research",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "Occupancy detection is crucial in many smart building applications, including reducing building energy consumption by managing heating, ventilation, and air conditioning systems, monitoring systems, and lighting system management, tracking patients in hospitals for medical issues, advertising to shoppers in malls, and search and rescue missions. The global positioning system is most frequently employed as a localization technique, yet it is incredibly imprecise when used indoors. The interior environment is challenging to manage because, in addition to the signal loss, privacy is a significant issue. Indoor tracking and wireless sensor network sensor localization share many similarities. Machine Learning helps to overcome the mentioned issues. This research works finds that the Attribute Selected Classifier with Naïve Bayes Updateable of second order ensemble model gives highest performance which as accuracy level 86.69%%, kappa statistic value 0.68, precision value 0.87, recall value 0.87, F-Measure value 0.86, Matthews connection coefficient value 0.68. The Attribute Selected Classifier with Naïve Bayes Updateable of second order ensemble model gives highest performance which as ROC value 0.89 and PRC value 0.89, MAE value 0.15, RMSE value 0.40, RAE value 47.32%, RRSE value 90.11% and it takes time consumption as 0.09 seconds to build a model which is produced an optimal results based on their performance compare with other models. This Attribute Selected Classifiers with Naïve Bayes Updateable model is performing well compare with other models."
+}

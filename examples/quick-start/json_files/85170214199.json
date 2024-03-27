@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85170214199,
+    "Title": "Review of HVAC Systems History and Future Applications",
+    "Author": "Mckoy D.Q.R.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16176109",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "North Carolina A&amp;T College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Today, HVAC (heating, ventilation, and air conditioning) systems have become an integral part of modern buildings and are designed to provide comfortable indoor environments while conserving energy and reducing carbon emissions. With advancement in technology, HVAC systems have a variety of sensors that are used to detect the occupants within a controlled environment. Advancements in computer control systems and the use of smart technology have made HVAC systems even more sophisticated, allowing for approximate temperature control and energy management. This paper will review the historical development of technology and the current state of HVAC systems. With the proper data, development of artificial intelligence models can, in theory, improve the overall optimization and reduce energy consumption This paper will provide a review of HVAC history and the key concepts around the usefulness of using AI from previous research conducted in this field of study."
+}

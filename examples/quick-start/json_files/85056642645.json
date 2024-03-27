@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056642645,
+    "Title": "Demand-controlled ventilation through a decentralized mechanical ventilation unit for office buildings",
+    "Author": "Paolo B.",
+    "Journal": "Simulation Series",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Eurac Research",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "The paper focuses on the energetic and economic profitability of demand-controlled ventilation (DCV) strategies implemented in a decentralized ventilation application for tertiary office buildings.DCV consents to modulate the ventilation rate over time and meet the ventilation demand of the zone minimizing the energypenalty of overventilation. Its cost-effectiveness is however not always guaranteed, since it depends on buildings use, climate, HVAC features and it should be assessed for each application [1].Numerical simulations are carried out for a set of representative European climates to compare the effectiveness of three sensorbased demand-controlled ventilation strategies with a baseline control strategy. To this end, numerical models of the reference zone and the ventilation unit are developed in TRNSYS and the occupancy profile is defined with a stochastic approach to provide a more realistic user behavior.It is found that the energy savings (heating, cooling and fan energy consumption) achieved with sensor-based demand-controlled ventilation are very limited for the selected application in all scenarios. Energy efficiency measures – such as the use of a highefficiency heat recovery unit, the exploitation of free cooling or the installation of an high-performance ventilation unit – can significantly limit the energy savings achieved with DCV."
+}

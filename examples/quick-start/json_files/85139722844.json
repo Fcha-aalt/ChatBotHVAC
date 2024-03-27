@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139722844,
+    "Title": "Using discrete Bayesian networks for diagnosing and isolating cross-level faults in HVAC systems",
+    "Author": "Chen Y.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2022.120050",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Fault detection and diagnosis (FDD) technologies are critical to ensure satisfactory building performance, such as reducing energy wastes and negative impacts on occupant comfort and productivity. Existing FDD technologies mainly focus on component-level FDD solutions, which could lead to mis-diagnosis of cross-level faults in heating, ventilating, and air-conditioning (HVAC) systems. Cross-level faults are those faults that occur in one component or subsystem, but cause operational abnormalities in other components or subsystems, and result in a building level performance degradation. How to effectively diagnose the root cause of a cross-level fault is the focus of this study. This paper presents a novel discrete Bayesian Network (DisBN)-based method for diagnosing cross-level faults in an HVAC system commonly used in commercial buildings. A two-level DisBN structure model is developed in this study. The parameters used in the DisBN model are obtained either from expert knowledge or through machine-learning strategies from normal system operation data. Meanwhile, the probability parameters are discretized to incorporate the uncertainties associated with typical expert knowledge. Thus, the developed DisBN method addresses the challenges many other BN based FDD methods face, i.e., the lack of fault data for BN parameter training. The developed DisBN represents causal relationships between a fault and its cross-level system impacts (i.e., fault symptoms or fault indicators) by considering how fault impacts propagate across different levels in an HVAC system. A weather and schedule information-based Pattern Matching (WPM) method is employed to automatically create WPM baseline data sets for each incoming real time snapshot data from the building systems. Consequently, BN inference and real-time diagnostics are achieved by comparing incoming snapshot data and the WPM baseline data set. The proposed method is evaluated using experimental fault data collected in a campus building. Fault diagnosis results demonstrate that the WPM-DisBN method is effective at locating the root causes of cross-level faults in an HVAC system."
+}

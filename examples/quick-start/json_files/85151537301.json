@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151537301,
+    "Title": "Carbon-cost efficient retrofit of passive and active systems in residential buildings using genetic algorithm",
+    "Author": "Mohtashami N.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.31110",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "In the past two decades, improving the energy performance of existing buildings is a major trend to reduce the environmental impacts since existing buildings make up for the largest share compared to new buildings. The energy consumed in a building consists of both embodied and operational form. However, most current conducted energy optimizations only consider operational energy and remain reluctant to the embodied energy invested in building materials and services during the life cycle of a building. The main innovation of this study is to address both types of operational and embodied energy together and consider building as a whole in order to optimize properties of the envelope and HVAC systems simultaneously. This approach shows a significant difference in optimal carbon-cost efficient retrofit scenarios. The current research uses MOGA (Multi Objective Genetic Algorithm) to minimize CO2 equivalent emissions, and costs in order to find optimal retrofit scenarios for a typical multi-family house (MFH06) according to TABULA building classification for Germany. Findings show four clusters of refurbishment scenarios that are mainly categorized based on the amount of insulation materials. It is also perceived that the most optimal carbon-cost retrofit options focus on increasing the thermal energy storage capacity and remain reluctant in insulating the envelope or changing the windows for a typical multi-family house of 1970s mainly due to high embodied energy in the insulation materials and devices."
+}

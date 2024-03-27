@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964816319,
+    "Title": "Intelligent online sensor monitoring and fault alarm system in heating ventilation and air conditioning systems",
+    "Author": "Guo Y.",
+    "Journal": "Proceedings of the International Conference on Sensing Technology, ICST",
+    "Publication Date": {
+        "$date": "2016-03-21T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICSensT.2015.7438504",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "The heating, ventilation, and air conditioning (HVAC) system is designed to provide thermal comfort and acceptable indoor air quality. A variety of sensing devices (such as temperature, humidity, velocity, or pressure sensors) are installed in the HVAC systems. In a realistic situation, the HVAC system can fail to satisfy performance expectations envisioned because of a variety of problems. This paper presents online sensor monitoring and fault detection techniques, as well as the key sensor sets selection approach to optimise the fault detection results. The methodology presented is also implemented in commercial buildings and experimental results show that different types of faults are detected successfully."
+}

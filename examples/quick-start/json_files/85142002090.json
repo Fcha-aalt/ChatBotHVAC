@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142002090,
+    "Title": "Knowledge-infused deep learning diagnosis model with self-assessment for smart management in HVAC systems",
+    "Author": "Du Z.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2022.125969",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 5,
+    "Abstract": "Deep learning-based AI technology has the inspiring potential for smart management in energy system of smart city. However, deep learning model is not efficient for the untrained application scenarios. This paper proposes the knowledge-infused neural network, integrated with self-assessing capacity to diagnose the faults of HVAC systems. The customized definition of data distribution, which is determined by underlying device type, operational condition, control logic and healthy status, is presented. The dataset of HVAC system is analyzed to obtain its characteristic of in-distribution and out-of-distribution. The C-score based self-assessment strategy is presented to evaluate the prediction of AI model for those out-of-distribution scenarios. To solve the performance decreasing issue under out-of-distribution, knowledge-infused neural network is developed to diagnose various faults of screw and centrifugal chillers. With experimental tests, the models of machine learning, deep learning and knowledge-infused deep learning are compared. Although all of the models show satisfied performance for in-distribution datasets, only knowledge-infused neural network shows the acceptable generalization performance for out-of-distribution datasets. The self-assessment strategy using C-score illustrates the reasonable online evaluation, which matches the real accuracy metrics well. The visual interpretation of original and knowledge-infused residual features gives explanations of its performance improvement."
+}

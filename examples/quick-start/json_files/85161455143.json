@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161455143,
+    "Title": "Using Thermal Wheels for LAFIQ/Fiocruz Air Conditioning System Heat Recovery",
+    "Author": "Rabecchi L.J.P.",
+    "Journal": "Smart Innovation, Systems and Technologies",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-31007-2_39",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mackenzie Presbyterian University",
+    "Affliation Country": "Brazil",
+    "Cited by count": 0,
+    "Abstract": "Thermal wheels are heat exchangers whose function is to recover process heat that has been recently applied in heat and ventilation air conditioning systems (HVAC) to increase energy efficiency. The objective of the present work was to evaluate the reduction in thermal load of the HVAC of the Physical Chemistry Laboratory of Fiocruz in Rio de Janeiro (LAFIQ) that could be achieved by incorporating thermal wheels in the HVAC. The model of the HVAC presented in this study is based on mass and energy balances and on a model of efficiency to represent the operation of the thermal wheels. Correlations were derived for the evaluation of the effectiveness of the thermal wheel, which is based on experimental data from the literature. The proposed model was used to simulate different operational scenarios in order to investigate the reduction in the thermal load promoted by the usage of enthalpic wheels. Reduction in the thermal load varied in the range of 40% to 60% depending on the simulation scenario, showing that incorporating thermal wheels is desirable for increasing energy efficiency."
+}

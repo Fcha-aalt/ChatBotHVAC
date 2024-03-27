@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85033710305,
+    "Title": "Building intelligence - Home operating system for smart monitoring and control",
+    "Author": "Määttä K.",
+    "Journal": "IEEE International Conference on Electro Information Technology",
+    "Publication Date": {
+        "$date": "2017-09-27T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/EIT.2017.8053363",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Teknologian Tutkimuskeskus VTT",
+    "Affliation Country": "Finland",
+    "Cited by count": 9,
+    "Abstract": "People spend most of their time indoors. This is why indoor air quality is one of the key factors affecting our health, activeness and quality of life. Buildings we are living in should give us comfortable and healthy conditions. Buildings equipped with HVAC-systems often operate using default settings with no automation installed causing problems in indoor air quality and building structures. In this paper one possible solution to overcome these problems is described. A solution proposed relies on novel wireless indoor monitoring system and controlling concepts of devices developed at VTT. Furthermore, similar concept of controlling devices is utilized in energy management."
+}

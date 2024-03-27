@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85166210891,
+    "Title": "Optimal Control Strategy for Ship Cabin’s Active Chilled Beam System Using Improved Multi-Objective Salp Swarm Algorithm",
+    "Author": "Liu C.",
+    "Journal": "Journal of Marine Science and Engineering",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/jmse11071396",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Wuhan University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems are the second largest energy consumers on cruise ships after the propulsion system. As a kind of HVAC system, active chilled beam (ACB) systems have been widely used for cabin service due to their performance of energy efficiency and good thermal comfort. However, conventional control strategies for ships’ ACB systems are not intelligent enough and cannot balance energy consumption and cabin comfort during the voyages of ships. This study developed an optimal control strategy for cabins’ ACB systems. First, a simulation environment considering dynamic conditions is established in TRNSYS. Second, an artificial neural network model is utilized to predict the energy consumption of the ACB system, while the predicted percentage dissatisfied is adopted to represent cabins’ thermal discomfort. Third, an improved multi-objective salp swarm algorithm is proposed to dynamically minimize both energy consumption and thermal discomfort. A TRNSYS–MATLAB co-simulation testbed is established to simulate the cabins served by an ACB system on a small cruise ship navigating from Hong Kong to Shanghai for validation tests and a comparison study. Compared to the conventional strategies, the proposed strategy can achieve a maximum energy savings of 12% while maintaining a predicted mean vote index less than 0.5, meeting the comfort requirements set by ASHRAE."
+}

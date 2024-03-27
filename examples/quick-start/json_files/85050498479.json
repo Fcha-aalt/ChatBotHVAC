@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050498479,
+    "Title": "A PID inspired feature extraction method for HVAC terminal units",
+    "Author": "Dey M.",
+    "Journal": "2017 IEEE Conference on Technologies for Sustainability, SusTech 2017",
+    "Publication Date": {
+        "$date": "2018-04-06T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/SusTech.2017.8333470",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "London South Bank University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 7,
+    "Abstract": "Retrofitting older buildings and embedding new building stock with Energy Management Systems (BEMS) is paving the way for smarter energy use and increased well-being awareness and initiatives for occupants. BEMS can discover problems related to energy wastage, user comfort and building maintenance. Remote analysis and categorization of the different Heating, Ventilation and Air-Conditioning (HVAC) Terminal Unit (TU) behaviours based on a unique set of features using BEMS data is the main aim of the proposed work. Hence, a novel feature extraction method inspired by the Proportional Integral Derivative (PID) controller response curve to define events from TU data is proposed and applied to multidimensional, real-time data streams remotely retrieved from a building based in the city of London. The feature extraction method executing across different TUs and the feature sets obtained, have been used to identify different TU behaviour patterns. Subsequently, unsupervised machine learning has been employed to study faulty and non-faulty TUs."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146571264,
+    "Title": "PANDEMIC: Occupancy driven predictive ventilation control to minimize energy consumption and infection risk",
+    "Author": "Jiang Z.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-03-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.120676",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "During the SARS-CoV-2 (COVID-19) pandemic, governments around the world have formulated policies requiring ventilation systems to operate at a higher outdoor fresh air flow rate for a sufficient time, which has led to a sharp increase in building energy consumption. Therefore, it is necessary to identify an energy-efficient ventilation strategy to reduce the risk of infection. In this study, we developed an occupant-number-based model predictive control (OBMPC) algorithm for building ventilation systems. First, we collected the occupancy and Heating, ventilation, and air conditioning system (HVAC) data from March to July 2021. Then, four different models (Auto regression moving average-based multilayer perceptron (ARMA_MLP), Recurrent neural networks (RNN), Long short-term memory networks (LSTM), and Nonhomogeneous Markov with change points detection (NH_Markov)) were used to predict the number of room occupants from 15 min to 24 h ahead with an interval output. We found that each model could predict the number of occupants with 85 % accuracy using a one-person offset. The accuracy of 15 min of the ahead prediction could reach 95 % with a one-person offset, but none of them could track abrupt changes. The occupancy prediction results were used to calculate the ventilation demand using the Wells-Riley equation, and the upper bound can maintain an infection risk lower than 2 % for 93 % of the day. This OBMPC model could reduce the coil load by 52.44 % and shift the peak load by 3 h up to 5 kW compared with 24 × 7 h full outdoor air (OA) system when people wear masks in the space. The occupancy prediction uncertainty could cause a 9 % to 26 % difference in demand ventilation, a 0.3 °C to 2.4 °C difference in zone temperature, a 28.5 % to 44.5 % difference in outdoor airflow rate, and a 10.7 % to 28.2 % difference in coil load."
+}

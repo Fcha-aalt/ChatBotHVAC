@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148943048,
+    "Title": "An intelligent HVAC control strategy for supplying comfortable and energy-efficient school environment",
+    "Author": "Cho J.",
+    "Journal": "Advanced Engineering Informatics",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.aei.2023.101895",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 4,
+    "Abstract": "In South Korea, school buildings require significant energy inputs for heating and air-conditioning, and the majority of the occupants are adolescent students, whose health and cognitive performance are vulnerable to poor indoor air quality (IAQ) and thermal discomfort. Using field measurements, some previous studies have reported that some Korean schools have poor IAQ and thermal conditions. Thus, it is necessary to develop effective heating, ventilation, and air-conditioning (HVAC) control strategies to improve the indoor environment and reduce energy consumption. Therefore, this study proposes an intelligent HVAC integrated control strategy that can improve indoor environmental quality (IEQ) and reduce energy consumption in school buildings. The proposed strategy utilizes an integrated neural network prediction model for IEQ and a heuristic method that can optimize control objectives (i.e., the predicted mean vote [PMV], carbon dioxide [CO2], particulate matter with diameters of 10 and 2.5 μm [PM10 and PM2.5, respectively], and HVAC energy consumption). To evaluate the control performance of the proposed strategy, the present study employs two base algorithms (i.e., a rule-based and a non-adaptive control approach) under non-disturbance and forcing disturbance scenarios. The control failure period for PMV is found to be 1.6420% and 9.4773% of the total occupancy period under the non-disturbance and forcing disturbance scenarios, respectively, while CO2 control failure does not occur under either scenario. The control failure periods for PM10 and PM2.5 were 5.1676%, and 7.1844%, respectively, under forcing disturbance. Under the non-disturbance scenario, the proposed strategy consumed 2,467.07 kWh and 870,26 kWh for heating and cooling, respectively, representing 91.1% and 84.08% of that for the rule-based algorithm. The proposed strategy can thus effectively improve the IEQ of a building and has the potential for use in the development of integrated environmental management solutions for buildings."
+}

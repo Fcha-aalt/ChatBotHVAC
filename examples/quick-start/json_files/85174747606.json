@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174747606,
+    "Title": "Data-driven HVAC Control Using Symbolic Regression: Design and Implementation",
+    "Author": "Ozawa Y.",
+    "Journal": "IEEE Power and Energy Society General Meeting",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/PESGM52003.2023.10253270",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Osaka University",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "The large amount of data collected in buildings makes energy management smarter and more energy efficient. This study proposes a design and implementation methodology of data-driven heating, ventilation, and air conditioning (HVAC) control. Building thermodynamics is modeled using a symbolic regression model (SRM) built from the collected data. Additionally, an HVAC system model is also developed with a data-driven approach. A model predictive control (MPC) based HVAC scheduling is formulated with the developed models to minimize energy consumption and peak power demand and maximize thermal comfort. The performance of the proposed framework is demonstrated in the workspace in the actual campus building. The HVAC system using the proposed framework reduces the peak power by 16.1% compared to the widely used thermostat controller."
+}

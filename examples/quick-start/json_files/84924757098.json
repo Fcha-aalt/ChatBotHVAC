@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84924757098,
+    "Title": "Black-box modeling of residential HVAC system and comparison of gray-box and black-box modeling methods",
+    "Author": "Afram A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2015-05-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enbuild.2015.02.045",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 111,
+    "Abstract": "In this article, black-box models of the residential heating, ventilation and air conditioning (HVAC) system are developed. The data of the input and output of the system is measured and the models of the energy recovery ventilator (ERV), air handling unit (AHU), buffer tank (BT), radiant floor heating (RFH) and ground source heat pump (GSHP) are developed using the system identification techniques in Matlab®. The developed models include models based on multiple-input and multiple-output (MIMO) artificial neural network (ANN), transfer function (TF), process, state-space (SS) and autoregressive exogenous (ARX) ones of each HVAC subsystem (ERV, AHU, BT and RFH). The gray-box models of the same HVAC subsystems were developed in [1] which are also compared with the black-box models developed in this article. The models were compared visually and analytically. Ranks of the models were calculated based on their relative performance. It was found that the ANN outperforms the other modeling methods followed by the ARX, TF, SS, process and gray-box models respectively."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85015756707,
+    "Title": "Modeling and Implementation of Electroactive Smart Air-Conditioning Vent Register for Personalized HVAC Systems",
+    "Author": "Yan J.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ACCESS.2017.2664580",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "This paper presents a novel heating, ventilation, and air-conditioning system that can achieve significant energy savings. A smart register that can reduce overall energy costs by up to 30%, compared to conventional devices, is demonstrated. A high abstraction model based on a computational fluid dynamics (CFD) simulation is developed to predict the diffused airflow from the register. The model is validated to within a 10% error, and is found to be 1000 times more efficient than the detailed CFD simulations. Finally, a prototype of the electroactive smart air-conditioning vent register is implemented, and adjustments of the register's tunnels are implemented."
+}

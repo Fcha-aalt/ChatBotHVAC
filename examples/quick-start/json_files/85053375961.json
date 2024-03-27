@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053375961,
+    "Title": "Thermal-sensor-based occupancy detection for smart buildings using machine-learning methods",
+    "Author": "Zhao H.",
+    "Journal": "ACM Transactions on Design Automation of Electronic Systems",
+    "Publication Date": {
+        "$date": "2018-07-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3200904",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 30,
+    "Abstract": "In this article, we propose a novel approach to detect the occupancy behavior of a building through the temperature and/or possible heat source information. The new method can be used for energy reduction and security monitoring for emerging smart buildings. Our work is based on a building simulation program, EnergyPlus, from the Department of Energy. EnergyPlus can model various time-series inputs to a building such as ambient temperature; heating, ventilation, and air-conditioning (HVAC) inputs; power consumption of electronic equipment; lighting; and number of occupants in a room, sampled each hour, and produce resulting temperature traces of zones (rooms). Two machine-learning-based approaches for detecting human occupancy of a smart building are applied herein, namely support vector regression (SVR) and recurrent neural network (RNN). Experimental results with SVR show that the four-feature model provides accurate detection rates, giving a 0.638 average error and 5.32% error rate, and the five-feature model delivers a 0.317 average error and 2.64% error rate. This indicates that SVR is a viable option for occupancy detection. In the RNN method, Elman's RNN can estimate occupancy information of each room of a building with high accuracy. It has local feedback in each layer and, for a five-zone building, it is very accurate for occupancy behavior estimation. The error level, in terms of number of people, can be as low as 0.0056 on average and 0.288 at maximum, considering ambient, room temperatures, and HVAC powers as detectable information. Without knowing HVAC powers, the estimation error can still be 0.044 on average, and only 0.71% estimated points have errors greater than 0.5. Our article further shows that both methods deliver similar accuracy in the occupancy detection. But the SVR model is more stable for adding or removing features of the system, while the RNN method can deliver more accuracy when the features used in the model do not change a lot."
+}

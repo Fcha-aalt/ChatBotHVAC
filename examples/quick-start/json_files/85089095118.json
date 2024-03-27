@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089095118,
+    "Title": "User comfort driven time-table linked AHU scheduling for ancillary service maximization of an educational building",
+    "Author": "Kumar Yadav M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-10-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110317",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Indian Institute of Technology Delhi",
+    "Affliation Country": "India",
+    "Cited by count": 5,
+    "Abstract": "Thermal energy dynamics of a large building can be turned up as a substantial source of ancillary service for the grid. This paper presents that how the potential of Air Handling Unit (AHU) of Heating Ventilation and Air Conditioning (HVAC) system can be utilized as a virtual source of an ancillary service by regulating it in real time according to its thermal load. Internet of Things (IoT) enabled real time controller is proposed where the thermal comfort of occupants is used as feedback to control the AHU fans. The key challenge corresponding to the AHU is, nonlinear torque characteristics of fan with respect to required air flow rate at a thermal load on AHU. To address this problem an Adaptive Neuro Fuzzy Inference System is used to model the nonlinear property of the AHU fan. In this system it has two-part integration, IoT based controller and ANFIS based model with thermal model of building. To evaluate the algorithm, first, the reserved ancillary potential is calculated based on weekly class schedule. Secondly, it has been controlled in real time as per the thermal comfort of occupants to maximize the potential of ancillary service through the HVAC system. To analyze the response of the algorithm for a building, this set-up is scaled up at the level of AHU network installed in the lecture hall complex of an educational building in Delhi. The proposed algorithm has been tested and analyzed on an experimental set-up, synchronized with the thermal-dynamic model of building in MATLAB. It shows that there is a potential of ancillary service up to 97 kW in non-scheduled period and for the scheduled period it can be increased by 20% to 59% of available reserve power."
+}

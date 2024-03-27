@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048537265,
+    "Title": "Thermal management optimization of a heat-pump-based HVAC system for cabin conditioning in electric vehicles",
+    "Author": "De Nunzio G.",
+    "Journal": "2018 13th International Conference on Ecological Vehicles and Renewable Energies, EVER 2018",
+    "Publication Date": {
+        "$date": "2018-05-21T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/EVER.2018.8362408",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "IFP Energies nouvelles",
+    "Affliation Country": "France",
+    "Cited by count": 10,
+    "Abstract": "One of the biggest barriers towards large scale adoption of electric and plug-in hybrid cars is still range limitation due to limited storage capacity of electric batteries. The air conditioning system for passenger comfort and the thermal conditioning system (battery and powertrain) are critical auxiliary consumers in electric vehicles with respect to energy consumption. Therefore, the Horizon 2020 project 'OPTEMUS' proposes to tackle this bottleneck by leveraging heat pump technology and a holistic thermal system optimization approach. This paper presents the optimization strategy used for energy-efficient cabin conditioning in cold weather condition and simulation results of the air conditioning system including a heat pump. This system is capable of using the ambient air or a preconditioned battery as heat source, thus significantly reducing overall energy consumption."
+}

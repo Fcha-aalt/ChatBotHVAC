@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072760413,
+    "Title": "Performance Assessment of University Buildings Based on Provided Thermal Comfort",
+    "Author": "Yildirim N.",
+    "Journal": "2019 2nd Asia Conference on Energy and Environment Engineering, ACEEE 2019",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ACEEE.2019.8817007",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Yaşar Universitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 4,
+    "Abstract": "Buildings and industry cover the largest share of total energy consumption. When the distribution of energy consumption in buildings is examined, it is seen that the most important part is air conditioning systems. Therefore, improving the energy consumption of air conditioning systems or using more efficient systems have great importance. The factors affecting the energy consumption of air conditioning systems are system type, capacity, design, operation and climate conditions and user interventions.Yasar University is the first University having the TS EN ISO 50001:2011 Energy Management System Standard Certification in Turkey. Since the buildings and their systems are different in the Campus, the new performance indicators are necessary to evaluate energy performance of the buildings. In this regard, addition to existing energy metering system, thermal comfort measurement devices were installed in some classes and offices in the campus.In this study, performance assessment of two buildings in the Campus of Yasar University has been done based on their specific energy consumption and provided thermal comfort to the classes. Thus, the relationship between energy consumption and thermal comfort in buildings is revealed and suggestions are presented to increase energy efficiency."
+}

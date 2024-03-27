@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85007107464,
+    "Title": "Equivalent full-load hours for assessing climate change impact on building cooling and heating energy consumption in large Asian cities",
+    "Author": "Spandagos C.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.apenergy.2016.12.039",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hong Kong University of Science and Technology",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 76,
+    "Abstract": "Estimating cooling and heating energy requirements is an integral part of designing and managing buildings. Further, as buildings are among the largest energy consumers in cities, the estimates are important for formulating effective energy conservation strategies. Where complex hourly simulation models are not favored, such estimates may be derived by simplified methods that are less computationally intensive but still provide results that are reasonably close to those obtained from the more complicated approach. The equivalent full load hours (EFLH) method is a simplified energy estimation method that has recently gained popularity. It offers a straightforward means of evaluating energy efficiency programs. However, to date, easily accessible EFLH data exist only for a very limited number of countries in North America and Europe, but not Asia. This current work provides previously unavailable monthly EFLH data for building cooling and heating in three large Asian cities, viz. Hong Kong, Seoul and Tokyo. To assess the effects of changing temperature over the course of decades on building cooling and heating energy consumption, EFLH data are calculated for three time periods: past (1983–2005), present (2006–2014) and future (2015–2044). The projections for the future time period are based on the climate scenarios Representative Concentration Pathways (RCPs) 4.5 and 8.5 of the Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report. RCP-4.5 assumes a stabilization of future greenhouse gas (GHG) emissions followed by a reduction, while RCP-8.5 assumes their further increase. From the EFLH data, considering just the effects of ambient temperature changes, it is projected the total energy required to heat and/or cool residential dwellings in Hong Kong, Seoul and Tokyo to increase by 18.3%, 4% and 10.4%, respectively over 62 years from 1983 to 2044 in the case of RCP-4.5, and by 23.3%, 9.3% and 15.8%, respectively in the case of RCP-8.5. This shows that even with future stabilization and reduction of GHG emissions, as per scenario RCP-4.5, the energy needs of the three cities for building heating and cooling combined can be expected to increase over the next few decades. This has significant implications, namely increased demands for additional primary energy, which will result in further GHG emissions. These effects, however, can be controlled with adjustments to the electricity fuel mix of each location, and also by use of more efficient heating, ventilation and air-conditioning (HVAC) devices."
+}

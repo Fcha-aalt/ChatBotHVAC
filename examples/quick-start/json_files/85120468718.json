@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120468718,
+    "Title": "Data-driven based HVAC optimisation approaches: A Systematic Literature Review",
+    "Author": "Ala'raj M.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2021.103678",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Zayed University",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 32,
+    "Abstract": "Improving the energy efficiency of Heating, Ventilation, and Air Conditioning (HVAC) systems is crucial to reduce buildings’ energy costs and their carbon footprint. HVAC systems are complex, large-scale structures with pure lag time and high thermal inertia. Although traditionally, physical-based methods have been used to model, control and optimise them, data-driven approaches have demonstrated to be more application relevant, easier to compute and better suited to handle nonlinearities. Based only on measured or estimated data, data-driven approaches are highly dependent on the quality of the used data. In recent years, the advances in Information and Communication Technology (ICT), decreasing hardware cost, and improving data accessibility, have allowed the collection and storage of a large amount of high-quality building-related data, allowing the development of more accurate and robust data-driven approaches, making them gain great popularity in HVAC applications. In this paper, a Systematic Literature Review (SLR) based on a database search is conducted to give an in-depth insight into the major challenges regarding modelling, controlling and optimising HVAC systems, making the especial focus on the capability of data-driven models to improve their energy performance while keeping the users’ comfort. The main results of the SLR highlight the importance of taking users’ needs into account when modelling, controlling and optimising HVAC systems to avoid their underutilisation. In particular, the increasing tendency to include users’ feedback into Model Predictive Control (MPC) loops and use easy-to-access technologies, such as WiFi and Smartphone Applications (Apps), to acquire users’ information suggests promising future research horizons."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082716809,
+    "Title": "Combined refrigeration, heating and air conditioning systems in supermarkets: Seeking energy efficient solutions",
+    "Author": "D'Agaro P.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.18462/iir.icr.2019.0771",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Udine",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "A deep synergy between the refrigeration and the HVAC plants is a viable solution to reduce the energy use of supermarkets. Not only heat recovery can be performed from the refrigerating plant in favour of space heating and hot water production, but also provision of AC capacity. A model based on TRNSYS and in-house types, validated with field data gathered from a fully instrumented plant in an active supermarket, allows to seek the optimal coupled solution. The model has been used to predict its feasibility and energy use at different climate conditions, for a reference supermarket. An energy saving of about 9% was predicted, regardless of the climate conditions, if the energy performance quality of the building envelope is kept constant. The integration of the refrigeration and HVAC systems shows to be effective in terms of energy use. Significant reductions can also be obtained in the investment costs, space occupied by the plants and amount of refrigerant charge."
+}

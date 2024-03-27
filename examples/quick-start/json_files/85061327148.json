@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061327148,
+    "Title": "Support vector machine based fault detection and diagnosis for HVAC systems",
+    "Author": "Li J.",
+    "Journal": "International Journal of Intelligent Systems Technologies and Applications",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1504/IJISTA.2019.097752",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 17,
+    "Abstract": "Various faults occurred in the heating, ventilation and air-conditioning (HVAC) systems usually lead to more energy consumption and worse thermal comfort inevitably. This paper presents a feasible and valid solution of HVAC fault detection and diagnosis (FDD) problem based on statistical machine learning technology. It learns the consistent nature of different types of faults of HVAC operation based on support vector machine (SVM), and then identify types of fault in all subsystems using the statistical relationships between groups of measurements. In order to speed up the learning process, principle component analysis (PCA) has been applied to compress the training data. Our approach models the dynamical sub-systems and sequence data in HVAC system. The learnt models can then be used for automatic fault detection and diagnosis. The approach has been tested on commercial HVAC systems. It had successfully detected and identified a number of typical AHU faults."
+}

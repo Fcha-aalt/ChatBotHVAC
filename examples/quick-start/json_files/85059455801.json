@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059455801,
+    "Title": "Comparison of EnergyPlus and IES to model a complex university building using three scenarios: Free-floating, ideal air load system, and detailed",
+    "Author": "Al-janabi A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2019-03-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.jobe.2018.12.022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Manitoba",
+    "Affliation Country": "Canada",
+    "Cited by count": 54,
+    "Abstract": "The energy performance gap is one of the most discussed issues in the design community since energy modeling became an integral part of the building design process. Different limitations apply to almost every building performance simulation (BPS) software available today and to have confidence in the predictions of whole-building energy models it is necessary to have a thorough understanding of various features, specific capabilities, and disadvantages of BPS tools. The main contribution of this work is the use of three methods of evaluation with different levels of complexity, free-floating, ideal air load system, and detailed method to analyze and compare the capabilities of EnergyPlus and IES to model complex LEED silver multi-purpose university building. Consequently, this study provides new information regarding capabilities of two extensively used BPS tools to model advanced and innovative buildings, and in particular HVAC systems that are increasingly becoming used in high-performance commercial and institutional buildings worldwide. The difference between the total energy consumptions of the EnergyPlus and IES models developed according to the final construction drawings was approximately 2.1%, whereas differences between the heating and cooling loads of the EnergyPlus and IES models with ideal air load systems were 6 MWh (1.7%) and 0.86 MWh (7.8%), respectively. The high consistency between the models’ aggregated predictions are particularly pertinent and encouraging for certification programs such as LEED, which take into account aggregated energy consumption data in their assessments. The findings also emphasize the importance of the modeler's assumptions regarding the modeling of HVAC systems and their impact on the model's predictions."
+}

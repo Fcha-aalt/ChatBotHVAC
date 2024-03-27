@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130645301,
+    "Title": "Learning Efficient Dynamic Controller for HVAC System",
+    "Author": "Xu D.",
+    "Journal": "Mobile Information Systems",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1155/2022/4157511",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "People employ a variety of devices to achieve comfort in various aspects of their lives; for example, numerous types of air conditioners are used to maintain a pleasant indoor temperature. The wide applications of heating, ventilation, and air conditioning (HVAC) systems have significantly improved the comfort level of the indoor environment for commercial buildings. However, air conditioners have their own set of issues, the most significant of which is the increased energy usage. Besides the fact that HVAC is a recent move toward the indoor temperature adjustment, the energy cost that arose from the HVAC system is still high, which takes up over 40% of the total energy. How to develop an energy-eicient HVAC system has become one of the challenging topics that need further investigation. This paper addresses this problem with the aid of deep learning (DL) algorithms. Furthermore, this study proposes an energy-eicient controller and improvement schemes for HVAC systems based on deep reinforcement learning algorithms. To reduce the implementation cost of the proposed design, this study utilizes neural network pruning techniques to develop a low-complexity HVAC controller. The experimental results show that the algorithm proposed in this study not only retains a high energy-saving rate but also reduces the implementation cost of the HVAC control algorithm."
+}

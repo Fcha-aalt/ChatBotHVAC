@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103467851,
+    "Title": "Energy-Efficient Thermal Comfort Control in Smart Buildings",
+    "Author": "Abdulgader M.",
+    "Journal": "2021 IEEE 11th Annual Computing and Communication Workshop and Conference, CCWC 2021",
+    "Publication Date": {
+        "$date": "2021-01-27T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/CCWC51732.2021.9376175",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Bowling Green State University",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "The heating, ventilation, and air conditioning (HVAC) systems in commercial buildings consume 20%-40% of the USA's total building energy consumption. This paper proposes a novel energy-efficient thermal comfort model for smart building environment conditioning systems to reduce energy consumption and maximize occupants' thermal comfort in smart buildings. We propose the system design of a thermal comfort system that would increase comfort for building occupants to reduce energy consumption, even taking into account outliers in groups such as people of different ages. The data was collected in the sensing stage using the ASHRAE RP-884 database. We then adopt a machine learning approach for predicting the thermal sensation vote (TSV) of the thermal comfort model using different machine learning algorithms. This is accomplished by introducing four machine learning algorithms, including Multiple Linear Regression (MLR), Support Vector Regression (SVR), Random Forest Regression (RFR), and Decision Tree Regression (DTR). We evaluate the model using the test set's generalization error to determine how well the predicted model will perform. Finally, we conducted a simulation experiment to evaluate the performance of the proposed machine algorithms."
+}

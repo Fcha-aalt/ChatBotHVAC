@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120818076,
+    "Title": "Energy management model for hvac control supported by reinforcement learning",
+    "Author": "Macieira P.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14248210",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Grupo de Investigação em Engenharia e Computação Inteligente para a Inovação e o Desenvolvimento",
+    "Affliation Country": "Portugal",
+    "Cited by count": 7,
+    "Abstract": "Heating, ventilating, and air conditioning (HVAC) units account for a significant consumption share in buildings, namely office buildings. Therefore, this paper addresses the possibility of having an intelligent and more cost-effective solution for the management of HVAC units in office buildings. The method applied in this paper divides the addressed problem into three steps: (i) the continuous acquisition of data provided by an open-source building energy management systems, (ii) the proposed learning and predictive model able to predict if users will be working in a given location, and (iii) the proposed decision model to manage the HVAC units according to the prediction of users, current environmental context, and current energy prices. The results show that the proposed predictive model was able to achieve a 93.8% accuracy and that the proposed decision tree enabled the maintenance of users’ comfort. The results demonstrate that the proposed solution is able to run in real-time in a real office building, making it a possible solution for smart buildings."
+}

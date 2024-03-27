@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107673093,
+    "Title": "Community-scale interaction of energy efficiency and demand flexibility in residential buildings",
+    "Author": "Munankarmi P.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2021-09-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.apenergy.2021.117149",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Renewable Energy Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 36,
+    "Abstract": "Demand-side management (DSM) strategies, including energy efficiency (EE) and demand flexibility (DF), contribute to cost-effective operation of the electricity grid. From a system-level perspective, such programs reduce costs, enhance reliability, and reduce network issues. Similarly, DSM programs help participating customers reduce utility bills while maintaining occupant comfort. Understanding the relationship between EE and DF is key to realizing the full potential of DSM programs. In this study, we modeled an all-electric residential community based on a 498-home community that is planned for construction in Fort Collins, Colorado in the United States. We used this community model to study the relationship between different EE measures, including building envelope upgrades and smart appliances, and DF enabled by a home energy management system (HEMS) responding to a time-varying tariff. Various EE levels in the homes – code-minimum, zero energy ready, and even higher levels of envelope efficiency – were simulated. DF is enabled by the HEMS, which coordinates behind-the-meter resources, including flexible building loads, PV, and home battery systems, to minimize utility bills while maintaining occupant comfort. When comparing to the code-minimum homes, EE upgrades alone reduce HVAC energy use during peak hours by up to 50% and the HVAC utility bill by up to $312/year. With the addition of HEMS, the average daily peak demand can be reduced by up to 0.58 MW or 1.2 kW/home in the higher envelope efficiency homes. The combination of EE upgrades, HEMS, and home battery systems is expected to save homeowners up to $590/year while increasing community load flexibility. However, HEMS and home battery systems are less effective in increasing the DF in the more efficient homes due to the lower load."
+}

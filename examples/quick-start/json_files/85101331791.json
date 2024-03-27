@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101331791,
+    "Title": "A comparative study on energy performance assessment for HVAC systems in high-tech fabs",
+    "Author": "Zhao Y.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jobe.2021.102188",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chongqing University",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "High-technology fabrication plants (fabs) such as semiconductors generally consume enormous energy, where HVAC system accounts for the second largest part at roughly 40–50%. Therefore, the energy performance for HVAC system in semiconductor industry is undoubtedly essential. In this study, several EPMs (Energy Performance Metrics), namely SCL, ωscl, EIAFR, was proposed to estimate and assess the energy using for HVAC system in a fab through the analysis of theoretical model and influential factors. The energy performance comparison cases were conducted in both sub-system level and system level through comparative analysis on the operation data, simultaneously the presented EPMs were verified and applied in two air systems and two fabs studied. Most importantly, the results show the advantages of SCL in estimating overall cooling load in high-tech fabs, which can be used in the future for designing HVAC system in fabs that with higher energy efficiency and ωscl that can be applied to evaluating the stability and validation in maintaining indoor environmental metrics including indoor temperature, humidity, particles and pressure difference. Moreover, it is generally proved that the annual EPMs like EIAFR (kWh/Air Flow Rate) turn to provide more consistent comparison than the traditional metrics like EI kWh/Floor Area) and SEUP (kWh/Unit of Production) in assessing overall energy performance of HVAC system in high-tech fabs."
+}

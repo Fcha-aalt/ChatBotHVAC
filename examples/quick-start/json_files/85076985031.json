@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076985031,
+    "Title": "Overview of Legacy AC Automation for Energy-Efficient Thermal Comfort Preservation",
+    "Author": "Terzopoulos M.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/978-3-030-34995-0_59",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Democritus University of Thrace",
+    "Affliation Country": "Greece",
+    "Cited by count": 1,
+    "Abstract": "The rapid maturity of everyday sensor technologies has had a significant impact on our ability to collect information from the physical world. There are tremendous opportunities in using sensor technologies (both wired and wireless) for building operation, monitoring and control. The key promise of sensor technology in building operation is to reduce the cost of installing data acquisition and control systems (typically 40% of the cost of controls technology in a heating, ventilation, and air conditioning (HVAC) system). Reducing or eliminating this cost component has a dramatic effect on the overall installed system cost. With low-cost sensor and control systems, not only will the cost of system installation be significantly reduced, but it will become economical to use more sensors, thereby establishing highly energy efficient building operations and demand responsiveness that will enhance our electric grid reliability."
+}

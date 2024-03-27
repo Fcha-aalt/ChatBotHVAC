@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081680086,
+    "Title": "Retail electricity pricing via online-learning of data-driven demand response of HVAC systems",
+    "Author": "Yoon A.Y.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.apenergy.2020.114771",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pohang University of Science and Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 30,
+    "Abstract": "This paper proposes an online-learning-based strategy for a distribution system operator (DSO) to determine optimal retail prices, considering the optimal operations of heating, ventilation, and air-conditioning (HVAC) systems in commercial buildings. An artificial neural network (ANN) is trained online with building energy data and represented using an explicit set of linear and nonlinear equations. An optimization problem for price-based demand response (DR) is then formulated using the explicit ANN model and repeatedly solved, producing data on optimal HVAC load schedules for various profiles of electricity prices and building environments. Another ANN is then trained online to predict directly the optimal load schedules, which is referred to as meta-prediction (MP). By replacing the DR optimization problem with the MP-enabled ANN, optimal retail electricity pricing can be achieved using a single-level decision-making structure. Consequently, the pricing optimization problem becomes simplified, enabling easier implementation and increased scalability for HVAC systems in a large distribution grid. In case studies, the proposed single-level pricing strategy is verified to successfully reflect the game-theoretic relations between the DSO and building operators, such that they effectively achieve their own objectives via the operational flexibility of the HVAC systems, while ensuring grid voltage stability and occupants’ thermal comfort."
+}

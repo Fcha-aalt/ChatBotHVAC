@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139420375,
+    "Title": "Building performance assessment of a retrofitted case study in Florence. Lessons learned from current practices",
+    "Author": "Donato A.",
+    "Journal": "International Journal of Sustainable Building Technology and Urban Development",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.22712/susb.20220023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Firenze",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Most residential buildings are not energy efficient and are still generally powered by fossil fuels. Concerning their renovations, the European Community introduced new minimum energy performance standards stimulating energy renovation of existing building stock and providing financial support for the necessary upfront investment. In this framework, the efforts to advance NZEBs in Italy, like in the other EU countries, focus on the existing buildings' deep renovation according to national energy labeling and the European Long-Term Strategy to 2050. For this purpose, it is therefore essential to support the design phase with energy simulations and tools to analyze the results achieved before and after the renovation. Thus, this paper focuses on analyzing a deep renovation of a terraced house in Florence, finalized to improve structural and energy performances through the building envelope and HVAC refurbishment. Furthermore, dynamic simulation tools have been used to perform a model-based analysis of the building performances to assess the effectiveness of retrofit measures, before and after building renovation. Two different thermal models have been compared in terms of energy demand for heating and cooling and thermal comfort parameters (PMV and PPD). Moreover, there is an improvement in thermal comfort throughout the year. Finally, a post-occupancy monitoring campaign on thermal comfort and Indoor Air Quality (IAQ) has been carried out to investigate comfort perceived by users in the winter season."
+}

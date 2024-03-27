@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100257582,
+    "Title": "Predictive maintenance in building facilities: A machine learning-based approach",
+    "Author": "Bouabdallaoui Y.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-02-02T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/s21041044",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université de Lille",
+    "Affliation Country": "France",
+    "Cited by count": 54,
+    "Abstract": "The operation and maintenance of buildings has seen several advances in recent years. Multiple information and communication technology (ICT) solutions have been introduced to better manage building maintenance. However, maintenance practices in buildings remain less efficient and lead to significant energy waste. In this paper, a predictive maintenance framework based on machine learning techniques is proposed. This framework aims to provide guidelines to implement predictive maintenance for building installations. The framework is organised into five steps: data collection, data processing, model development, fault notification and model improvement. A sport facility was selected as a case study in this work to demonstrate the framework. Data were collected from different heating ventilation and air conditioning (HVAC) installations using Internet of Things (IoT) devices and a building automation system (BAS). Then, a deep learning model was used to predict failures. The case study showed the potential of this framework to predict failures. However, multiple obstacles and barriers were observed related to data availability and feedback collection. The overall results of this paper can help to provide guidelines for scientists and practi-tioners to implement predictive maintenance approaches in buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964809775,
+    "Title": "Crowd-sourcing home energy efficiency measurement system",
+    "Author": "Son Y.",
+    "Journal": "International Conference on ICT Convergence 2015: Innovations Toward the IoT, 5G, and Smart Media Era, ICTC 2015",
+    "Publication Date": {
+        "$date": "2015-12-11T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/ICTC.2015.7354794",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Electronics and Telecommunications Research Institute",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "This paper describes crowd-sourcing home energy efficiency measurement system that includes ways for logging, analyzing, mining, measuring and recommending energy usage activity at home. These activities are based on HVAC devices (air-conditioner, boiler, and temperature sensors. Our system can help to build more valuable applications for management, resource optimization and upgrading user experience. In energy efficiency analyzing, heterogeneous environments make it to be difficult to accurately analyze and predict energy use in mild climates than in more severe climate. Individual sensing and measuring can cause inaccurate data and each home's analysis does not make a respectable result. In this paper, we can achieve crowd-sourcing home data gathering and manipulating data analysis for energy efficiency at home."
+}

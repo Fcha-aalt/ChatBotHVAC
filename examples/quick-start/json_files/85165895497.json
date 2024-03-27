@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85165895497,
+    "Title": "Performance analysis of interactive cascade ventilation combined with solar energy for the epidemic prevention and control",
+    "Author": "Li H.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.121580",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hebei University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Increasing low-grade and renewable energy sources in the HVAC systems has become necessary to reduce heating energy consumption. Hence, seeking a new air conditioning system that can be combined with renewable energy is significant to maintain a healthy and comfortable indoor environment with a low cost. This paper proposes a novel air source heat pumps assisted solar hot water with interactive cascade ventilation system (shortened as SWAP-ICV). Taking the traditional air source heat pumps with mixing ventilation system (AP-MV) as a reference, the virus control performance and energy efficiency of SWAP-ICV is investigated through CFD and TRNSYS simulations. The results demonstrate that interactive cascade ventilation under full-fresh air operation mode and normal-epidemic linkage mode can make the annual infection risk reduce by 41.16% and 9.33% compared with mixing ventilation under full-fresh air operation mode. Meanwhile, the proposed system can reduce energy consumption by 59.92% and 69.8% during the normal period and epidemic period by introducing solar energy. The average system COP during the heating season indicates that SWAP-ICV can improve the system efficiency by 1.9–2.58 times than AP-MV system. The conclusions obtained from this research can provide new ideas for the design and operation of air conditioning systems in the post-epidemic era."
+}

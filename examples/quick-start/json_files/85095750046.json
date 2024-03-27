@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095750046,
+    "Title": "Data-driven demand control ventilation using machine learning CO<inf>2</inf>occupancy detection method",
+    "Author": "Momeni M.",
+    "Journal": "ECOS 2020 - Proceedings of the 33rd International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indiana University-Purdue University Indianapolis",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) system accounts for approximately 40% of total building energy consumption in the United States. Currently, most buildings still utilize constant air volume (CAV) systems with on/off control to meet the thermal loads. Such systems, without any consideration of occupancy, may ventilate a room excessively and result in a waste of energy. Previous studies show that CO2-based demand-controlled ventilation methods are the most widely used strategies to determine the optimal level of supply air volume. However, conventional CO2mass balanced models do not yield an optimal estimation accuracy. In this manuscript, a data-driven control strategy was developed to optimize the energy consumption of supply fans by feed-forward neural network to predict real-time occupancy as an active constraint. As for the validation, the experiment was carried out in an auditorium located on a university campus. The result shows, after utilizing feed-forward neural network to enhance the occupancy estimation, the new primary fan schedule can reduce the daily ventilation energy by 75% when compared to the current on/off control."
+}

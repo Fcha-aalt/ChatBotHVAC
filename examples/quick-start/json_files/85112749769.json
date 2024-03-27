@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85112749769,
+    "Title": "Reinforcement Learning for Building Energy Optimization through Controlling of Central HVAC System",
+    "Author": "Hao J.",
+    "Journal": "IEEE Open Access Journal of Power and Energy",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/OAJPE.2020.3023916",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Daniel Felix Ritchie School of Engineering &amp; Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "This paper presents a novel methodology to control HVAC system and minimize energy cost on the premise of satisfying power system constraints. A multi-agent architecture based on game theory and reinforcement learning is developed so as to reduce the cost and computational complexity of the microgrid. The multi-agent architecture comprising agents, state variables, action variables, reward function and cost game is formulated. The paper fills the gap between multi-agent HVAC systems control and power system optimization and planning. The results and analysis indicate that the proposed algorithm is beneficial to deal with the problem of 'curse of dimensionality' for multi-agent microgrid HVAC system control and speed up learning of unknown power system conditions."
+}

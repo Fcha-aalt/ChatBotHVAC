@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178496589,
+    "Title": "Multi-objective optimization of building HVAC operation: Advanced strategy using Koopman predictive control and deep learning",
+    "Author": "Soleimani M.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2024-01-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.buildenv.2023.111073",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Qom University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 0,
+    "Abstract": "Predictive control is an effective method for addressing the increasing demand for heating, ventilation, and air conditioning (HVAC) systems to operate with greater flexibility and efficiency. In this paper, the multi-objective problem of energy-efficient HVAC operation while tracking desired setpoints is addressed through an advanced control strategy, including a novel supervisory data-driven predictive control (DPC) and a local loop with a PI controller. The supervisory level is based on the integration of the DPC framework and the bilinear Koopman predictor. A deep neural network architecture is developed to realize the bilinear building thermal predictor. In addition, the integral input-to-state stability (iISS) constraint is enforced in the training procedure to obtain a global iISS control-oriented thermal predictor that enables the application of predictive control purely based on historical data. The effectiveness of the proposed approach is demonstrated through the simulation of a three-zone office in the transient system simulation software (TRNSYS). The proposed control configuration is implemented using a coupled TRNSYS-MATLAB simulation framework. It has shown significant potential for keeping the desired environment in line with energy conservation. Furthermore, a comparison is conducted between the proposed approach, the conventional controller, and another recent DPC approach, which demonstrates the suggested method's superiority."
+}

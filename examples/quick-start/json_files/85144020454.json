@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144020454,
+    "Title": "Characterization of needle-punched nonwoven fabric air filter using computer vision–a review",
+    "Author": "Sawant Y.",
+    "Journal": "Journal of the Textile Institute",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1080/00405000.2022.2151085",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "D.K.T.E. Society's Textile &amp; Engineering Institute",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The process of air filtration involves the removal of rigid particulates for example dust, pollen, mold, and bacteria from the air. Air cleaners and HVAC (heating, ventilation air conditioning) filters can reduce indoor air pollution; however, frequent maintenance and the replacement of filter media is necessary as per the surrounding atmosphere. HAVC uses nonwoven fabric as its main air filtration media since it provides multiple functions when used in the sub-micron aerosol range. The industry admires advanced ideas, fibers, and filtration media to meet the market demands. The textile nonwoven filtration media having higher efficiency, narrower pore-size distribution, and/or higher dirt-holding capacity are attracting clients’ attention. The performance of fabric filters is measured after they are manufactured in the industry. In addition to traditional assessment methods, a quick assessment of such filter media using image processing and computer vision-based approaches is possible. This paper discusses such efforts here."
+}

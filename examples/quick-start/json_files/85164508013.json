@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164508013,
+    "Title": "Optimal Economizer Control of VAV System using Machine Learning",
+    "Author": "Lee J.H.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2023-06-16T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1051/e3sconf/202339603034",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Research Institute of Technology",
+    "Affliation Country": "South Korea",
+    "Cited by count": 0,
+    "Abstract": "Energy efficiency of the HVAC system can be improved through system renovation and operating method improvement. Economizer control, one of the energy efficient measures through improvement of operating method, introduces outdoor air when outdoor air is sufficient for cooling. There are high/low limit that determine the range of economizer control and mixed air temperature as control set-points. Economizer is controlled with the user's or manager's experience, and the set-point is operated fixed. This causes problems energy waste because it does not consider indoor and outdoor environments. Therefore, the purpose of this study is to develop an optimal economizer control of VAV system that resetting the set-point considering the indoor and outdoor environments. To this, a machine learning model was used to develop a model that predicts the future state based on the current state. Based on the developed prediction model, the optimal economizer control of VAV system that resets the mixed air temperature set-point in real time was developed and the control method was evaluated through simulation. As a result, it was confirmed that the mixed air temperature set-point changed in real time, and that about 20% of energy consumption was saved compared to the existing dry- bulb temperature control."
+}

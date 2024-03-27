@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133902214,
+    "Title": "Cement-α: An Ontology-based Data Access System for Building Analytics with Multiple Data Sources",
+    "Author": "He F.",
+    "Journal": "e-Energy 2022 - Proceedings of the 2022 13th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2022-06-28T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1145/3538637.3538838",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 0,
+    "Abstract": "To enhance the portability of data-driven building analytics across buildings, data models have been developed to provide unified representations of building data, such as Brick, which defines how to construct an ontology to capture the semantics of building entities and the relationships among them. Unfortunately, existing data models are all developed for the data of building systems, e.g., the HVAC system of a building. Yet, building analytics can require data that are external to a building system, e.g., weather data for cooling load forecasting. Such external data can be accessed from external sources, e.g., observatory, yet these data have their own data models and storage methods. To enable portable data access from multiple data sources for building analytics, in this paper, we firstly define building periphery data, and then we study the approach to develop a data model to support building analytics which require both building data and building periphery data. We further develop Cement-α, an ontology-based data access system to extract both building and building periphery data. We evaluate the Cement-α qualitatively and quantitatively by using four real-world building analytics, and find that the development effort of building analytics with multiple data sources can be reduced by an average of 57.2%."
+}

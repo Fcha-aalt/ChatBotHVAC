@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130621182,
+    "Title": "Actor-Critic based Adaptive Control Strategy for Effective Energy Management",
+    "Author": "Sankaranarayanan C.",
+    "Journal": "Proceedings of the 2022 5th International Conference on Advanced Systems and Emergent Technologies, IC_ASET 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/IC_ASET53395.2022.9765869",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Abb Process Automation Digital",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Effective energy management is the key for sustainable future. Optimizing energy consumption in commercial buildings plays a major role in reducing overall carbon footprint and operations cost. Heating, Ventilation, and Air Conditioning (HVAC) systems contribute to about 40%-50% of the total electricity consumption in a commercial buildings, placing an economic burden on building operations. Optimal management of HVAC systems is challenging due to the non-linear nature of the control problem arising out of several stochastic internal and external factors or disturbances. Conventional HVAC systems are controlled via PID controllers. Recently, a growing interest has been observed in Artificial Intelligence based HVAC control systems to improve comfort conditions while avoiding unnecessary energy consumption. In this paper, we explore the applications of an actor-critic based model free deep reinforcement learning to control the temperature of a room serving an office building. The RL control strategy is compared with the conventional PID controller, which goes out of tune during dynamic thermal load. Further, we explore the factors that affect the performance of the actor-critic based RL controller."
+}

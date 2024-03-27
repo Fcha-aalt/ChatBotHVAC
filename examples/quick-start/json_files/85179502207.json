@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179502207,
+    "Title": "Large-scale data-driven predictive control of AHU and RTU systems for New York State in winter",
+    "Author": "Deng Z.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1548",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "To meet the standards for reducing greenhouse gas (GHG) emissions, we need to create large-scale solutions for managing smart buildings. Using data-based models instead of physics-based models can make it easier to automatically create and implement these solutions on a large scale. However, it can be difficult to use data-driven control in cities, particularly for various heating, ventilation, and air conditioning systems and buildings. This study aimed to assess the usefulness, strength, and feasibility of using data-driven predictive control (DDPC) for widespread use in the real world. To begin, we trained deep neural network models using data from 37 buildings in the RTEM database. We then used these models to improve energy efficiency in heating, ventilation, and air conditioning (HVAC) systems. We focused on two common types of HVAC systems: air handling units and rooftop units. The aim of the modeling is to use the collected data to establish the relationship between air temperature and HVAC load. We then use DDPC for large-scale optimal control. We simulated a month of winter weather to see how energy-efficient the DDPC method was. Finally, we looked at how much it reduced greenhouse gas emissions. The DDPC method resulted in an average energy savings of 40% and a peak load reduction of 30% compared to current control systems. It also led to an average reduction of 2.6 kg of CO2 emissions per square meter per month during the winter. We gathered valuable insights from implementing DDPC on a large scale. The smart control methods we proposed can easily be adopted by building owners for various types of buildings and HVAC systems. Cities and states can benefit from increased energy efficiency and reduced greenhouse gas emissions for a more sustainable future."
+}

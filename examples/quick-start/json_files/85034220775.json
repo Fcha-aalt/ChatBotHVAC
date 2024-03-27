@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034220775,
+    "Title": "Validation of a dynamic simulation of a classroom HVAC system by comparison with a real model",
+    "Author": "Campano M.",
+    "Journal": "Sustainable Development and Renovation in Architecture, Urbanism and Engineering",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1007/978-3-319-51442-0_31",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Universidad de Sevilla",
+    "Affliation Country": "Spain",
+    "Cited by count": 2,
+    "Abstract": "Schoolsrequire thermal comfort in their classrooms, but some uncertainty arises as how their HVAC systems will actually provide it, especially given their high internal loads and mechanical ventilation diffusion. Thus, it is necessary to resort to computational fluid dynamics (CFD) for developing predictive models; nevertheless, the reliability of the simulation tool has to be verified, so the main objective of this work is to define and perform the validation process of a thermal dynamic simulation tool by comparison with a real room. A validation protocol has been detailed for dynamic simulation tools, in medium-sized spaces with high internal loads, by comparing with the measured air temperature values of an existing standard classroom, according to ISO 7726:2002. The chosen standard classroom for this comparison belongs to “Eça de Queirós” secondary school of Lisbon (Portugal). To that effect, 80 thermocouple sensors were used for the characterization of its indoor thermal behaviour. A mean bias error (MBE) of 0.21 °C was obtained, with a maximum standard deviation of 0.47 °C, which is under the maximum limit of 0.5 °C established by this standard. The application of this methodology for validating the Design Builder software proves the reliability of this tool in such type of venues."
+}

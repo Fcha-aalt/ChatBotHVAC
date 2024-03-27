@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132697686,
+    "Title": "Knowledge Discovery by Analyzing the State of the Art of Data-Driven Fault Detection and Diagnostics of Building HVAC",
+    "Author": "Hosseini Gourabpasi A.",
+    "Journal": "CivilEng",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/civileng2040053",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 6,
+    "Abstract": "The automated fault detection and diagnostics (AFDD) of heating, ventilation, and air conditioning (HVAC) using data mining and machine learning models have recently received substantial attention from researchers and practitioners. Various models have been developed over the years for AFDD of complete HVAC or its sub-systems. However, HVAC complexities, which partly have roots in its close coupling nature and interrelated dependencies, mean that understanding the relationship between faults and the suitability of the techniques remains an unanswered question. The literature analysis and interactive visualization of the data collected from the past implementation of AFDD models can provide useful insight to further explore this question by applying artificial intelligence (AI). Association rule mining (ARM) is deployed by this paper, using the frequent pattern (FP) growth algorithm to generate frequent fault sets for most common HVAC faults from the body of AFDD models developed in the literature to represent the status quo. A new model is developed for common HVAC faults and the techniques most frequently used to detect and diagnose them. A recommender system is developed using the ARM model to extract knowledge from the body of knowledge of HVAC data-driven AFDD in the form of rule-sets that reflect the associations. Findings of this review paper can significantly help civil and building engineers, as well as facility managers, in better management of building HVAC systems."
+}

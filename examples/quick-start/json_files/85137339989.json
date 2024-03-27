@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137339989,
+    "Title": "Infrared-Fused Vision-Based Thermoregulation Performance Estimation for Personal Thermal Comfort-Driven HVAC System Controls",
+    "Author": "Ghahramani A.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12081241",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Thermal comfort is one of the primary factors influencing occupant health, well-being, and productivity in buildings. Existing thermal comfort systems require occupants to frequently communicate their comfort vote via a survey which is impractical as a long-term solution. Here, we present a novel thermal infrared-fused computer vision sensing method to capture thermoregulation performance in a non-intrusive and non-invasive manner. In this method, we align thermal and visible images, detect facial segments (i.e., nose, eyes, face boundary), and accordingly read the temperatures from the appropriate coordinates in the thermal image. We focus on the human face since it is often clearly visible to cameras and is not merged into a hot background (unlike hands). We use a regularized Gaussian Mixture model to track the thermoregulation changes over time and apply a heuristic algorithm to extract hot and cold indices. We present a personalized and a generalized comfort modeling method, selected based on the availability of the occupant historical indices measurements in a neutral environment, and use the time-series of the hot and cold indices to define corrections to HVAC system operations in the form of setpoint constraints. To evaluate the efficacy of our proposed approach in responding to thermal stimuli, we designed a series of controlled experiments to simulate exposure to cold and hot environments. While applying personalized modeling showed an acceptable average accuracy of 91.3%, the generalized model’s average accuracy was only 65.2%. This shows the importance of having access to physiological records in modeling and assessing comfort. We also found that individual differences should be considered in selecting the cooling and heating rates when some knowledge of the occupant’s overall thermal preference is available."
+}

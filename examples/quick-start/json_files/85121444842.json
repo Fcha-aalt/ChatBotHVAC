@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121444842,
+    "Title": "Anomaly detection and missing data imputation in building energy data for automated data pre-processing",
+    "Author": "Takahashi K.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2021-12-02T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1088/1742-6596/2069/1/012144",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Tokyo",
+    "Affliation Country": "Japan",
+    "Cited by count": 2,
+    "Abstract": "A new trend in building automation is the implementation of smart energy management systems to measure and control building systems without a need for decision-making by human operators. Artificial intelligence can optimize these systems by predicting future demand to make informed decisions about how to efficiently operate individual equipment. These machine learning algorithms use historical data to learn demand trends and require high quality datasets in order to make accurate predictions. But because of issues with data transmission or sensor errors, real world datasets often contain outliers or have data missing. In most research settings, these values can be simply omitted, but in practice, anomalies compromise the automation system's prediction accuracy, rendering it unable to maximize energy savings. This study explores different machine learning algorithms for anomaly detection for automatically pre-processing incoming data using a case study on an actual electrical demand in a hospital building in Japan, namely cluster-based techniques such as k-means clustering and neural network-based approaches such as the autoencoder. Once anomalies were identified, the missing data was filled with prediction values from a deep neural network model. The newly composed data was then evaluated based on detection accuracy, prediction accuracy and training time. The proposed method of processing anomaly values allows the prediction model to process collected data without interruption, and shows similar predictive accuracy as manually processing the data. These predictions allow energy systems to optimize HVAC equipment control, increasing energy savings and reducing peak building loads."
+}

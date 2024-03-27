@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107372336,
+    "Title": "Analysis of energy savings and peak demand reduction from control measures for grocery stores",
+    "Author": "Wang W.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.26868/25222708.2017.656",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of North Carolina at Charlotte",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Grocery stores represent an energy-intensive building type that consumes about 5% of the total primary energy used by commercial buildings in the U.S. Many literature studies presented possible control strategies for grocery stores qualitatively or reported the measured savings from a specific case study. This paper presents a more systematic study to quantify the benefits of 15 energy efficiency (EE) measures and 4 demand response (DR) measures, most of which are applicable to many existing grocery stores. The baseline model is a hypothetical building with characteristics of grocery stores constructed in 1990s. Each EE measure was evaluated against the baseline according to its potential for energy savings, while each DR measure was evaluated according to its potential for reducing electricity consumption in critical peak pricing (CPP) periods. All measures were evaluated in five locations, namely Miami, Las Vegas, Seattle, Chicago and Duluth, to understand the impact of climate conditions on energy savings and power demand reduction. The results showed that shortened heating, ventilation and air conditioning (HVAC) operation schedules, demand-controlled ventilation, and widened thermostat deadbands are the top three measures for site energy savings. Floating head pressure and antisweat heater controls are the two measures that reduced annual electricity consumed by refrigeration systems by between 7% and 15% in all locations except Miami. Advanced refrigeration controls for DR reduced electricity consumption during the CPP periods by about 6% for all five locations, while the DR measures based on space air-conditioning controls generated between 1% and 9% demand reduction, depending on locations and measures."
+}

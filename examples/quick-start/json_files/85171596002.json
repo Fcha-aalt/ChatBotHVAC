@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171596002,
+    "Title": "INFLUENCE OF ENERGY EFFICIENCY RENOVATION ON INDOOR CLIMATE",
+    "Author": "Run K.",
+    "Journal": "Proceedings of International Structural Engineering and Construction",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.14455/ISEC.2023.10(1).ENR-04",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Laboratoire de Mécanique et Génie Civil (LMGC)",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "The buildings of the 1960s are not designed for today’s conditions and sustainable building standards. One of the solution strategies is renovation, which is not only for energy conservation but also for quality-of-life improvement. However, achieving both factors at once is a challenge, mostly from a financial standpoint. For public establishments, their priority is on energy efficiency retrofits which in return could push the indoor environmental quality (IEQ) to the edge of the comfort zone. IEQ is correlated to the health, comfort, and performance of users according to previous studies. This paper presents a case study of university buildings that underwent an energy-efficient renovation, including the replacement of windows and the installation of walls and roof insulation and mechanical extract ventilation systems. The objective is to analyze if the target energy consumption is achieved while maintaining a good IEQ during the heating period. Using t-test statistics on in-situ measurements of the before and after renovations, the results have shown three important findings. One, the total energy consumption has been reduced by 67%. Two, the t-test shows a significant difference between before and after states, with temperature decreased, and CO2 level increased. Three, a higher CO2 concentration is due to a faulty ventilation control that provides half less of the initial design airflow rate to meet a healthy standard. Overall, both temperature and CO2 rates remain in acceptable ranges despite the variation, but it is crucial to evaluate the HVAC controls after the renovation for safety reasons."
+}

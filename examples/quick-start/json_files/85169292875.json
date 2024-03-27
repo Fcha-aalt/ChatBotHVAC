@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169292875,
+    "Title": "Chiller Plant Management Optimization By Artificial Intelligence",
+    "Author": "Al Qahtani F.",
+    "Journal": "2022 Saudi Arabia Smart Grid Conference, SASG 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/SASG57022.2022.10199765",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tarshid",
+    "Affliation Country": "Saudi Arabia",
+    "Cited by count": 0,
+    "Abstract": "Chiller plants (aka: district cooling) account for up to 50% of total energy consumption in a typical facility. Real-time data collected from the central control and monitoring system of a district cooling plant on the operation of chillers, cooling towers, water pumps would help optimize the operation of the system and identify energy saving opportunities. This is made possible by the machine learning capability of AI. It would conduct big data analysis on the characteristics and operation logs of different components of the chiller plant and would then make recommendations for system optimization."
+}

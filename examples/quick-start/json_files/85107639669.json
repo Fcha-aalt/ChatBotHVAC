@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107639669,
+    "Title": "An adsorption-based CO<inf>2</inf> treatment unit for ultra-low fresh air HVAC system using solid amine",
+    "Author": "Chu Y.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-09-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111148",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Michigan State University",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Fresh air load is an important factor in reducing overall building energy load as the building envelope insulation and various passive building technologies develop. A large amount of fresh air is needed to meet the high requirement of indoor hygiene and air quality. Although various energy-efficient technologies have been studied to reduce fresh air load, the energy savings are limited to only cold climate conditions. Traditionally, outdoor air is introduced to dilute indoor pollutants. In this paper, a novel independent CO2 treatment unit (CTU) with the solid amine adsorbent (HP2MGL-PEI (600)-50) was investigated, which uses pollutant purification method instead of the conventional ventilation-based method to remove CO2. Experimental investigation and robust theoretical energy simulations were carried out to validate the effectiveness and practicability of this unit and to evaluate the energy savings in real buildings. Experimental results show the CTU could effectively reduce the CO2 concentration under normal atmospheric conditions in real buildings. Specifically, the adsorbent has a better adsorption performance with lower air velocity, but air velocity had a slight influence on desorption performance. The temperature has significant effects on both adsorption and desorption properties. An increment in adsorbent volume could also improve the adsorption performance. Simulations show that the indoor CO2 concentration could be always controlled below 1000 ppm under proper control strategies. Thus, the amount of required fresh air could be dramatically decreased. The amount of energy savings of the reference building was approximately 13.18%. The static payback time of this new system was approximately 6.85 years."
+}

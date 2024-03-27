@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133887975,
+    "Title": "Demand response strategy applied to planning the operation of an air conditioning system. Application to a medical center",
+    "Author": "Bragagnolo S.N.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.104927",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad Tecnológica Nacional - Facultad Regional Córdoba",
+    "Affliation Country": "Argentina",
+    "Cited by count": 4,
+    "Abstract": "Large air conditioning systems, such as those used in shopping and health centers, typically demand high amounts of energy. Several air conditioning technologies and energy management strategies seek to minimize consumption to reduce billing expenses and improve system efficiency. This work proposes a demand response framework to plan the daily operation of an air conditioning system with the aim of minimizing the energy cost and guaranteeing thermal comfort. The framework includes an electrical-analogous thermal model, the formulation of the energy optimization problem with thermal and electrical constraints. The ISO 7730 standard is used to evaluate thermal comfort. The approach is applied to the air conditioning system of a radiotherapy and medical imaging center in Argentina. The optimization problem is solved through a genetic algorithm. To evaluate the strategy, two scenarios with different power demands are proposed: Case 1 (with demands lower than 300 kW) and Case 2 (with a peak demand greater than 300 kW). The results are compared with those obtained from an on-off strategy control with hysteresis. Penalties for large demands are avoided in Case 2, and therefore an economic saving of ≅ 16.8% is achieved. The thermal comfort is improved in both cases, with thermal cost reduction of 40.6% and 29.2% for Cases 1 and 2, respectively."
+}

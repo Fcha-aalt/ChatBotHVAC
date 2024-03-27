@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85057451371,
+    "Title": "Multi-objective design optimization of a rail HVAC CO<inf>2</inf> cycle",
+    "Author": "Luger C.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ijrefrig.2018.05.033",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Liebherr-International Deutschland GmbH",
+    "Affliation Country": "Germany",
+    "Cited by count": 19,
+    "Abstract": "In HVAC system design for passenger rail vehicles minimization of objectives on merchantability (initial costs), integration (equipment mass, volume), and operation (electric power demand, noise emissions) becomes increasingly important. Identification of appropriate process and component design parameters is a significant engineering challenge, particularly for emerging R744 (CO2) refrigerant cycles. In this work the sizes of the compressor, evaporator, gas cooler, cooler fan, and internal heat exchanger, plus the high pressure level and the cooler air flow rate of an R744 cycle were subject to multi-objective genetic optimization. Computationally inexpensive artificial neural networks were used as interface between different computation tools. As a result a set of Pareto-optimal R744 cycles was obtained to support the design engineer. For minimum volume and mass (153 l, 169 kg), total electric power demand was 9.2 kW. Vice-versa, minimum power demand (6.9 kW) yielded a large (272 l), heavy (198 kg), and expensive system."
+}

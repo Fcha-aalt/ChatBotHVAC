@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032860378,
+    "Title": "Energy benefit assessment of a water loop heat pump system integrated with a CO<inf>2</inf> commercial refrigeration unit",
+    "Author": "Polzot A.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.07.282",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Udine",
+    "Affliation Country": "Italy",
+    "Cited by count": 15,
+    "Abstract": "The improvement of energy efficiency and the use of environmentally friendly working fluids are key elements of current European policies. Supermarkets are intensive energy consumers and approximately the 40% of their annual energy consumption is for refrigeration. Direct emissions of greenhouse gases associated with the use of high Global Warming Potential (GWP) refrigerants, and the indirect impact on the environment related to high electrical energy consumption, make shopping malls not sustainable buildings. This paper analyses the energy saving potential of integrated supermarket air conditioning and refrigeration systems using a Water Loop Heat Pump system (WLHP). A basic CO2 booster commercial refrigeration system, applied to cold rooms and display cabinets, is considered. Heat recovery from the refrigeration circuit is performed in the heating season, while in the cooling season a dry cooler on the water loop allows heat rejection to outdoors. The building and all systems are modelled in the Trnsys environment taking into account the hourly weather data, the simulated daily profiles of the cooling and heating load demand and the request from refrigerated food storage equipment. Such a model allows a thorough understanding of the potential for energy savings with heat recovery solutions."
+}

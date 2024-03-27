@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84986184370,
+    "Title": "Beyond nearly-zero energy buildings: Experimental investigation of the thermal indoor environment and energy performance of a single-family house designed for plus-energy targets",
+    "Author": "Kazanci O.B.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2016-10-02T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1080/23744731.2016.1208001",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technical University of Denmark",
+    "Affliation Country": "Denmark",
+    "Cited by count": 8,
+    "Abstract": "A detached, one-story, single-family house in Denmark was operated with different heating and cooling strategies for 1 year. The strategies compared during the heating season were floor heating without ventilation, floor heating supplemented by warm air heating (ventilation system), and floor heating with heat recovery from exhaust air. During the cooling season, the house was cooled by floor cooling and was ventilated mechanically. Air and globe (operative, when applicable) temperatures at different heights at a central location were recorded. The thermal indoor environment, local thermal discomfort and overheating were evaluated based on EN 15251 (2007), EN ISO 7730 (2005), and DS 469 (2013), respectively. Energy performance was evaluated based on the energy production and HVAC system energy use. The thermal indoor environment during the heating season was satisfactory but it was not possible to reach the intended operative temperature when the outside temperatures were very low. During the cooling season, the cooling demand was high and overheating was a problem. Although the house was designed as a plus-energy house, it did not perform as one under the Danish climate conditions. It would be possible to decrease the heating and cooling demand during the design phase through careful consideration of parameters such as the orientation, glazing area, solar shading, and thermal mass. With a lower demand, plus-energy levels can be achieved even with the minimum contribution from the energy producing components."
+}

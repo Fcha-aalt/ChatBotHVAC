@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129529882,
+    "Title": "MPC solution for optimal load shifting for buildings with ON/OFF staged packaged units: Experimental demonstration, and lessons learned",
+    "Author": "Kim D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112118",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Small and medium-sized commercial buildings (SMCB) are significant demand response resources, and it is important to develop grid-responsive control algorithms that exploit those resources and create financial benefits for building owners and HVAC service providers. Furthermore, unlike large-sized commercial buildings, there is an opportunity to have universally applicable control solutions for many SMCBs since those buildings have a consistent HVAC system configuration: SMCBs are commonly served by multiple-staged air conditioning units controlled by their own thermostats. Despite the demand response potential and scalability, however, very few control solutions are available for SMCBs. Typical model predictive control (MPC) and heuristic control approaches for cooling load shifting that lower thermostat setpoints before an electric price jump are suitable mainly for large-sized commercial buildings where a continuous capacity modulation is possible, e.g., via dampers in variable air volume terminal units. However, those approaches can cause undesired, high peaks for SMCBs due to the nature of ON/OFF unit staging and narrow thermostat deadbands. This could discourage the use of advanced grid-responsive controls for SMCBs due to the concern of high demand charges, and has to be resolved. This paper presents a MPC solution that overcomes this challenge. It has a hierarchical MPC structure where an upper level MPC is responsible for electrical load shifting in response to an electric price signal while a lower level MPC is responsible for coordinating compressor stages to eliminate unnecessary peaks and follows the setpoints determined by the upper level MPC. Two one-month, comprehensive laboratory tests have been carried out to demonstrate load shifting and cost savings for the algorithm. Interesting trade-offs between energy efficiency and load flexibility were observed and are discussed, and lessons learned for applying MPCs for SMCBs are also presented."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054192747,
+    "Title": "A novel online air balancing method for the ventilation duct system via distributed cooperative control",
+    "Author": "Cui C.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2018.09.048",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for System Intelligence and Efficiency",
+    "Affliation Country": "Singapore",
+    "Cited by count": 18,
+    "Abstract": "This paper proposes a novel distributed cooperative control-based online air balancing (DCC-AB) method for the existing ventilation duct systems. Inspired by the application of distributed cooperative control (DCC) in the field of network communication, the DCC is first introduced into HVAC systems to solve the air balancing problem. Based upon the consensus algorithm, the proposed DCC-AB method realizes air flow balance via a prescribed information exchange among the agents in the duct system. The proposed method also incorporates an additional adjustable term that reflects the total power consumption to optimize the energy efficiency. Compared with the existing air balancing methods, the DCC-AB method offers the following advantages: 1.) It is an online method that can be performed during normal operation of the ventilation system without service interruptions. 2.) The distributed control strategy in this method eliminates the necessity of a centralized supervisory control. 3.) It is a model-free method that requires no prior knowledge on the system topology and duct parameters and is therefore easy to apply in practical use. The operation principle and parametric analysis of the DCC-AB method are carefully discussed in this paper. Experiments have also verified the effectiveness of the proposed DCC-AB method. The experimental results demonstrate that the proposed method applies over a large range of design flow requirements and yields robustness against small sensor noise. A rapid and stable convergence is guaranteed among all tested cases and the maximum absolute percentage error can achieve 2.3%."
+}

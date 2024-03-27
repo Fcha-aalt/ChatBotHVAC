@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082009048,
+    "Title": "A review of internal and external influencing factors on energy efficiency design of buildings",
+    "Author": "Chen S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.109944",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "RMIT University",
+    "Affliation Country": "Australia",
+    "Cited by count": 81,
+    "Abstract": "Three main groups of internal and external influencing factors have been identified through this review, including building characteristics, equipment and technologies, and occupant's behaviors. The consideration of only building characteristics cannot guarantee the best energy design of a building, as it could be dependent on the other two groups of factors. Under some circumstances, some of the energy efficiency design solutions did not consider economic or environmental benefits. A wide range of advanced technologies is available for building designers, while challenges still exist from a cost-effectiveness perspective. Many numerical results are hard to validate and confirm the feasibility of those real projects. Comparatively, occupant behavior interventions provide an alternative solution for building users to improve energy efficiency with a relatively low cost and unsophisticated construction procedures. According to those reviewed studies, the ranges of energy-saving are 10–28% and 43–71% through the smart control of the heating, ventilation, and air conditioning (HVAC) and the lighting systems, respectively. The trends of key influencing factors on energy efficiency design have slightly changed over the past few decades. The influencing factors had been mainly investigated in the optimization design and technological updates of buildings previously but now have incorporated the building management of occupant behavior. Few studies have been carried out to integrate the occupant behavior model into the current energy simulation software. Thus, two research directions can be concluded after this review. Building efficiency design needs to be conducted from a systematic view to figure out the underlying issues among different efficient design measures. Energy performance benchmarking of both occupant behavior interventions and the technological updates and building service systems are urgently needed as a guided reference to help the building users to make smart decisions."
+}

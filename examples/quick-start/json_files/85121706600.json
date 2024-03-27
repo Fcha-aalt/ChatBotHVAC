@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121706600,
+    "Title": "Whisper: Wireless home identification and sensing platform for energy reduction",
+    "Author": "Jacoby M.",
+    "Journal": "Journal of Sensor and Actuator Networks",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/jsan10040071",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Applied Science",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Many regions of the world benefit from heating, ventilating, and air-conditioning (HVAC) systems to provide productive, comfortable, and healthy indoor environments, which are enabled by automatic building controls. Due to climate change, population growth, and industrialization, HVAC use is globally on the rise. Unfortunately, these systems often operate in a continuous fashion without regard to actual human presence, leading to unnecessary energy consumption. As a result, the heating, ventilation, and cooling of unoccupied building spaces makes a substantial contribution to the harmful environmental impacts associated with carbon-based electric power generation, which is important to remedy. For our modern electric power system, transitioning to low-carbon renewable energy is facilitated by integration with distributed energy resources. Automatic engagement between the grid and consumers will be necessary to enable a clean yet stable electric grid, when integrating these variable and uncertain renewable energy sources. We present the WHISPER (Wireless Home Identification and Sensing Platform for Energy Reduction) system to address the energy and power demand triggered by human presence in homes. The presented system includes a maintenance-free and privacy-preserving human occupancy detection system wherein a local wireless network of battery-free environmental, acoustic energy, and image sensors are deployed to monitor homes, record empirical data for a range of monitored modalities, and transmit it to a base station. Several machine learning algorithms are implemented at the base station to infer human presence based on the received data, harnessing a hierarchical sensor fusion algorithm. Results from the prototype system demonstrate an accuracy in human presence detection in excess of 95%; ongoing commercialization efforts suggest approximately 99% accuracy. Using machine learning, WHISPER enables various applications based on its binary occupancy prediction, allowing situation-specific controls targeted at both personalized smart home and electric grid modernization opportunities."
+}

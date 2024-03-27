@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184093092,
+    "Title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
+    "Author": "Xiong R.",
+    "Journal": "Computing in Civil Engineering 2023: Resilience, Safety, and Sustainability - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1061/9780784485248.118",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Commercial buildings often face challenges in coordinating heating, ventilation, and air conditioning (HVAC) systems due to varying occupant preferences, resulting in thermal discomfort and energy waste. Balancing comfort and efficiency requires understanding comfort profiles and energy consumption at different temperatures while accounting for uncertain disturbances like outdoor temperatures and extra heat. Furthermore, control algorithms (e.g., model predictive control) are typically computationally expensive, limiting large-scale building applications. To address these challenges, this paper presents a robust HVAC control framework ensuring occupant comfort and energy efficiency despite external disturbances. By solving an optimization problem, the approach determines temperature setpoints that minimize energy usage while maintaining desired comfort probability. Specifically, a probabilistic certificate guarantees long-term comfort under disturbances, and a myopic method enhances computational efficiency. Tested in a 98-room real-world building, the proposed method effectively ensures comfort and energy efficiency, surpassing the baseline model."
+}

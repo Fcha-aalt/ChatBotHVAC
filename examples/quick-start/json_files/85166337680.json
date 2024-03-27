@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85166337680,
+    "Title": "Post-occupancy evaluation for enhancing building performance and automation deployment",
+    "Author": "Al Mughairi M.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-10-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.107388",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Cardiff University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 7,
+    "Abstract": "Building automation systems are building control and management systems that control/operate different systems in a building such as HVAC, lighting, safety systems, security and access control, surveillance, indoor air quality, and waste management. These systems manage, control, and integrate other building systems to enhance living experience and optimise energy use through a set of sensors and actuators that are deployed in the building to collect data and execute commands that are sent through a gateway. These management systems generate real-time commands and act or reacts to stochastic occupant behaviours. Buildings in Oman used to be built with burned clay mixed with date palm leaves, and wadi stones and date palm trunks are used for building structure. This architecture keeps the indoor environment warm in winter and cold in summer. However, with advancing technology there has been a shift in building towards using concrete and steel that have high thermal conductivity and pose some challenges for energy use. This paper will show that the main concern of occupants in Oman is indoor temperature control, especially during summer months. This has raised concerns for building performance in Oman and shows a need to review building materials, recommend sustainable alternatives, and more widely, implement sustainable building techniques. This paper seeks to develop recommendations to overcome these issues by exploring post-occupancy satisfaction measures and potential use of BAS and sustainable building materials to enhance building performance in Oman. Following on from this, this paper explores the motivations behind people's decision in Oman to deploy home automation and explore techniques to enhance building performance."
+}

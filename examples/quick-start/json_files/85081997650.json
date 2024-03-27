@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081997650,
+    "Title": "Effect of heat exchanger plates geometry on performance of an indirect evaporative cooling system",
+    "Author": "De Antonellis S.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2020-06-05T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.applthermaleng.2020.115200",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Milano",
+    "Affliation Country": "Italy",
+    "Cited by count": 29,
+    "Abstract": "At present, there is great interest in indirect evaporative coolers (IECs), which can be effectively used to increase energy efficiency of HVAC systems, with particular attention to data center applications. In such devices, performance significantly depends on the formation of an adequate water layer on heat exchanger plates. Therefore, efforts should be made to promote water spreading through an appropriate design of the system. In this study, an experimental analysis of IECs manufactured with heat exchangers having different geometry is carried out. The scope of the research is to investigate the effect of different plates protrusion and pitch on IEC wet bulb effectiveness and pressure drop. Tests are carried out with counter and parallel air and water flow arrangement. Results highlight that plates geometry influences both surface wettability and the heat transfer rate. A reticular plates protrusion appears to be a good compromise to enhance system effectiveness. Tests also highlight that the parallel water and secondary air flows arrangement leads to higher wet bulb effectiveness and lower pressure drop compared to the counter flow configuration."
+}

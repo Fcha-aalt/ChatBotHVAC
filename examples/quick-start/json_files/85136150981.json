@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136150981,
+    "Title": "Machine Learning and Deep Learning Methods for Enhancing Building Energy Efficiency and Indoor Environmental Quality – A Review",
+    "Author": "Tien P.W.",
+    "Journal": "Energy and AI",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.egyai.2022.100198",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 51,
+    "Abstract": "The built environment sector is responsible for almost one-third of the world's final energy consumption. Hence, seeking plausible solutions to minimise building energy demands and mitigate adverse environmental impacts is necessary. Artificial intelligence (AI) techniques such as machine and deep learning have been increasingly and successfully applied to develop solutions for the built environment. This review provided a critical summary of the existing literature on the machine and deep learning methods for the built environment over the past decade, with special reference to holistic approaches. Different AI-based techniques employed to resolve interconnected problems related to heating, ventilation and air conditioning (HVAC) systems and enhance building performances were reviewed, including energy forecasting and management, indoor air quality and occupancy comfort/satisfaction prediction, occupancy detection and recognition, and fault detection and diagnosis. The present study explored existing AI-based techniques focusing on the framework, methodology, and performance. The literature highlighted that selecting the most suitable machine learning and deep learning model for solving a problem could be challenging. The recent explosive growth experienced by the research area has led to hundreds of machine learning algorithms being applied to building performance-related studies. The literature showed that existing research studies considered a wide range of scope/scales (from an HVAC component to urban areas) and time scales (minute to year). This makes it difficult to find an optimal algorithm for a specific task or case. The studies also employed a wide range of evaluation metrics, adding to the challenge. Further developments and more specific guidelines are required for the built environment field to encourage best practices in evaluating and selecting models. The literature also showed that while machine and deep learning had been successfully applied in building energy efficiency research, most of the studies are still at the experimental or testing stage, and there are limited studies which implemented machine and deep learning strategies in actual buildings and conducted the post-occupancy evaluation."
+}

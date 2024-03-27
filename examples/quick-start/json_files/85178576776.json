@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178576776,
+    "Title": "Field testing of the next-generation residential space conditioning system",
+    "Author": "Tam A.",
+    "Journal": "Eceee Summer Study Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Electric Power Research Institute, Inc",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Residential heat pump systems at the minimum efficiency standard can use high quantities of energy, resulting in higher greenhouse gas emissions, higher bills for customers and electric grid congestion. This project evaluated a variable capacity heat pump system with additional heating and cooling innovations that could provide high efficiency space conditioning for residential conditions. The heat pump system integrates advanced HVAC technologies including: a variable capacity compressor, inverter driven indoor blower, automated demand response capability, low GWP refrigerant, intelligent dual fuel heating, integrated ventilation, and zonal control. The heat pump system was tested in 3 residential homes located in California, US. Our tests showed that heat pump systems can provide heat for >90 % of hot and dry climate zones, like California, since they can meet almost all loads in the heating season without backup. While the system's dual fuel functionality (electric heat pump with gas furnace back-up) adds versatility, gas and electric utility rates are primary drivers for incentivizing heat pump usage. The field evaluation saw positive customer feedback, with users appreciating how quiet the units were, how quickly they cooled or heated the space, and their ability to control the temperature in individual spaces. Utility bills from the customers were used to compare this new heat pump system against the typical residential space conditioning baseline of air-conditioner with fossil fuel furnace. The project team worked extensively with the manufacturer and the homeowners to understand the impact of such next-generation devices, and the field evaluation results provide valuable information on the customer's energy burden holistically. This is critical in ensuring the equitable adoption of advanced HVAC technologies, which encompasses both the economic burden on customers, perceived comfort for the customers, and value for the utility industry."
+}

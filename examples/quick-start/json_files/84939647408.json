@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84939647408,
+    "Title": "Control strategy optimization of HVAC plants",
+    "Author": "Facci A.L.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2015-03-10T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1063/1.4912790",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Parthenope University of Naples",
+    "Affliation Country": "Italy",
+    "Cited by count": 2,
+    "Abstract": "In this paper we present a methodology to optimize the operating conditions of heating, ventilation and air conditioning (HVAC) plants to achieve a higher energy efficiency in use. Semi-empiric numerical models of the plant components are used to predict their performances as a function of their set-point and the environmental and occupied space conditions. The optimization is performed through a graph-based algorithm that finds the set-points of the system components that minimize energy consumption and/or energy costs, while matching the user energy demands. The resulting model can be used with systems of almost any complexity, featuring both HVAC components and energy systems, and is sufficiently fast to make it applicable to real-time setting."
+}

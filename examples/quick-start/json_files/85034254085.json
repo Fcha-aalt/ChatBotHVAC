@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034254085,
+    "Title": "A long-short term memory recurrent neural network based reinforcement learning controller for office heating ventilation and air conditioning systems",
+    "Author": "Wang Y.",
+    "Journal": "Processes",
+    "Publication Date": {
+        "$date": "2017-09-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.3390/pr5030046",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 91,
+    "Abstract": "Energy optimization in buildings by controlling the Heating Ventilation and Air Conditioning (HVAC) system is being researched extensively. In this paper, a model-free actor-critic Reinforcement Learning (RL) controller is designed using a variant of artificial recurrent neural networks called Long-Short-Term Memory (LSTM) networks. Optimization of thermal comfort alongside energy consumption is the goal in tuning this RL controller. The test platform, our office space, is designed using SketchUp. Using OpenStudio, the HVAC system is installed in the office. The control schemes (ideal thermal comfort, a traditional control and the RL control) are implemented in MATLAB. Using the Building Control Virtual Test Bed (BCVTB), the control of the thermostat schedule during each sample time is implemented for the office in EnergyPlus alongside local weather data. Results from training and validation indicate that the RL controller improves thermal comfort by an average of 15% and energy efficiency by an average of 2.5% as compared to other strategies mentioned."
+}

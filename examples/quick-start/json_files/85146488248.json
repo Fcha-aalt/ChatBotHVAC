@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146488248,
+    "Title": "Fuzzy Inference and Machine Learning Based HVAC Control System for Smart Buildings",
+    "Author": "Isikdemir Y.E.",
+    "Journal": "IEEE Global Energy Conference, GEC 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/GEC55014.2022.9987083",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Inovasyon Muhendislik Ltd. Sti",
+    "Affliation Country": "Turkey",
+    "Cited by count": 1,
+    "Abstract": "With the development of the industry, the electricity consumption of commercial buildings and the systems used in these buildings has gradually increased. Heating, ventilation and air conditioning systems, called HVAC, are controlled in various ways, allowing the temperature and ventilation of the environment to be adjusted. In this study, a fuzzy inference and machine learning based HVAC control system is proposed that is aware of the condition change and automatically adjusts the optimal conditions for the building occupants. The proposed system consists of two subsystems: ventilation and temperature control. The ventilation system uses a Random Forest algorithm that estimates the air quality index to provide fresh air. In the temperature control system, Mamdani Fuzzy Inference System with four inputs and one output is used. Results indicate that the designed system exhibits satisfactory results in the simulation environment. With the proposed system, it is aimed to reduce the energy consumption of HVAC systems and to increase the thermal comfort of the individuals living in the building."
+}

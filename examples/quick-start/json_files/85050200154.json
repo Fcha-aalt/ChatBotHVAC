@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050200154,
+    "Title": "Data-Driven models for building occupancy estimation",
+    "Author": "Golestan S.",
+    "Journal": "e-Energy 2018 - Proceedings of the 9th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2018-06-12T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3208903.3208940",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 12,
+    "Abstract": "The availability of accurate occupancy information from different spaces in a building allows for significant reduction in the energy consumption of heating, ventilation, air conditioning, and lighting systems. This paper investigates the application of particle filters and time series neural networks to inferring the number of occupants of individual rooms from time series data collected by a set of occupancy-indicative sensors. Our approach is purely data driven and does not require developing customized and complex physics-based models to predict the occupancy level of the many rooms in a building. We evaluate the efficacy of the proposed methods on two data sets, one contains measurements of dedicated sensors while the other one contains measurements of HVAC sensors that are commonly available in commercial buildings. Our results indicate that time series neural networks are superior in this application, estimating the number of occupants with a root-mean-squared error of 0.3 and 0.8 in the two data sets with a maximum of 7 and 67 occupants, respectively."
+}

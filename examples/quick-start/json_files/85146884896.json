@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146884896,
+    "Title": "A pilot study of occupant centric control stratum ventilation based on computer vision",
+    "Author": "Liu Y.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2022-08-31T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1051/e3sconf/202235601029",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Xi'an University of Architecture and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Indoor occupant information has an obvious influence on operating parameters of heating ventilation and air conditioning (HVAC) system, which further affects occupants' thermal comfort and energy consumption. This pilot study proposes an occupant centric control (OCC) strategy for stratum ventilation (SV) to achieve demand control ventilation (DCV). Firstly, the computer vision sensing system and deep learning algorithm are used to detect the number of occupants in real time, and the accuracy of the number of occupants in the office environment was evaluated. Then, the occupant centric stratum ventilation control strategy is designed by the dynamic changes of cooling load. Finally, the thermal comfort and air quality of the thermal environment created by the OCC strategy were evaluated through subject experiment, and the energy consumption of the HVAC system was calculated in combination with the energy consumption simulation software. This study adjusts system setting values according to actual needs, so that the HVAC system responds to the dynamic changes of the indoor cooling load in real time, creating a comfortable and healthy indoor environment in an energy efficient manner."
+}

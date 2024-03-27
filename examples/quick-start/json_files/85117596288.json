@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117596288,
+    "Title": "Quantifying the Impact of Ultraviolet Subtype C in Reducing Airborne Pathogen Transmission and Improving Energy Efficiency in Healthy Buildings: A Kahn–Mariita Equivalent Ventilation Model",
+    "Author": "Kahn K.",
+    "Journal": "Frontiers in Built Environment",
+    "Publication Date": {
+        "$date": "2021-10-07T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3389/fbuil.2021.725624",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "an Asahi Kasei Company",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "There is growing evidence that viruses responsible for pandemics, such as Middle East respiratory syndrome and severe acute respiratory syndrome, are mainly spread through aerosols. Recommendations have been introduced to reduce the transmission risks of virulent airborne viral particles by increasing ventilation rates, expressed in air changes per hour (ACHs), effectively improving the dilution of pathogens via mechanical ventilation. However, infrastructural and operational costs associated with upgrades of building heating, ventilation, and air conditioning systems make these solutions expensive. It is well documented that Ultraviolet Subtype C (UVC) disinfection can help lower exposure risks by inactivating viruses and the performance of such solutions can translate into equivalent ventilation. Here, we present the first framework to extract the optimal UVC requirements to improve facility management yet ensuring compliance with ventilation guidelines at lower energy costs. The Kahn–Mariita (KM) model considers the air quality of shared enclosed spaces over time by supplementing the existing mechanical ventilation with localized UVC air treatment and includes variables such as room size, occupancy, existing ventilation, and target equivalent ACH. For example, the model applied to a conference room shows that a UVC chamber with recirculation rates of 160 m3/h increases ventilation from an ACH 3 to 7.9 and reduces the room’s reset time from 46 to <10 min with as little as 1 W. Recirculation rates of 30 m3/h however offer no benefits beyond 200 mW, with an eACH of 3.9 and reset time of 31 min. The first finding is that single-pass disinfection is not an appropriate metric of performance, i.e., low recirculation rates increase single-pass disinfection, and, however, only treats a portion of the space volume within a given time, limiting the overall performance. Conversely, higher recirculation rates decrease single-pass disinfection but treat larger portions of air, potentially multiple times, and are therefore expected to lower the transmission risk faster. The second result is that for fixed amounts of recirculating air flow, increasing UVC power helps with diminishing return, while for a fixed UVC power, increasing the recirculating air flow will always help. This dynamic is particularly important toward optimizing solutions, given the constraints system engineers must work with, and particularly to design for end-user benefits such as increased occupancy, in-dwelling time, or reduction of shared-space reset time."
+}

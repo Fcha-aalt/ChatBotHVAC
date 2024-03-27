@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124225292,
+    "Title": "Design of Supervisory Model Predictive Control for Building HVAC System with Time-Varying Coefficient of Performance",
+    "Author": "Anuntasethakul C.",
+    "Journal": "International Conference on Control, Automation and Systems",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.23919/ICCAS52745.2021.9649947",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Chulalongkorn University",
+    "Affliation Country": "Thailand",
+    "Cited by count": 2,
+    "Abstract": "This paper presents a design of supervisory model predictive control (SMPC) for a building heating-ventilation-air-conditioning (HVAC) system. The control objectives are to minimize the total operating cost (TOC) and the thermal comfort cost (TCC). According to practical realization, a coefficient of performance (COP) is a time-varying parameter of HVAC system and depends on environment conditions. Therefore, we employ an artificial neural network (ANN) with k-means clustering to predict the COP. We design the SMPC to determine the optimal set-point temperature for the HVAC system which serves our control objectives. We utilize the predicted mean vote (PMV) to handle thermal comfort of occupants and to indicate an acceptable bound of the optimal set-point temperature. We formulate the SMPC with the predicted COP integration as two quadratic programs. The first quadratic program is a supervisory control problem for optimal set-point searching problem and the other is an MPC problem for optimal control input searching problem. Our results reveal that the root-mean-square error (RMSE) of the predicted COP is reduced by 34% using the clustered-ANN. When the SMPC is applied to the time-varying HVAC system, the TOC decreases by 14.53% compared to that of the nominal operation. Moreover, the maximum electrical power of the HVAC system is reduced by 15.66% resulting from smoothly shaved electrical power profile."
+}

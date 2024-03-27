@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006756968,
+    "Title": "Demo abstract: Acoustic signal processing for anomaly detection in machine room environments",
+    "Author": "Ko B.J.",
+    "Journal": "Proceedings of the 3rd ACM Conference on Systems for Energy-Efficient Built Environments, BuildSys 2016",
+    "Publication Date": {
+        "$date": "2016-11-16T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1145/2993422.2996401",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "IBM Thomas J. Watson Research Center",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "We present a system that uses acoustic signals to monitor equipment in commercial buildings, such as in machine rooms with HVAC system components. The system uses an ensemble of machine learning classifiers to effectively label signals as either \"normal\" or \"abnormal\". We collect audio clips from mobile devices in a machine room and an elevator shaft in the main building of IBM Research. We use these to learn the spectrum of normal sound signatures and identify abnormal sounds that fall outside this range. Abnormal sounds detected by the system are presented to the end user for anomaly confirmation. We also integrate a work-order system to automatically issue a repair work-order if the sound is abnormal."
+}

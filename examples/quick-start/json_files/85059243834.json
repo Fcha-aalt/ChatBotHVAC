@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059243834,
+    "Title": "Reducing mobile air conditioner (MAC) power consumption using active cabin-air-recirculation in a plug-in hybrid electric vehicle (PHEV)",
+    "Author": "Li C.",
+    "Journal": "World Electric Vehicle Journal",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/wevj9040051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 32,
+    "Abstract": "Air conditioner power consumption accounts for a large fraction of the total power used by hybrid and electric vehicles. This study examined the effects of three different cabin air ventilation settings on mobile air conditioner (MAC) power consumption, such as fresh mode with air conditioner on (ACF), fresh mode with air conditioner off (ACO), and air recirculation mode with air conditioner on (ACR). Tests were carried out for both indoor chassis dynamometer and on-road tests using a 2012 Toyota Prius plug-in hybrid electric vehicle. Real-time power consumption and fuel economy were calculated from On-Board Diagnostic-II (OBD-II) data and compared with results from the carbon balance method. MAC consumed 28.4% of the total vehicle power in ACR mode when tested with the Supplemental Federal Test Procedure (SFTP) SC03 driving cycle on the dynamometer, which was 6.1% less than in ACF mode. On the other hand, ACR and ACF mode did not show significant differences for the less aggressive on-road tests. This is likely due to the significantly lower driving loads experienced in the local driving route compared to the SC03 driving cycle. On-road and SC03 test results suggested that more aggressive driving tends to magnify the effects of the vehicle HVAC (heating, ventilation, and air conditioning) system settings. ACR conditions improved relative fuel economy (or vehicle energy efficiency) to that of ACO conditions by ~20% and ~8% compared to ACF conditions for SC03 and on-road tests, respectively. Furthermore, vehicle cabin air quality was measured and analyzed for the on-road tests. ACR conditions significantly reduced in-cabin particle concentrations, in terms of aerosol diffusion charger signal, by 92% compared to outside ambient conditions. These results indicate that cabin air recirculation is a promising method to improve vehicle fuel economy and improve cabin air quality."
+}

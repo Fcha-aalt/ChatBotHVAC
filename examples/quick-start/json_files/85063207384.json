@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063207384,
+    "Title": "Joint Optimization of Battery Energy Storage System and Fans for Frequency Reserve Capacities Allocation and Day-Ahead Energy Management",
+    "Author": "Rahbar K.",
+    "Journal": "IEEE Region 10 Annual International Conference, Proceedings/TENCON",
+    "Publication Date": {
+        "$date": "2018-07-02T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/TENCON.2018.8650311",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "A-Star, Institute for Infocomm Research",
+    "Affliation Country": "Singapore",
+    "Cited by count": 5,
+    "Abstract": "In this paper, we propose a novel optimization strategy for energy-efficient day-ahead energy management and economic power reserve capacity allocation for frequency regulation, by jointly utilizing battery energy storage systems (BESSs) and demand-responsive (DR) fans at the distribution level. Specifically, we consider a smart building with renewable energy integration. The building owns a BESS and is willing to take part in frequency regulation service by allocating a proportion of its BESS capacity as power reserve capacity and receiving monetary reservation fee in return. Due to the high cost of BESS, its limited capacity, and significant degradation caused by excessive charging and discharging, we consider DR fans as a viable low-cost capability of the smart building for energy cost saving and frequency regulation. Particularly, we consider modern fans of the heating, ventilation, and air conditioning (HVAC) systems that can vary their speeds (and thus energy consumption), subject to satisfying user comfort constraints. Simulations results based on the real renewable energy and load data show that our proposed joint optimization strategy is effective in reducing the total energy cost of the building and at the same time providing a higher power reserve capacity to the grid."
+}

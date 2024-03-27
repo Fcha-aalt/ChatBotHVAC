@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85010952330,
+    "Title": "Comparative energy consumption study on tall cross laminated timber building for U.S. climates",
+    "Author": "Pei S.",
+    "Journal": "WCTE 2016 - World Conference on Timber Engineering",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Colorado School of Mines",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Tall building (higher than 8 stories) construction using Cross laminated timber (CLT) is a relatively new trend for urban developments around the world. In the U.S., there is great interest in utilizing the potential of this new construction material. By analyzing a ten-story condominium building model constructed using building energy simulation program EnergyPlus, the energy efficiency of this emerging building type was evaluated and compared with a light metal frame building system (currently viable construction type for this height based on the U.S. building code). A sensitivity analysis was also conducted to study the impact of different weather and internal load conditions on building energy performances. It was concluded that efficiency of CLT envelope is high for heating energy savings, but its energy performance efficiency can be greatly affected by other factors including weather, internal loading, and HVAC control."
+}

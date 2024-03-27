@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84988884758,
+    "Title": "Modelling mechanical and thermal performance of concrete products: A multi-level approach",
+    "Author": "Couto S.",
+    "Journal": "Heron",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "CeNTI",
+    "Affliation Country": "Portugal",
+    "Cited by count": 0,
+    "Abstract": "The performance of concrete products depends not only on the concrete compositions but also on the dimensions and the environment they are placed in. Numerical simulations are excellent tools to predict the performance of concrete products before actually making them and thus serve as a tool for product design. The present numerical studies were focused, firstly, on the prediction of the mechanical and thermal behaviour of concrete products when applied in façade walls and, secondly, on the prediction of the energy efficiency of buildings composed by such products. Different concrete mixtures were considered, depending to their target application (blocks or panels, e.g.). Façade walls were considered to be exposed to realistic weather conditions and focus was put on the stresses resulting from thermal expansion. For the \"house/building\" level, an energy efficiency analysis was performed for different types of buildings, which were assumed to be exposed to typical cold winter and hot summer weather conditions. This resulted in detailed information on the energy balance of the resulting structures such as energy consumption with HVAC (heating, ventilating, and air conditioning) systems. An integrated multi-level approach, from concrete components to building structures, was developed, enabling to compare the performance of different concrete compositions."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153115068,
+    "Title": "Monolithic Zirconium-Based Metal–Organic Frameworks for Energy-Efficient Water Adsorption Applications",
+    "Author": "Çamur C.",
+    "Journal": "Advanced Materials",
+    "Publication Date": {
+        "$date": "2023-06-08T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1002/adma.202209104",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Chemical Engineering and Biotechnology",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 6,
+    "Abstract": "Space cooling and heating, ventilation, and air conditioning (HVAC) accounts for roughly 10% of global electricity use and are responsible for ca. 1.13 gigatonnes of CO2 emissions annually. Adsorbent-based HVAC technologies have long been touted as an energy-efficient alternative to traditional refrigeration systems. However, thus far, no suitable adsorbents have been developed which overcome the drawbacks associated with traditional sorbent materials such as silica gels and zeolites. Metal–organic frameworks (MOFs) offer order-of-magnitude improvements in water adsorption and regeneration energy requirements. However, the deployment of MOFs in HVAC applications has been hampered by issues related to MOF powder processing. Herein, three high-density, shaped, monolithic MOFs (UiO-66, UiO-66-NH2, and Zr-fumarate) with exceptional volumetric gas/vapor uptake are developed—solving previous issues in MOF-HVAC deployment. The monolithic structures across the mesoporous range are visualized using small-angle X-ray scattering and lattice-gas models, giving accurate predictions of adsorption characteristics of the monolithic materials. It is also demonstrated that a fragile MOF such as Zr-fumarate can be synthesized in monolithic form with a bulk density of 0.76 gcm−3 without losing any adsorption performance, having a coefficient of performance (COP) of 0.71 with a low regeneration temperature (≤ 100 °C)."
+}

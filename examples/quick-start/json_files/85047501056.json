@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047501056,
+    "Title": "Real-time occupancy based HVAC control using interval type-2 fuzzy logic system in intelligent buildings",
+    "Author": "Reena K.E.M.",
+    "Journal": "Proceedings of the 2017 12th IEEE Conference on Industrial Electronics and Applications, ICIEA 2017",
+    "Publication Date": {
+        "$date": "2017-07-02T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICIEA.2017.8282888",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 4,
+    "Abstract": "Centrally air conditioned large buildings have been the recent trend for malls, exhibition halls, business parks, and so on. In these high-rise buildings, the intelligent control provides energy efficient means for comfort, safety, and security. Real-time occupancy-based control for HVAC is greatly contributing to energy savings, in addition to the reduction in greenhouse gas emissions, the carbon footprint. This paper proposes an improved architecture using Interval Type-2 Fuzzy Logic System (IT2FLS) for adaptive control of multi-zone shared spaces in intelligent buildings in respect of user comfort and energy efficiency for heating, ventilation, and air conditioning. The objective is the improvement in occupant comfort levels. From the simulation results obtained the suitability of IT2FLS to handle the uncertainties related to dynamically varying occupancy patterns is illustrated. Work can be extended to develop a cognitive controller for reducing the dependency on the operator skills for optimized high level control settings."
+}

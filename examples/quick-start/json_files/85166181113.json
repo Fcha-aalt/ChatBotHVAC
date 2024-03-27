@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85166181113,
+    "Title": "Validation of a Qualification Procedure Applied to the Verification of Partial Discharge Analysers Used for HVDC or HVAC Networks",
+    "Author": "Vera C.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-07-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/app13148214",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad Politécnica de Madrid",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "The insulation condition of HVDC grids consisting of cable systems, GIS, and converters should be monitored by partial discharge (PD) analysers using artificial intelligence (AI) tools for efficient insulation diagnosis. Although there are many experiences of PD monitoring solutions developed for the supervision of the insulation condition of HVAC grids using PD analysers, there are no standardised requirements for their qualification available yet. The international technical specification TS IEC 62478 provides general rules for PD measurements using electromagnetic methods but does not define performance requirements for qualification tests. HVDC and HVAC PD analysers must be tested by unambiguous test procedures. This paper compiles experiences of using PD analysers with HFCT sensors in HVAC grids (cable systems, GIS, and AIS) to define a qualification procedure for HVAC systems. This procedure is applicable to HVDC grids (cable systems, GIS, AIS, and converters) because the particularities related to the insulation behaviour under HVDC voltage are also considered. Representative PD sources are discussed in HVAC and HVDC positive and negative polarity. The PD pulse trend of representative insulation defects in HVDC cable systems is quite different from that of HVAC grids. Special attention should be paid to the acquisition of PD signals in HVDC grids since few pulses appear in solid insulations, mainly during voltage changes (polarity reversals or surges), but rarely in continuous operation with constant direct voltage. A synthetic PD simulator has been developed to reproduce trains of PD pulses or noise signals, similar to those that can appear in the power network. A set of three functionality tests has been developed for qualification of the diagnostic capabilities of PD analysers working up to 30 MHz addressed to HVDC or HVAC grids: (1) PD recognition test, (2) PD clustering test, and (3) PD location test. This qualification procedure has been validated by means of a round-robin test performed by five research institutes (RISE, FFII, TUDelft, TAU, and UPM) using commercial and in-development AI PD recognition and clustering tools to demonstrate its robustness and applicability. Applying this qualification procedure, two PD methods for electrical detection and prevention of insulation defects have been approved, one for HVAC and the other for HVDC grids."
+}

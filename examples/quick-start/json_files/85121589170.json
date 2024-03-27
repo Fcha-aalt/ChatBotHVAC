@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121589170,
+    "Title": "Integration of cyber-physical HVAC systems in Incremental Manufacturing to improve Energy Efficiency and Air Quality",
+    "Author": "Vogt M.",
+    "Journal": "Procedia CIRP",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.procir.2021.11.081",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technische Universität Braunschweig",
+    "Affliation Country": "Germany",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation and air conditioning (HVAC) systems in a production environment ensure safe and comfortable environmental conditions and require a significant amount of final energy in the industry. In this paper a complete cyber-physical HVAC system is presented, which is implemented in an incremental production environment to ensure these conditions. Incremental manufacturing is a concept for a flexible production system that combines additive manufacturing, subtractive manufacturing processes and other production technologies. With the cyber-physical HVAC system, energy efficiency, air quality and thermal conditions can be improved in the incremental production environment, by providing decision support, greater transparency and enabling model-predictive control in real time."
+}

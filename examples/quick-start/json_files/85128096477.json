@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128096477,
+    "Title": "Optimal HVAC Control in Shared Office Spaces Based on Deep Reinforcement Learning",
+    "Author": "Qin S.",
+    "Journal": "Proceeding - 2021 China Automation Congress, CAC 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/CAC53003.2021.9727481",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of IoT",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "In smart buildings, heating, ventilation, and air conditioning (HVAC) systems consume about 40% of total energy. Although HVAC energy consumption is high, the achieved thermal comfort satisfaction ratio (TCSR) in shared spaces is still low, e.g., about 38%. An important reason for this phenomenon is that temperature set-point can not be properly adjusted according to thermal comfort requirements of all occupants. Therefore, it is necessary to implement the optimal tradeoff between HVAC energy consumption and TCSR by dynamically adjusting temperature set-point. In this paper, we investigate the problem of optimal tradeoff between HVAC energy consumption and TCSR in shared office spaces. To this end, we first formulate a multi-objective HVAC energy optimization problem. Due to the existence of uncertain parameters as well as unknown building thermal dynamics models, it is challenging to solve the formulated problem. To overcome the challenge, we propose an HVAC control algorithm based on multi-objective deep reinforcement learning, which can flexibly adjust temperature set-point according to the preset target TCSR. Moreover, the proposed algorithm does not need to choose appropriate objective weights beforehand and retrain a policy even if the environment is changed. Simulations results show the effectiveness of the proposed algorithm."
+}

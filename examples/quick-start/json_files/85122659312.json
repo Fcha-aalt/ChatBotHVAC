@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122659312,
+    "Title": "Energy performance and indoor airflow analysis of a healthcare ward designed with resource conservation objectives",
+    "Author": "Saikia P.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jobe.2021.103296",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Indian Institute of Technology Delhi",
+    "Affliation Country": "India",
+    "Cited by count": 6,
+    "Abstract": "With the outbreak of COVID-19, the urgency of wide-scale healthcare infrastructure development has been felt globally for human survival. To accommodate a large infected population, copious wards are to be built within the prevalent constraints of land, power and material availability. This study designs a two-bed modular healthcare ward which is shrunk in size to minimize the requirement of space and other construction commodities such as materials, labour and power. Additionally, HVAC energy usage is accounted for conservation. The health safety and thermal comfort of occupants are regulated by monitoring indoor environment attributes while pushing towards a resource-efficient structure. Two popular envelope thermal retrofits viz. phase change material and thermal insulation are tested to conceive gains in terms of improved energy performance of the ward. Various ward designs contest with their energy performance and occupant's health safety and comfort characteristics in a multicriteria decision making process for delivering the most favourable solution. Subsequently, the most suitable solution is offered by a design involving thermal insulation retrofit with 8 ACH fresh air supply rate and 26°C inlet air temperature. The proposed design can support developing nations to contrive quick response to pandemic outbreaks with reduced construction (cost, time) and energy loads."
+}

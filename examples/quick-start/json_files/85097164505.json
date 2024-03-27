@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097164505,
+    "Title": "COBS: COmprehensive Building Simulator",
+    "Author": "Zhang T.",
+    "Journal": "BuildSys 2020 - Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2020-11-18T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3408308.3431119",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 8,
+    "Abstract": "This poster abstract describes the design and implementation of an open-source building co-simulation platform which integrates various models, simulators, and controllers (e.g., HVAC, lighting, and window blinds), enabling comprehensive evaluation of occupant-centric building controls. Using proper locking, it interacts with EnergyPlus in each time step to access and modify the simulation model object before running simulation in the next time step. The interface is designed similar to OpenAI Gym so that environments that are already written for Gym can be used with this platform. The proposed platform utilizes a queueing network simulator to generate realistic movement traces for occupants and simulate actions in a probabilistic fashion."
+}

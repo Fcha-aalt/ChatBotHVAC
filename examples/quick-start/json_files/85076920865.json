@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076920865,
+    "Title": "A platform architecture for occupancy detection using stream processing and machine learning approaches",
+    "Author": "Elkhoukhi H.",
+    "Journal": "Concurrency and Computation: Practice and Experience",
+    "Publication Date": {
+        "$date": "2020-09-10T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1002/cpe.5651",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "International University of Rabat",
+    "Affliation Country": "Morocco",
+    "Cited by count": 19,
+    "Abstract": "Context-awareness in energy-efficient buildings has been considered as a crucial fact for developing context-driven control approaches in which sensing and actuation tasks are performed according to the contextual changes. This could be done by including the presence of occupants, number, actions, and behaviors in up-to-date context, taking into account the complex interlinked elements, situations, processes, and their dynamics. However, many studies have shown that occupancy information is a major leading source of uncertainty when developing control approaches. Comprehensive and real-time fine-grained occupancy information has to be, therefore, integrated in order to improve the performance of occupancy-driven control approaches. The work presented in this paper is toward the development of a holistic platform that combines recent IoT and Big Data technologies for real-time occupancy detection in smart building. The purpose of this work focuses mainly on the presence of occupants by comparing both static and dynamic machine learning techniques. An open-access occupancy detection dataset was first used to assess the usefulness of the platform and the effectiveness of static machine learning strategies for data processing. This dataset is used for applications that follow the strategy aiming at storing data first and processing it later. However, many smart buildings' applications, such as HVAC and ventilation control, require online data streams processing. Therefore, a distributed real-time machine learning framework was integrated into the platform and tested to show its effectiveness for this kind of applications. Experiments have been conducted for ventilation systems in energy-efficient building laboratory (EEBLab) and preliminary results show the effectiveness of this platform in detecting on-the-fly presence of occupants, which is required to either make ON or OFF the system and then activate the corresponding embedded control technique (eg, ON/OFF, PID, state-feedback)."
+}

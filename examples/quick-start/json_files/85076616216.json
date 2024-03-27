@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076616216,
+    "Title": "CAM-STITCH: Trajectory cavity stitching method for stereo vision cameras in a public building",
+    "Author": "Das A.",
+    "Journal": "AIChallengeIoT 2019 - Proceedings of the 2019 International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things",
+    "Publication Date": {
+        "$date": "2019-11-10T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1145/3363347.3363358",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Syddansk Universitet",
+    "Affliation Country": "Denmark",
+    "Cited by count": 6,
+    "Abstract": "Transforming the sensor data from building systems into meaningful information could be used to build data-driven reference models for occupant behavior and actions using Machine Learning (ML) and Deep Learning (DL) techniques. These models can also be implemented for different notable applications such as-controlling heating, ventilation and air conditioning (HVAC) parameters, automated lighting, safety and security, and efficient space utilization. In this paper, we deployed 3D Stereo Vision Cameras from Xovis in a public building to capture trajectory data for multiple occupants. If there are inconsistencies/a gap in the field of view (FoV) of the cameras, continuous tracking of multiple occupants becomes quite challenging. If the inconsistencies persist, a single occupant is assigned multiple occupant-ID's, which is misleading and inaccurate for both occupancy count and tracking measurements within the monitored area. To mitigate and overcome the inconsistencies in the FoV of the deployed cameras, we propose the CAM-STITCH algorithm, which would enable multi-sensor stitching of the occupant trajectories using a variant of Recurrent Neural Network known as Long Short-Term Memory (LSTM) model. The CAM-STITCH algorithm is evaluated by calculating the Root Mean Squared Error (RMSE) between the measured and predicted position coordinates (x, y), which resulted in an average RMSE of 9.53 centimeters on trajectory 1 and an average RMSE of 12.72 centimeters on trajectory 2 for multiple occupants. CAM-STITCH is also designed to overcome dynamic occlusions posed by the 3D Stereo Vision Cameras. The proposed algorithm CAM-STITCH can ensure that the gathered data from the building is reliable for accurate trajectory measurements and can further assist in performing intelligent building operations."
+}

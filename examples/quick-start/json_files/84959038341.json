@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84959038341,
+    "Title": "Centralized management of HVAC energy in large Multi-AHU Zones",
+    "Author": "Nagarathinam S.",
+    "Journal": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Publication Date": {
+        "$date": "2015-11-04T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1145/2821650.2821655",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tata Consultancy Services India",
+    "Affliation Country": "India",
+    "Cited by count": 16,
+    "Abstract": "HVAC control strategies that exploit temporal variations in zone occupancy have been well studied. However, at a given time, occupancy can also vary spatially within a single large zone with no internal wall partitions, that is served by multiple AHUs. We complement prior work by studying how spatial variations in a large zone can be leveraged to save energy and improve occupant comfort. Specifically, we propose a novel strategy for centralized reactive control of all the AHUs serving a large zone, MAZIC (Multi- AHU Zone Intelligent Control). To decide control outputs, we use a thermal model to capture the mixing of heat loads across different regions of the large zone served by different AHUs. We study MAZIC's performance in terms of energy consumption and comfort using real-world occupancy data. When the spatial skew in occupancy is high, MAZIC reduces energy consumption by 11% over individual PID controllers running at each AHU, while maintaining similar comfort levels. Sensing temperature and occupancy at finer spatial resolution helps both MAZIC and PID controllers to save more energy when the occupancy is skewed. Finer spatial sensing does not add much value when the occupancy is not so skewed. We also find that augmenting MAZIC with a MPC (Model Predictive Control) approach yields insignificant improvement (< 3%) during normal occupancy. With ON-OFF occupancy patterns, MPC improves energy savings by up to ∼ 6% over reactive MAZIC."
+}

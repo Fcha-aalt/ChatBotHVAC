@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044240819,
+    "Title": "Wavelet Packet Entropy and RBFNN Based Fault Detection, Classification and Localization on HVAC Transmission Line",
+    "Author": "Patel B.",
+    "Journal": "Electric Power Components and Systems",
+    "Publication Date": {
+        "$date": "2018-01-02T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1080/15325008.2018.1431817",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kalyani Government Engineering College",
+    "Affliation Country": "India",
+    "Cited by count": 19,
+    "Abstract": "The article presents a technique for fast and accurate detection, classification and localization of faults on the high voltage transmission systems considering the alternator's dynamics and the effect of transformers. The systems have been simulated by ATP/EMTP software and three phase fault currents at one end of the transmission line are recorded with a sampling frequency of 50 kHz. The fault signals are decomposed by wavelet packet decomposition (WPD) up to 3rd level with mother wavelet db6 to calculate wavelet packet entropy (WPE) which has the ability to measure the uncertainty of fault signals during feature extraction. A properly designed radial basis function neural network (RBFNN) trained with these features can recognize, classify and locate faults faster as it utilizes only half cycle data after fault initiation. This technique has been verified for different fault categories, fault impedances and fault inception angles (FIA) at different locations for two different transmission systems. The investigated results demonstrate that the wavelet packet entropy is very powerful for extracting the features from the fault signals and RBFNN is very accurate for classification and localization of faults on the transmission line including locations close to the generator's end."
+}

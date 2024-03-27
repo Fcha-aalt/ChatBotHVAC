@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106163296,
+    "Title": "Envelope Performance Analysis of Office Buildings in Warm and Humid Climate: From Case Studies of Multi-storied Office Buildings in Chennai",
+    "Author": "Chockalingam C.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-981-15-9585-1_11",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Dr. M.G.R Educational and Research Institute",
+    "Affliation Country": "India",
+    "Cited by count": 3,
+    "Abstract": "In India, the average of all commercial buildings’ electricity consumption is at 6.6% and the growth of office spaces in urban area is increasing at the rate of 8–10% annually since 2005 [1]. India is still in the nascent stage of energy conservation and energy-saving potential is 20–40% for commercial buildings [2]. Hence, the Bureau of Energy Efficiency (BEE) has formulated the Energy Conservation Building Code (ECBC 2017) which primarily stipulates codes for the design of energy-efficient buildings. The purpose of this research paper is to explore the energy performance of six office building samples from each typology of the predominant envelope design in Chennai since 1995 and analyze the sample buildings for three major envelope performances—solar insolation, daylighting and space-cooling load. The first part is performance ranking from site measurement data and then checks for ECBC 17 compliance for all the samples. As the age of HVAC equipment and other space-cooling components varies in all the samples, the results were inconsistent to compare; hence, a simulation method was adapted by creating building information model in Revit using same envelope building materials. Comparing all the case studies, the results for the case buildings with energy-efficient façade design performed better than the rest. Based on the analysis and results, this paper lists the envelope design factor for of multi-storied office buildings in warm and humid climate of Chennai."
+}

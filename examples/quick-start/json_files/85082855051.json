@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082855051,
+    "Title": "Parameter estimation of thermal model of a building: A meta-heuristic approach",
+    "Author": "Wani M.",
+    "Journal": "Proceedings - 2019 International Conference on Information Technology, ICIT 2019",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICIT48102.2019.00083",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Auckland",
+    "Affliation Country": "New Zealand",
+    "Cited by count": 2,
+    "Abstract": "The building Heating, Ventilation and Air Conditioning (HVAC) systems form significant portion of energy consumption. This, therefore, warrants for better energy efficient control strategies. The success of such control strategies is critically dependent on the accuracy of the building thermal model. This is a challenging task, as some of the building parameters are difficult to be quantified in practice. The present study, therefore, proposes a meta-heuristic approach to accurately estimate the thermal parameters of a building model. To this end, the parameter estimation problem is formulated as a single objective optimization problem. The efficacy of the proposed approach is demonstrated by considering a simulated building in EnergyPlus' environment. The results show that the proposed approach could effectively estimate the building thermal parameters which can, thereby, be used to develop reliable thermal models and, eventually, efficient Building Energy Management Systems (BEMS)."
+}

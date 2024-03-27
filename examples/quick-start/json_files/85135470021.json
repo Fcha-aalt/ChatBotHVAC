@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135470021,
+    "Title": "Trade-off decisions in a novel deep reinforcement learning for energy savings in HVAC systems",
+    "Author": "Dawood S.M.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/19401493.2022.2099465",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Basra University for Oil and Gas",
+    "Affliation Country": "Iraq",
+    "Cited by count": 8,
+    "Abstract": "This paper presents Model-based Reinforcement Learning (MB-RL) techniques to control the indoor air temperature, and CO2 concentration level, and minimize the energy consumption of the heating, ventilating, and air conditioning (HVAC) systems, simultaneously. For this purpose, a trade-off is made between maintaining indoor comfort levels and minimizing energy consumption. The control of the HVAC system is performed using the Deterministic Policy RL (DP-RL) method. Moreover, the nonlinear autoregressive exogenous neural network (NARX-NN) is employed as an approximation function with DP-RL method to provide a hybrid DP-NARX-RL controller. By applying the DP-RL and DP-NARX-RL controllers to the HVAC system of a typical building, parameters such as the indoor comfort levels, the electrical power, and energy consumed, and the energy costs at various pricing schemes are evaluated for two case studies. In both cases, the results show the better performance of DP-NARX-RL compared to DP-RL, RL, and PID controllers."
+}

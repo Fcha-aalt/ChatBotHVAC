@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175077526,
+    "Title": "Model-Free HVAC Control in Buildings: A Review",
+    "Author": "Michailidis P.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16207124",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Democritus University of Thrace",
+    "Affliation Country": "Greece",
+    "Cited by count": 2,
+    "Abstract": "The efficient control of HVAC devices in building structures is mandatory for achieving energy savings and comfort. To balance these objectives efficiently, it is essential to incorporate adequate advanced control strategies to adapt to varying environmental conditions and occupant preferences. Model-free control approaches for building HVAC systems have gained significant interest due to their flexibility and ability to adapt to complex, dynamic systems without relying on explicit mathematical models. The current review presents the recent advancements in HVAC control, with an emphasis on reinforcement learning, artificial neural networks, fuzzy logic control, and their hybrid integration with other model-free algorithms. The main focus of this study is a literature review of the most notable research from 2015 to 2023, highlighting the most highly cited applications and their contributions to the field. After analyzing the concept of each work according to its control strategy, a detailed evaluation across different thematic areas is conducted. To this end, the prevalence of methodologies, utilization of different HVAC equipment, and diverse testbed features, such as building zoning and utilization, are further discussed considering the entire body of work to identify different patterns and trends in the field of model-free HVAC control. Last but not least, based on a detailed evaluation of the research in the field, the current work provides future directions for model-free HVAC control considering different aspects and thematic areas."
+}

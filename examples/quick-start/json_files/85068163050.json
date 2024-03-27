@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068163050,
+    "Title": "Applying the naïve Bayes classifier to HVAC energy prediction using hourly data",
+    "Author": "Lin C.M.",
+    "Journal": "Microsystem Technologies",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/s00542-019-04479-z",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Chiao Tung University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 8,
+    "Abstract": "Heating ventilation and air conditioning (HVAC) accounts for approximately 50% of the total energy consumption of buildings. Therefore, many studies have been focused on the simulation and optimal control of HVAC power consumption or the prediction of energy consumption through the construction of energy consumption models and the improvement of HVAC power consumption through energy management methods. The prediction of energy consumption by optimal energy-saving control or energy baseline is dependent on an accurate energy consumption model, however, the accuracy of the energy consumption model is influenced by the model variables. In addition, different operating periods and load conditions also lead to different changes in energy consumption, which will affect the accuracy of optimal energy consumption control or prediction of energy consumption. The present study proposes a method to enhance the accuracy and sensitivity of HVAC power consumption prediction, which involves the use of a clustering technique to locate clusters with similar information within hourly data, the construction of energy consumption models by converting the clustered hourly data into monthly data, and the application of the proposed Naïve Bayes classifier to classify hourly data under different operating conditions into the energy consumption model with the smallest prediction error. A multiple variable regression model and an artificial neural network (ANN) model were compared with the models developed in the present study, and the normalized mean bias error (NMBE) and the coefficient of variation of the root mean squared error (Cv-RMSE) were used as criteria for the predicted energy consumption values."
+}

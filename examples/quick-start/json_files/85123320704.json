@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123320704,
+    "Title": "Research and implementation of optimal operation method of island integrated energy system",
+    "Author": "Liu F.R.",
+    "Journal": "2021 IEEE International Conference on Electrical Engineering and Mechatronics Technology, ICEEMT 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICEEMT52412.2021.9602647",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Northeast Electric Power University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "In order to improve the economy of island integrated energy system, an optimization model of electric-gas-thermal coupling integrated island energy system operation considering the demand response of building is proposed. The building thermal inertia model including HVAC load and integrated energy system model including gas turbine, diesel generator, wind turbine, electric boiler and gas storage tank are modeled. Considering the coupling property of time-sharing electricity price, gas price and multi energy, the demand side management is carried out through building thermal inertia, and the minimum operating cost of the system is taken as the goal. The yalmip toolbox and cplex solver are used to solve the model and obtain the power of each equipment and load in the scheduling period. The results show that the demand response of the buildings can play a role of peak load reduction and valley filling on the premise of ensuring the user's requirements for indoor temperature comfort, stabilize the fluctuation of wind power, and make the supply and demand more balanced. Through the coordinated interaction of the source, net and load, as well as the multiple energy sources on the supply side support and reserve each other, the efficiency of energy interactive utilization gets improved, and the system operation cost is reduced as well."
+}

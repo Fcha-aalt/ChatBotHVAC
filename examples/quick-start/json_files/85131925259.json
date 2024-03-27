@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131925259,
+    "Title": "Understanding Material Consumption During Maintenance of Buildings",
+    "Author": "Weeks D.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-19-0503-2_26",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cockrell School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The longest and most costly part of a facility lifecycle is the operations and maintenance (O&M) phase. Therefore, it is important to implement sustainability principles during maintenance activities, such as reducing material usage. Proper maintenance of a facility impacts the lifecycle sustainability of a project by increasing the usable life of the facility and improving its energy efficiency. Like many building owners, the United States (US) Department of Defense (DoD) has sustainability goals and policies to reduce the environmental impact of their buildings. This study reviewed 28,790 work orders from 272 military office facilities across the US and around the world to reveal material consumption during maintenance and the impact of preventative maintenance (PM) on reducing corrective maintenance (CM) requirements. The study found that heating, ventilation, and air conditioning (HVAC) maintenance consumes the most material per work order, with material accounting for 43% of the average work order cost. Both HVAC and painting had the greatest average material cost per corrective maintenance work order, at $277 and $254 respectively, suggesting a higher consumption of material than other crafts studied. This study contributes to an understanding of the proportion of a typical work order cost that is material cost and to quantifying the relationship between PM and CM. This research applies to office buildings maintenance decisions, particularly material selection. For owners to improve the sustainability of buildings, they must reduce material and energy consumption during facility O&M which starts with design decisions and continues through maintenance prioritization."
+}

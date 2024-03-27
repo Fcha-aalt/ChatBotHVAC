@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016740915,
+    "Title": "Next generation R744 refrigeration technology for supermarkets",
+    "Author": "Hafner A.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.18462/iir.icr.2015.0768",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "SINTEF Energi AS",
+    "Affliation Country": "Norway",
+    "Cited by count": 3,
+    "Abstract": "Supermarket refrigeration units of the future have to be able to handle the entire energy flows and demands in the supermarket building. Besides providing the cooling capacity for medium and low temperature display cabinets, the heat pumping demands of the HVAC units should be integrated into the requirement specification. This will reduce total investment and service costs. It will also reduce the total energy consumption due to the possibility of direct utilization of surplus heat and advanced capacity controls during AC mode. Therefore the system architecture of R744 commercial refrigeration unit has to be adapted to be able to fulfil the required duties as energy efficient as possible, i.a. the control of evaporation temperatures and evaporator outlet conditions at low, medium and AC temperature level. Integration of auxiliary evaporators for heat pump & AC operation will be discussed and control strategies to further improve the multi ejector enhanced parallel compression systems. Compared to H C404A units, R744 ejector supported units with parallel compression and a pressure lift of around 15 bar do have the highest energy efficiency values and represent the next generation of R744 technology, which can be applied globally, significantly reducing both direct and indirect greenhouse gas emissions."
+}

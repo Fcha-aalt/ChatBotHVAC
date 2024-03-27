@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124603871,
+    "Title": "Energy and environmental assessment of high-performance building envelope in cold climate",
+    "Author": "Aslani A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.111924",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Tehran",
+    "Affliation Country": "Iran",
+    "Cited by count": 5,
+    "Abstract": "This research assesses the energy performance and environmental damages of a high thermal performance building envelope (HTPBE) designed for cold-climate regions compared to the conventional stud wall (baseline) using the life cycle assessment (LCA) method. Four types of wall assemblies with two different thermal resistance (R-values 17 and 50) are assessed and compared with the baseline with R-value 17. The declared unit of the LCA study is the envelope walls used in the conditioned area of a two-storey building in Calgary, Canada. HTPBE walls analyzed in this work include Double stud walls, Structural Insulated Panels (SIP), and Insulated Concrete Form (ICF). Results show that using R-50 HTPBE can decrease about 85 % of the HVAC energy consumption, which brings 80% natural gas saving compared to the baseline. The analysis also shows that CO2 emissions for Double-Stud Wall (DSW) range between 5438 and 10014 kg CO2 eq at the product stage. These values range 9492 and 47618 kg CO2 eq for Structural Insulated Panels (SIP) that may use different insulations (expanded polystyrene-EPS- and extruded polystyrene-XPS). Also, the CO2 emissions of ICF are between 9200 and 22600 kg CO2 eq at the product stage. Comparing the kg CO2 emissions of scenarios to their weights shows that ICF R-17 and R-50 have the lowest CO2 emissions compared with other R-17 and R-50 scenarios. Other environmental damages of the scenarios are also discussed in the research. The balance of CO2 emissions and the mitigated CO2 emissions caused by the saved energy in R-50 HTPBEs shows that they are reliable options to be implemented in cold climates."
+}

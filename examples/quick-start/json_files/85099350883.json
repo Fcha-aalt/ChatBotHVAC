@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099350883,
+    "Title": "Machine Learning-Based Prognostics for Central Heating and Cooling Plant Equipment Health Monitoring",
+    "Author": "Yang C.",
+    "Journal": "IEEE Transactions on Automation Science and Engineering",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/TASE.2020.2998586",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Normal University",
+    "Affliation Country": "China",
+    "Cited by count": 18,
+    "Abstract": "Fault detection, diagnostics, and prognostics (FDDP) ensure the operation efficiency and safety of engineering systems. In the building domain, they can help significantly reduce energy consumption and improve occupant comfort. Specifically, prognostics are becoming increasingly important as a pro-active fault prevention strategy through continuously monitoring the health of energy systems. In this article, we develop a machine learning-based method for building systems. The proposed method can help develop predictive models from historical operation and maintenance data. After the detailed description of the proposed machine learning-based prognostic method, a case study involving prognostics on central heating and cooling plant (CHCP) equipment is provided. To this end, a year's worth of sensor and actuator data from four boilers and five chillers of a CHCP in Ottawa, Canada are collected. The plant operators are interviewed to understand how they handle failure events, and their logbooks are reviewed to extract the date and time of the recorded failure events. The sensor and actuator data up to two weeks prior to each of these failure events are used to develop regression tree models that predict time to failure (TTF). The results indicate that about half of the modeled failure events could be accurately predicted by looking at the data available in the distributed control system. Finally, the future work is outlined. Note to Practitioners - This article was motivated by the problem of fault detection, diagnostics, and prognostics (FDDP) of the building systems. We contemplated to develop an advanced technology for heating, ventilation and air conditioning (HVAC) prognostics, in particular, for central heating and cooling plant (CHCP) health monitoring, aiming to save energy consumption and the operational cost. The developed machine learning-enabled predictive modeling technique, which can help build predictive models from historic operational and maintenance data, can be applied to other application domains such as oil pipeline system monitoring and high-speed train prognostics."
+}

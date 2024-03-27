@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085182099,
+    "Title": "What can connected thermostats tell us about American heating and cooling habits?",
+    "Author": "Meier A.",
+    "Journal": "Eceee Summer Study Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "At least five million American homes have Internet-connected thermostats. These devices improve comfort and reduce energy consumption using cloud-based algorithms. Every five minutes, they collect and transmit detailed operating information, including thermostat setpoints, actual indoor temperatures, occupancy, and HVAC operation. One thermostat provider established a program that enables customers to anonymously “donate” their data to researchers and more than 50,000 customers have opted in. This dataset represents the most comprehensive public data on home temperature preferences for North America and provides far more detail than any previous method based on surveys or monitoring programs. The data show in detail preferred temperatures while occupants are home, sleeping, and away. On average, these households lower their thermostats about 1 °C when they are asleep compared to when awake, though this average conceals both widespread constant operation and deeper setbacks. The peak usage of air conditioners in Texas was shown to precisely match the grid's systemwide peak. The connected thermostats also raise a survey research question: when should policymakers rely on a small sample of rigorously selected buildings instead of a huge, unrepresentative sample with detailed data? Many fruitful applications of this dataset will be constrained by privacy protections and reluctance of firms to share information."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096466254,
+    "Title": "Estimating Home Heating and Cooling Energy Use from Monthly Utility Data",
+    "Author": "Yakkali S.S.",
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-3-030-63089-8_8",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Penn State College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "About 22% of total energy consumption in the U.S. is attributed to residential usage. To assess home energy use performance and propose energy-efficiency upgrades, knowledge of overall energy use is not sufficient, and the device-level, energy use, especially about the heating and cooling equipment, is usually required. The home energy use by Heating, Ventilating, and Air Conditioning (HVAC) systems approximately accounts for 48% of the total energy use per household, so decomposing overall energy use data into HVAC energy use weighs more values. However, existing methods to disaggregate HVAC use primarily rely on sensors or meters at either device-level or central power-level, and thus hinder the utilization for homeowners. Alternatively, for households, information about monthly utility usually is accessible and may be utilized to attain HVAC energy use through data mining techniques. In this study, the multivariate polynomial regression models of the month cooling and heating energy use were conducted based on overall monthly energy use, home profiles, and monthly weather data. The primary dataset used for training and testing the model was from the Pecan Street home energy use dataset. The resultant polynomial regression models, which achieved R2 value with 81.8% and 92.8% for cooling and heating energy usage prediction, respectively. These models may serve as a tool for homeowners to provide estimated HVAC energy use upon very few user input data and then support the building energy efficiency improvement actions, such as building retrofits, equipment upgrades, and energy feedback interventions."
+}

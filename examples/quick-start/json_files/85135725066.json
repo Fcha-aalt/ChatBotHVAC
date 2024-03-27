@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85135725066,
+    "Title": "Advanced smart trigeneration energy system design for commercial building applications – Energy and cost performance analyses",
+    "Author": "Yang L.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2022-11-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.energy.2022.124890",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "CANMET Energy Technology Center",
+    "Affliation Country": "Canada",
+    "Cited by count": 4,
+    "Abstract": "Smart building-integrated trigeneration technology has the potential to meet the world goals for significant reduction of greenhouse gas (GHG) emissions. Some of the new research and development policies are aimed at development of novel and renewable hybrid systems, shift from unit to integration technology; implementation of demand-side management; move from centralized macro to decentralized micro technologies, etc. Recognizing the importance of trigeneration in future energy mix, hybrid renewable trigeneration systems - with integration of photovoltaic-thermal (PVT), ground source heat pump (GSHP) and smart control - were developed for a small commercial building. This paper discusses the energy and cost performance as well as GHG emissions of these systems sized to meet building space heating/cooling loads and HVAC electric power requirements. The results enhance the knowledge and provide useful information to designers on how these trigeneration systems should be applied under variety of conditions, what are their advantages in comparison to a single ground source heat pump system, and what are the energy, economic and GHG emission impacts of smart communications and artificial intelligence controls."
+}

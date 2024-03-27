@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113899498,
+    "Title": "Enabling Energy Efficient HVAC Operation Through IWSNs",
+    "Author": "Schlichter J.",
+    "Journal": "IEEE Transactions on Green Communications and Networking",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/TGCN.2021.3105370",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität Braunschweig",
+    "Affliation Country": "Germany",
+    "Cited by count": 6,
+    "Abstract": "Many industrial processes rely on specific environmental conditions to ensure product quality and the well-being of human workers. To ensure the required production conditions, typically, energy-intensive Heating, Ventilation and Air Conditioning (HVAC) systems are used. In this paper, we present a variable Industrial Wireless Sensor Network (IWSN) as well as the linked measurement strategy and two different real-world deployments. The sensor nodes can measure environmental conditions such as thermal comfort, air purity, and three-dimensional airflow. For reliable wireless communication, the nodes feature a dual transceiver radio that can operate at sub-1 GHz and 2.4 GHz frequency bands. The collected data is used for a cyber physical production system (CPPS) to provide decision support and enable a demand-driven control of HVAC systems. We show that even with energy savings as low as 5% through our CPPS, up to 3990.56t CO2-eq could be saved per year in our exemplary real-world deployments."
+}

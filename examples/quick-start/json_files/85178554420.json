@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178554420,
+    "Title": "Long-term trends in connected thermostat performance",
+    "Author": "Meier A.",
+    "Journal": "Eceee Summer Study Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Internet-connected thermostats (CTs) control heating and cooling systems in about 30 % of North American homes, and capture half of annual thermostat sales. In 2017 the U.S. Environmental Protection Agency created a program to certify the performance of ENERGY STAR® Connected Thermostats. To demonstrate compliance with energy-saving criteria, thermostat vendors must submit performance summaries for a representative sample of up to 1250 homes. Vendors must then re-submit results from a new, representative sample every six months in order to maintain their ENERGY STAR certification. This procedure has created a unique record of each thermostat's long-term performance in response to changes in weather, customer demographics, building stock, and algorithms. Our analysis covers submissions from 13 different vendors, who submitted data up to 7 times over four years. We found that these semi-annual samples generated relatively stable trends for comfort temperatures and Heating, Ventilating and Air Conditioning (HVAC) runtimes over the study period. However, some vendors achieved consistently more energy-conserving comfort temperatures and shorter HVAC runtimes than others. The most recent submission runtimes averaged 700 hours for heating and 1,300 hours for cooling, but some vendors achieved runtimes as much as 17 % below the mean. This implies lower energy consumption is due in large part to more successful algorithms and control strategies used by those vendors."
+}

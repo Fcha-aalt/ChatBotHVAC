@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85052289185,
+    "Title": "The energy consequences of excess static pressure in central residential heating and air-conditioning systems",
+    "Author": "Fazli T.",
+    "Journal": "Proceedings - Healthy Buildings 2015 America: Innovation in a Time of Energy Uncertainty and Climate Adaptation, HB 2015",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Illinois Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The use of higher efficiency particle filters in central residential forced air heating and cooling systems have become more widespread recently. Improved filtration products often introduce excess static pressure to systems, which can have significant energy and economic impacts. However, the overall energy consequences of excess static pressure drop have not been explored in depth across a large number of climates, homes, or system characteristics. In this study, we model the energy impacts of a range of realistic static pressure conditions for both newly constructed energy efficient and existing single-family homes in all climate zones in the U.S. using building energy simulations in BEopt combined with EnergyPlus. Results suggest that severe excess external static pressure can increase annual energy consumption by up to ~14% in homes with a permanent split capacitor (PSC) blower installed but only ~2% in homes with an electronically commutated motor (ECM) installed."
+}

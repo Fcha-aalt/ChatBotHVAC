@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85178568382,
+    "Title": "A comprehensive review and sensitivity analysis of the factors affecting the performance of buildings equipped with Variable Refrigerant Flow system in Middle East climates",
+    "Author": "Saryazdi S.m.E.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2024-03-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.rser.2023.114131",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shahid Beheshti University",
+    "Affliation Country": "Iran",
+    "Cited by count": 1,
+    "Abstract": "Variable Refrigerant Flow (VRF) systems are becoming increasingly popular in commercial and residential buildings due to their flexibility and efficiency. Building design and operational parameters play an important role in the process of predicting cooling loads, and these variables contain a variety of uncertainties that must be taken into account when seeking to obtain a reliable prediction. It is common practice to oversize the Heating, Ventilation, and Air Conditioning (HVAC) system installed in a building in order to reduce uncertainties in its performance. However, oversizing is undesirable due to additional capital and operating costs, inefficient space utilization, and excessive emissions of greenhouse gases. This study provided a comprehensive literature review on previous uncertainly analysis studies from six perspectives: classification of uncertainty factors, sensitivity analysis methods, building energy model for uncertainty analysis, sampling method, the most effective parameter, and distribution of uncertainty parameters., and then developed a framework to investigate the effects of uncertainty of operational and design parameters on annual cooling load, total energy consumption, HVAC electricity use per conditioned floor area, VRF system cost, and the cooling-to-total electricity consumption ratio (R) in residential buildings equipped with VRF systems located in the Middle East (ME) region (Kuwait City, Tehran, and Istanbul). Artificial Neural Network (ANN) model was also developed to predict output parameters in residential building. Latin Hypercube Sampling (LHS) simulation was also applied to generate near-random samples of uncertainty parameter values from a multidimensional distribution. It should be mentioned that a correlation was derived in this study to predict VRF cost. The study evaluated thirteen uncertainty parameters related to building characteristics, occupants, building energy systems, VRF variables, and lighting conditions. Several methods were used to evaluate the effects of input uncertainty parameters on the output variables, namely, the Standardized Regression Coefficient (SRC), Partial Correlation Coefficient (PCC), and Spearman Rank Correlation Coefficient (SRCC) or Pearson Product-Moment Correlation Coefficient (PPMCC). The results indicated that VRF cost and HVAC electricity use per area have a greater coefficient of variation compared with other output parameters. The density distribution of output parameters indicated that uncertainty parameters had the greatest impact on output parameters in Kuwait (hyper arid climate), whereas in Istanbul (humid subtropical climate), they were the least. Among the variables examined in the Sensitivity Analysis (SA), cooling setpoint had the greatest impact on residential building energy consumption in ME climates. Finally, this paper highlights emerging trends and offers recommendations for advancing future research in the realm of building energy uncertainty analysis."
+}

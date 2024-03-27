@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143720759,
+    "Title": "Einfaches und schnelles dynamisches Modell für die Vorhersage des PV-Eigenverbrauchs",
+    "Author": "Ochs F.",
+    "Journal": "Bauphysik",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1002/bapi.202200033",
+    "Source Type": "Trade Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität Innsbruck",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "Simple and fast dynamic model for the prediction of PV self-consumption. The widespread use of renewable energy plays a crucial role in increasing the energy efficiency of the building stock. The significantly decreased PV system prices and the high flexibility in electricity use for all loads in a building, i.e., space heating (and cooling) and domestic hot water in combination with heat pumps, auxiliary energies, household appliances, and also increasingly electric mobility leads to a wide use of PV. However, the integration of PV into the building is complex and requires the use of electrical and/or thermal energy storage and appropriate control strategies. Therefore, evaluating and optimizing the part of PV electricity that is used directly or stored in the building is a challenging task. Thus, for a detailed analysis of PV and energy storage at the building level, extensive building and system simulations were performed using reference buildings."
+}

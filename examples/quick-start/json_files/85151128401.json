@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151128401,
+    "Title": "Multi-Agent Optimal Control for Central Chiller Plants Using Reinforcement Learning and Game Theory",
+    "Author": "Qiu S.",
+    "Journal": "Systems",
+    "Publication Date": {
+        "$date": "2023-03-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/systems11030136",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "To conserve building energy, optimal operation of a building’s energy systems, especially heating, ventilation and air-conditioning (HVAC) systems, is important. This study focuses on the optimization of the central chiller plant, which accounts for a large portion of the HVAC system’s energy consumption. Classic optimal control methods for central chiller plants are mostly based on system performance models which takes much effort and cost to establish. In addition, inevitable model error could cause control risk to the applied system. To mitigate the model dependency of HVAC optimal control, reinforcement learning (RL) algorithms have been drawing attention in the HVAC control domain due to its model-free feature. Currently, the RL-based optimization of central chiller plants faces several challenges: (1) existing model-free control methods based on RL typically adopt single-agent scheme, which brings high training cost and long training period when optimizing multiple controllable variables for large-scaled systems; (2) multi-agent scheme could overcome the former problem, but it also requires a proper coordination mechanism to harmonize the potential conflicts among all involved RL agents; (3) previous agent coordination frameworks (identified by distributed control or decentralized control) are mainly designed for model-based control methods instead of model-free controllers. To tackle the problems above, this article proposes a multi-agent, model-free optimal control approach for central chiller plants. This approach utilizes game theory and the RL algorithm SARSA for agent coordination and learning, respectively. A data-driven system model is set up using measured field data of a real HVAC system for simulation. The simulation case study results suggest that the energy saving performance (both short- and long-term) of the proposed approach (over 10% in a cooling season compared to the rule-based baseline controller) is close to the classic multi-agent reinforcement learning (MARL) algorithm WoLF-PHC; moreover, the proposed approach’s nature of few pending parameters makes it more feasible and robust for engineering practices than the WoLF-PHC algorithm."
+}

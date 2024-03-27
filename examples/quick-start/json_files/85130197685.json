@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130197685,
+    "Title": "Decision-making process for thermal comfort and energy efficiency optimization coupling smart-window and natural ventilation in the warm and hot climates",
+    "Author": "Suzuki E.H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-07-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112110",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade de São Paulo",
+    "Affliation Country": "Brazil",
+    "Cited by count": 9,
+    "Abstract": "Many studies were conducted to reduce energy demand and consumption in buildings related to HVAC systems, mainly in warm and hot climates, where heat gain from the envelope is relevant. In this context, the window is the component that demands more attention as it usually shows a low thermal performance and represents the weakest component in the building envelope. This work proposes a method to evaluate window performance considering operation strategies regarding dynamic solar control and passive cooling in commercial buildings in subtropical and tropical climates. Parametric simulations were run for three Brazilian cities testing three windows compositions – laminated, insulated, and electrochromic glazing – with hybrid ventilation. Personalized codes were developed to establish rules for window control and prioritize actions to meet energy-saving and thermal comfort for five electrochromic and five hybrid ventilation controls. It was proposed the Pareto-optimal frontier to obtain the optimal set of solutions. The results showed that electrochromic windows reached an energy saving of up to 6.1% to 8.6% in the studied cities. The most influential variables were solar radiation incidence, external illuminance level, and outdoor air temperature. The method is adequate to establish guidelines for window controlling in warm and hot climates, especially coupling different techniques."
+}

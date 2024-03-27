@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85046794323,
+    "Title": "Power disaggregation of combined HVAC loads using supervised machine learning algorithms",
+    "Author": "Rahman I.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.03.074",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Virginia Polytechnic Institute and State University",
+    "Affliation Country": "United States",
+    "Cited by count": 23,
+    "Abstract": "Power disaggregation algorithms are used to decompose building level power consumption data into individual equipment level power information. In order to ensure energy efficient operation of complex systems, such as commercial buildings, a continuous and detailed energy monitoring system is essential. In this paper a novel power disaggregation technique is presented, in which a single set of aggregated power usage data of multiple HVACs from a single power meter is disaggregated to identify the operations of individual HVAC units. Parameters, including the combined real and reactive power of compressors and air handlers, are used in addition to the phase currents of both, as well as the true index values representing the combination of active compressors at any given time. Four different supervised machine learning algorithms – Decision Trees (DT), Discriminant Analysis (DA), Support Vector Machine (SVM) and k-Nearest Neighbors (k-NN) were tested. According to results, the k-Nearest Neighbors model was found to be most efficient in solving the problem of aggregated power disaggregation."
+}

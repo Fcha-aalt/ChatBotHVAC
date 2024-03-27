@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84980488181,
+    "Title": "Effect of extreme temperatures on battery charging and performance of electric vehicles",
+    "Author": "Lindgren J.",
+    "Journal": "Journal of Power Sources",
+    "Publication Date": {
+        "$date": "2016-10-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.jpowsour.2016.07.038",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aalto University",
+    "Affliation Country": "Finland",
+    "Cited by count": 94,
+    "Abstract": "Extreme temperatures pose several limitations to electric vehicle (EV) performance and charging. To investigate these effects, we combine a hybrid artificial neural network-empirical Li-ion battery model with a lumped capacitance EV thermal model to study how temperature will affect the performance of an EV fleet. We find that at −10 °C, the self-weighted mean battery charging power (SWMCP) decreases by 15% compared to standard 20 °C temperature. Active battery thermal management (BTM) during parking can improve SWMCP for individual vehicles, especially if vehicles are charged both at home and at workplace; the median SWMCP is increased by over 30%. Efficiency (km/kWh) of the vehicle fleet is maximized when ambient temperature is close to 20 °C. At low (−10 °C) and high (+40 °C) ambient temperatures, cabin preconditioning and BTM during parking can improve the median efficiency by 8% and 9%, respectively. At −10 °C, preconditioning and BTM during parking can also improve the fleet SOC by 3–6%-units, but this also introduces a “base” load of around 140 W per vehicle. Finally, we observe that the utility of the fleet can be increased by 5%-units by adding 3.6 kW chargers to workplaces, but further improved charging infrastructure would bring little additional benefit."
+}

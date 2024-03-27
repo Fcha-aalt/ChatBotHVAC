@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089329625,
+    "Title": "Neurofuzzy approach for control of smart appliances for implementing demand response in price directed electricity utilization",
+    "Author": "Alamaniotis M.",
+    "Journal": "Artificial Intelligence Techniques for a Scalable Energy Transition: Advanced Methods, Digital Technologies, Decision Support Tools, and Applications",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-3-030-42726-9_10",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Margie and Bill Klesse College of Engineering and Integrated Design",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Artificial intelligence is anticipated to play a significant role in the smart homes of the future. Decisions have to be made based on a variety of information that will be available to the home occupants. With regard to electricity consumption, it is expected that price directed markets will allow home occupants to become price receivers at a resolution of very short-term intervals of time-prices may be sent in intervals of a few seconds. In that time frame, decision patterns cannot be formed with the physical participation of the home occupants. To fill this gap, artificial intelligence offers the necessary tools to develop smart decision-making algorithms that make automated efficient decisions. In this chapter, a new approach for making decisions with regard to electricity consumption of smart appliances is presented. In particular, a neurofuzzy anticipatory approach-that integrates neural networks with fuzzy inference-is presented as a means to make decisions over the length of the operational time of a smart appliance. The goal of the approach is to utilize the current operational variables values and price information together with their future projections to make decisions over the operational time interval of a smart appliance. The determination of the operational time of each appliance, when aggregated implicitly shapes the demand response of the occupant in the price directed market. The proposed neurofuzzy approach is tested on a set of simulated data from an HVAC system obtained with the GridLAB-D simulation software, and real world price signals."
+}

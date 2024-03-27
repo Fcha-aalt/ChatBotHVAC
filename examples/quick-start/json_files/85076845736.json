@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076845736,
+    "Title": "Erratum: Urban building energy modeling considering the heterogeneity of HVAC system stock: A case study on Japanese office building stock (Energy &amp; Buildings (2019) 199 (547–561), (S0378778819304530), (10.1016/j.enbuild.2019.07.022))",
+    "Author": "Kim B.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-01-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109590",
+    "Source Type": "Journal",
+    "Document Type": "er",
+    "Document Type Description": "Erratum",
+    "Affliation": "Osaka University",
+    "Affliation Country": "Japan",
+    "Cited by count": 11,
+    "Abstract": "Urban building energy model (UBEM) is an important tool in coping with energy issues of building sector. This paper focuses on an issue that the stock of heating, ventilation, and air-conditioning (HVAC) systems has been oversimplified in UBEM without considering its heterogeneity. It has been observed that this oversimplification may incur a significant error in the result. To address this issue, this paper proposes a framework that integrates a logistic regression based HVAC system stock modeling method and the bottom-up type engineering modeling method using building archetypes considering HVAC system configurations. A case study with Japanese office building stock revealed that (1) the disregard of the heterogeneity resulted in an error of 15% in the annual primary energy consumption, (2) the historical change in the HVAC system stock could decrease the consumption up to 5%, and (3) its composition has a significant influence on the energy saving due to energy efficiency increase in heat source machines used in HVAC systems. The presented method would contribute not only to improving the reliability of UBEM but also to providing an analytical capability of considering energy efficiency technologies related to HVAC systems along with the alternation of technology selection in the building stock."
+}

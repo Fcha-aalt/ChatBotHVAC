@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127971663,
+    "Title": "Energy Performance of a Novel Hybrid Air Conditioning System Built on Gravity-Assisted Heat Pipe-Based Indirect Evaporative Cooler",
+    "Author": "Rajski K.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15072613",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politechnika Wrocławska",
+    "Affliation Country": "Poland",
+    "Cited by count": 1,
+    "Abstract": "A hybrid air conditioning system, which is composed of a novel gravity-assisted heat pipe (GAHP)-based indirect evaporative cooler (IEC) and direct expansion (DX) cooling coil, is proposed and investigated here. After developing a mathematical model to describe the performance of the GAHP-based IEC, the hybrid system is evaluated during the cooling design day for providing thermal comfort for an office building in Poland. The results are obtained and compared with the combination of a rotary heat exchanger (RHE) and DX cooling coil as the conventional hybrid system. The comparison is performed by analyzing cooling capacity, electricity consumption, and coefficient of performance profiles, which describe the technical, energy, and efficiency aspects, respectively. The results show that the GAHP-based IEC hybrid system is able to enhance the energy performance significantly compared to the conventional one. The proposed hybrid HVAC system improves COP by 39.2% and reduces electricity consumption by 45.0%, according to the design-day of 24 August and the outdoor temperature of 30◦C. As a result, the total operating cost for the assumed cooling season is reduced by 51.7%."
+}

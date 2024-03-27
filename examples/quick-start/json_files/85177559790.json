@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177559790,
+    "Title": "Study on the effect of different parameters in energy consumption in various climatic zones in India",
+    "Author": "Zeneeb A.M.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-10-13T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1063/5.0170707",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rajagiri School of Engineering &amp; Technology",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Energy demand of buildings in India is expected to increase by more than 800% by the year 2047 compared to the energy demand in the year 2012. The country has formulated an Energy Conservation Building Code (ECBC 2017) to evaluate building energy performance at design stage to take necessary action to curb the energy demand of building after construction. There are multiple strategies that can be adopted to attain the above objective. The present analysis is an effort to simplify the design process and provide additional guidelines by identifying the effect of key elements of design on building energy performance with respect to the four major climatic zones of India. The study is based on the effect of suitable energy efficiency measures on a typical day time use educational building, analyzed using eQUEST building energy simulation software. The energy performance of the building is then quantified using the common parameters, Annual Energy Consumption and Energy Performance Index (EPI), recommended by ECBC 2017 and also using two additional key parameters, Cooling Performance Index (CPI) and Cooling Efficacy (CE). It is observed that these indices suggest difference in energy performance of buildings with respect to their form, orientation and window to wall ratio in different climatic zones. The additional indices help to highlight the performance of building envelope and HVAC systems which contribute most to total energy requirement of buildings. CE also serves as a ready reckoner to identify cases for retrofit of existing buildings."
+}

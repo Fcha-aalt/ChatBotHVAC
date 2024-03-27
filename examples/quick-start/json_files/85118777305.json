@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118777305,
+    "Title": "An experimental study of a thermally activated ceiling containing phase change material for different cooling load profiles",
+    "Author": "Sinacka J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14217363",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politechnika Poznanska",
+    "Affliation Country": "Poland",
+    "Cited by count": 7,
+    "Abstract": "Increasing peak power demand implies the increasing significance of energy storage. Technologies that efficiently store heat and cold are also important for increasing the share of renewables and improving the efficiency of heating, ventilation, and air conditioning (HVAC) systems. The present experimental study investigated the dynamic behavior of a room with suspended thermally activated ceiling panels filled with a material containing 60% paraffin. The purpose of the study was to determine the specific cooling power and the total energy supplied to the phase change material (PCM) during regeneration. Convective heat flux density, radiant heat flux density, and the heat transfer coefficient (convective, radiant) at the ceiling surface were calculated. Analysis shows that shifting system activation to use lower temperatures during the night maintains thermal comfort."
+}

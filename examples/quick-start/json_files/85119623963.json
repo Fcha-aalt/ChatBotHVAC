@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85119623963,
+    "Title": "Modeling and Performance Evaluation of Grid-Interactive Efficient Buildings (GEB) in a Microgrid Environment",
+    "Author": "Rahman S.",
+    "Journal": "IEEE Open Access Journal of Power and Energy",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/OAJPE.2021.3098660",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Virginia Polytechnic Institute and State University",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "A detailed analysis of how Grid-interactive Efficient Buildings (GEB) can participate as active elements in a microgrid through on-site PV electricity generation and energy efficiency applications is presented. A case study using three US Department of Energy (DoE)-developed prototype commercial building models are used. These represent a secondary school, a hospital and a large office building. Simulation results show that when schools, hospitals and office buildings are operated as GEBs, there are always electricity savings, but savings amounts vary depending on levels of HVAC and lighting controls within the limits of customer comfort levels. These comfort level ranges are determined through interactions with building occupants which resulted in Δ T of 2- 5 °F and dimming level range of 20% to 50%. Savings in the school building are so much higher for two reasons. One, because without GEB application these buildings are operated in a business-as-usual fashion throughout the year, even when the school is not in session. The second reason is - being a two-story building the roof area is comparatively much higher than the hospital or the multi-storied office buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118211850,
+    "Title": "Energy performance of air-conditioned buildings based on short-term weather forecast",
+    "Author": "Ignjatović M.G.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/23744731.2021.1989907",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Niš",
+    "Affliation Country": "Serbia",
+    "Cited by count": 1,
+    "Abstract": "Simulation-assisted operation can offer flexibility in terms of prioritizing either building energy consumption or occupant thermal comfort, and in most cases, it can address these issues simultaneously. Simulation-assisted operation is the type of operation that uses the knowledge of future disturbances acting on the building, thus allowing the HVAC system operation in such a way so as to meet set goals in terms of building energy consumption and occupant thermal comfort. The most important future disturbances acting on the building are weather and occupant behavior (expectations of thermal environment). To achieve simulation-assisted operation, optimization methods are necessary. This paper presents the methodology to create daily operation strategies for existing HVAC systems serving a real building. The methodology relies on the extensive use of the building energy performance simulation software EnergyPlus, available weather data from the building site or from official weather databases including short-term forecasts, global sensitivity analysis and a custom-built optimization environment based on the particle swarm optimization method, all applied over a shifting (moving) horizon. Global sensitivity analysis with Latin hyper-cube sampling is used to reduce the number of independent variables for the optimization process. The methodology was demonstrated for the office part of an existing real building located on the outskirts of the City of Niš, Serbia. The obtained results show that the application of sensitivity analysis as a pre-step to optimization leads to similar data related to energy consumption and occupant thermal comfort, but with a significant decrease in the use of computational resources."
+}

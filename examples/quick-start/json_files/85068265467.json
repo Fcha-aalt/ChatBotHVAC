@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068265467,
+    "Title": "Efficient self-learning artificial neural network controller for critical heating, ventilation and air conditioning systems",
+    "Author": "Ilambirai R.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-06-21T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1063/1.5112348",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "SRM Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "In this paper, a Self-learning Artificial Neural Network (ANN) controller has been implemented for Heating, Ventilation and Air-Conditioning (HVAC) system, which has solved the issues of stability and efficiency observed in traditional systems. Though the traditional systems like Proportional, Integral and Derivative Controller (PID), On-Off controllers etc are in use, they fail to provide the intelligence and causes mathematical complexities in implementation. They consume more time to reach the high level of stability, large energy consumption and create oscillations and peak overshoots. This paper, spotlights on scheming the air conditioning system using Self-learning ANN based intelligent controller. It derives its inputs from the user and predicts the speed of the fan and water flow to achieve comfort at minimum energy consumption and least settling time. The kind of practice investigated here, is valid to a wide variety of non-linear control problems. The Back Propagation (BP) algorithm has been applied in the neural topology. The Self Learning ANN controller has been compared with PID controller and the outputs have been shown in MATLAB Simulink. A real time hardware has been implemented for the HVAC system through the Self Learning ANN controller topology and has been compared with the PID controller."
+}

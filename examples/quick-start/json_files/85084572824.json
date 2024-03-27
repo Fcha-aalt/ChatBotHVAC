@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084572824,
+    "Title": "Integrated CO<inf>2</inf> system with HVAC and hot water for hotels: Field measurements and performance evaluation",
+    "Author": "Smitt S.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.ijrefrig.2020.03.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 14,
+    "Abstract": "This study investigates the performance of an integrated CO2 (R744) heat pump and chiller unit in a Norwegian hotel. The system consists of a single unit for heating, cooling and hot water with an integrated thermal storage. The thermal system of the hotel is described and data from the first year of operation are analyzed. Using the field measurements, hot water loads and COPs are calculated and averaged to 20-minute intervals. The heating and cooling capacities supplied by the R744 unit are studied on a weekly and monthly basis to evaluate the seasonal behavior of the system. The hot water storage holds an energy capacity of 350 kWh at fully charged conditions and demonstrates peak demand reductions of more than 100 kW during a 2-day period. The results show that the hot water usage accounts for 52% of the annual heat load of the hotel. Energy efficiency analysis of the integrated R744 system reveals an annual system SCOP of 2.90, and thus an untapped system potential that can be exploited by increasing the AC load delivered by the R744 unit. Other factors that greatly influence the efficiency of the system are variations in the ambient temperature and high gas cooler exit temperatures. The latter is often a result of high temperatures in the water returning from the subsystems of the hotel. This can be improved by reducing the number of starts and stops of the R744 unit and by insuring stratification in hot water tanks."
+}

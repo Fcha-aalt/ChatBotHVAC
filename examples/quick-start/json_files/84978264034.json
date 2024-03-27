@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84978264034,
+    "Title": "Degree of freedom based set-point reset scheme for HVAC real-time optimization",
+    "Author": "Asad H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-09-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.07.013",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 24,
+    "Abstract": "Real-time optimal control of an air-conditioning system is a very efficient tool to improve its energy efficient operation, which optimizes and resets on a regular time basis the set points of the local control loops that are significant for the system energy performance. Conventionally, step or rate-limited change is used to reset the set points. However, the step-change reset will always introduce significant disturbances into the control loops; while the rate-limited can reduce the disturbances but lacks systematic study as the rate is always set by a rule of thumb. As the disturbances introduced by the set point reset will not only influence the control loops that experience the reset but also be propagated to other interacted local control loops, they may severely deteriorate the stability of the whole system. This paper therefore presents a stability enhancement study for the real-time optimal control of air-conditioning systems, and proposes a degree of freedom (DOF) based set-point reset instead of the conventional step-change or rate-limited set-point reset. As the DOF based set-point reset needs disturbance models to describe the transient behaviors of the control loops activated by resetting set-points, a subspace identification method with canonical variant analysis is adopted for model identification because it has the ability to model a complex system without structural parameterization. Case studies will show that in comparison with the conventional step reset and rate-limited reset, the DOF-based set-point reset is able to enhance the stability of the whole system significantly."
+}

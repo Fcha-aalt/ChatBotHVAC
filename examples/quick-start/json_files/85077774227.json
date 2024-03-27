@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077774227,
+    "Title": "Walk-Through Energy Audit of An Institutional Building",
+    "Author": "Atiba O.E.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2019-12-18T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1742-6596/1378/3/032051",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Covenant University",
+    "Affliation Country": "Nigeria",
+    "Cited by count": 4,
+    "Abstract": "Improving energy efficiency requires detailed information on energy utilization. Many a times, institutional buildings across developing countries are not energy efficient. Thus, they require quantitative energy consumption audit information. This study outlines daily, weekly and annually projected energy consumption in an academic building within Nigeria. Measurements of the energy utilizations of the building were in accordance to ASHRAE Standard 22, ASHRAE/IES Standard 100-2015 and BCA Health Check report guidelines. Results showed that HVAC appliances and electrical motors driven gadgets consumed 36% and 61.9% of the total energy supplied. In conclusion, improving energy efficiency of similar facilities requires energy conservation practice in terms operating motors and other HVAC devices off idle-time and non-occupancy period respectively."
+}

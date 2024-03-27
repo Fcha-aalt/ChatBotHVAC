@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089343725,
+    "Title": "A vision-based deep learning approach for the detection and prediction of occupancy heat emissions for demand-driven control solutions",
+    "Author": "Tien P.W.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110386",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 52,
+    "Abstract": "This paper introduces a vision-based deep learning approach that enables the detection and recognition of occupants’ activities within building spaces. The data can feed into building energy management systems through the establishment of occupancy heat emission profiles, which can help minimise unnecessary heating, ventilation, and air-conditioning (HVAC) energy loads and effectively manage indoor conditions. The proposed demand-driven method can enable HVAC systems to adapt and make a timely response to dynamic changes of occupancy, instead of using “static” or fixed occupancy operation schedules, historical load, and time factor. Based on a convolutional neural network, the model was developed to enable occupancy activity detection using a camera. Training data was obtained from online image sources and captured images of various occupant activities in office spaces. Tests were performed by real-time live detection and predictions of occupancy activities in buildings. Initial activities response includes sitting, standing, walking, and napping. Average detection accuracy of 80.62% was achieved. The detection formed the real-time occupancy heat emission profiles known as the Deep Learning Influenced Profile. Along with typical ‘scheduled’ office occupancy profiles, a building energy simulation (BES) tool was used to further assess the framework. An office space in Nottingham, UK was selected to test the proposed method and modelled using building simulation. Using the deep learning detection method, the results showed that the occupancy heat gains could be represented more accurately in comparison to using static office occupancy profiles. The accurate detection of occupants and their activities can also be used to effectively estimate CO2 concentration. The information can be useful for modulating ventilation systems leading to better indoor environmental quality. Overall, this initial approach of the study showed the capabilities of this framework for detecting occupancy activities and providing reliable predictions of building internal gains."
+}

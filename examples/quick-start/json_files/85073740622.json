@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073740622,
+    "Title": "Investigation of energy efficient retrofit HVAC systems for a university: Case study",
+    "Author": "Ligade J.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/su11205593",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Purdue School of Engineering and Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "We did energy efficient retrofits for the Indiana University Purdue University-Indianapolis Health Science Building using the eQuest energy software. The current dual-fan dual-duct (DFDD) system is 41 years old and has a higher energy utilization index (EUI) than the national average for similar building types. The baseline model with the DFDD system was compared with the actual electrical consumption. Then, two energy efficiency measures (EEMs) were applied to the model. The first EEM was 'DFDD system with chilled water and steam heating,' and the second EEM was 'single-duct variable air volume (VAV) with chilled water and electric reheat.' After comparative simulations and analyses, it was determined that the 'single duct VAV with chilled water and electric reheat' was the most energy efficient and saved 28% in utility costs. The recommendation given to the facility services was to change the current DFDD system to the single-duct VAV system. The single-duct VAV system will save energy and create additional space above the ceiling after the heating duct is removed."
+}

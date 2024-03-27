@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147539672,
+    "Title": "A dynamic intelligent building retrofit decision-making model in response to climate change",
+    "Author": "Ma D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112832",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 8,
+    "Abstract": "Building energy-saving retrofitting has become an essential way for the building sector to cope with climate change. Furthermore, climate change affects building retrofit strategies. The current building stock is massive, which means there is a large demand for building retrofitting. Additionally, climatic conditions are changing, posing a significant challenge to the current time-consuming and labor-intensive decision-making process. To solve these problems, a dynamic intelligent building decision-making model was established in this study. The static and dynamic features of building retrofit decision-making were identified, four machine learning algorithms were considered, and a case base containing records for 301 retrofitted buildings was established for knowledge mining. The findings demonstrate that the XGBoost algorithm performs well in terms of building retrofit strategy prediction, with 77% accuracy for the prediction of building envelope retrofits and 76% accuracy for the prediction of HVAC system retrofits. In addition, the trends of building retrofit strategy decision-making considering dynamic climate conditions were observed. The demand for building envelope retrofitting and heating retrofitting has declined, while the demand for cooling retrofitting has increased. Some buildings are extremely sensitive to climate change, and some redundant retrofitting strategies should be avoided. The proposed intelligent decision-making model can provide valuable information for future building retrofit strategy decision-making."
+}

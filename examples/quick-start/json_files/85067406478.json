@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067406478,
+    "Title": "Performance analysis of multi-purpose fluidic windows based on structured glass-glass laminates in a triple glazing",
+    "Author": "Su L.",
+    "Journal": "Frontiers in Materials",
+    "Publication Date": {
+        "$date": "2019-04-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3389/fmats.2019.00102",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beuth Hochschule für Technik Berlin",
+    "Affliation Country": "Germany",
+    "Cited by count": 7,
+    "Abstract": "For decades, various technologies have been developed aiming to enhance the energy efficiency of buildings. As a recent example, fluidic windows have been reported which literally enable to wrap buildings into a liquid layer and to transform the building envelope into a thermally active system for energy harvesting, distribution and storage. Elaborating on this concept, we now consider the performance of insulation glass units (IGU) which implement glass-glass capillary panels for liquid circulation. Such devices contain a scalable heat pump that can reversely be operated in active cooling or heating modes. By bridging the insulation panel inside the window, also passive cooling functionality is achieved. Long-term computational performance analysis shows that adequate thermal comfort can be ensured with different window-to-floor size ratios, and for different internal heat gain, for example, caused by differences in room occupation. For a size ratio of 0.4, we demonstrate a competitive seasonal performance factor, i.e., ~6.5 for heating and ~10.9 for cooling. On-device photovoltaic power can cover more than four fifths or the annual electricity consumption of all auxiliary components. For the size ratio of 0.4 in a highly-occupied office room, the device specific primary energy consumption ensuring year-over thermal comfort is as low as ~2.9 kWh/(m2a)."
+}

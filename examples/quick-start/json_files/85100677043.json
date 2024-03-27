@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100677043,
+    "Title": "Design and Simulation of Variable Air Volume Air Conditioning System based on Improved Sliding Mode Control (ISMC)",
+    "Author": "Abbas A.",
+    "Journal": "Proceedings - 2020 23rd IEEE International Multi-Topic Conference, INMIC 2020",
+    "Publication Date": {
+        "$date": "2020-11-05T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/INMIC50486.2020.9318062",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Electrical &amp; Mechanical Engineering",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 0,
+    "Abstract": "The main purpose of the VAV (Variable Air Volume) in Heating, Ventilation, and Air Conditioning (HVAC) systems is to reduce energy consumption and make the buildings comfortable for the occupants. For better performance of the air conditioning system, different control techniques have been developed. In this paper, an Improved Sliding Mode Control (ISMC), based on Power Rate Exponential Reaching Law (PRERL), has been implemented on a VAV air conditioning system. Through the proposed technique fast response and robustness have been achieved. To verify the efficacy of ISMC, a comparison of the suggested control technique has been made with Exponential Reaching Law (ERL) based SMC. And secondly chattering, which is unfavorable as it deteriorates the mechanical parts of the air conditioning system by the continuous movement of the mechanical parts and consequently it increases the energy loss in the air conditioning system, has been alleviated. MATLAB/Simulink results show the effectiveness of the utilized scheme which ensure the enhancement of energy efficiency of the VAV air conditioning system."
+}

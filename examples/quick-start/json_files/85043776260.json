@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85043776260,
+    "Title": "Extended Range Electric Vehicle with Driving Behavior Estimation in Energy Management",
+    "Author": "Vatanparvar K.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2019-05-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/TSG.2018.2815689",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Samueli School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 77,
+    "Abstract": "Battery and energy management methodologies have been proposed to address the design challenges of driving range and battery lifetime in electric vehicles (EVs). However, the driving behavior is a major factor which has been neglected in these methodologies. In this paper, we propose a novel context-aware methodology to estimate the driving behavior in terms of future vehicle speeds and integrate this capability into EV energy management. We implement a driving behavior model using a variation of artificial neural networks called nonlinear autoregressive model with eXogenous inputs (NARX). We train our novel context-aware NARX model based on historical behavior of real drivers, their recent driving reactions, and route average speed retrieved from Google Maps in order to enable driver-specific and self-adaptive driving behavior modeling and long-term estimation. We analyze the estimation error of our methodology and its impact on a battery lifetime-aware automotive climate control, comparing to the state-of-the-art methodologies for various estimation window sizes. Our methodology shows only 12% error for up to 30-s speed prediction which is an improvement of 27% compared to the state-of-the-art. Therefore, the higher accuracy helps the controller to achieve up to 82% of the maximum energy saving and battery lifetime improvement achievable in ideal methodology where the future vehicle speeds are known."
+}

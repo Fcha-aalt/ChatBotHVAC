@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100947931,
+    "Title": "Lower Upper Bound Estimation Method for Multilevel Fault Detection",
+    "Author": "Zhang D.",
+    "Journal": "Proceedings - 2020 Chinese Automation Congress, CAC 2020",
+    "Publication Date": {
+        "$date": "2020-11-06T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/CAC51589.2020.9327014",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Wuhan University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Real-time monitoring of system performance can not only ensure the normal operation of the system, but also reduce the operating cost and energy consumption of the system. This paper proposes a multi-level fault detection method for supermarket system energy consumption based on lower upper bound estimation (LUBE) method. The fault detection method can timely find equipment faults. Unlike traditional prediction models that achieve point predictions, this paper uses the LUBE method to train neural networks (NN) to achieve high-quality prediction intervals (PIs) for fault detection. The first level of the fault detection monitors the overall system performance of the supermarket, and the second level uses more accurate fault detection for supermarket subsystems such as HVAC system, lighting system and office system. Experimental results show that the method in paper can realize real-time monitoring of performance of the supermarket system, and can find the fault in subsystem."
+}

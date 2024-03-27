@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114236960,
+    "Title": "Multi-step building energy model calibration process based on measured data",
+    "Author": "Pachano J.E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111380",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Navarra",
+    "Affliation Country": "Spain",
+    "Cited by count": 20,
+    "Abstract": "Building energy models are a key element in regulatory compliance calculations. These energy performance calculations often do not accurately reflect actual operating conditions. Therefore, evaluation of energy performance comparing actual energy use of a building with the outcome of dynamic simulation models can be misleading, this difference is also known as the energy performance gap. The reduction of the gap is an important task aimed to provide confidence in the use of models for evaluation of energy efficiency. This paper is focused on reducing the technical issues (e.g. poorly adjusted thermal parameters in the envelope, inefficient boiler operator or lack of adjustment in parameters of heat pumps, baseboard radiators or air handling units) which are one of the main causes of the energy performance gap. The application of a multi-step, optimization-based, calibration methodology performed in a white-box simulation environment (EnergyPlus) using three months of ten minute time-step data to adjust HVAC parameter values with a genetic algorithm software (Jeplus) is validated on a real test site. Resulting in a BEM that fits the building's hourly performance benchmark into international standards on three key levels: indoor temperature by Thermal Zone (TZ), heat production and electric consumption from heat pumps, which comprise all the components of a building energy model. A batch of 1500 h of heating operation, obtained from the building management system, has been used to calibrate the model. The results complied with the requirements of the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Guideline 14–2002 at hourly interval, with NMBE ⩽±10%,Cv(RMSE) ⩽30% and R2 ⩾75% and with the International Performance Measurement and Verification Protocol (EVO) for Cv(RMSE) ⩽20% and R2 ⩾75% in the three aforementioned levels, which can be considered a step forward in the area of calibrating white box models. In addition, to prove the strength and robustness of the results, the model has been checked in a long testing and independent period of 2.500 h of heating operations with the same level of compliance. The demonstrator is the library of a school located in Denmark. The HVAC system is composed of four air–water heat pumps that deliver heating to the whole compound with the backup support of a gas boiler. The library is heated with baseboard radiators system with the support of an air handling unit used for ventilation purposes."
+}

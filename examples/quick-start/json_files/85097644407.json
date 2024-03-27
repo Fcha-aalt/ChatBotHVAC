@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097644407,
+    "Title": "Predicting Thermal Comfort of HVAC Building Using 6 Thermal Factors",
+    "Author": "Mohamed Salleh F.H.",
+    "Journal": "2020 8th International Conference on Information Technology and Multimedia, ICIMU 2020",
+    "Publication Date": {
+        "$date": "2020-08-24T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICIMU49871.2020.9243466",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universiti Tenaga Nasional",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 5,
+    "Abstract": "Predicting thermal comfort requires a set of reliable thermal factors for an accurate prediction. The effectiveness of using thermal factors varies depending on the environmental conditions and occupants' characteristics. Identifying thermal comfort in a commercial building is important for better management of the building's facilities. The objective of this research is to compare the performance of the six established thermal factors with actual users' responses in predicting thermal comfort, focusing on buildings operating with HVAC system. This research applies six machine-learning models for prediction process; and, one general method widely use to generate thermal comfort known as the PMV method. The experimental results prove that subspace K-Nearest Neighbor (s-KNN) can reach up to 80.41% of accuracy, and then followed by Begged Trees (BT) model (76.30%), Classification Tree (CT) (66%), Classification Neural Network (CNN) (55.67%), Support Vector Machine (SVM) (50.51%) and Kernel Naïve Bayes (KNB) (43.30%). Whilst, PMV method achieves the lowest result, with 22.68% accuracy only."
+}

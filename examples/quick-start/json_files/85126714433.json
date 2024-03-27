@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85126714433,
+    "Title": "Dissimilarity-driven ensemble model-based real-time optimization for control of building HVAC systems",
+    "Author": "Hussain S.A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-07-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.104376",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 3,
+    "Abstract": "Model-based real-time optimization (MRTO) is proven as an effective tool that can capture the complex dynamics of heating, ventilation, and air conditioning (HVAC) systems and improve its energy performance. Despite the energy benefits offered by MRTO, these approaches are rarely implemented in actual buildings. This is due to the reason that these approaches are very difficult to implement because they require the synthesis of a reliable and accurate performance model of the system. The reliability of decision-making with MRTO is directly related to the accuracy of these performance models. In addition, the model has to be computationally efficient for practical implementation. The development of such a model requires the most effort and is a major challenge in the implementation of MRTO. Several HVAC performance models are already available in the literature, and these can be classified as semiphysical models and data-driven models. The semiphysical models are generalized models with simplification assumptions that can provide consistent performance, however, with reduced accuracy. Contrastingly, the data-driven models can offer better accuracy; however, they lack robustness in terms of operational ranges. These factors affect the energy performance of MRTO, and an improper parametrized model could result in performance that is even worse than the conventional fixed setpoint or rule-based approaches. A dissimilarity-driven ensemble model-based real-time optimization (DEMRTO) approach is presented in this study that incorporates a dissimilarity-driven ensemble model in the framework of real-time optimization. The dissimilarity-driven ensemble model combines semiphysical models and data-driven models in a systematic manner to use one's strengths to address others' weaknesses, rather than developing a new form of a model. The performance of the proposed integrated approach was examined using case studies over three weather seasons in Hong Kong. The results showed as compared to the fixed setpoint approach the DEMRTO approach can provide significant energy savings up to 11.085% setpoint, and around 2.785% reduction in energy use as compared with the conventional MRTO approach. It was demonstrated that the proposed approach can capture diversity in load conditions and provide consistency in model prediction to improve reliability in decision-making with real-time optimization."
+}

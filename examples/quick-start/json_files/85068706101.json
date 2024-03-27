@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068706101,
+    "Title": "Coordination of behind-the-meter energy storage and building loads: Optimization with deep learning model",
+    "Author": "Chen Y.",
+    "Journal": "e-Energy 2019 - Proceedings of the 10th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2019-06-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1145/3307772.3331025",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "With the increasing penetration of renewable energy systems and energy storage systems in buildings, it is critical to optimize system operation to lower operation cost and save energy. The heating, ventilation and air-conditioning (HVAC) system accounts for more than half of the energy consumption in a commercial building. Effectively incorporating a building thermal model - which includes the HVAC system and the behind-the-meter energy storage system - is a key requirement for addressing these optimization needs. In this paper, we develop an optimization strategy to minimize the operation cost as well as maintain indoor thermal comfort, for a building integrated with battery and PV. A Recurrent Neural Network (RNN) model is used to predict building thermal load and zone temperatures. A black-box optimization algorithm known as Mesh Adaptive Direct Search (MADS) is employed in the simulation to provide look-ahead optimal battery dispatch and zone temperature set-point schedules so that the operation cost is minimized. Field data collected from a medium sized office building at Pacific Northwest National Laboratory (PNNL) was used to train the RNN model. Integrated with a Photovoltaic (PV) system model and a battery storage system, it is used to demonstrate the efficacy of the proposed methodology. Compared with rule-based methods, the optimization strategy obtained a lower cost of operation while satisfying comfort constraints."
+}

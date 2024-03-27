@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84939630734,
+    "Title": "3D thermal climate monitoring in factory buildings",
+    "Author": "Posselt G.",
+    "Journal": "Procedia CIRP",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.procir.2015.02.178",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technische Universität Braunschweig",
+    "Affliation Country": "Germany",
+    "Cited by count": 8,
+    "Abstract": "Guaranteeing defined conditions, such as the temperature levels inside the factory's building shell, is often important to produce high-quality products. Heating, ventilation and air conditioning (HVAC) equipment, as part of the technical building services, is energy intensive and accounts for a major share of the factory's energy demand. For an effective utilisation, the HVAC system control has to compensate time dependent variations of building-internal loads and demands as well as changing weather conditions that can cause local temperature differences. In this paper, a computational fluid dynamic model, coupled with a wireless sensor network, is presented that allows the estimation of the temperature and air flows at every position in the factory building, in real-time. This can then be used to improve control strategies of HVAC systems towards a more energy efficient and demand oriented climate conditioning within factory building shells."
+}

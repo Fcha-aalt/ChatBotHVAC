@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058245396,
+    "Title": "Performance measurement of a cross-flow indirect evaporative cooler: Effect of water nozzles and airflows arrangement",
+    "Author": "De Antonellis S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2018.11.049",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Milano",
+    "Affliation Country": "Italy",
+    "Cited by count": 36,
+    "Abstract": "The indirect evaporative cooler (IEC) can be effectively used to increase energy efficiency and reduce energy consumption of HVAC systems. In particular, such system can be suitably adopted in data center applications, where the design indoor temperature can reach 45 °C, according to recent ASHRAE standards. It is well known that IEC performance can be significantly increased by an effective secondary air humidification process. In particular, the system should be designed in order to obtain an optimal water distribution on heat exchanger plates. In this paper, five different water nozzles and airflows arrangements of a IEC system based on a cross flow heat exchanger are experimentally investigated. The system is designed to have a limited water consumption (water to secondary air mass flow ratio between 1.4%–4%) and performance are measured in different operating conditions. Results show the highest wet bulb effectiveness (up to 82%–84% in the investigated conditions) is obtained in two configurations: (i) Horizontal orientation of heat exchanger plates; (ii) Vertical orientation of heat exchanger plates and water/secondary air supplied from the top."
+}

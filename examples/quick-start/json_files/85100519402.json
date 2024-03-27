@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100519402,
+    "Title": "Analysis of retrofit solutions of a ground source heat pump system: An Italian case study",
+    "Author": "Zarrella A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13215680",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Padova",
+    "Affliation Country": "Italy",
+    "Cited by count": 7,
+    "Abstract": "Ground coupled heat pumps are a notoriously efficient system for heating and cooling buildings. Sometimes the characteristics of the building and the user’s needs are such that the amount of heat extracted from the ground during the winter season can be considerably different from the amount injected in summer. This situation can cause a progressive cooling or heating of the ground with a negative effect on the energy efficiency and correct operation of the system. In these cases, an accurate sizing has to be done. In systems already built, it could be necessary to intervene a posteriori to remedy an excessive ground thermal drift due to the energy unbalance. In this work, such a situation relating to a real office building in Italy is investigated and several solutions are examined, one of which has been then implemented. In particular, a hybrid heat pump using as heat sink both the ground and external air is compared with common solutions through computer simulations using a dedicated numerical model, which has also been compared with monitoring data. As a result, the hybrid heat pump shows better performance and limits the thermal drift of the ground temperature."
+}

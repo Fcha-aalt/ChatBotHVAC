@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169455743,
+    "Title": "Industry 5.0: Intelligent Sensor Based Autonomous Control System for HVAC Systems in Chemical Fiber Factory",
+    "Author": "Chen J.",
+    "Journal": "Communications in Computer and Information Science",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-36001-5_57",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Yuan Ze University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "This work presents a human-machine integration approach, which is an autonomous control system that integrates the traditional expert-oriented strategy and intelligent sensor based data-driven strategy. This system offers effective solutions that are able to further improve the energy efficiency and decrease the energy consumption of heating, ventilation and air-conditioning (HVAC) system. In previous study, it concludes that energy efficient HVAC systems could be obtained by making strategic use and well-structured combination of the existing air conditioning technologies. However, HVAC also have intricate and complex structures that consist of air handler, terminal unit, duct system, compressor, thermostat, etc. Traditionally, the well-tuned proportional-integral-derivative (PID) controller could have well performance around normal working points but its tolerance to variations of process parameter would be seriously affected when the uncertainty is introduced to the environment due to short/long term weather changes from outdoors or events/activities happens indoors. The autonomous system is a novel approach that aims to include all three characteristics of Industry 5.0 (i.e., sustainability, resilience and human-centricity). The system integrated commercialize wind sensor as data collection set which are being widely deploy throughout the HVAC environment. By accessing the detail wind flow data in the HVAC environment, a control model could be used to optimize the air handling unit (AHU) output according to the real-time environment, which enhance the performance on energy conservation."
+}

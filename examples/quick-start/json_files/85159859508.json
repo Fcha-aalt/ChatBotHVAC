@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85159859508,
+    "Title": "Comparative study of model-based and model-free reinforcement learning control performance in HVAC systems",
+    "Author": "Gao C.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106852",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "China Academy of Building Research",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "Reinforcement learning (RL) shows the potential to address drawbacks of rule-based control and model predictive control and exhibits great effectiveness in heating, ventilation and air conditioning (HVAC) systems. Most studies employed model-free RL to achieve building energy conservation and increase indoor comfort. However, model-free RL algorithms face the challenge of sample efficiency which causes long-time training and restricts their applications. Model-based RL is considered an alternative avenue for accelerating learning and promoting the application of RL, but it also has limitations due to modeling approaches and accuracy. In addition, few studies propose model-based RL algorithms and investigate performance gaps between model-free and model-based RL in HVAC systems. Therefore, this study conducts a comprehensive performance comparison between model-free and model-based RL to identify the current issues with RL control in HVAC systems. The open-source building optimization testing (BOPTEST) framework is employed as the virtual environment to evaluate the control performance and computational burden. Then Dueling Deep Q-Networks and Soft Actor-Critic are developed, and a state-of-the-art model-based RL framework is employed to develop their model-based versions. The comparison results showed that all RL controllers outperform the baseline control in terms of indoor temperature and operation costs. Model-based RL can achieve a control performance as good as model-free RL with a shorter training time based on its high sample efficiency. Moreover, due to massive and quickly generated data, model-based RL can accelerate the learning of RL agents, though the model is inaccurate at the early training stage. This study would provide some insights into the RL control selection and improvements in HVAC systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151187125,
+    "Title": "Technological interventions and indoor air quality assessment in smart environments: A review",
+    "Author": "Khan T.",
+    "Journal": "Indoor Air Quality Assessment for Smart Environments",
+    "Publication Date": {
+        "$date": "2022-05-18T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3233/AISE220004",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Integral University",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Indoor air quality (IAQ) is among the topmost environmental hazards associated with the health of human beings. The concentrations of indoor pollutants could be several times more than outdoors. Increasing environmental pollution and global warming are also responsible for climate change. Variations in climatic conditions also add to the worsening of IAQ. The majority of time is spent indoors and adequate ventilation, thermal performance and desirable IAQ are important parameters of concern in indoor settings. Usage of HVAC (heating, ventilation, air conditioning) equipment accounts for the huge consumption of energy and reduced energy consumption can be met by reduced air circulation leading to more airtight buildings which compromise the air quality and health of inhabitants. Several strategies have been devised and being implemented to monitor indoor air quality. Smart environments are insidious systems consisting of integrable net-aware devices. Smart environments are augmented with computational resources providing information and services when and where needed. Over the last few years, IAQ monitoring has developed into smart environment monitoring (SEM) which is based on the internet of things (IoT) and the development of sensor technology. This chapter is an attempt to summarize the automated, computational aids and machine learning techniques that can predict the IAQ in smart environment. It is imperative to know the pollutants and factors governing the IAQ and the chapter has critically analyzed the available technological interventions based on IoT like sensors, Fuzzy logic controller and cloud computing technology which aid in the prediction of air quality in smart environment. Different types of sensors including infrared and electrochemical cells, Metal oxide semiconductor (MOS) gas sensor along with their principle has been discussed in context to IAQ. Recent developments in the field like the usage of the fuzzy logic controller for the calculation of air quality index by combining PM10, PM2.5, CO, and NO2 etc. has also been explored. The information can be utilized in dynamic situations to suggest alternative methhttps://worldpopulationreview.com/world-cities/lucknow-populationods for the improvement of air quality which can be influenced by artificial intelligence and machine learning for futuristic predictions. However, there are some challenges as well including the development of systems working on a real-time basis and evaluation of the impact of different pollutants in diverse geographic conditions and variable living set-ups by highly accurate and calibrated systems. Nevertheless, as compared to the conventional solutions which predict IAQ instantly, the computational predictions furnish futuristic data and imminent crucial changes in the indoor air quality to implement anticipatory measures to prevent hazardous health impacts. Nevertheless there are several challenges like data security, data conversion, and connectivity issues etc. which have been discussed in the chapter."
+}

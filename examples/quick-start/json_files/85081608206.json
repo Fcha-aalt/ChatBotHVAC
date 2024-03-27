@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081608206,
+    "Title": "Fault detection in commercial building vav AHU: A case study of an academic building",
+    "Author": "Deshmukh S.",
+    "Journal": "Proceedings of the Thermal and Fluids Engineering Summer Conference",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1615/TFEC2019.mph026663",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Massachusetts Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The building sector of the U.S. currently consumes over 40% of the U.S. primary energy supply. Estimates suggest that between 5% and 30% of any building’s annual energy consumption is unknowingly wasted due to pathologically malfunctioning lighting and comfort conditioning systems. This paper presents analytical methods embodied within useful software tools to quickly identify and evaluate selected building system faults that cause large building energy inefficiencies. The technical contributions of this work include expert rules that adapt to HVAC equipment scale and operation and methods for sorting fault signals according to user- defined interests such as annual cost of energy inefficiencies. These contributions are particularly unique in their treatment of models and the careful consideration of user interests in fault evaluation. As a first step to developing this general framework for fault detection, first-order faults such as simultaneous heating and cooling and imbalanced airflows within several large air-handling units were targeted. The algorithms focused on detecting faults with minimal data and non-intrusive measurements. An example is presented of the potential energy savings in a large academic building that has been monitored. Savings of around $3,400 when a stuck damper fault occurred over an entire month in an air handler. The savings would accrue if the fault were corrected; otherwise the occurrence of the fault causes a waste of money and energy. predicted. User testing and experiments show that embracing uncertainty within HVAC fault detection and evaluation is not only paramount to judicious fault inference but it is also central to gaining the trust and buy-in of system users who ultimately can apply fault detection information to actually fix and improve building operations."
+}

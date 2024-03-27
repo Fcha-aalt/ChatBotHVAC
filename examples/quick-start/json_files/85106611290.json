@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106611290,
+    "Title": "Transfer Learning Approach for Occupancy Prediction in Smart Buildings",
+    "Author": "Khalil M.",
+    "Journal": "2021 12th International Renewable Engineering Conference, IREC 2021",
+    "Publication Date": {
+        "$date": "2021-04-14T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/IREC51415.2021.9427869",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Newcastle University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 24,
+    "Abstract": "Accurate occupancy prediction in smart buildings is a key element to reduce building energy consumption and control HVAC systems (Heating-Ventilation and-Air Conditioning) efficiently, resulting in an increment of human comfort. This work focuses on the problem of occupancy prediction modelling (occupied/unoccupied) in smart buildings using environmental sensor data. A novel transfer learning approach was used to enhance occupancy prediction accuracy when the amounts of historical training data are limited. The proposed approach and models are applied to a case study of three office rooms in an educational building. The data sets used in this work are actual data collected from the Urban Sciences Building (USB) in Newcastle University. The results of the proposed transfer learning approach have been compared with the models from Support Vector Machine and Random Forest algorithms. The final results demonstrate that the most accurate model in this study to predict occupancy status was produced by stacked Long-Short-Term-Memory with a transfer learning framework."
+}

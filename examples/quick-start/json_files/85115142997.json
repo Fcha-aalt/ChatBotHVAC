@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115142997,
+    "Title": "Simulation-Based Design for an Energy-Efficient Building",
+    "Author": "Mathew V.",
+    "Journal": "Lecture Notes in Electrical Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-16-1642-6_31",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Manipal Institute of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "The energy performance of a building is affected by environmental changes and building parameters. Simulations on building energy play a significant role in the design of an energy-efficient green building. This paper presents a simulation-assisted design for investigating the influence of various building parameters like glazing, roof material, HVAC loads, wall materials, infiltration, etc., on the annual energy consumption of an existing test room. The variation in the cooling load consumption with the change in parameters like cooling set point, occupancy, glazing material, and window orientation are considered in this study. The thermal conditions of the room for different values of relative humidity were also observed to find optimal cooling set point temperature. With the above workflow, it was observed that around 20–45% of annual energy savings could be achieved for the building under consideration. It was also observed from the study that the significant impact on energy consumption in an interior space is due to solar heat gain. The simulation shows that in a building, overall heat gain is mostly affected by glazing type and roofing material. The comparative energy analysis of double glazing (low E) and electrochromic glazing gives an energy savings of around 30% and 10% by replacing double glazing by an electrochromic glazing considering different scheduled operations."
+}

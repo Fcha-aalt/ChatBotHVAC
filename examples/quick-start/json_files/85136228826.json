@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136228826,
+    "Title": "Enabling Smart Building Applications on the Edge using Artificial Intelligence",
+    "Author": "Singh R.",
+    "Journal": "WINTECHCON 2022 - 2022 IEEE Women in Technology Conference",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/WINTECHCON55229.2022.9832044",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Analog Devices India Product Development Center",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Smart Building systems solutions have enabled building managers to track efficient use of space, maximize downtime while ensuring a comfortable and productive environment for its occupants. One facet of this system is to accurately determine the position and number of occupants to suitably tailor HVAC (Heating Ventilation and Cooling) requirements and gather space utilization metrics. There have been several space occupancy systems designed using different types of sensors. We propose a Smart imaging sensor powered by a convolutional neural network (CNN)-based detection algorithm that can monitor and provide accurate metrics of space utilization across different space configurations. We have developed and ported this application onto a legacy BF70x device to run a high accuracy low latency people detection application. This system coupled with a cloud based finetuning setup helps us get good accuracy across different environments."
+}

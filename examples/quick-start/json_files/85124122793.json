@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124122793,
+    "Title": "Transactive HVAC Agent - Design and Performance Evaluation",
+    "Author": "Tbaileh A.",
+    "Journal": "IEEE Power and Energy Society General Meeting",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/PESGM46819.2021.9638116",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Pacific Northwest National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Transactive energy systems are playing an increasingly important role in the efficient and reliable market-based operation of the power grid. Since a significant portion of the residential building energy consumption is from heating ventilation and air conditioning (HVAC) systems, HVAC is one of the most promising resources to provide load flexibility. However, utilizing HVAC flexibility to provide various grid services while simultaneously maintaining consumer comfort and cost-reductions is challenging. This paper presents a design of a transactive HVAC agent (T-HVAC) to be used as a supervisory control for the HVAC system that can simultaneously ensure comfort and cost-reduction. In particular, the T-HVAC a) estimates HVAC thermal dynamics, b) ensures optimal operations of the HVAC system, and c) participates into markets, and d) implements a market-based control via controlling the thermostat temperature set-point. The T-HVAC performance is demonstrated through multiple scenarios and illustrations."
+}

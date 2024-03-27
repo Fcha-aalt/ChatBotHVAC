@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090828464,
+    "Title": "Data Center Cooling Harmonics-How to Get the 'Good' without the 'Bad'",
+    "Author": "Hoevenaars A.",
+    "Journal": "Conference Record - Industrial and Commercial Power Systems Technical Conference",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICPS48389.2020.9176824",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mirus International Inc.",
+    "Affliation Country": "Canada",
+    "Cited by count": 3,
+    "Abstract": "With continual focus on improving PUE (Power Usage Effectiveness) in Data Center operations, cooling system efficiencies have been steadily increasing. Much of these efficiency gains can be attributed to more effective ventilation and 'free cooling' made possible by the use of electronically commutated (EC) fans. By utilizing rectifier and inverter technology, brushless permanent magnet motors and integrated intelligent electronics, EC fans have been able to achieve tremendous energy savings of 30% on average versus conventional AC fan operation. EC fans also allow for increased speeds and control flexibility with a wide voltage input range, allowing for universal use throughout most parts of the world.However, one significant factor that needs to be considered in EC fan applications is the distorted AC current waveform that they draw. Their integrated rectifier/inverter package makes EC fans an example of a nonlinear load. Without proper harmonic mitigation, nonlinear loads will distort the AC power distribution upstream and can cause significant issues within a facility, such as overheating electrical distribution equipment and the failure of sensitive equipment connected to the same electrical bus.In order to take advantage of the significant energy saving potential of EC fans, users of this technology must take into consideration the effects of harmonics. To reduce these negative effects, a passive harmonic filter specifically designed for the low DC bus capacitance of these devices can be easily applied such that the considerable 'good' in energy efficiency can be achieved without the 'bad' of poor power quality."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074577781,
+    "Title": "Signal Processing and Deep Learning Techniques for Power Quality Events Monitoring and Classification",
+    "Author": "Liu H.",
+    "Journal": "Electric Power Components and Systems",
+    "Publication Date": {
+        "$date": "2019-09-14T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1080/15325008.2019.1666178",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Jiangsu University",
+    "Affliation Country": "China",
+    "Cited by count": 20,
+    "Abstract": "Power quality disturbances (PQDs) have major challenges in embedded generation systems, renewable energy networks, and HVDC/HVAC electrical power transmission networks. Due to PQDs, electrical power network can have disruption in the protection system, security system, and energy-saving system. PQDs also affect the operation cost and consistency of electrical power systems. This paper presents an innovative method based on compressive sensing (CS), singular spectrum analysis (SSA), wavelet transform (WT) and deep neural network (DNN) for monitoring and classification of PQDs. Feature extraction and selection is an essential part of the classification of PQDs. In this paper, initially, SSA time-series tool and multi-resolution wavelet transform are introduced to extract the features of PQDs, and then CS technique is used to reduce the dimensionality of the extracted features. Finally, DNN-based classifier is used to classify the single-and-combined PQDs. The DNN architecture is constructed utilizing the restricted Boltzmann machine, which is then fine-tuned by back-propagation. The heart of this paper is to enhance the classification and monitoring accuracy and comparison of the results of WT-based classifier with SSA-based classifier. The proposed method is tested using 15 types of single and combined PQDs. These disturbances are transitory in the transmission and distribution networks such as voltage sag, swell, transient, interruption, harmonic, etc. The simulation and experimental results demonstrate that the SSA-based DNN classifier has significantly higher potential than the WT-based classifier to classify the power quality events under noisy and noiseless conditions."
+}

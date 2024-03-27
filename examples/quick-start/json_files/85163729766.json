@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163729766,
+    "Title": "Digital Twin for Fault Detection and Diagnosis of Building Operations: A Systematic Review",
+    "Author": "Hodavand F.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13061426",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "K. N. Toosi University of Technology",
+    "Affliation Country": "Iran",
+    "Cited by count": 5,
+    "Abstract": "Intelligence in Industry 4.0 has led to the development of smart buildings with various control systems for data collection, efficient optimization, and fault detection and diagnosis (FDD). However, buildings, especially with regard to heating, ventilation, and air conditioning (HVAC) systems, are responsible for significant global energy consumption. Digital Twin (DT) technology offers a sustainable solution for facility management. This study comprehensively reviews DT performance evaluation in building life cycle and predictive maintenance. 200 relevant papers were selected using a systematic methodology from Scopus, Web of Science, and Google Scholar, and various FDD methods were reviewed to identify their advantages and limitations. In conclusion, data-driven methods are gaining popularity due to their ability to handle large amounts of data and improve accuracy, flexibility, and adaptability. Unsupervised and semi-supervised learning as data-driven methods are important for FDD in building operations, such as with HVAC systems, as they can handle unlabeled data and identify complex patterns and anomalies. Future studies should focus on developing interpretable models to understand how the models made their predictions. Hybrid methods that combine different approaches show promise as reliable methods for further research. Additionally, deep learning methods can analyze large and complex datasets, indicating a promising area for further investigation."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148486625,
+    "Title": "ENERGY EFFICIENCY CONDITION-BASED MAINTENANCE METHODOLOGY FOR COMPUTER ROOM AIR CONDITIONERS",
+    "Author": "Fajardo J.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/IMECE2022-91987",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad Tecnológica de Bolívar",
+    "Affliation Country": "Colombia",
+    "Cited by count": 0,
+    "Abstract": "A Computer Room Air Conditioner (CRAC) system has been modeled and simulated to set up a Condition-based maintenance strategy oriented on the equipment's energy efficiency performance (MCEE). The modeling was performed using ASPEN HYSYS based on actual performance conditions of a CRAC system in the Caribbean Colombia area. The condition-based was simulated based on a fouling model increase in the evaporator and condenser, decreasing the heat transfer process and increasing the heat loss. A 2-year fouling increase model was performed to obtain an economic - technical cost-function parameter and develop a cost-effective cleaning schedule for the evaporator and condenser. The results show a 5% COP decrease due to a fouling increase. The maintenance schedule for cleaning this system is cost-effective on the 310th day. Furthermore, a Critical Matrix of the CRAC performance is developed based on energy efficiency and a cost function."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84987933183,
+    "Title": "Infrared thermography of human face for monitoring thermoregulation performance and estimating personal thermal comfort",
+    "Author": "Ghahramani A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2016-11-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.buildenv.2016.09.005",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "USC Viterbi School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 179,
+    "Abstract": "The common practice of defining operational settings for Heating, Ventilation and Air Conditioning (HVAC) systems in buildings is to use fixed set points, which assume occupants have same and static comfort requirements. However, thermal comfort varies from person to person and also changes due to climatic variations or acclimation, making it dynamic. In addition, thermal comfort in transient conditions are different from the steady state conditions, which makes the prediction of thermal comfort more difficult. Thus, thermal comfort has to be monitored over time. In this paper, we present a novel infrared thermography based technique to monitor an individual's thermoregulation performance and thermal comfort levels by measuring the skin temperature on several points on human face, which has a high density of blood vessels and is not usually covered by clothing. Unlike other methods, our method requires no continuous user input or interaction. Our results demonstrate that the monitored facial points behave differently under the heat and cold stresses and it can be explained based on the underlying vascular territories. We define two heuristics to describe the thermoneutral zone based on the observed behaviors and estimate thermal comfort for individuals with 95% confidence level. Considerable variations are observed in the thermoregulation performance and uncomfortably cool conditions metrics between the males and females. Females' thermoregulation system responses are less sensitive to the perception of warm conditions. However, similar behaviors are observed for uncomfortably cool conditions across genders."
+}

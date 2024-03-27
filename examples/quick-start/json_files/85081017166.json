@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081017166,
+    "Title": "Evaluation of thermal comfort inside an office equipped with a fan coil HVAC system: A CFD approach",
+    "Author": "Semprini G.",
+    "Journal": "Future Cities and Environment",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.5334/fce.78",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Alma Mater Studiorum Università di Bologna",
+    "Affliation Country": "Italy",
+    "Cited by count": 7,
+    "Abstract": "An accurate assessment of thermal comfort inside a building is essential since it is associated to the human’s perception of well-being and comfort. In the present study, a 3D computational fluid dynamic (CFD) code is employed to evaluate the indoor comfort indexes for a university office located in a historical building, built of thick masonry walls and of large single-glass windows, using fan coil as an air conditioning system. The experimental measurement has been carried out to validate the numerical model and to obtain the required initial and boundary conditions. The experimental set-up employs an innovative system for the sensor localization, based on acoustic sources, signal processing and trilateration algorithms. By means of finite volume method, the turbulent air flow, the local heat transfer characteristics and the operative temperature inside the room are obtained for a typical winter day. The results yielded by numerical simulations allow to evaluate thermal comfort condition at working places inside the office and to identify the best comfort areas. The results show that even when the air temperature is quite uniform inside the room, the operative temperature at the positions where occupants are placed is significantly affected by surface temperature of the windows, due to the large window to wall surface ratio and also by the position and operational condition of fan coil. It is concluded that 3D comfort map allows to optimize internal layout of the office room; furthermore, the possibility of thermal comfort optimization in specific workstation together with local control of heating system lead to gain remarkable energy saving results."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85141273799,
+    "Title": "Multi-agent deep reinforcement learning-based coordination control for grid-aware multi-buildings",
+    "Author": "Zhang B.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-12-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2022.120215",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aalborg University",
+    "Affliation Country": "Denmark",
+    "Cited by count": 7,
+    "Abstract": "In commercial buildings, Heat, Ventilation, and Air Conditioning (HVAC) systems account for about 40–50 % of total electricity usage, contributing to an economic burden on building operators. Furthermore, increasing amounts of distributed generation can bring challenges and opportunities for voltage regulation in low voltage distribution networks. In this paper, we tend to develop intelligent management to save the electricity bills of HVAC systems in multiple multi-zone buildings while relieving the stress of voltage regulation across the network. However, it is challenging to achieve the above aims due to the existence of parameter uncertainties (e.g., electricity load, outdoor temperature, photovoltaic generation, etc.), a sizeable continuous decision space, unknown thermal dynamics model, and distribution network topology, and a non-convex multi-objective function. In this context, a novel model-free multi-agent deep reinforcement learning (MADRL)-based multi-building control algorithm is proposed to achieve building-side and grid-level objectives. The proposed method adopts a centralized training and decentralized execution framework while integrating an attention mechanism to ease training and preserve privacy. This also enables the agent to achieve control purposes based only on local measurements, reducing communication cost. Simulation results based on real-world data verify that the proposed method can achieve real-time physical-model-free control of multi-buildings to tackle fast fluctuations of voltage and temperature caused by the uncertain external factors while being advantageous over other two MADRL methods. Additionally, comparison analysis on untouched datasets illustrates that the proposed method achieves similar results and better computation performance with the perfect physical-model-based approach."
+}

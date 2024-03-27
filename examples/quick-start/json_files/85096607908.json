@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096607908,
+    "Title": "Context-based System for User-Centric Smart Environment",
+    "Author": "Mandaric K.",
+    "Journal": "2020 28th International Conference on Software, Telecommunications and Computer Networks, SoftCOM 2020",
+    "Publication Date": {
+        "$date": "2020-09-17T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.23919/SoftCOM50211.2020.9238215",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+    "Affliation Country": "Croatia",
+    "Cited by count": 1,
+    "Abstract": "Internet of Things (IoT) solutions are becoming ubiquitous in various application domains. In homes and offices, IoT systems enable remote and scheduled operation of heating, ventilation and air conditioning (HVAC) systems, lighting control, control of kitchen and other home appliances, etc. Available solutions in the smart home domain mainly enable controlling systems and appliances remotely, e.g., by using a smartphone, or manually setting the times in which systems and appliances should operate. In this paper we propose a system for indoor lighting control which sets the colors and brightness of the lamps based on the context: time of the day, current lighting conditions in the room, and having users in the focus - their lighting preferences in the room. Feed-forward neural networks are used for learning about the most pleasing settings. The major advantage of this system is its user-centricity, i.e., taking into account users' color and brightness preferences. The system is evaluated on twenty-two (22) users in a laboratory environment and demonstrates general user score rate of 68.18% as 'great' and 31.82% as 'good'."
+}

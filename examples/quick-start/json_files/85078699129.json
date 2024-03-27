@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078699129,
+    "Title": "Generative adversarial network for fault detection diagnosis of chillers",
+    "Author": "Yan K.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-04-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.106698",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National University of Singapore",
+    "Affliation Country": "Singapore",
+    "Cited by count": 115,
+    "Abstract": "Automatic fault detection and diagnosis (AFDD) for chillers has significant impacts on energy saving, indoor environment comfort and systematic building management. Recent works show that the artificial intelligence (AI) enhanced techniques outperform most of the traditional fault detection and diagnosis methods. However, one serious issue has been raised in recent studies, which shows that insufficient number of fault training samples in the training phase of AI techniques can significantly influence the final classification accuracy. The insufficient number of fault samples refers to the imbalanced-class classification problem, which is a hot topic in the field of machine learning. In this study, we re-visit the imbalanced-class problem for fault detection and diagnosis of chiller in the heating, ventilation and air-conditioning (HVAC) system. The generative adversarial network is employed and customized to re-balance the training dataset for chiller AFDD. Experimental results demonstrate the effectiveness of the proposed GAN-integrated framework compared with traditional chiller AFDD methods."
+}

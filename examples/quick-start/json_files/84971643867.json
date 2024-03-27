@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84971643867,
+    "Title": "Satisfaction based Q-learning for integrated lighting and blind control",
+    "Author": "Cheng Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-09-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.05.067",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 101,
+    "Abstract": "Various lighting and blind control methods have been presented to improve user comfort and reduce energy consumption simultaneously. However, there are opportunities to improve control performances by introducing more recent information and machine learning technologies which allow more comprehensive consideration of the balance between user comfort and system energy consumption. To be more specific, in terms of user comfort, unified set-point may not be desirable since different people may have different comfort preferences. In terms of energy consumption, the excessive cooling load of HVAC system should be considered in summer when utilizing solar incidence to reduce the lighting electricity consumption. The setting of the blind slat angle still has great room to improve instead of the cut-off angle. Moreover, users' demands are not fully met, so sometimes they still want to override the automated control. Thus, a closed-loop satisfaction based system is developed in this paper, specifically we introduce an improved reinforcement learning controller to obtain an optimal control strategy of blinds and lights. It could provide a personalized service via introducing subjects perceptions of surroundings gathered by a novel interface as the feedback signal. The proposed system was implemented on a practical test-bed in an energy-efficient building. Compared with the traditional control, it can provide a more acceptable and energy-efficient luminous environment."
+}

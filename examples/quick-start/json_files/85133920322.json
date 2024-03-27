@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133920322,
+    "Title": "Multi-technology building system retrofits for utility incentive programs: Savings, costs and baseline considerations",
+    "Author": "Regnier C.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112270",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Utility incentive programs are an important channel to support the deployment of energy efficiency in buildings. To date, these programs have largely been limited to single-component strategies. However, many utilities are now motivated to identify and develop multi-component system retrofits to achieve deeper energy savings, which are essential to achieving broader energy and greenhouse gas reduction goals in the buildings sector. In this paper we present the energy savings, demand reductions, and cost-effectiveness of 16 systems retrofit packages in six utility regions in the United States. These results are being used by these utilities to inform and develop incentive programs for systems retrofits. Our analysis shows that packages with proven lighting and HVAC measures can provide 5–22% whole building annual energy savings, and 13–22% annual energy costs savings, using utility incentive program baselines (code and existing building). The packages are reasonably cost effective for replace-on-burnout but generally not for a retrofit scenario prior to end of equipment life. Demand response can increase both the energy savings and energy cost savings, further improving the cost effectiveness of these packages. We analyzed the impact of using existing building vs. code baselines for calculating savings, showing that the choice of baseline in developing utility incentive programs has a substantial impact on the attributable energy savings to a program, with significant implications for the overall viability of a program (generally savings against existing building condition are higher and improve project and program cost-effectiveness)."
+}

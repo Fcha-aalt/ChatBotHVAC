@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098082625,
+    "Title": "Cooperative Energy Management of HVAC via Transactive Energy",
+    "Author": "Yang Q.",
+    "Journal": "IEEE International Conference on Control and Automation, ICCA",
+    "Publication Date": {
+        "$date": "2020-10-09T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/ICCA51439.2020.9264462",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Shenzhen University",
+    "Affliation Country": "China",
+    "Cited by count": 5,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) energy consumption accounts for a significant part of the total energy consumption of buildings and households. The ubiquitous adoption of distributed renewable energy and smart meters helps to decarbonize the HVAC energy consumption and improve energy efficiency. However, how to scale up HVAC energy management for a group of users while persevering users' privacy remains a big challenge. In this work, we utilize the concept of transactive energy to build a cooperative energy management system for independent HVAC units in a distributed manner. Specifically, we develop a distributed energy trading algorithm that consists of two layers based on the alternating direction method of multipliers method. The distributed energy trading algorithm achieves optimal trading performance and also preserves users' privacy. Furthermore, we evaluate the performance of the distributed trading algorithm by extensive simulations with real-world data. Simulation results show that the energy trading algorithm converges fast and the cooperative energy platform reduces the user's individual cost by up to 50% and lowers the overall cost of all users by 23%."
+}

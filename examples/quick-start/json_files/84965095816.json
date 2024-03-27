@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84965095816,
+    "Title": "Modeling and simulation controlling system of HVAC using fuzzy and predictive (radial basis function, RBF) controllers",
+    "Author": "Faizollahzadeh Ardabili S.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2016-06-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.jobe.2016.04.010",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Tabriz",
+    "Affliation Country": "Iran",
+    "Cited by count": 57,
+    "Abstract": "Heating, ventilating and air conditioning (HVAC) systems are used in buildings, industry and agriculture to provide thermal and humidity comfort. Modeling of HVAC system can help to design precise controlling systems. In this study, a HVAC system had been modeled using MATLAB simulation software that had been developed using a fuzzy controlling system and radial basis function (RBF) model of artificial neural network (ANN) as a predictive control system. Results of the modeled systems were extracted and compared with actual system. In order to compare results of the modeled and actual systems, comparing parameters, such as mean absolute error (MAE), root mean square error (RMSE), mean absolute percentage/relative error (MAPE) and coefficient of Pearson correlation (r) were applied. The results indicated that, the modeled systems was accurately controlling the system and the difference between real and modeled system was also close. In the results as a whole, the predictive controller (RBF network) has the best performance compared to fuzzy model."
+}

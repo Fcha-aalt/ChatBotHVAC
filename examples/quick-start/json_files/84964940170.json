@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964940170,
+    "Title": "The meter tells you are at home! Non-intrusive occupancy detection via load curve data",
+    "Author": "Tang G.",
+    "Journal": "2015 IEEE International Conference on Smart Grid Communications, SmartGridComm 2015",
+    "Publication Date": {
+        "$date": "2016-03-17T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/SmartGridComm.2015.7436415",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Victoria",
+    "Affliation Country": "Canada",
+    "Cited by count": 30,
+    "Abstract": "Occupancy detection can greatly facilitate HVAC and lightning control for building energy saving. Sensor based occupancy detection is usually costly and may suffer from high false positive rates. As such, occupancy detection using load curve data has been proposed. Such type of methods, however, normally relies on tedious and nontrivial model training process. To overcome this pitfall, we develop a simple, non-intrusive occupancy detection approach that does not require any model training and only uses load curve data and readily-Available appliance knowledge. The method consists of three main steps: i) the appliances' mode states are firstly decoded via a carefully designed total variation minimization problem; ii) the human actions are recovered with a-priori knowledge of human-Activated switching events; iii) the occupancy states are then inferred based on the recovered human actions along with empirical association rules. We evaluate our approach and compare with existing methods with real-world data. The results show that our approach can achieve similar performance to those using supervised machine learning."
+}

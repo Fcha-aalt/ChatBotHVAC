@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071853130,
+    "Title": "Dynamic simulation of indirect air conditioning systems with optimized computational time",
+    "Author": "Ablanque N.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2019-08-13T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1051/e3sconf/201911104042",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "The simulation of HVAC systems is a powerful tool to improve the energy efficiency in buildings. The modelling of such systems faces several obstacles due to both the physical phenomenology present and the numerical resolution difficulties. The present work is an attempt to develop a robust, fast, and accurate model for HVAC systems that can interact with the other relevant systems involved in buildings thermal management. The whole system model has been developed in the form of libraries under the Modelica language to exploit its advantageous characteristics: object-oriented programming, equation-based modelling, and handling of multi-physics. The global resolution is carried out dynamically so that not only steady-state predictions can be conducted but also control strategies can be studied over meaningful periods of time. This latter aspect is crucial for optimizing energy savings. The libraries include models for all the system individual components such as pumps, compressors or heat exchangers (operating with two-phase flows and/or moist air) and also models assemblies to account for vapour compression units and liquid circuits. An illustrative example of an indirect air conditioning system is detailed in the present work in order to highlight the model potential."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111611351,
+    "Title": "Personalizing Individual Comfort in the Group Setting",
+    "Author": "Laftchiev E.",
+    "Journal": "35th AAAI Conference on Artificial Intelligence, AAAI 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Mitsubishi Electric Research Laboratories",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Maintaining individual thermal comfort in indoor spaces shared by multiple occupants is difficult because it requires both intuition about the thermal properties of the room and an understanding of the thermal comfort preferences of each individual. We explore an approach to optimizing individual thermal comfort within a group through temperature set-point optimization of HVAC equipment. We propose a weakly-supervised algorithm to learn the individual thermal comfort preferences and an autoencoding framework to learn static approximations of room thermodynamics. We further propose two approaches to learn a control law that sets the HVAC set-points subject to the preferred user temperatures. The proposed method is tested on a real data-set obtained from workers in an open office. The results show that, on average, the temperature in the room at each user's location can be regulated to within 0.5oC of the user's desired temperature."
+}

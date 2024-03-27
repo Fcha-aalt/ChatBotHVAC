@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147355753,
+    "Title": "Influence of various parameters on lifecycle cost of buildings with active energy efficiency measures",
+    "Author": "Prabu E.M.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1088/1755-1315/1130/1/012048",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Amrita School of Engineering, Coimbatore",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The energy consumption of the building sector has heightened significantly in recent times owing to rapid global urbanization. Energy efficiency measures (EEM) may become a legal obligation for construction in years ahead. This study proposes the execution of Active Energy Efficiency Measures (AEEM) in a hospital building model evolved in energy simulation software while designed for a warm and humid environment. A series of design models were developed for the study by considering temperature set-points, HVAC star rating, and roof area for solar plant as the varying parameters. Investors have been reluctant to adopt efficiency measures attributed to the rise in their capital costs. Therefore, the study performed a Lifecycle Cost Analysis (LCCA) and payback period computations for additional investments to implement EEM. The findings are presented in the form of a correlation study between percentages of annual energy savings, life-cycle cost reductions, and additional capital investments for the implementation of AEEM. Energy conservation strategies without any additional investments to obtain a good future return are also discussed. With the combination of varying parameters, energy savings of up to 38.66% and a reduction in Lifecycle Cost (LCC) of up to 17.25% are obtained. Comparisons of design models highlight the importance of performing energy simulations and LCCA prior to actually making an investment in energy efficiency strategies."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151798422,
+    "Title": "THE HVAC MODEL PREDICTIVE CONTROL OF BUILDING THERMAL DYNAMIC CHARACTERISTICS",
+    "Author": "CHI M.",
+    "Journal": "Thermal Science",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.2298/TSCI2302007C",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Jilin Jianzhu University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "As the terminal energy user of urban power grid, it is significant to model and simulate the energy consumption characteristics of buildings. First, the author proposes a thermal dynamic model to predict the energy consumption of building refrigeration/heating, it is composed of several groups of heat transient energy balance equations, which can fully consider the impact of heat convection, heat conduction and heat storage on building energy consumption during the heat transfer process of building envelope. Then, the HVAC model predictive control (MPC) method considering the thermal dynamic characteristics of the building envelope is proposed for the heating, ventilation and air conditioning, the core energy unit of the building, the change of window wall ratio in building will affect the thermal insulation performance of the building, so the window wall ratio in building design should not exceed 0.7. From the perspective of building thermal insulation performance, the author analyzes the situation that the total 48 hours operating cost of buildings under two control methods changes due to the change of building thermal insulation performance with the change of window wall ratio in different environments, the simulation results show that when using MPC control method for HVAC, the daily operating cost of buildings increases with the window wall ratio at a lower rate than the traditional control method. It can be seen that the MPC control method has a better effect of energy saving and reducing the total operating cost of buildings in response to the environment where the window wall ratio of buildings increases or the thermal insulation performance of buildings becomes worse over time. It is proved that the HVAC control method based on MPC not only helps to reduce the building energy cost, but also deals with the reduction of HVAC energy efficiency level and the deterioration of building insulation performance, it is more conducive to saving energy and improving the operating economy of buildings."
+}

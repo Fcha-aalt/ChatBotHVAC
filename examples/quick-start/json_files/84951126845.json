@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951126845,
+    "Title": "Knowledge management framework for monitoring systems improving building energy efficiency",
+    "Author": "Kadolsky M.",
+    "Journal": "2015 IEEE Workshop on Environmental, Energy, and Structural Monitoring Systems, EESMS 2015 - Proceedings",
+    "Publication Date": {
+        "$date": "2015-08-03T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/EESMS.2015.7175848",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technische Universität Dresden",
+    "Affliation Country": "Germany",
+    "Cited by count": 3,
+    "Abstract": "In the last decades scarcity of resources and global warming have led to a more and more efficient building design and usage aimed to reduce energy consumption and CO2 emission. For increasing energy efficiency of buildings over the whole life cycle monitoring systems became an important technology. Thereby, monitoring systems are usually applied in combination with controlling systems for providing building automation of HVAC (heating, ventilation and air conditioning) components in the usage phase. In this paper an approach will be presented describing a generic framework for efficiently using of monitoring in the design phase as well as in the usage phase. Based on certain building criteria a) the selection for an efficient, best cost-benefit, HVAC system and b) the efficient filtering, evaluating and prioritizing of energy performance values like cooling/heating consumption values will be supported. This will be done by considering only a small set of energy indicators representing and covering complex building designs and usage scenarios. As description method for the building criteria an ontology approach is considered comprising and consolidating the different input sources and creating the base for deriving and identifying these criteria. Furthermore, intelligent filtering methods are proposed operating on the origin source models and filtering and aggregating the elements for mapping them to the ontology descriptions. Altogether is embedded in a knowledge management framework forming the mediator for external software like simulation or CAD software. The use of the knowledge management framework is intended for a company applying it throughout several projects and storing the gained experience in the building criteria and the related functionalities."
+}

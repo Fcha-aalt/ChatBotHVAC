@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129497331,
+    "Title": "Transient Operation of Sensible Fixed-Bed Regenerators",
+    "Author": "Ramin H.",
+    "Journal": "Journal of Thermal Science and Engineering Applications",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/1.4053486",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Saskatchewan",
+    "Affliation Country": "Canada",
+    "Cited by count": 2,
+    "Abstract": "Fixed-bed regenerator is a type of air-to-air energy exchanger and recently introduced for energy recovery application in heating, ventilation, and air conditioning (HVAC) systems because of their high heat transfer effectiveness. The testing of fixed-bed regenerators (FBRs) is essential for performance evaluation and product development. American Society of Heating Refrigeration and Air Conditioning Engineers (ASHRAE) and Canadian Standards Association (CSA) recently included guidelines for testing of FBRs in their respective test standards. The experiments on FBRs are challenging as they never attain a steady-state condition, rather undergoes a quasi-steady-state operation. Before reaching the quasi-steady state, FBRs undergo several transient cycles. Hence, the test standards recommend getting measurements after one hour of operation, assuming FBR attains the quasi-steady state regardless of test conditions. However, the exact duration of the initial transient cycles is unknown and not yet studied so far. Hence, in this paper, the duration of FBR’s transient operation is investigated for a wide range of design and operating conditions. The test standards’ recommendation for the transient duration is also verified. The major contributions of this paper are (i) quantifying the effect of design parameters (NTUo and Cr*) on the duration of transient operation and (ii) the investigation of the effect of sensor time constant on the transient temperature measurements. The results will be useful to predict and understand the transient behavior of FBRs accurately."
+}

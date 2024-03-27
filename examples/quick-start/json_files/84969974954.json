@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84969974954,
+    "Title": "Energy consumption analysis of multistory cross-laminated timber residential buildings: A comparative study",
+    "Author": "Khavari A.",
+    "Journal": "Journal of Architectural Engineering",
+    "Publication Date": {
+        "$date": "2016-06-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1061/(ASCE)AE.1943-5568.0000206",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Asec Inc.",
+    "Affliation Country": "United States",
+    "Cited by count": 23,
+    "Abstract": "Cross-laminated timber (CLT) is a new panelized mass timber product that is suitable for building tall wood buildings (higher than eight stories) because of its structural robustness and superior fire resistance as compared with traditional light-framed wood systems. A number of tall CLT buildings have been constructed around the world in the past decade, and taller projects are being planned. The energy efficiency of this emerging building type was evaluated numerically in this comparative study with the use of a building energy simulation program. A 10-story multiunit residential building model constructed using CLT was simulated and compared with a light-frame metal construction model with the same floor plan. A sensitivity analysis was also conducted to study the impact of different weather profiles, building types, and internal load conditions on building energy consumption performance. It was concluded that CLT generally provides significant improvement on heating energy efficiency as a heavy and air-tight envelope, but its energy performance efficiency can be affected by weather, building size, internal loading, and HVAC control."
+}

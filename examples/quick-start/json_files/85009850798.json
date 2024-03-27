@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85009850798,
+    "Title": "A low-complexity control mechanism targeting smart thermostats",
+    "Author": "Danassis P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-03-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.01.013",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Technical University of Athens (NTUA)",
+    "Affliation Country": "Greece",
+    "Cited by count": 14,
+    "Abstract": "This paper introduces a low-cost, high-quality Decision Making Mechanism for supporting the tasks of temperature regulation of existing HVAC installations in a smart building environment. It incorporates Artificial Neural Networks and Fuzzy Logic in order to improve the occupants’ thermal comfort while maintaining the total energy consumption. Contrary to existing approaches, it focuses in achieving significantly low computational complexity, which in turn enables its hardware implementation onto low-cost embedded platforms, such the ones used in smart thermostats. Both the software components and hardware implantation are described in detail. To demonstrate its effectiveness, the proposed method was compared to ruled-based controllers, as well as state-of-the-art control techniques. A simulation model was developed using the EnergyPlus building simulation suite, a detailed modeled micro-grid environment of buildings located in Chania Greece and historic weather and energy pricing data. Simulation results validate the effectiveness of our approach."
+}

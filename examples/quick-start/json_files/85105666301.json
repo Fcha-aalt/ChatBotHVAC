@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105666301,
+    "Title": "The Impact of different low-exergy heating systems and HVAC control settings on thermal comfort and energy performance",
+    "Author": "Nemethova E.",
+    "Journal": "15th Conference of the International Society of Indoor Air Quality and Climate, INDOOR AIR 2018",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Slovak University of Technology in Bratislava",
+    "Affliation Country": "Slovakia",
+    "Cited by count": 0,
+    "Abstract": "This study evaluates the potential of thermal comfort and energy consumption enhancement in a modern office building with high ratio of glazed façade and a heating / cooling system with high thermal inertia. Application of proper control strategies for HVAC systems is important to prevent overheating, overcooling and excessive energy consumption. In this paper, the effect of various control settings and strategies on the thermal comfort is studied. The study is performed on a validated simulation model for a representative thermal zone located in a real administrative building, called the Energetikum."
+}

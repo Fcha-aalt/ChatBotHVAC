@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127668121,
+    "Title": "22nd International Conference on Parallel and Distributed Computing, Applications and Technologies, PDCAT 2021",
+    "Author": NaN,
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 58 papers. The special focus in this conference is on Parallel and Distributed Computing, Applications and Technologies. The topics include: Traffic Matrix Prediction Based on Differential Privacy and LSTM; patient-Chain: Patient-centered Healthcare System a Blockchain-based Technology in Dealing with Emergencies; federated Data Integration for Heterogeneous Partitions Based on Differential Privacy; multimodal Fusion Representation Learning Based on Differential Privacy; bayesian Optimization-Based Task Scheduling Algorithm on Heterogeneous System; MOFIT: An Efficient Access Control Scheme with Attribute Merging and Outsourcing Capability for Fog-Enhanced IoT; enhanced Discriminant Local Direction Pattern Learning for Robust Palmprint Identification; jointly Super Resolution and Degradation Learning on Unpaired Real-World Images; roman Amphitheater Classification Using Convolutional Neural Network and Data Augmentation; Multi-zone Residential HVAC Control with Satisfying Occupants’ Thermal Comfort Requirements and Saving Energy via Reinforcement Learning; Evaluating the Performance and Conformance of a SYCL Implementation for SX-Aurora TSUBASA; distributed Fair k-Center Clustering Problems with Outliers; MACSQ: Massively Accelerated DeepQ Learning on GPUs Using On-the-fly State Construction; optimizing Data Locality by Executor Allocation in Reduce Stage for Spark Framework; low Latency Execution Guarantee Under Uncertainty in Serverless Platforms; an Effective and Reliable Cross-Blockchain Data Migration Approach; A MVCC Approach to Parallelizing Interoperability of Consortium Blockchain; realtime Physics Simulation of Large Virtual Space with Docker Containers; temperature Matrix-Based Data Placement Using Improved Hungarian Algorithm in Edge Computing Environments; FastDCF: A Partial Index Based Distributed and Scalable Near-Miss Code Clone Detection Approach for Very Large Code Repositories; matching Program Implementations and Heterogeneous Computing Systems; adaptive Updates for Erasure-Coded Storage Systems Based on Data Delta and Logging; Towards Conflict-Aware Workload Co-execution on SX-Aurora TSUBASA; data-Hungry Issue in Personalized Product Search; preface."
+}

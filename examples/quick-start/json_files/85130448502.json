@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130448502,
+    "Title": "How to Derive and Implement a Minimalistic RC Model from Thermodynamics for the Control of Thermal Parameters for Assuring Thermal Comfort in Buildings",
+    "Author": "Frahm M.",
+    "Journal": "1st International Workshop on Open Source Modelling and Simulation of Energy Systems, OSMSES 2022 - Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/OSMSES54027.2022.9769134",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Karlsruher Institut für Technologie",
+    "Affliation Country": "Germany",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems of buildings account for a major part of global energy demand and HVAC optimization offers significant potential to improve energy efficiency. As a promising optimization technology, Model Predictive Control (MPC) can reduce the energy demand while maintaining thermal comfort in buildings, but it also requires a thermal building model. Most existing models are too complex for a reliable parameter identification from measurements or too simple to represent thermal comfort. In this paper, we derive and implement a minimalistic thermal building model that can be applied to (i) parameter identification from measurements (grey-box modeling), and (ii) control of thermal parameters for assuring thermal comfort. We derive our grey-box model from the laws of thermodynamics, heat transfer, and the electro-thermal RC analogy. As a novelty, we present not only the detailed theoretical derivation but also the open-source code for applying the identification to various buildings. The proposed minimalistic model ensures a reliable parameter estimation and requires only a few measurements of temperatures, heating, and global radiation. We identify and validate our model with measurements from a research building under real-world conditions."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117779696,
+    "Title": "Improving building energy performance using dual vav configuration integrated with dedicated outdoor air system",
+    "Author": "Nassif N.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2021-10-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/buildings11100466",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Cincinnati",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "As building systems account for almost half of the total energy consumed by the building sector to provide space heating, cooling, and ventilation, efficiently designing these systems can be the key to energy conservation in buildings. Dual VAV systems with an effective control strategy can substantially reduce the energy consumption in buildings, providing a significant scope of further research on this system configuration. This paper proposes to utilize the warm air duct of the dual VAV system as a dedicated outdoor air (DOA) unit when no heating is required, which allows the cooling load to be effectively distributed between two ducts. A specific control sequence is proposed with different supply air temperature reset strategies to estimate the heating, cooling loads, and fan power energy consumption of the proposed system. A simple two-zone office building is taken as a preliminary case study to simulate the airflow rates and fan power of a single duct VAV and proposed dual VAV systems to illustrate the concept. Finally, a larger multi-zone office building is simulated to measure the annual heating, cooling loads, and fan power energy and compare the energy savings among the systems. The results show significant fan power reduction ranging from 1.7 to 9% and notable heating energy reduction up to 76.5% with a small amount of cooling load reduction varying from 0.76 to 2.56% depending on the different locations for the proposed dual VAV systems. Further energy savings from different supply air temperature reset strategies demonstrate the opportunity of employing them according to climates and case studies. The proposed dual VAV system proves to have the potential to be adapted in buildings for the purpose of sustainability and energy savings."
+}

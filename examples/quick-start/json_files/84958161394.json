@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84958161394,
+    "Title": "Hybrid model predictive control of a residential HVAC system with PVT energy generation and PCM thermal storage",
+    "Author": "Fiorentini M.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.egypro.2015.12.192",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Wollongong",
+    "Affliation Country": "Australia",
+    "Cited by count": 39,
+    "Abstract": "This paper describes an experimental investigation into the performance of a Hybrid Model Predictive Control (HMPC) system implemented to control a novel solar-Assisted HVAC system servicing the Team UOW Solar Decathlon house, the overall winner of the Solar Decathlon China 2013 competition. This HVAC system consists of an air-based photovoltaic thermal (PVT) collector and a phase change material (PCM) thermal store integrated with a conventional ducted reverse-cycle heat pump system. The system was designed for operation during both winter and summer, using daytime solar radiation and night sky radiative cooling to increase the energy efficiency of the air-conditioning system. The PVT collector can exchange heat with the PCM thermal storage unit, and the stored heat can be used to condition the space or precondition the air entering the air handling unit (AHU). The HMPC controller includes two levels of control, where the high-level controller has a 24-hour prediction horizon and a 1-hour control step is used to select the operating mode of the HVAC system. Low-level controllers for each HVAC operational mode have a 1-hour prediction horizon and a 5-minute control step, and are used to track the trajectory defined by the high-level controller and to optimize the operating mode selected. The results from this preliminary experimental work have demonstrated the value of the HMPC approach in optimally controlling the solar-Assisted HVAC system in the Solar Decathlon house. Results show that the HMPC controller successfully selected the appropriate operating mode to achieve multiple objectives, including: maintenance of indoor comfort conditions within a defined, and potentially variable, thermal comfort band; and optimization of the overall energy efficiency of the system using all available on-site energy resources."
+}

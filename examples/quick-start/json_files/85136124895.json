@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136124895,
+    "Title": "Building Matters: Spatial Variability in Machine Learning Based Thermal Comfort Prediction in Winters",
+    "Author": "Lala B.",
+    "Journal": "Proceedings - 2022 IEEE International Conference on Smart Computing, SMARTCOMP 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/SMARTCOMP55677.2022.00078",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Kyushu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 4,
+    "Abstract": "Thermal comfort in indoor environments has an enormous impact on the health, well-being, and performance of occupants. Given the focus on energy efficiency and Internet of Things enabled smart buildings, machine learning (ML) is being increasingly used for data-driven thermal comfort (TC) prediction. Generally, ML-based solutions are proposed for air-conditioned or HVAC ventilated buildings and the models are primarily designed for adults. On the other hand, naturally ventilated (NV) buildings are the norm in most countries. They are also ideal for energy conservation and long-term sustainability goals. However, the indoor environment of NV buildings lacks thermal regulation and varies significantly across spatial contexts. These factors make TC prediction extremely challenging. Thus, determining the impact of building environment on the performance of TC models is important. Further, the generalization capability of TC prediction models across different NV indoor spaces needs to be studied. This work addresses these problems. Data is gathered through month-long field experiments conducted in 5 naturally ventilated school buildings, involving 512 primary school students. The impact of spatial variability on student comfort is demonstrated through variation in prediction accuracy (by as much as 71%). The influence of building environment on TC prediction is also demonstrated through variation in feature importance. Further, a comparative analysis of spatial variability in model performance is done for children (our dataset) and adults (ASHRAE-II database). Finally, the generalization capability of thermal comfort models in NV classrooms is assessed and major challenges are highlighted."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098212000,
+    "Title": "A data-driven fault detection and diagnosis scheme for air handling units in building HVAC systems considering undefined states",
+    "Author": "Yun W.S.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jobe.2020.102111",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kyungpook National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 54,
+    "Abstract": "Fault detection in heating, ventilation, and air conditioning (HVAC) systems is essential because faults lead to energy wastage, shortened lifespan of equipment, and uncomfortable indoor environments. In this study, we proposed a data-driven fault detection and diagnosis (FDD) scheme for air handling units (AHUs) in building HVAC systems to enable reliable maintenance by considering undefined states. We aimed to determine whether a neural-network-based FDD model can provide significant inferences for input variables using the supervised auto-encoder (SAE). We evaluated the fitness of the proposed FDD model based on the reconstruction error of the SAE. In addition, fault diagnosis is only performed by the FDD model if it can provide significant inferences for input variables; otherwise, feedback regarding the FDD model is provided. The experimental data of ASHRAE RP-1312 were used to evaluate the performance of the proposed scheme. Furthermore, we compared the performance of the proposed model with those of well-known data-driven approaches for fault diagnosis. Our results showed that the scheme can distinguish between undefined and defined data with high performance. Furthermore, the proposed scheme has a higher FDD performance for the defined states than that of the control models. Therefore, the proposed scheme can facilitate the maintenance of the AHU systems in building HVAC systems."
+}

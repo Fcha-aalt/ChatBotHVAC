@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85008388742,
+    "Title": "Improving the energy efficiency of ground-source heat pump systems in heating dominated school buildings: A case study in Belgium",
+    "Author": "Allaerts K.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2016.09.046",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Vlaamse Instelling voor Technologisch Onderzoek",
+    "Affliation Country": "Belgium",
+    "Cited by count": 33,
+    "Abstract": "A ground-source heat pump system in combination with different low temperature heating systems was installed in a new school building in Belgium. During the first two years of operation, measurement data indicated that the difference between heating and cooling load could affect the long term thermal stability of the ground storage and thus may result in poor energy efficiency of the GSHP system. This paper describes two low-cost measures that can be taken in order to reduce or prevent such unfavourable conditions. The school building and HVAC system were modeled and on-site measurement data was used for validation. First, the HVAC system was optimized by integrating an additional cooling coil in the exhaust airflow of the air handling unit in order to recuperate waste heat from the exhaust ventilation air. Additionally, the effect of passive cooling during summer holidays on the annual energy balance was investigated. Results indicated that heat recuperation of the exhaust ventilation air and passive cooling of the school building during weekends and summer holidays are complementary and contribute to a more stable ground temperature, consequently significant energy savings can be achieved."
+}

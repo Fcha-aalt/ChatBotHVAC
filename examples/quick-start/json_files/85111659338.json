@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111659338,
+    "Title": "The impact of deep learning–based equipment usage detection on building energy demand estimation",
+    "Author": "Wei S.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1177/01436244211034737",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 1,
+    "Abstract": "As external temperatures and internal gains from equipment rise, office buildings’ cooling demand and issues are likely to increase. Solutions such as demand-driven controls can help minimise energy consumption and maintain thermal comfort in buildings by coordinating the real-time heating, ventilation and air-conditioning (HVAC) use to the requirements of the conditioned spaces. The present study introduces a real-time equipment usage detection and recognition approach for demand-driven controls using a deep learning method. A Faster R-CNN model was trained and deployed to a camera. The performance of this model was assessed through different evaluation metrics. Based on the initial field experiment results, a detection accuracy of 76.21% was achieved. To investigate the impact of the proposed approach on building heating and cooling energy demand, the case study building was modelled and simulated. The results showed that the deep learning–based method predicted up to 35.95% lower internal heat gains compared to static or ‘fixed’ schedules based on the set conditions. Practical Application: As the appliances and equipment in building spaces contribute to the internal heat gains, their usage can influence the building energy demand and indoor thermal environment. Linking equipment usage with occupants’ presence in space may not be fully accurate and may lead to the over- or under-estimation of heat emissions, especially when the space is unoccupied, and the equipment is powered ON or the opposite. This approach can be integrated with demand-driven controls for HVAC systems, which can minimise unnecessary building energy consumption while maintaining a comfortable indoor environment using computer vision and deep learning detection and recognition methods."
+}

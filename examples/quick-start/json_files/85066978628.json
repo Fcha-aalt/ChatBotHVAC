@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85066978628,
+    "Title": "Cooling load forecasting-based predictive optimisation for chiller plants",
+    "Author": "Wang L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.06.016",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 38,
+    "Abstract": "Extensive electric power is required to maintain indoor thermal comfort using heating, ventilation and air conditioning (HVAC) systems, of which, water-cooled chiller plants consume more than 50% of the total electric power. To improve energy efficiency, supervisory optimisation control can be adopted. The controlled variables are usually optimised according to instant building cooling load and ambient wet bulb air temperature at regular time intervals. In this way, the energy efficiency of chiller plants has been improved. However, with an inherent assumption that the instant building cooling load and ambient wet bulb temperature remain constant in the coming time interval, the energy efficiency potential has not been fully realised, especially when cooling loads vary suddenly and extremely. To solve this problem, a cooling load forecasting-based predictive optimisation method is proposed. Instead of minimising the instant system power according to the instant building cooling load and ambient wet bulb temperature, the controlled variables are derived to minimise the sum of the instant system power and one-time-step-ahead future system power according to both instant and forecasted future building cooling loads. With this method, the energy efficiency potential of a chiller plant can be further improved without shortening the operation time interval. 80% redundant energy consumption has been reduced for the sample chiller plant; energy can be saved for chiller plants that work for years. The evaluation on the effect of cooling load forecasting accuracy turns out that the more accurate the forecasts are, the more redundant energy consumption can be reduced."
+}

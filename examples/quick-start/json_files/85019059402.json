@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019059402,
+    "Title": "Recent Developments in HVAC System Control and Building Demand Management",
+    "Author": "Sun Y.",
+    "Journal": "Current Sustainable/Renewable Energy Reports",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1007/s40518-017-0064-6",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 5,
+    "Abstract": "Purpose of review: Heating, ventilation, and air-conditioning (HVAC) system control and building demand management play important roles in building energy efficiency and sustainability, and thus motivate numerous studies in recent decades. In this article, we provide a review of the developments in both HVAC control and demand management in recent 5 years, helping readers to understand the new significant trends and achievements in these both areas. Recent findings: We collected and analyzed a number of representative publications and found that the developments of HVAC system control have two significant trends: to improve the robustness of control and to improve the efficiency of system level real-time optimization; while demand management emphasizes the coordinated control in building-group-level other than single-building-level. Summary: The improvement of the robustness of the HVAC systems control can guarantee the control performance under uncertainties; the improvement of the efficiency of the system level real-time optimization can significantly enhance the building energy efficiency, while the coordinated demand management can optimize the aggregated load profile for better serving the actual needs of a grid. Because buildings are integrating more and more advanced systems with complex dynamics, continuous efforts are needed to deal with the challenges in both HVAC system control and demand management."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048481957,
+    "Title": "Can HVAC really learn from users? A simulation-based study on the effectiveness of voting for comfort and energy use optimization",
+    "Author": "Carreira P.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.scs.2018.05.043",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Instituto Superior Técnico",
+    "Affliation Country": "Portugal",
+    "Cited by count": 51,
+    "Abstract": "The usage of Building Automation Systems (BAS) and Energy Management Systems (EMS) is indeed becoming ever more common and sophisticated, and seeking to promote energy savings by integrating new sources of data, such as user preferences, in real-time. This paper reviews the existing systems and proposes an innovation in HVAC systems management: a system that tracks the occupants’ preferences, learns from them, and manages HVAC automatically. Our hypothesis was that by developing a learning system based on feedback acquired through the mobile devices of room occupants to optimize the control of a HVAC system, in order to minimize energy consumption while maximizing average user comfort. A prototype solution is described and evaluated by simulation. We show that ambient intelligent systems can be used to control a building's EMS, effectively reducing energy consumption while maintaining acceptable comfort levels. Our results indicate that employing a k-means machine learning technique enables the automatic configuration of an HVAC system to reduce energy consumption while keeping the majority of occupants within acceptable comfort levels. The developed prototype provides occupants with feedback on ambient variables on a mobile user interface. © 2017 Elsevier Science. All rights reserved."
+}

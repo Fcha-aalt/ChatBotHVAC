@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125646504,
+    "Title": "A Digital Twin predictive maintenance framework of air handling units based on automatic fault detection and diagnostics",
+    "Author": "Hosamo H.H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-04-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.111988",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitetet i Agder",
+    "Affliation Country": "Norway",
+    "Cited by count": 72,
+    "Abstract": "The building industry consumes the most energy globally, making it a priority in energy efficiency initiatives. Heating, ventilation, and air conditioning (HVAC) systems create the heart of buildings. Stable air handling unit (AHU) functioning is vital to ensuring high efficiency and extending the life of HVAC systems. This research proposes a Digital Twin predictive maintenance framework of AHU to overcome the limitations of facility maintenance management (FMM) systems now in use in buildings. Digital Twin technology, which is still at an initial stage in the facility management industry, use Building Information Modeling (BIM), Internet of things (IoT) and semantic technologies to create a better maintenance strategy for building facilities. Three modules are implemented to perform a predictive maintenance framework: operating fault detection in AHU based on the APAR (Air Handling Unit Performance Assessment Rules) method, condition prediction using machine learning techniques, and maintenance planning. Furthermore, the proposed framework was tested in a real-world case study with data between August 2019 and October 2021 for an educational building in Norway to validate that the method was feasible. Inspection information and previous maintenance records are also obtained through the FM system. The results demonstrate that the continually updated data combined with APAR and machine learning algorithms can detect faults and predict the future state of Air Handling Unit (AHU) components, which may assist in maintenance scheduling. Removing the detected operating faults resulted in annual energy savings of several thousand dollars due to eliminating the identified operating faults."
+}

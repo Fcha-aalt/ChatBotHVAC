@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144487890,
+    "Title": "Conceptual design of intelligent platform for non-invasive thermal discomfort detection",
+    "Author": "Marchenko A.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ifacol.2022.09.634",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 2,
+    "Abstract": "Harsh climate conditions, events of over-heating and over-cooling created a gap between envisioned indoor environment and actual performance of the buildings. This paper suggests a potential development of the study which was held in Norwegian Institute of Science and Technology”The Study of Facial Muscle Movements for Non-Invasive Thermal Discomfort Detection via Bio-Sensing Technology”. A new concept of intelligent platform is proposed for detection and prevention events of the thermal discomfort among silver age cluster of people. It suggests that involuntary facial muscle movements are an important part of the human thermal perception within indoor conditions since they are directly connected to the brainstem which is located within sub-cortical part of the brain that asses thermal state of the body. Such neighboring location might hint that unconscious facial muscle movements can also contain insights on thermal state of the body and not only show emotional state. It is proposed to collect bio-metrical data on activity level, heart rates profile and facial muscle movements itself in ZEB test cell which will be equipped in a way that mimics apartment environment. Collected data will be perfect ground for implementation of the Artificial Neural Network with aim to cluster data and be able to have prediction that would allow to adjust HVAC system in advance and create comfortable thermal profile."
+}

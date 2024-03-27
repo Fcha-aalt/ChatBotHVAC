@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059081389,
+    "Title": "IoT Integration based on semantic technologies for energy efficiency in buildings",
+    "Author": "Esnaola-Gonzalez I.",
+    "Journal": "2018 Global Internet of Things Summit, GIoTS 2018",
+    "Publication Date": {
+        "$date": "2018-11-13T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/GIOTS.2018.8534531",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Fundación Tekniker",
+    "Affliation Country": "Spain",
+    "Cited by count": 3,
+    "Abstract": "Efficient management of building energy plays a vital role and is becoming the trend forfuture generation of buildings. In this context, the expansion of the Internet of Things (IoT)the advent of new (Linked) Open Data (LOD) or Big Data technologies, and Knowledge Discovery in Databases (KDD) techniques will lead to achieve this goal. However, integration of data coming from different sources and in heterogeneous formats is not a trivial question. In this paper, the data integration problem is reflected on a real world use case. After finding a classical solution to overcome this problem, a Semantic Data Model is proposed for future cases. Furthermore, once this heterogeneous information is adequately integrated, it has been used to build a predictive model that supports facility managers choosing an energy efficient HVAC control strategy that ensures occupants thermal comfort."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84976869621,
+    "Title": "Learning based personalized energy management systems for residential buildings",
+    "Author": "Soudari M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-09-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.05.059",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kalasalingam Academy of Research and Education",
+    "Affliation Country": "India",
+    "Cited by count": 18,
+    "Abstract": "This investigation presents a personalized energy management system (PEMS) for heating, ventilation and air-conditioning (HVAC) systems in residential buildings based on economic model predictive control (EMPC) integrated with occupancy and occupant behaviour. The major building blocks of the PEMS are: weather forecasting tool, occupancy predictor, occupant behaviour model, cost-generator, and Economic Model Predictive Controller (EMPC). The occupancy is modelled using Hidden Markov Model (HMM), whereas Adaptive Neuro Fuzzy Inference System (ANFIS) is used to model the occupant behaviour. The cost generator computes the energy cost as the sum of personalized costs computed by using ANFIS model, time-of-use charges predicted from load-curve information, and fixed energy cost. The EMPC optimizes the energy consumption using a constrained optimization routine including the comfort margins specified by the occupant in a receding horizon manner. Performance of the PEMS is illustrated using experiments on a laboratory scale HVAC system. Our results show that the proposed controller not only reduces the energy consumption by 9.7–25%, and cost (from 8.2% to 18.2%), but also maintains the temperature within the personalized comfort band. The novelty of the proposed approach is the integration of demand response, occupancy and occupant behaviour within the PEMS framework. As a result, the proposed controller reduces energy, cost and peak-demand."
+}

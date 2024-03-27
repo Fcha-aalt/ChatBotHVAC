@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077735723,
+    "Title": "Energy savings and thermal comfort benefits of shading devices: Case study of a typical Moroccan building",
+    "Author": "Chegari B.",
+    "Journal": "ACM International Conference Proceeding Series",
+    "Publication Date": {
+        "$date": "2019-10-02T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1145/3368756.3369044",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "École Nationale Supérieure d’Electricité et de Mécanique",
+    "Affliation Country": "Morocco",
+    "Cited by count": 4,
+    "Abstract": "The building sector in Morocco represents about 25% of the country's total energy consumption, including 18% for the residential sector and 7% for tertiary sector. This energy consumption is expected to rise due to the significant rise of household equipment rates in HVAC facilities, mainly air conditioners. This work presents the effect of the use of solar protection (overhangs and wings) on the thermal comfort as well as the energy performance of a typical Moroccan building R+1 (Ground floor + First floor) in three different climates, namely Marrakech, Casablanca and Tangier. This was achieved through the use of the dynamic thermal simulation, which is performed by the TRNSYS software. The results show that the use of solar protection has made a positive contribution, first, to the thermal comfort and, secondly, to the energy performance of the studied building. This is reflected in reductions in heating and cooling demand, which represent 5.57%, 4.41% and 3.95% respectively in Casablanca, Marrakech and Tangier."
+}

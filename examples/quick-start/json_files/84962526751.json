@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962526751,
+    "Title": "A novel concept of a responsive transparent façade module: Optimization of energy performance through parametric design",
+    "Author": "Iennarella S.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2015-11-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.egypro.2015.11.670",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Politecnico di Torino",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "A novel concept of a responsive transparent façade module was developed and analyzed in its energy performance. The module consists of three glazings: a low-E selective glass; a PCM filled double-pane glazing for solar control; an aerogel filled double-pane glazing for thermal insulation. These layers are dynamically combined in response to external conditions so as to minimize the energy consumption for lighting and HVAC systems. The module was applied to a sample room in Turin and the global energy demand was calculated through a parametric design, using DIVA-for-Rhino. Different room orientations and thicknesses of PCM and aerogel layers were analyzed."
+}

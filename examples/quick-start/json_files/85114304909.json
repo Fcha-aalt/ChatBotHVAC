@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114304909,
+    "Title": "Thermal Comfort Model for HVAC Buildings Using Machine Learning",
+    "Author": "Fayyaz M.",
+    "Journal": "Arabian Journal for Science and Engineering",
+    "Publication Date": {
+        "$date": "2022-02-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/s13369-021-06156-8",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National University of Computer and Emerging Sciences Islamabad",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 11,
+    "Abstract": "Thermal comfort is a condition of mind that expresses satisfaction with the thermal environment. Thermal comfort is critical for both health and productivity. Inadequate thermal comfort results in stress for building inhabitants. Improved thermal conditions are directly related to improved health and productivity of individuals. This paper proposes a novel human thermal comfort model using machine learning algorithms that identify the key features and predict thermal sensation with higher accuracy. We evaluate our approach using tenfold cross-validation and compare our results with state-of-the-art Fanger’s model. Our approach achieves a higher accuracy of 86.08%. Our results demonstrate the potential of our approach to predict thermal sensation votes under wide-ranging thermal conditions correctly."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059648721,
+    "Title": "Performance evaluation and design considerations for a split air-conditioner with built-in thermal energy storage",
+    "Author": "Ahmad J.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1177/0143624418818228",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Bahria University",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 3,
+    "Abstract": "The benefits of thermal energy storage using phase change materials are well documented in the literature. Despite all the potential benefits of thermal energy storage, its commercial and widespread application remains limited. This is due to the high initial cost of phase change materials, extensive rework required in buildings, major modifications in HVAC systems, and the potential for leakage, fire and toxicity hazards. There is a strong need for a simple thermal energy storage solution which can be adopted by large number of consumers. Ductless split air-conditioners are portable, low cost, efficient and account for 70% of all air-conditioning systems sold worldwide each year. The present research provides a novel and low cost solution that incorporates thermal energy storage in these air conditioners, allowing them to run without electricity for 3 h. The paper deals with the detailed design aspects and engineering challenges that arise when incorporating thermal energy storage in these small units. A prototype air-conditioner with in-built thermal energy storage was developed, and all performance parameters presented have been validated through data obtained from the prototype. Our results indicate that thermal energy storage can be incorporated in split units in low cost and with minimal drop in overall energy efficiency of the system. Practical application: Incorporating thermal energy storage in split air-conditioners which enables them to run without grid for many hours has immense practical applications. Since around 50% power in any building is consumed by HVAC systems, being able to provide cooling during peak hours without using grid can significantly reduce load on the grid without compromising user comfort. For developing countries where load shedding is frequent, the users can run these air-conditioners without the use of generators or batteries thus saving costs and the environment."
+}

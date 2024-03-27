@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184579032,
+    "Title": "Occupancy detection through machine learning and environmental data",
+    "Author": "Telaga A.S.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2024-01-17T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1063/5.0183264",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Astra Manufacturing Polytechnic",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 0,
+    "Abstract": "Occupancy detection is critical during building operations, particularly in energy efficiency, space utility, heating, ventilation control, and air conditioning (HVAC) to optimize user comfort. However, applying occupancy sensors to detect occupants can violate a person's privacy, and the resulting data could be more precise. Therefore, this study aims to detect occupancy through environmental sensors by utilizing the accuracy of machine learning-based classification results. The ultimate goal of this study is to detect whether there are people in a room based on the benchmarks studied. Benchmarks for classifying whether people are in a room include CO2, humidity, lighting, temperature, and occupancy. This paper presents a method for comparing and evaluating a set of different machine learning techniques based on a given performance measure (for example, precision, accuracy, f1 score, and algorithm recall) and then using the algorithm with the best performance. This study uses five machine learning classification algorithms: K-Nearest Neighbors, Support Vector Machine, Decision Tree, Naive Bayes and Random Forest, and the method used to evaluate the results is cross-validation. Experiments were conducted using occupancy detection datasets from the UCI Machine Learning Repository. After performing the experiment, the predictive results of the five algorithms are high. That is, each has an accuracy value of more than 90%. Support Vector Machine has the highest accuracy value compared to other algorithms, namely 98.5%, and Decision Tree has the lowest accuracy value, namely 91.9%. The results show that selecting the right features and the suitable classification model can significantly impact prediction accuracy."
+}

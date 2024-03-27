@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85095428278,
+    "Title": "Model-based home envelope performance evaluation: A use case of data from connected thermostats",
+    "Author": "Wang J.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 3,
+    "Abstract": "Envelope performance audits are becoming increasingly important for achieving energy-efficient homes. A model-based envelope performance evaluation method is proposed to evaluate the thermal properties and air-tightness of a house using 10-day measurements of its indoor and outdoor temperatures and HVAC on/off status. Through a test using data from 1,676 homes (provided by a smart thermostat manufacturer), a distinctive correlation between home age and home envelope performance deterioration identified by the proposed method was found, which aligned well with expectations. Although more tests with knowledge of the ground truth of the home envelope condition are needed, the proposed method is shown to be promising."
+}

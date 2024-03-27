@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107338785,
+    "Title": "City-scale building retrofit analysis: A case study using CityBES",
+    "Author": "Chen Y.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.26868/25222708.2017.071",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 19,
+    "Abstract": "This paper presents a case study using CityBES to analyze potential retrofit savings of different energy conservation measures for city-scale building stocks. CityBES is a web-based tool designed to support city-scale building energy efficiency, including currently implemented features of energy retrofit analysis, and visualization of city building energy disclosure datasets. This case study uses CityBES to evaluate five common retrofit measures for 540 small and medium-sized office and retail buildings in downtown San Francisco. The results show: (1) all five measures together can save 22-48% of site energy per building, (2) replacing lighting with LED lights and adding air economizers to existing HVAC systems are most cost-effective, (3) the payback is long for upgrading HVAC systems due to the mild climate of San Francisco that does not have much cooling or heating loads."
+}

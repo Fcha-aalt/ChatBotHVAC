@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174548730,
+    "Title": "Simulating energy performance of buildings: a study using eQUEST and Energy Star® portfolio manager",
+    "Author": "Wagle S.",
+    "Journal": "Architectural Engineering and Design Management",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/17452007.2023.2270679",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Benjamin M. Statler College of Engineering and Mineral Resources",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Commercial buildings consume significant energy in the United States and exhibit high potential for energy use reduction through retrofits. Benchmarking and energy simulation are well established tools in the industry to identify potential improvements and measure performance. Analysis to identify most sensitive retrofit parameters to energy performance can optimize investment and available energy savings. Presented study demonstrates methodology using a static model to determine sensitivity of building design and retrofit parameters with respect to energy performance. Calibrated simulation energy models (eQUEST) of two distribution centers (A, B) are presented. A fractional factorial analysis is conducted on retrofit parameters of efficiency measures targeting the highest energy consumers, and the results are benchmarked using Energy Star® Portfolio Manager. A custom Microsoft Excel® based simulation model is created to simulate occupancy levels, lighting, plug loads, and other equipment used in various spaces throughout the day. For Building A, efficient lighting was the most influential parameter for energy savings, carbon savings and benchmarking score; whereas, for Building B, HVAC efficiency was most influential for energy and demand controlled ventilation and economizers was most influential for benchmarking score. While retrofit projects can save energy and carbon emissions, variation in source-site ratios and state grid emissions, benchmarking scores may not always reflect equivalent improvement. State grid emissions factors, natural gas composition are difficult to model and hence not considered in this study. The synergistic analysis presented, emphasizes the importance of benchmarking and efficiency retrofits in promoting sustainable building practices to reduce energy consumption."
+}

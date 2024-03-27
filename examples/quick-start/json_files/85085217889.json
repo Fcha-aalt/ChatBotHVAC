@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085217889,
+    "Title": "Demand-controlled energy systems in commercial and institutional buildings: A review of methods and potentials",
+    "Author": "Azizi S.",
+    "Journal": "Eceee Summer Study Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Umeå Universitet",
+    "Affliation Country": "Sweden",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation and air-conditioning (HVAC) are by far the most energy intensive systems in commercial and institutional buildings with office spaces. This makes HVAC systems attractive targets for energy efficiency improvement. New technological advancements can play significant role on improving energy efficiency. Such advancements have been also emerged in form of novel management and control strategies, which might lead to considerable energy savings with relatively minor investments. This paper evaluates demand control HVAC and lighting to assess the energy saving potential of upgrading the conventional building energy systems. This paper provides a summary of different methods and occupancy detection technologies. A range of technologies and methods are covered that vary in complexity, limitations and energy saving potential. Additional benefits such as demand response are evaluated and other emerging applications are discussed. Based on the review of methods and potentials, the paper assesses the state of the art in demand controlled energy systems and suggests areas for further research."
+}

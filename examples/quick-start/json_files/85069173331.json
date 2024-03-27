@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85069173331,
+    "Title": "Smart thermostats for home automation systems and energy savings from smart thermostats",
+    "Author": "Ayan O.",
+    "Journal": "2018 6th International Conference on Control Engineering and Information Technology, CEIT 2018",
+    "Publication Date": {
+        "$date": "2018-10-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/CEIT.2018.8751790",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "İstanbul Teknik Üniversitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 6,
+    "Abstract": "Home automation systems give consumers access to control devices in their homes from a mobile phone or a tablet anywhere in the world and there are many products such as door locks, smart lights, garage doors, doorbell cameras, and smart switches with plugs in the home automation technology market. Smart thermostats are also one of the most important products of home automation system. HVAC systems account for over 60% of the energy consumed by buildings and this rate is expected to increase further in the future. For this reason, it is important to pay attention to the efficient use of HVAC systems. In this study, three different studies were performed on how much energy could be saved by using smart thermostats. When the temperature can be reduced during the night hours while consumers are sleeping, the energy savings for electricity and natural gas consumption were calculated as 20.72% and 17.7%, respectively. When consumers are away from the house at specific hours, they can save average 35.41% and 10.28% percent on electricity and natural gas consumption, respectively by turning down the thermostat or turning it off completely."
+}

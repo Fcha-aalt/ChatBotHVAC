@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137164803,
+    "Title": "IoT-Based Smart Airflow System for Retrofitting Commercial Variable Air Volume HVAC Systems",
+    "Author": "Barrak S.E.L.",
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ifacol.2022.07.352",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Houston",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "The integration of cyber and physical explorations is the key approach to enable building automation systems to save energy and maintain comfort. In this paper, we explore the concept of Cyber Physical system (CPS) to design and implement a prototype to retrofit outdated Variable Air Volume (VAV) Heating Ventilation and Air Conditioning (HVAC) systems. The proposed prototype uses building occupancy tracking to efficiently schedule HVAC systems and save wasted energy whilst maintaining occupant thermal comfort. An IoT infrastructure made up of a network of sensors placed strategically around the building to collect environment and occupants data and communicate them to the server. The new designed airflow damper acts accordingly to modulate the air distribution and adjust the environment to meet the expected comfort while maximizing efficiencies. The system improves the efficiency of existing traditional VAV-HVAC without entirely replacing the system. This can be a solution for old building with low budget."
+}

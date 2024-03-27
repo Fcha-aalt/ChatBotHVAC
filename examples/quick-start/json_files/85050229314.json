@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050229314,
+    "Title": "HVAC precooling optimization for green buildings: An RC-Network approach",
+    "Author": "Shi H.",
+    "Journal": "e-Energy 2018 - Proceedings of the 9th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2018-06-12T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1145/3208903.3208920",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The Ohio State University",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "To lower buildings’ significant energy consumption and high impacts on environmental sustainability, recent years have witnessed rapidly growing interests in efficient HVAC precooling control and optimization. However, due to the complex analytical modeling of building thermal transfer, rigorous mathematical optimization for HVAC precooling is highly challenging. As a result, progress on HVAC precooling optimization remains rather limited in the literature. Our main contribution in this paper is that we overcome the aforementioned challenge and propose an accurate and tractable mathematical HVAC precooling optimization framework. The main results of this paper are three-fold: i) We develop an RC-network-based analytical model for multi-zone HVAC precooling to minimize both total energy costs and peak load demand; ii) We show that the HVAC procooling optimization problem based on the proposed RC network model admits a convex approximation, which enables efficient optimization algorithm design; and iii) Based on the convex approximation insight and by exploiting special problem structures, we develop an efficient distributed algorithm to solve the HVAC precooling optimization problem. Further, we conduct extensive simulation studies to verify the performance of our proposed mathematical model and algorithms. Our numerical results indicate that the proposed optimization algorithm consistently achieves energy cost reduction ranging from 30% to 60%."
+}

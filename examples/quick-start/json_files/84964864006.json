@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964864006,
+    "Title": "Evolutionary neural network based energy consumption forecast for cloud computing",
+    "Author": "Foo Y.W.",
+    "Journal": "Proceedings - 2015 International Conference on Cloud Computing Research and Innovation, ICCCRI 2015",
+    "Publication Date": {
+        "$date": "2016-02-26T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICCCRI.2015.17",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nanyang Polytechnic",
+    "Affliation Country": "Singapore",
+    "Cited by count": 23,
+    "Abstract": "The success of Hadoop, an open-source framework for massively parallel and distributed computing, is expected to drive energy consumption of cloud data centers to new highs as service providers continue to add new infrastructure, services and capabilities to meet the market demands. While current research on data center airflow management, HVAC (Heating, Ventilation and Air Conditioning) system design, workload distribution and optimization, and energy efficient computing hardware and software are all contributing to improved energy efficiency, energy forecast in cloud computing remains a challenge. This paper reports an evolutionary computation based modeling and forecasting approach to this problem. In particular, an evolutionary neural network is developed and structurally optimized to forecast the energy load of a cloud data center. The results, both in terms of forecasting speed and accuracy, suggest that the evolutionary neural network approach to energy consumption forecasting for cloud computing is highly promising."
+}

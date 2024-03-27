@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032657767,
+    "Title": "An Energy Efficiency Assessment of the Thermal Comfort in an Office building",
+    "Author": "Zhao Z.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.09.550",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Qatar Environment and Energy Research Institute",
+    "Affliation Country": "Qatar",
+    "Cited by count": 20,
+    "Abstract": "People spend about 90% of their time indoors, so a comfort indoor thermal environment is essential for the satisfaction, productivity and well-being of the building occupants. Assessment of the indoor thermal comfort is the key point for building HVAC system design and operation to provide a comfort indoor environment to building occupants. Predicted Mean Vote (PMV) model is the most widely used tool for the indoor thermal comfort assessment. In this study, the application of the PMV model in Qatar with dry, subtropical desert climate is evaluated. An experiment was conducted in an office building in Doha, Qatar to reveal the occupant perception of indoor thermal comfort. Using collected data, the PMV indexes were calculated using Fanger's theory and compared with the Actual Thermal Sensation (ATS) of the occupants to assess the applicability of the PMV model to predict the indoor thermal comfort in air conditioned buildings in the climate zone of Qatar. The corresponding occupants' satisfaction level with the indoor thermal comfort and their adaptive behavior were also assessed."
+}

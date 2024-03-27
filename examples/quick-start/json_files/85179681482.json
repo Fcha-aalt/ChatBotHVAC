@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179681482,
+    "Title": "Analysis of demisting strategies for electric vehicles",
+    "Author": "Ene A.E.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1080/23744731.2023.2286185",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitatea Tehnica de Constructii Bucuresti",
+    "Affliation Country": "Romania",
+    "Cited by count": 0,
+    "Abstract": "Worldwide expansion of electric vehicles is more than obvious nowadays. However, there are still problems related to their driving range. Consequently, solutions for continuous improvement of electric vehicles range are required. In this context, more efficient HVAC (Heating, Ventilation, and Air Conditioning) systems, including defogging and defrosting, are extremely important as the use of these systems inevitably leads to significant decrease of electric vehicles range. Accordingly, the goal of this study is to investigate demisting windshield strategies in terms of energy consumption (without posing safety road concerns related to driver’s visibility). The approach is based on Computational Fluid Dynamics (CFD) full-scale simulations of a vehicle cabin, including special (innovative) model concerning windshield condensation. Different demisting strategies are analyzed, based on the developed numerical model: several supply air velocities for demisting grids and levels of power for heating up the windshield. The results indicate that, under the conditions of this study, choosing lower supply air velocity in conjunction with higher power levels of heated windscreen can lead to more energy efficient demisting strategies. Finally, the methodology proposed in this work can be easily extrapolated for other conditions to achieve comprehensive databases concerning the optimization of windscreen demisting strategies for electric vehicles."
+}

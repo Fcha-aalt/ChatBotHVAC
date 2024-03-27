@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129087052,
+    "Title": "Distributed Real-Time Temperature and Energy Control of Energy Efficient Buildings via Geothermal Heat Pumps",
+    "Author": "Wang X.",
+    "Journal": "CSEE Journal of Power and Energy Systems",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.17775/CSEEJPES.2020.05840",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Geothermal heat pumps (GHPs) are a type of heating ventilation and air conditioning (HVAC) systems that use low-temperature resources from soil and groundwater for heating/cooling. In recent years, there has been an increasing interest in GHP systems due to their high energy efficiency and abundant geothermal resources. Thus, the optimization and control design of the GHP system has become a hot topic. On the other hand, as the GHP system is an ideal responsive load, mechanism design for the GHP system to realize demand response (DR) in a virtual power plant (VPP) without affecting user comfort is particularly essential. In this paper, we propose a distributed real-time temperature and energy management method via GHP systems for multi-buildings, where both floor and radiator heating/cooling distribution subsystems in multiple thermal zones are considered. We design an energy demand response mechanism for a single GHP to track the given energy consumption command for participating in VPP aggregation/disaggregation. Besides, a coordination mechanism for multiple GHPs is designed for the community-level operator in joining VPP aggregation/disaggregation. Both designed schemes are scalable and do not need to measure or predict any exogenous disturbances such as outdoor temperature and heating disturbances from external sources, e.g., user activity and device operation. Finally, four numerical examples for the simulation of two different scenarios demonstrate the effectiveness of the proposed methods."
+}

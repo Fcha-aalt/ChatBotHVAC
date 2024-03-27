@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102645376,
+    "Title": "Sensing physiological and environmental quantities to measure human thermal comfort through machine learning techniques",
+    "Author": "Morresi N.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2021-05-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/JSEN.2021.3064707",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università Politecnica delle Marche",
+    "Affliation Country": "Italy",
+    "Cited by count": 44,
+    "Abstract": "This paper presents the results from the experimental application of smartwatch sensors to predict occupants' thermal comfort under varying environmental conditions. The goal is to investigate the measurement accuracy of smartwatches when used as thermal comfort sensors to be integrated into Heating, Ventilation and Air Conditioning (HVAC) control loops. Ten participants were exposed to various environmental conditions as well as warm - induced and cold-induced discomfort tests and 13 participants were exposed to a transient-condition while a network of sensors and a smartwatch collected both environmental parameters and heart rate variability (HRV). HRV features were used as input to Machine Learning (ML) classification algorithms to establish whether a user was in discomfort, providing an average accuracy of 92.2 %. ML and Deep Learning regression algorithms were trained to predict the thermal sensation vote (TSV) in a transient environment and the results show that the aggregation of environmental and physiological quantities provide a better TSV prediction in terms of Mean Absolute Error (MAE) and Mean Absolute Percentage Error (MAPE), 1.2 and 20% respectively, than just the HRV features used for the prediction. In conclusion, this experiment supports the assumption that physiological quantities related to thermal comfort can improve TSV prediction when combined with environmental quantities."
+}

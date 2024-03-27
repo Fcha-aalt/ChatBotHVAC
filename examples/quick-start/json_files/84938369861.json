@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84938369861,
+    "Title": "Fault diagnostic system for chillers based on characteristic petri net modeling",
+    "Author": "Xu B.",
+    "Journal": "Shanghai Jiaotong Daxue Xuebao/Journal of Shanghai Jiaotong University",
+    "Publication Date": {
+        "$date": "2015-06-28T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.16183/j.cnki.jsjtu.2015.06.030",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Maritime University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "The chillers are important in air-conditioning systems, whose operational status is directly related to the HVAC system performance and stability buildings. The fault diagnose of chillers has received wide attention. This paper discussed characteristic modeling technology in fault diagnosis for chillers with fuzzy Petri net modling technique. Using fuzzy Petri net to represente knowledge and inference algorithm for matrix operations, the characteristic parameters of chiller fault indication and relationships was discribed. Using the proposed diagnostic systems, the information resources of characteristic parameters can be used for fault diagnosis and the chiller efficiency indexes of COP can be used for comprehensive diagnosis of fault diagnosis. The test results of plant running show the feasibility and accuracy of the fault diagnostic system."
+}

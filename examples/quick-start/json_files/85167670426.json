@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85167670426,
+    "Title": "Experimental Design and Analysis of Reliability Evaluation of Off-the-Shelf Occupancy Sensor System in Residential Buildings",
+    "Author": "Chu Y.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Buildings are strongly influenced by the occupants that use them and their energy-consuming behaviors. 'ifferent occupancy sensing technologies have been developed to infer occupancy information. Sensors can fail under various scenarios and edge cases. For occupancy presence sensors in residential buildings, this can be either as a false positive reading (i.e., the sensor system indicates there is an occupant when there is not), or false negative (i.e., the sensor system does not register an occupant when there is one present). A false positive would result in systems the occupancy sensor system is controlling to be on (e.g., HVAC, lighting) that do not need to be since no occupants are present; a false negative would result in a potentially thermally uncomfortable (HVAC) or dark space (lighting). Therefore, accurate occupancy information is of significant importance for a building to be both energy efficient and comfortable for the occupants to use it. However, the methodology used to evaluate the performance is not uniform across the published literature. Thus, the focus of this paper is on the development of an evaluation methodology to test reliability of occupancy sensor systems in residential buildings by following a statistical 'OE ('esign of Experiment) procedure. First, a list of most important and influential variables that may cause occupancy sensor system failures was developed. Next an experimental testing design was created based on the screening design method. Then, laboratory experimental testing was performed following the developed procedures and results analysis was provided. Finally, the feasibility of using 'OE in the reliability evaluation of occupancy sensor systems will also be discussed. This study will provide initial guidance for developing a universal reliability evaluation methodology of the occupancy sensor system."
+}

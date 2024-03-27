@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088838394,
+    "Title": "Enhancing historic building performance with the use of fuzzy inference system to control the electric cooling system",
+    "Author": "Martinez-Molina A.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/su12145848",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Texas at San Antonio",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "In recent years, the interest in properly conditioning the indoor environment of historic buildings has increased significantly. However, maintaining a suitable environment for building and artwork preservation while keeping comfortable conditions for occupants is a very challenging and multi-layered job that might require a considerable increase in energy consumption. Most historic structures use traditional on/off heating, ventilation, and air conditioning (HVAC) system controllers with predetermined setpoints. However, these controllers neglect the building sensitivity to occupancy and relative humidity changes. Thus, sophisticated controllers are needed to enhance historic building performance to reduce electric energy consumption and increase sustainability while maintaining the building historic values. This study presents an electric cooling air controller based on a fuzzy inference system (FIS) model to, simultaneously, control air temperature and relative humidity, taking into account building occupancy patterns. The FIS numerically expresses variables via predetermined fuzzy sets and their correlation via 27 fuzzy rules. This intelligent model is compared to the typical thermostat on/off baseline control to evaluate conditions of cooling supply during cooling season. The comparative analysis shows a FIS controller enhancing building performance by improving thermal comfort and optimizing indoor environmental conditions for building and artwork preservation, while reducing the HVAC operation time by 5.7%."
+}

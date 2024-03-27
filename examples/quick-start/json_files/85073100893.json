@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073100893,
+    "Title": "Energy Consumption Evaluation of Air Conditioning Systems for Public Buildings",
+    "Author": "Yongshun W.",
+    "Journal": "Proceedings of the 31st Chinese Control and Decision Conference, CCDC 2019",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/CCDC.2019.8833376",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Beijing University of Civil Engineering and Architecture",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "With the development of the national economy, the building energy consumption is increasing, and the energy consumption of building HVAC in China accounts for 50%-60% of the total energy consumption of buildings. Therefore, the building HVAC can Energy-saving diagnosis is particularly urgent. In view of the low energy utilization efficiency of building air-conditioning systems, this paper collects data for a certain month in the cooling season of a hotel building in Guang Zhou, and uses the air-conditioning system operating efficiency index system to quantitatively analyze the energy consumption data of HVAC. The energy efficiency ratio of the system, the energy efficiency ratio of the cold machine, the energy efficiency ratio of the cold station, the chilled water transport coefficient, and the cooling water transport coefficient are analyzed. The electricity consumption of the HVAC is statistically analyzed. Specific problems, and then targeted recommendations for energy-saving renovation of the building."
+}

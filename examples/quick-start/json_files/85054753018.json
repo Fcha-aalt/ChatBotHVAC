@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054753018,
+    "Title": "How to enhance the energy efficiency of HVAC systems",
+    "Author": "Genco A.",
+    "Journal": "Mathematical Modelling of Engineering Problems",
+    "Publication Date": {
+        "$date": "2018-09-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.18280/mmep.050304",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi della Basilicata",
+    "Affliation Country": "Italy",
+    "Cited by count": 8,
+    "Abstract": "HVAC systems for controlled microclimate environments can be very energy consuming depending on the specific thermo-hygrometric conditions to be attained with respect to the conditions of external air. The aim of the present work is the analysis of some useful strategies devoted to reduce HVAC energy consumption. To this end, an in-house developed software is employed to evaluate energy consumption in terms of heating/cooling, humidification/dehumidification and reheat contributions. The test-case considered in this work is a museum environment where specific conditions are required to ensure long-term safety and preservation of the exhibitions by considering also visitors occupancy. The HVAC system is coupled with the exhibition room where the energy demand is computed through the microclimate energy balance. The simulation model has been validated by comparing the results in terms of energy demand to those obtained in the literature. Different strategies have been implemented to reduce the energy cost, i.e. a partial by-pass of cooling coil, an increase of the accepted tolerance for the relative humidity set-point value, an improvement of the thermal insulation of the building and a recirculation of the microclimate air. The results obtained by adopting such strategies have been compared to assess the efficiency of HVAC systems."
+}

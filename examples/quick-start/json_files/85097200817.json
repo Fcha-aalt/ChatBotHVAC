@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097200817,
+    "Title": "Keep it open, Keep it safe: Maximizing Space Utilization in Intelligent Bio-safe Buildings",
+    "Author": "Manoharan P.",
+    "Journal": "BuildSys 2020 - Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2020-11-18T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1145/3408308.3427618",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Indian Institute of Technology Madras",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "The current pandemic has caused a dramatic reduction in the use of office buildings. However, organisations eventually need to plan for the return of employees to office spaces by ensuring their bio-safety. While symptomatic employees can be screened out from buildings, asymptomatic employees can be handled mainly through social distancing. Using rules of thumb and being conservative (aggressive) in social distancing can lead to poor office space/energy utilisation (compromised bio-safety). Thus, there is a need for informed decision making about occupancy to ensure bio-safety. To this end, we consider the problem of maximising the office space utilisation while ensuring occupant bio-safety and comfort. Specifically, we algorithmically identify the maximum allowable occupancy and corresponding occupant placement in open-plan office space while bounding their likelihood of infection from the office. As a secondary objective, when the required occupancy is less than the maximum allowable, we consider the problem of minimising HVAC energy through the joint control of multiple actuators that serve the space. In addition to the temperature and humidity dynamics, we account for the spatial and temporal evolution of infection transmission in the office space. To the best of our knowledge, there is little prior work on joint bio-safety and comfort optimization. The optimization problem is computationally hard due to the underlying non-linear system dynamics. We present two greedy heuristics to solve the problems of maximising space utilisation and minimising the HVAC energy when feasible. We evaluate our approach using simulations for varying community infection rates, occupant exposure duration, and virus emission rate. Our approach performs better than standard regular placements that ensure a minimum separation between neighbours. For the range of parameters considered, our approach improves space utilization by at least 10% for the same new infection rate. Further, when the required occupancy is less than the maximum allowable, HVAC energy can reduce by up to 15% even while ensuring bio-safety."
+}

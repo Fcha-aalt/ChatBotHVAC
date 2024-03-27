@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85080093304,
+    "Title": "Heating and cooling the human body with energy-efficient personal comfort systems (PCS)",
+    "Author": "Luo M.",
+    "Journal": "15th Conference of the International Society of Indoor Air Quality and Climate, INDOOR AIR 2018",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 10,
+    "Abstract": "Personal comfort systems (PCS) aim to efficiently fulfill building occupants' personal thermal comfort demands, but to date not many have been manufactured and evaluated. Based on the observation that foot/hand warming are most effective in cool conditions, and head cooling is most effective in warm environments, we built and tested a suite of PCS devices-heated insole, heated/cooled wristpad, small deskfan, heated/cooled chair-and evaluated the thermal effect of each device and of combinations of the four. Human-subject and thermal-manikin tests in a climate chamber under cool and warm conditions (18oC and 29oC) investigated the thermal comfort improvement and heating/cooling performance of these devices. The results show the devices to have remarkable heating/cooling efficiencies, with combined cooling coefficient of performance (COP) of 3.6 and heating COP of 0.88. They significantly improved subjects' whole body thermal acceptance and thermal comfort perception, with more than 80% of people accepting the tested ambient temperatures. The application of these PCS devices can correct up to 2.6K heating and 4.2K cooling of the ambient temperature towards neutral which may contribute to remarkable HVAC energy savings in buildings."
+}

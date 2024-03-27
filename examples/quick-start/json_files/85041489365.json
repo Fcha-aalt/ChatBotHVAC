@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041489365,
+    "Title": "Development of maximum technically achievable energy targets for commercial buildings",
+    "Author": "Glazer J.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "GARD Analytics, Inc.",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "How energy efficient can commercial and multifamily buildings become in the near future if first cost is not considered? This paper describes how building energy simulation modeling was used to try to answer this question. The first step was to assemble a list of energy efficiency measures that can be included in the design of nonresidential buildings. The list included both commonly used and cutting edge energy efficiency measures with the goal of being comprehensive, at least for measures that can be modeled. Input was sought from diverse experts to ensure that the list of measures did not exclude any important ones. From the resulting list of almost 400 measures, 30 were chosen. 16 Energy Plus prototype buildings that were consistent with ANSI/ASHRAE/IES Standard 90.1-2013 (ASHRAE 2013a) across 17 climate zones were used as baseline models. The 30 measures were individually modeled using an open source Python-based library called Eppy, created for the study. Each of the 30measures, often with many options, were applied to each building and climate combination. In general, the measures were applied in the following order: • Reduce internal loads • Reduce building envelope loads • Reduce HVAC distribution system losses • Decrease HVAC equipment energy consumption • Major HVAC reconfigurations After each measure was applied to each of the 2 72 building and climate combinations, if the energy consumption was reduced, it remained in the model. After all 30 measures were applied, theprojected U.S. national weighted energy consumption for new buildings was nearly cut in half compared to ANSI/ASHRAE/IES Standard 90.1-2013."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090803423,
+    "Title": "A novel methodology for evaluating the impact of energy efficiency measures on the cabin thermal comfort of electric vehicles",
+    "Author": "Basciotti D.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13153872",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Austrian Institute of Technology",
+    "Affliation Country": "Austria",
+    "Cited by count": 9,
+    "Abstract": "Climate control systems have a largely negative effect on the energy consumption of electric vehicles and consequently on their real driving range. Improving the efficiency of climate control systems requires advanced simulation tools for an accurate evaluation of both the energy savings and thermal comfort of innovative heating and cooling solutions. In this study, the advancements beyond the state of the art consists primarily of the methodology tackling the reduction of computational costs of intensive computational fluid dynamics (CFD) simulations and/or time-consuming experimental investigations and the simultaneous assessment of vehicle cabin thermal comfort and energy flows. The approach was validated against climatized chassis dyno measurements from the EU Horizon 2020 research project QUIET. Indeed, all the considered locations within the cabin were properly validated, both in steady state and transient conditions with the largest deviations at steady state below 3 ◦C. Additionally, the validation results show a perfect agreement for the average cabin predicted mean vote (PMV) value and a largest deviation in terms of the PMV for the other locations below 0.3. Furthermore, the applicability of the methodology is proved with the help of its application on a parametric study for which various cabin temperature setpoints and heating, ventilation and air conditioning (HVAC) modes were simulated in winter operation."
+}

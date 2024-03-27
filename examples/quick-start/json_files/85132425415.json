@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132425415,
+    "Title": "Intelligent and Automated Fault Detection and Diagnosis Strategy for HVAC Systems Based on Maintainability Rules for Construction 4.0",
+    "Author": "Chew M.Y.L.",
+    "Journal": "2021 IEEE 23rd International Conference on High Performance Computing and Communications, 7th International Conference on Data Science and Systems, 19th International Conference on Smart City and 7th International Conference on Dependability in Sensor, Cloud and Big Data Systems and Applications, HPCC-DSS-SmartCity-DependSys 2021",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00291",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National University of Singapore",
+    "Affliation Country": "Singapore",
+    "Cited by count": 2,
+    "Abstract": "Intelligent and automated fault detection and diagnosis (IAFDD) of heating ventilation air conditioning (HVAC) systems is one important technique in the development process of construction 4.0. Data-driven IAFDD adopts various rules analyzing sensor data collected by the Internet of things (IoT) system for detecting and diagnosing potential faults for facilities. A rule-based system, named, a three-layer diagnostic Bayesian network (DBN) is developed in this study. A set of maintainability rules have been identified through an interview and survey process, supplementing the development of the DBN. The outcome of this study concretizes the development and implementation of the diagnostic Bayesian network for HVAC IAFDD."
+}

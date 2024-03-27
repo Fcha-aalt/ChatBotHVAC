@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120938546,
+    "Title": "Addressing partial observability in reinforcement learning for energy management",
+    "Author": "Biemann M.",
+    "Journal": "BuildSys 2021 - Proceedings of the 2021 ACM International Conference on Systems for Energy-Efficient Built Environments",
+    "Publication Date": {
+        "$date": "2021-11-17T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1145/3486611.3488730",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technical University of Denmark",
+    "Affliation Country": "Denmark",
+    "Cited by count": 3,
+    "Abstract": "Automatic control of energy systems is affected by the uncertainties of multiple factors, including weather, prices and human activities. The literature relies on Markov-based control, taking only into account the current state. This impacts control performance, as previous states give additional context for decision making. We present two ways to learn non-Markovian policies, based on recurrent neural networks and variational inference. We evaluate the methods on a simulated data centre HVAC control task. The results show that the off-policy stochastic latent actor-critic algorithm can maintain the temperature in the predefined range within three months of training without prior knowledge while reducing energy consumption compared to Markovian policies by more than 5%."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85094323015,
+    "Title": "Determination of consumer behavior based energy wastage using IoT and machine learning",
+    "Author": "Raza R.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110060",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lahore University of Management Sciences",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 11,
+    "Abstract": "We develop a low-cost, non-intrusive methodology for the determination of consumer-behavior-based-energy-wastage (CBB-EW) in the operation and control of Heating, Ventilation, and Air-Conditioning (HVAC) systems. Using data from temperature and humidity sensors, we develop Machine Learning (ML) models of heat flow from the environment (environment-component) and heat flow due to HVAC operation (HVAC-component). Environment-component and HVAC-component models are used to determine HVAC ON/OFF status and HVAC energy consumption. We divide CBB-EW into two components, i.e., non-occupancy-based wastage (CBB-EW-NOC) and occupancy-based wastage (CBB-EW-OCC). With the help of HVAC status, motion sensor, and contextual information, we propose a data fusion approach to determine CBB-EW-NOC. We use predicted mean voting (PMV) model to determine the optimal thermal settings required to operate HVAC unit in the neutral PMV range. The difference between the amount of energy consumed by the HVAC unit at the optimal and user-controlled thermal settings allows us to compute CBB-EW-OCC. We validate our proposed methodology using actual data from an experimental case study comprising of users controlling HVAC units in their separate office rooms. We observe that users generally waste a large amount of energy (more than 50% in some cases) due to unnecessary HVAC operation and sub-optimal thermal settings. Furthermore, energy wastage pattern of different users also differ significantly, which implies the requirement of customized feedback and interventions to inculcate energy-conservation behavior."
+}

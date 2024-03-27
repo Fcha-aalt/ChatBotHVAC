@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053974347,
+    "Title": "Heat/energy recovery technologies in buildings",
+    "Author": "Wang X.",
+    "Journal": "Handbook of Energy Systems in Green Buildings",
+    "Publication Date": {
+        "$date": "2018-05-22T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1007/978-3-662-49120-1_24",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Xi'an Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Heat/energy recovery technologies are exclusively applied in buildings so that more energy can be saved. Based on previous literatures, this chapter presents an analysis over the heat/energy recovery technologies in buildings. Firstly, the significance of heat/energy recovery technologies for building energy consumption was given briefly and some terms were introduced. Secondly, the components of a general heat/energy recovery system including heat exchanger, fan, and duct were explained. Particularly, as the core of heat/energy recovery system, different heat exchangers, such as fixed-plate, heat pipe, thermosyphon, loop and rotary wheel heat/energy exchangers were described in details. Then the performance indexes of heat/energy recovery system will be introduced and some impact factors on the performance will be discussed. Also, this chapter presents an analysis over experimental methods and rigs of these indexes. Together with that, the models in the literature for heat and mass transfer in the heat/energy recovery system to predict the performance were mentioned in details. Lastly, some typical application of heat/energy recovery in integrated energy-efficient system in buildings including heat/energy recovery ventilation, run-around heat/ energy recovery system, heat pump with heat/energy recovery, and other potential application with heat/energy recovery in buildings were described to demonstrate the practical application of heat/energy recovery in buildings."
+}

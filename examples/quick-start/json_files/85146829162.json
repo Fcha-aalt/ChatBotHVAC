@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146829162,
+    "Title": "Energy-efficient retrofitting with incomplete building information: a data-driven approach",
+    "Author": "Feng K.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2022-08-31T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1051/e3sconf/202235601003",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Umeå Universitet",
+    "Affliation Country": "Sweden",
+    "Cited by count": 1,
+    "Abstract": "The high-performance insulations and energy-efficient HVAC have been widely employed as energy-efficient retrofitting for building renovation. Building performance simulation (BPS) based on physical models is a popular method to estimate expected energy savings for building retrofitting. However, many buildings, especially the older building constructed several decades ago, do not have full access to complete information for a BPS method. To address this challenge, this paper proposes a data-driven approach to support the decision-making of building retrofitting under incomplete information. The data-driven approach is constructed by integrating backpropagation neural networks (BRBNN), fuzzy C-means clustering (FCM), principal component analysis (PCA), and trimmed scores regression (TSR). It is motivated by the available big data sources from real-life building performance datasets to directly model the retrofitting performances without generally missing information, and simultaneously impute the case-specific incomplete information. This empirical study is conducted on real-life buildings in Sweden. The result indicates that the approach can model the performance ranges of energy-efficient retrofitting for family houses with more than 90% confidence. The developed approach provides a tool to predict the performance of individual buildings from different retrofitting measures, enabling supportive decision-making for building owners with inaccessible complete building information, to compare alternative retrofitting measures."
+}

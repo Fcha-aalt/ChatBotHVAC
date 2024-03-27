@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105881779,
+    "Title": "Intelligent Control of HVAC Systems in Electric Buses",
+    "Author": "Sommer M.",
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-3-030-74009-2_9",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Karlsruher Institut für Technologie",
+    "Affliation Country": "Germany",
+    "Cited by count": 2,
+    "Abstract": "Battery electric buses (BEB) will increasingly replace buses with internal combustion engines in the fleets of transport companies. However, range prevents the application of BEB on all bus routes. Auxiliary consumers highly affect the range and the heating, ventilation and air conditioning (HVAC) system plays a major role within all. The high energy consumption of the HVAC system can possibly be reduced with intelligent control methods since their conventional counterparts guarantee compliance with specifications but do not consider energy consumptions. Thus, an energy-saving control is desired, which considers the minimization of energy consumption, but simultaneously complies with given specifications. To meet these requirements, following controllers were implemented: (1) model predictive control (MPC) and (2) reinforcement learning (RL) based control. This paper describes the implementation and application of both controllers on a Simulink model of a modern heat pump HVAC system and compares the results with PID control."
+}

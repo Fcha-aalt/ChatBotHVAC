@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140294909,
+    "Title": "Virtual temperature sensor using Support Vector Machines for autonomous uninterrupted automotive HVAC systems control",
+    "Author": "Pastre G.G.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ijrefrig.2022.08.013",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Valeo",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "This paper presents the design and application of a virtual sensor used in case of failure of the main physical sensor for temperature readings in automotive air conditioning. Using auxiliary temperature and pressure physical sensors combined with Support Vector Machine (SVM) Regression, the model of the virtual sensor is derived and prepared to be used as a redundant sensor until the broken physical sensor maintenance. Thus, enabling the system to operate continuously and maintaining its original power and thermal comfort features until the physical sensor replacement. In total, 32 h of training and test data involving different environmental conditions were used to generate the model that was further integrated. The designed virtual sensor presented a Mean Square Error (MSE) of 1,3oC, a Mean Absolute Percentage Error (MAPE) of 3,6%, and a Pearson Correlation Coefficient of 0,90. The results enabled the continuous and autonomous operation of the air conditioning plant respecting the designed thermal comfort guidelines even when under the physical sensor failure condition."
+}

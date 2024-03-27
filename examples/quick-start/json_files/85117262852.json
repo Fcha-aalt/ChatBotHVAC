@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117262852,
+    "Title": "Control strategies for energy efficiency at pnu’s metro system",
+    "Author": "Saleh W.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-10-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14206660",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Princess Nourah Bint Abdulrahman University",
+    "Affliation Country": "Saudi Arabia",
+    "Cited by count": 1,
+    "Abstract": "It is broadly acknowledged that there is an urgent need to reduce carbon-based mobility systems and increase renewable energy alternatives. The automotive industry is one of the greatest consumers of energy in the world. It is fronted with many challenges that aim at reducing carbon emissions. Renewable energy costs are getting cheaper and more cost effective. However, well devised design and control strategies are also needed in order to optimize any systems that are adopted in this field. Previous research shows that the energy consumption for non-traction purposes may be of the same scale as the energy used to move rolling stock, and in some cases even larger. The Kingdom of Saudi Arabia is very interested in the implementation of policies that aim at reducing energy consumption and encouraging renewable energy programs. Under its Vision 2030 development program, the Kingdom of Saudi Arabia is looking to produce 30% of its energy from renewables and other sources, with solar energy playing an important role. The work presented in this paper is aimed at an investigation of design and control strategies to reduce energy consumption and to propose a cleaner source of energy to power Princess Nourah Bint Abdulrahman University’s Automated People Mover (PNU-APM). Two areas of applications have been investigated for adopting these types of technology. Firstly, a p-v solar energy option that could be adopted for implementation in potential applications since the metro system is already in full operation using electricity. Secondly, design and control strategies including exploiting solar energy for a metro operation are discussed and investigated. A number of strategies to reduce heating, ventilation, and air conditioning (HVAC) load, which happens to be the biggest energy consumer, have been discussed. Results show great potential in energy savings with adopting p-v solar sources as well as implementation of few suggested control strategies. Some deliberations of some of the drawbacks of solar energy are also offered."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84943528612,
+    "Title": "Building energy consumption modeling",
+    "Author": "Široký J.",
+    "Journal": "Vytapeni, Vetrani, Instalace",
+    "Publication Date": {
+        "$date": "2015-09-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Czech Technical University in Prague",
+    "Affliation Country": "Czech Republic",
+    "Cited by count": 1,
+    "Abstract": "The basic prerequisite for effective operation of buildings is functional monitoring of consumptions and correct understanding of the obtained data. The appropriate interpretation of measured consumptions can reveal a lot about building operation manners, about effect of undertaken measures (insulation, window exchange, ...) and possibly also reveal deficiencies in the heating, ventilation and air-conditioning (HVAC) systems. The paper is aimed to the monitoring of electrical energy consumption. Mathematical model was created on the basis of available measurements and consequently used to compare measured and predicted consumptions. Four different approaches towards energy consumption modeling are compared, namely is discussed use of polynomial models, neural networks, support vector machines (SVM) and autoregressive models. All the methods were verified using data from two different premises: shopping center and university building."
+}

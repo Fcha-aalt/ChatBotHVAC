@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082517478,
+    "Title": "A novel design of intelligent energy-efficient drinking water dispensing systems",
+    "Author": "Yonathan ",
+    "Journal": "Advances in Transdisciplinary Engineering",
+    "Publication Date": {
+        "$date": "2019-10-07T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3233/ATDE190106",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Taiwan University of Science and Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 1,
+    "Abstract": "Energy efficiency and conservation have become a concern as many issues raised up regarding the increase in energy usage. Besides lighting and HVAC, a conventional drinking water dispenser also consumes plenty of huge electric energy in a building. However, most of them are wasted in vain as the machine will constantly repeat boiling and cooling the water even though no one uses the machine. In addition, the water that comes to the machine needs to boiled first to ensure it is safe to consume, then the water will be chilled and moves to warm-water tank and cold-water tank. Also, the machine needs to have sterilization which will heat all the water. Overall, the energy management in conventional drinking water dispenser is indigent. In this study, the design of intelligent energy-efficient drinking water dispensing system will be elaborated, including the architecture, key features, and analysis. Utilized by the Internet of Things and Cyber-Physical Systems, Intelligent Water Dispenser is able to maintain the energy efficiency."
+}

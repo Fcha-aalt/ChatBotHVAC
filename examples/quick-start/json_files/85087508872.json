@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087508872,
+    "Title": "Model Predictive Control Method for the HVAC System of Buildings Considering the Thermal Dynamic Characteristics of the Envelope",
+    "Author": "Li Z.",
+    "Journal": "Zhongguo Dianji Gongcheng Xuebao/Proceedings of the Chinese Society of Electrical Engineering",
+    "Publication Date": {
+        "$date": "2020-06-20T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.13334/j.0258-8013.pcsee.190268",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 14,
+    "Abstract": "Buildings are the main contributors of energy consumption of the urban power grid, and it is of great significance to model and simulate their energy consumption characteristics. In this paper, a thermal dynamic model was proposed to simulate cooling/heating energy consumption for a building. The model takes the convective heat transfer, conductive heat transfer and heat storage in the heat transfer process into account, consisting of several transient energy balance equations for external walls and internal air of a building. Then, a model predictive control (MPC) method was introduced for the heating, ventilation and air conditioning (HVAC) system of the building considering the thermal dynamic characteristics of the envelope. The proposed method aims to minimize the total energy consumption of the building by combining the model prediction with the short-term control of the HVAC, while maintaining the temperature comfortable level at the same time. Finally, the effectiveness of the proposed HVAC control method was tested under different HVAC energy efficiency grades and building window-to-wall ratios. The availability of the proposed method under different HVAC energy efficiency grades and different building insulation performance was further validated. Numerical results show that the MPC-based HVAC control method not only helps to reduce the energy cost of the building, but also helps to save energy and improve the operation economy of the building in response to the reduction of HVAC energy efficiency grades and the deterioration of the building insulation performance."
+}

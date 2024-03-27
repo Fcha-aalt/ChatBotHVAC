@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85015634031,
+    "Title": "Performance evaluation for operation rooms by numerical simulation and field measurement",
+    "Author": "Wang F.",
+    "Journal": "International Journal of Ventilation",
+    "Publication Date": {
+        "$date": "2017-07-03T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1080/14733315.2017.1299515",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Chin-Yi University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 2,
+    "Abstract": "It is quite common for the heating ventilating and air-conditioning (HVAC) systems of operating rooms (ORs) to operate at full-load condition even when they are not occupied. The objective of this study is to demonstrate the numerical analysis and field measurement approach on performance assessment of the HVAC system for an unoccupied OR. For energy-saving concern, preliminary study of numerical analysis has been conducted to evaluate the air velocity distribution and concentration contours while conducting the reducing air changes rate per hour (ACH) approach in the unoccupied OR at a district hospital. To validate the numerical simulation, field measurements of a full-scale OR have been carried out accordingly. Variable air volume (VAV) systems with reduced ACH scheme were introduced to examine the compromise between energy-saving potential and indoor environment parameters. The results demonstrate that it is feasible to realise satisfactory indoor environment by reducing the ACH with energy-efficient potential in the unoccupied OR."
+}

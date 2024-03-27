@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076102292,
+    "Title": "Nuclear-Norm-Based Subspace Identification of Multi-Zone Building HVAC System",
+    "Author": "Telsang B.",
+    "Journal": "Proceedings - 2019 3rd International Conference on Smart Grid and Smart Cities, ICSGSC 2019",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICSGSC.2019.000-1",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Tennessee",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Smart buildings improve energy efficiency and provide ancillary services to the power grid. Such services are based on model-based mechanisms that require availability of accurate models of the different building loads such as heating, ventilation, and air conditioning (HVAC) systems. Although numerous efforts have been made in the area of constructing a thermal model for a building HVAC system, almost all models have shortcomings. In this paper, we employ the nuclear-norm-based subspace method to identify a locally accurate HVAC system model. We consider the more general case of a multi-zone building HVAC system, i.e., each zone has its own thermostat and can be set to a different temperature. The estimated HVAC system model can be used to predict the future indoor temperatures. This will assist power utility companies and building managers in estimating the upcoming load shape, especially the peak amount and duration."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84949647790,
+    "Title": "Novel activity classification and occupancy estimation methods for intelligent HVAC (heating, ventilation and air conditioning) systems",
+    "Author": "Rana R.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2015-12-15T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.energy.2015.09.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Southern Queensland",
+    "Affliation Country": "Australia",
+    "Cited by count": 44,
+    "Abstract": "Reductions in HVAC (heating, ventilation and air conditioning) energy consumption can be achieved by limiting heating in the winter or cooling in the summer. However, the resulting low thermal comfort of building occupants may lead to an override of the HVAC control, which revokes its original purpose. This has led to an increased interest in modeling and real-time tracking of location, activity, and thermal comfort of building occupants for HVAC energy management. While thermal comfort is well understood, it is difficult to measure in real-time environments where user context changes dynamically. Encouragingly, plethora of sensors available on smartphone unleashes the opportunity to measure user contexts in real-time. An important contextual information for measuring thermal comfort is Metabolism rate, which changes based on current physical activities. To measure physical activity, we develop an activity classifier, which achieves 10% higher accuracy compared to Support Vector Machine and k-Nearest Neighbor. Office occupancy is another contextual information for energy-efficient HVAC control. Most of the phone based occupancy estimation techniques will fail to determine occupancy when phones are left at desk while sitting or attending meetings. We propose a novel sensor fusion method to detect if a user is near the phone, which achieves more than 90% accuracy. Determining activity and occupancy our proposed algorithms can help maintaining thermal comfort while reducing HVAC energy consumptions."
+}

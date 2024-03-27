@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048624365,
+    "Title": "Experimental validation of an electrical and thermal energy demand model for health centers in sub-Saharan Africa",
+    "Author": "Orosz M.",
+    "Journal": "30th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, ECOS 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Massachusetts Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Simulation of energy and building HVAC demand is a core engineering discipline, but practical applications for design tend to focus on buildings within urban environments and with usage modes established according to indoor comfort standards meeting codes for best practices (e.g. ASHRAE). Rapid deployment of health services is underway to meet the growing needs of populations in sub-Saharan Africa, however an energy infrastructure to support high quality services has tended to lag. Understanding the energy needs of health centers constructed with local building methods and materials and operating outside of the jurisdiction of HVAC codes is complicated by a lack of experimental data. In this work we link the thermal envelope performance under heating and cooling loads with meteorological conditions and measured operational electricity demand. A resistance-capacitive type energy balance model is created using typical health center architectural data for sub-Saharan Africa (using floorplans from Uganda and Lesotho) and heat transfer characteristics, and energy flows between HVAC equipment, internal loads, and ambient conditions are simulated on an hourly timestep with indoor temperature thresholds. A typical meteorological year dataset for Lesotho is used as a case study and validated with indoor temperature measurements and power metering at four health center sites spanning a daily patient load ranging from 15-450 per day and rural and urban catchments. The development of this approach provides an important tool for planners interested in sizing and costing energy infrastructure to meet operational demand at health centers in both urban and rural areas of developing countries."
+}

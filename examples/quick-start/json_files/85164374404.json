@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164374404,
+    "Title": "A Time-Series Rank Ordering Control System Data-Driven Fault Detection Approach for HVAC Systems in Buildings",
+    "Author": "Shia J.A.",
+    "Journal": "Journal of Engineering for Sustainable Buildings and Cities",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1115/1.4049506",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "About 41% of total energy consumption in the United States of year 2014 is used for heating and air conditioning, which is about 40 quadrillion (40 × 1015) British thermal units (BTUs). Despite the fact that people have been working on fault detection and diagnosis (FDD) for heating, ventilation, and air conditioning (HVAC) systems for a long time, very few publications have focused on scalability and low cost. To address this challenge, we will propose an approach that focuses on control system data. Several machine learning algorithms are introduced for data exploration (e.g., DBSCAN, k-means) and analysis, rank-ordered weather data are used to define comparable days, a control system data focused model free approach is presented as well, and finally, fault detection is carried out by implementing anomaly algorithms (local outlier factor and isolation forest). Hidden faults were detected with a detection rate up to 90%+. The threshold parameter can be determined by selecting an acceptable true positive and false positive rate pair, which can be visualized using receiver operating characteristic (ROC) curves and is demonstrated in this article. A simulation model that is used to generate about 250 GB of data is used to evaluate the performance of various algorithms."
+}

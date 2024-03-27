@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071431089,
+    "Title": "Commercial Building Load Forecasts with Artificial Neural Network",
+    "Author": "Jing Z.",
+    "Journal": "2019 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2019",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ISGT.2019.8791654",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virginia Polytechnic Institute and State University",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "This paper presents an Artificial Neural Network (ANN)-based building-level hourly electrical load forecasting method that takes into account HVAC set points as one of the input parameters, in addition to the historical building load and outdoor weather data. The data presented in this paper deal with cooling load only. ANN is used to train and test the dataset, and the ANN-based load forecasting model provides the predicted load for each hour of the day. Three training algorithms are explored, including Levenberg-Marquardt, Scaled Conjugate gradient back-propagation and Bayesian Regularization (BR). Findings indicate that the BR-based neural network offers the best performance in terms of forecasting accuracy. In addition, a case study using a commercial building in Chicago, Illinois is presented where performances of the developed ANN-based models are compared. The forecasting error is around 5% or less for hour-ahead load forecasting, and around 8% or less for 12-hour ahead load forecasting."
+}

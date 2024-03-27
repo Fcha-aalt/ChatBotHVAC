@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85167753476,
+    "Title": "Improving the Efficiency of Fan Coil Units in Hotel Buildings through Deep-Learning-Based Fault Detection",
+    "Author": "Matetić I.",
+    "Journal": "Sensors",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/s23156717",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering, University of Rijeka",
+    "Affliation Country": "Croatia",
+    "Cited by count": 3,
+    "Abstract": "Optimizing the performance of heating, ventilation, and air-conditioning (HVAC) systems is critical in today’s energy-conscious world. Fan coil units (FCUs) play a critical role in providing comfort in various environments as an important component of HVAC systems. However, FCUs often experience failures that affect their efficiency and increase their energy consumption. In this context, deep learning (DL)-based fault detection offers a promising solution. By detecting faults early and preventing system failures, the efficiency of FCUs can be improved. This paper explores DL models as fault detectors for FCUs to enable smarter and more energy-efficient hotel buildings. We tested three contemporary DL modeling approaches: convolutional neural network (CNN), long short-term memory network (LSTM), and a combination of CNN and gated recurrent unit (GRU). The random forest model (RF) was additionally developed as a baseline benchmark. The fault detectors were tested on a real-world dataset obtained from the sensory measurement system installed in a hotel and additionally supplemented with simulated data via a physical model developed in TRNSYS. Three representative FCU faults, namely, a stuck valve, a reduction in airflow, and an FCU outage, were simulated with a much larger dataset than is typically utilized in similar studies. The results showed that the hybrid model, integrating CNN and GRU, performed best for all three observed faults. DL-based fault detectors outperformed the baseline RF model, confirming these solutions as viable components for energy-efficient hotels."
+}

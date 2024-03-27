@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85018394980,
+    "Title": "Air flow optimization for energy efficient blower of biosafety cabinet class II A2",
+    "Author": "Ibrahim M.D.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2017-04-11T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1088/1742-6596/822/1/012022",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universiti Malaysia Sarawak",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 0,
+    "Abstract": "An energy efficient Biosafety Cabinet (BSC) has become a big challenge for manufacturers to develop BSC with the highest level of protection. The objective of research is to increase air flow velocity discharge from centrifugal blower. An aerodynamic duct shape inspired by the shape of Peregrine Falcon's wing during diving flight is added to the end of the centrifugal blower. Investigation of air movement is determined by computational fluid dynamics (CFD) simulation. The results showed that air velocity can be increased by double compared to typical manufactured BSC and no air recirculation. As conclusion, a novel design of aerodynamic duct shape successfully developed and proved that air velocity can be increase naturally with same impeller speed. It can contribute in increasing energy efficiency of the centrifugal blower. It is vital to BSC manufacturer and can be apply to Heating, Air Ventilation and Air Conditioning (HVAC) industries."
+}

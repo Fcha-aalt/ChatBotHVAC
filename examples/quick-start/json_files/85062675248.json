@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85062675248,
+    "Title": "A comparative energy and economic analysis between a low enthalpy geothermal design and gas, diesel and biomass technologies for a HVAC system installed in an office building",
+    "Author": "Villarino J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12050870",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Salamanca",
+    "Affliation Country": "Spain",
+    "Cited by count": 7,
+    "Abstract": "This paper presents an analysis of economic and energy between a ground-coupled heat pump system and other available technologies, such as natural gas, biomass, and diesel, providing heating, ventilation, and air conditioning to an office building. All the proposed systems are capable of reaching temperatures of 22 ◦ C/25 ◦ C in heating and cooling modes. EnergyPlus software was used to develop a simulation model and carry out the validation process. The first objective of the paper is the validation of the numerical model developed in EnergyPlus with the experimental results collected from the monitored building to evaluate the system in other operating conditions and to compare it with other available technologies. The second aim of the study is the assessment of the position of the low enthalpy geothermal system proposed versus the rest of the systems, from energy, economic, and environmental aspects. In addition, the annual heating and cooling seasonal energy efficiency ratio (COP sys ) of the ground-coupled heat pump (GCHP) shown is higher than the others. The economic results determine a period between 6 and 9 years for the proposed GCHP system to have lower economic cost than the rest of the systems. The results obtained determine that the GCHP proposed system can satisfy the thermal demand in heating and cooling conditions, with optimal environmental values and economic viability."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84940642293,
+    "Title": "Virtual in-situ calibration method in building systems",
+    "Author": "Yu Y.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2015-11-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.autcon.2015.08.003",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "UNL College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 53,
+    "Abstract": "Sensors play an important role in guiding building systems to achieve desired operation and efficiency. However, sensors are subject to continuous degradation and failures over time. Although a periodical calibration is needed, it is exceptionally difficult and/or impractical to many sensors with a conventional manual approach. Uncalibrated problematic sensors could significantly compromise the systems' performance and lead to unintended loss of energy efficiency in buildings. We propose a methodology, termed virtual in-situ calibration, to solve this critical issue. It is developed by mathematically extracting the characteristics of essential aspects involved in a calibration, including the environment assessment, benchmark establishment, and uncertainty quantification. A case study of a supply air temperature sensor in rooftop units illustrates the implementation process; the erratic uncertainty is reduced from ± 19.2 °C to ± 0.7 °C after the virtual in-situ calibration. The calibration method can be implemented online to significantly improve the reliability of sensor networks in buildings."
+}

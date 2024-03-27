@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85002235415,
+    "Title": "Energy saving potential of a two-pipe system for simultaneous heating and cooling of office buildings",
+    "Author": "Maccarini A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2016.10.051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aalborg University",
+    "Affliation Country": "Denmark",
+    "Cited by count": 27,
+    "Abstract": "This paper analyzes the performance of a novel two-pipe system that operates one water loop to simultaneously provide space heating and cooling with a water supply temperature of around 22 °C. To analyze the energy performance of the system, a simulation-based research was conducted. The two-pipe system was modelled using the equation-based Modelica modeling language in Dymola. A typical office building model was considered as the case study. Simulations were run for two construction sets of the building envelope and two conditions related to inter-zone air flows. To calculate energy savings, a conventional four-pipe system was modelled and used for comparison. The conventional system presented two separated water loops for heating and cooling with supply temperatures of 45 °C and 14 °C, respectively. Simulation results showed that the two-pipe system was able to use less energy than the four-pipe system thanks to three effects: useful heat transfer from warm to cold zones, higher free cooling potential and higher efficiency of the heat pump. In particular, the two-pipe system used approximately between 12% and 18% less total annual primary energy than the four-pipe system, depending on the simulation case considered."
+}

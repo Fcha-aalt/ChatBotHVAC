@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85069530393,
+    "Title": "15th International Conference on Intelligent Information Hiding and Multimedia Signal Processing, IIH-MSP 2019, held in conjunction with the 12th International Conference on Frontiers of Information Technology, Applications and Tools, FITAT 2019",
+    "Author": NaN,
+    "Journal": "Smart Innovation, Systems and Technologies",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 95 papers. The special focus in this conference is on Intelligent Information Hiding and Multimedia Signal Processing. The topics include: Power Plant Fan Fault Warning Based on Bidirectional Feature Compression and State Estimation; refined Tensor Subspace Analysis; Application Research of BIM Technology in Analysis of Green Building HVAC System; FPKC: An Efficient Algorithm for Improving Short-Term Load Forecasting; a Novel Approach to Identify Intersection Information via Trajectory Big Data Analysis in Urban Environments; Time Series Prediction of Transformer Oil Chromatography Based on Hybrid LSTM Model; an Adversarial Attack Method in Gray-Box Setting Oriented to Defenses Based on Image Preprocessing; a Collusion Attack on Identity-Based Public Auditing Scheme via Blockchain; research on a Color Image Encryption Algorithm Based on 2D-Logistic; UVM-Based CAN IP Verification; cryptanalysis of a Pairing-Based Anonymous Key Agreement Scheme for Smart Grid; digital Audio Watermarking by Quantization Embedding System; digital Audio Watermarking by Amplitude Embedding System; document Image Retrieval Based on Convolutional Neural Network; Deep Residual Network Based on Deep Layer Aggregation for JPEG Images Steganalysis; An Efficient Association Rule Mining Method to Predict Diabetes Mellitus: KNHANES 2013–2015; a Hybrid Credit Scoring Model Using Neural Networks and Logistic Regression; the Early Prediction Acute Myocardial Infarction in Real-Time Data Using an Ensemble Machine Learning Model; a Collaborative Filtering Recommendation System for Rating Prediction; research on the Development of Fashion Industry in the “Internet+” Era; comparison of the Framingham Risk Score and Deep Neural Network-Based Coronary Heart Disease Risk Prediction; attention-Based Multi-fusion Method for Citation Prediction; preface."
+}

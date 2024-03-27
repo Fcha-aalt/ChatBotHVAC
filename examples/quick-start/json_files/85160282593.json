@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160282593,
+    "Title": "Multi-agent-based energy management of multiple grid-connected green buildings",
+    "Author": "Ghazimirsaeid S.S.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106866",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Teesside University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 8,
+    "Abstract": "Integration of distributed energy resources (DER) in electrical microgrids introduces residential green buildings (RGB) with a promising decrement in fossil fuel consumption. This novel concept compromises numerous challenges such as controlling DERs and consumers in a home microgrid (H-MG), based on historical data and market clearing price (MCP), which requires multi-objective analysis and an energy management system (EMS). Initially, tremendous issues emerged when integrating these systems with RGBs. Therefore, multi-agent systems (MAS) are capable of utilizing parallel computing as a control method, where each RGB represents as an agent with independent decision-making capability, while productively cooperating with other agents. In this paper, an effective EMS has been presented with MAS (EMS-MAS) for DER in a neighborhood grid, accompanied by several RGBs. The RGB includes controllable and uncontrollable devices by residents and building management systems (BMS), where controllable devices are HVAC and home appliances (e.g: dishwashers, washing machines), and uncontrollable devices are lighting systems, flexible heating and cooling demands, respectively, along with several electrical loads (e.g: lighting system, A/C, refrigerator, etc.) and thermal loads (e.g HVAC systems, water heater, ovens, etc.) with retailers who sell and buy electricity to/from residents. Finally, the results confirm that the proposed model has significantly enhanced the overall energy efficiency and the profit of individual RGBs, and optimally managed the devices in RGBs while encouraging demand response (DR) load programs, retailers and MCP reduction."
+}

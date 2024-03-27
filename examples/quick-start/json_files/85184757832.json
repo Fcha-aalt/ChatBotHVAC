@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184757832,
+    "Title": "Successful application of predictive information in deep reinforcement learning control: A case study based on an office building HVAC system",
+    "Author": "Gao Y.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2024-03-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.energy.2024.130344",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kyushu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "Reinforcement Learning (RL), a promising algorithm for the operational control of Heating, Ventilation, and Air Conditioning (HVAC) systems, has garnered considerable attention and applications. However, traditional RL algorithms typically do not incorporate predictive information for future scenarios, and only a limited number of studies have examined the enhancement and impact of predictive information on RL algorithms. To address the issue of coupling RL and predictive information in HVAC system operation optimization, we employed an open-source framework to examine the impact of various predictive information strategies on RL outcomes. We propose a joint gated recurrent unit (GRU)-RL algorithm to handle situations where a time-series exists in state space. The results from four classic test cases demonstrate that the proposed GRU-RL method can reduce operating costs by approximately 14.5% and increase comfort performance by 88.4% in indoor comfort control and cost-management tasks. Moreover, the GRU-RL method outperformed the conventional DRL method and was merely augmented with prediction information. In indoor temperature regulation, the GRU-RL algorithm improves control efficacy by 14.2% compared to models without predictive information and offers an approximately 5% improvement over traditional network models. Finally, all models were made open source for easy replication and further research."
+}

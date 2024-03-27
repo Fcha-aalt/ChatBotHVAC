@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124740181,
+    "Title": "Prediction of Vehicle Driver's Facial Air Temperature With SVR, ANN, and GRU",
+    "Author": "Zhang X.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ACCESS.2022.3149523",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing Institute of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "The facial air temperature has a significant impact on the driver's thermal comfort. Machine Learning models have been proved to be evidently effective in temperature predicting. In this study, three models are employed to predict the drivers' facial temperature in a certain series of vehicles, which are Support Vector Regression (SVR), Artificial Neural Network (ANN), and Gated Recurrent Unit (GRU) respectively. We conduct an electric vehicle air-conditioning system experiment to collect the datasets of drivers' head temperature and 6 input features for model training. And we divide the training and testing datasets in two different ways. In these two ways, the testing datasets are the last 20% of datasets in each condition, and the datasets in the last condition respectively. The evaluation of these models' performance is exerted with Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and the coefficient of determination (R2). The MAE of these three models are SVR: 0.8096, ANN: 0.4984, GRU: 0.7289 in the trained working conditions, and SVR: 1.0946, ANN: 0.7878, GRU: 0.7837 in the untrained working conditions. The results of MAE show that the performance of the ANN is the best among the three models when tested with the trained and untrained test datasets, and the same conclusion can be got from the R2 and RMSE. Moreover, the accuracies of these models are lower when the tested dataset is collected in new working conditions. According to the results above, ANN may be the preferred method for vehicle drivers' facial air temperature prediction."
+}

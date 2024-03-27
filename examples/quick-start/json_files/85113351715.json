@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113351715,
+    "Title": "Construction of linear temperature model using non-dimensional heat exchange ratio: Towards fast prediction of indoor temperature and heating, ventilation and air conditioning systems control",
+    "Author": "Ren C.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-11-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111351",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 13,
+    "Abstract": "The prediction of non-uniform thermal environment plays an important role in the control of heating, ventilation and air conditioning (HVAC) system, to meet the growing demand for occupant thermal comfort and building energy consumption, in response to varying heat sources. The popular approach to the prediction issue is computational fluid dynamics (CFD), with considerable time and computational costs. Thus, this work aims to develop a reliable linear model for rapid prediction of temperature fields, i.e., linear temperature model (LTM). A dimensionless heat exchange ratio 〈β〉 (when increasing to infinity) is proposed for the decoupling of momentum and energy equations, which is defined as the heat emission of the heat source to the heat gain of the flow. This will further be used for the construction of LTM combining Green's function and energy equation. By using the simulation method, a ventilation case occupied with various heat sources is considered for the validation, i.e., lower ranges of 〈β〉 (compared to infinity) as well as the related prediction error of LTM for engineering application. It is found that 〈β〉 can be valid with the value above 2.7 when source intensity is equal to 34 W/m3. Using the curve fitting, the conjunction between 〈β〉, source intensity and prediction error is suggested for the verification of feasible LTM. The LTM can be applicative to a full-scale environment, to improve physical environment by 68% and energy efficiency by 50%. This work will facilitate at fast and efficient predictions of temperature distribution and HVAC systems online control."
+}

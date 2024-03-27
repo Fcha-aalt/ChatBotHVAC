@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161411750,
+    "Title": "Predicting an energy use intensity and cost of residential energy-efficient buildings using various parameters: ANN analysis",
+    "Author": "Jayakeerti M.",
+    "Journal": "Asian Journal of Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s42107-023-00717-y",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SRM Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 5,
+    "Abstract": "During their operational phase, the buildings consume significant amounts of energy. It is one of the most significant sources of carbon emissions throughout their service life, which directly contributes to global warming. Therefore, it is crucial to optimize energy use intensity (EUI) and energy cost using building information modeling (BIM) to perform energy analysis. To achieve the most energy-efficient building in terms of EUI and energy cost, this study aims to investigate modeling software for energy simulation and evaluate various measures for reducing energy consumption by modifying design criteria. Based on ASHRAE 90.1 standards, this study aims to provide energy-efficient buildings by comparing various EUI and energy cost-related design strategies. This paper presents a method for estimating the EUI on the life cycle cost of electricity and fuel, and an artificial neural network-based electricity consumption prediction model is developed. ANN predction for building componets roof, wall, orientation, and HVAC shows R values of 0.99263,0.9991,0.9397, and 0.93651. Based on the energy analysis, the present work concludes that energy costs can be significantly reduced by implementing BIM, which helps implement better design options prior to the construction of the building by optimizing the annual energy budget incurred compared to traditional methods that may contain errors in computations. Using a neural network model, the life cycle cost of electrical and fuel of roof, wall, orientation, and HVAC as inputs improves the ability to predict energy consumption (energy use intensity)."
+}

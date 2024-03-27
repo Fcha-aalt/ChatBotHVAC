@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082115158,
+    "Title": "Design and analysis of optimal pre-cooling in residential buildings",
+    "Author": "Wang J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-06-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.109951",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gallogly College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 19,
+    "Abstract": "Existing pre-cooling strategies provide a means of shifting or reducing the peak demand and/or energy cost in residential buildings. However, majority of them are rule-based and therefore may not be optimal in terms of cost saving, leaving room for improvement. In this paper, an integer linear programming problem that accounts for the thermal properties of a specific home, HVAC system capacity, utility rate structure, and weather conditions and makes use of a home thermal model is formulated. This problem determines the HVAC on/off control signal that minimizes the 24-h energy cost while maintaining thermal comfort and calculates the corresponding optimal indoor air temperature. The model is constructed using home thermal properties identified via data training in real-time. Through simulation, the energy performance of the proposed optimal pre-cooling strategy is investigated and compared with three rule-based operation strategies from the literature. It is found that the optimal strategy requires the least energy consumption without sacrificing thermal comfort. The superb energy performance of the optimal strategy is attributed to a longer runtime of the HVAC system in cool outdoor air conditions and to the elimination of deadband in HVAC operation, which is required by the rule-based strategies, to allow the indoor air temperature to stay near the thermal comfort upper bound as much as possible. In terms of energy cost, the rule-based operation strategies require $3.52, $1.90, and $2.79, respectively, while the optimal strategy only requires $1.52. These figures represent a saving of 56.82%, 20.00%, and 45.52%, respectively. The results suggest that the optimal strategy is indeed significantly more effective than the existing rule-based operation strategies."
+}

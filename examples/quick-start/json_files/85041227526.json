@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041227526,
+    "Title": "Aspects regarding fouling of the heat exchanger coils and filters on the performance of packaged air to air HVAC system",
+    "Author": "Voinea M.",
+    "Journal": "Proceedings of 8th International Conference on Energy and Environment: Energy Saved Today is Asset for Future, CIEM 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/CIEM.2017.8120817",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University Politehnica of Bucharest",
+    "Affliation Country": "Romania",
+    "Cited by count": 0,
+    "Abstract": "HVAC systems are today more increasingly on the market, their energy consumptions are continuously growing. The energy efficiency of these systems is very important for reducing power consumption in buildings. The aim of the article is presenting the influence of fouling heat exchanger coils (evaporator + condenser) and filters, regarding the proper operation of the HVAC system. Several indicators have been analyzed: the air flow rate, the coefficient of performance in cooling mode (EER), power consumption and the thermodynamic subcooling and superheat parameters. For this study, a direct expansion (DX) HVAC system rooftop unit type was used. The paper presents analysis results performed on 4 different combinations: fouled heat exchanger coils and filters, fouled heat exchanger coils and clean filters, clean heat exchanger coils and fouled filters and clean heat exchanger coils and filters. Experimental data illustrate that the impact of filters and heat exchanger coils after fouling was found to be significant. Clean filters lead to less energy consumption and provide considerably better air quality through the evaporator coil."
+}

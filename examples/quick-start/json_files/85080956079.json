@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85080956079,
+    "Title": "Modeling the adoption of energy efficient retrofits by mid-tier commercial buildings",
+    "Author": "Marquez L.",
+    "Journal": "Proceedings - 21st International Congress on Modelling and Simulation, MODSIM 2015",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "The low uptake of cost effective, energy efficient retrofits for commercial buildings suggests that economic considerations are not the sole determinant for their adoption. Socio-psychological surveys provide additional insights into consumption behaviour reflecting important lifestyle, attitudinal, risk, familiarity of technology, cultural and other forms of demographic preferences. There is a need for an evidence based tool that can forecast the effectiveness of intervention options for commercial buildings whilst removing the confounding effects of business-as-usual strategies. This paper describes a framework for evaluating the uptake of building retrofits under various government policy and behaviour program interventions aimed at reducing carbon emissions. The framework incorporates socio-psychological factors into an agent based model, applying diffusion and discrete choice modeling in evaluating the effectiveness of intervention programs, especially those involving direct subsidies (e.g. rebate to upfront costs, tax deductions) to facilitate the uptake of low carbon living practices. This framework is implemented in the ZEO Uptake Analysis Tool which allows planners, researchers and policy makers to assess the relative impact of assumptions about future technology and policy using a defined baseline (or “business as usual” scenario) for comparison. The Tool uses agent-based modeling and simulation (ABMS) to encapsulate the attributes and behaviour of various elements and entities in the building retrofit problem. The paper presents preliminary results from application of the agent-based model to the State of Victoria building stock, in a case study to understand the potential of the Energy Efficient Office Buildings Program in the uptake of energy efficient retrofits. The analysis indicates that the proposed policy options offered by EEOB have very little impact when we consider small building owners and limit the application to building tuning only. There is improvement in uptake when we expand the eligibility to all technologies (excluding lighting) and this is dominated by HVAC (Chiller) upgrades."
+}

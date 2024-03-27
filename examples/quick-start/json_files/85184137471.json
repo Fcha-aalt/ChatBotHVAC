@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184137471,
+    "Title": "Occupant-centric HVAC and window control: A reinforcement learning model for enhancing indoor thermal comfort and energy efficiency",
+    "Author": "Liu X.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2024-02-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.buildenv.2024.111197",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Wuhan University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Occupant behavior plays a crucial role in enhancing indoor thermal comfort and achieving energy efficiency by influencing the operational modes of Heating, Ventilation, and Air Conditioning (HVAC) systems as well as windows. However, accurately quantifying the impact of occupant behavior on the indoor environment presents significant challenges in practical applications. This study introduces an innovative approach by leveraging the ASHRAE Global Building Occupant Behavior Database and harnessing the power of XGBoost in conjunction with Deep Q Networks (DQN) to construct a reinforcement learning model. This model enables precise prediction of the impact of occupant behavior on the indoor environment at the next time step under varying indoor-outdoor conditions, simultaneously targeting the dual objectives of indoor thermal comfort and energy conservation. By applying the XGB-DQN model in sample rooms of four international cities with distinct features, the results demonstrate a significant increase in indoor thermal comfort duration by 24 %, accompanied by a 24.7 % decrease in air conditioning usage compared to baseline models and actual occupant data. This research represents a pioneering effort in applying reinforcement learning techniques to accurately predict occupant behavior's impact on indoor environments, offering valuable insights for intelligent building design and energy management."
+}

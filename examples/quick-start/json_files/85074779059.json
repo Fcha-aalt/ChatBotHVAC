@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074779059,
+    "Title": "Data-driven methods for building control — A review and promising future directions",
+    "Author": "Maddalena E.T.",
+    "Journal": "Control Engineering Practice",
+    "Publication Date": {
+        "$date": "2020-02-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.conengprac.2019.104211",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "École Polytechnique Fédérale de Lausanne",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 76,
+    "Abstract": "A review of the heating, ventilation and air-conditioning control problem for buildings is presented with particular emphasis on its distinguishing features. Next, we not only examine how data-driven algorithms have been exploited to tackle the main challenges present in this area, but also point to promising future investigations both from theoretical and from practical viewpoints. Rule based control, reinforcement learning, model predictive control (MPC), and learning MPC techniques are compared on the basis of four attributes that we expect an ideal solution to possess. Finally, on-line learning MPC with guarantees is recognized as an approach with high potential that needs to be further investigated by researchers. Such a solution is likely to be accepted by practitioners since it meets the industry expectations of reduced deployment time and costs."
+}

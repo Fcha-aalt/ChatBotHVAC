@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140472581,
+    "Title": "A comprehensive review: Fault detection, diagnostics, prognostics, and fault modeling in HVAC systems",
+    "Author": "Singh V.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.ijrefrig.2022.08.017",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Malaviya National Institute of Technology Jaipur",
+    "Affliation Country": "India",
+    "Cited by count": 24,
+    "Abstract": "This review study examines the latest research and developments in the fault detection and diagnostics of Heating Ventilation and Air Conditioning (HVAC) systems. This review describes the basics of Fault detection and diagnostics in the HVAC systems, and the methods developed for the FDD have been discussed in detail. Machine learning methods have become prevalent in the FDD. Supervised and unsupervised machine learning methods have been discussed. Data preprocessing and feature selection are the two essential steps of the FDD process using machine learning. Fault prognosis has also been discussed in brief. Further, fault modeling and its applications in the FDD have been covered. Various approaches have been used to model the different faults in HVAC systems. This paper reviews FDD systems based on four aspects, i.e., detection, diagnostics, prognostics, and modeling of faults. Then this review provides a comparative study of different FDD methods. Finally, the paper discusses future challenges for the more efficient FDD systems to reduce the energy consumption of the HVAC systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064870708,
+    "Title": "International Conference on Smart City and Intelligent Building, ICSCIB 2018",
+    "Author": NaN,
+    "Journal": "Advances in Intelligent Systems and Computing",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 58 papers. The special focus in this conference is on Smart City and Intelligent Building. The topics include: Dynamic emergency evacuation system for large public building; status of intelligent building development of china—questionnaire analysis; Regression model of wet-bulb temperature in an HVAC system; research on optimal control algorithm of ice thermal-storage air-conditioning system; research on human thermal comfort model based on multiple physiological parameters; Decentralized optimization algorithm for parallel pumps in HVAC based on log-linear model; Partial fault detection of cooling tower in building HVAC system; application of information network and control network integration technology in central air conditioning data management system; Mfac and parameter optimization for a class of models in HVAC; A controller algorithm (ILC) for the variable differential pressure control of freezing water in a central air conditioning system; The online evaluation system of chiller plant in HVAC system; the power consumption model of chiller with elman neural networks for on-line prediction and control; research on driving decisions in winter and summer based on survey date; the performance evaluation and improvement of urban taxi firms using data envelopment analysis and benchmarking approach; Research on the DV-Hop location algorithm based on the particle swarm optimization for the automatic driving vehicle; study on thermal comfort model based on genetic algorithm with backpropagation neural network; multi-objective optimization coordination for urban arterial roadway based on operational-features; applicability analytic of closed intersection along tramway based on simulation; vehicle scheduling optimization of urban distribution considering traffic control; preface."
+}

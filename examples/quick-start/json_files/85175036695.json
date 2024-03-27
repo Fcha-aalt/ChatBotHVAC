@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175036695,
+    "Title": "Enhancing HVAC Electricity Load Prediction Accuracy using Bi-LSTM Method based on Daily Dataset",
+    "Author": "Friansa K.",
+    "Journal": "Proceedings of the 2023 International Conference on Instrumentation, Control, and Automation, ICA 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICA58538.2023.10273121",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Institut Teknologi Sumatera (ITERA)",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 0,
+    "Abstract": "This study focuses on HVAC electricity load prediction in a smart building using two neural network models, LSTM and Bi-LSTM. We created models based on daily dataset separately resulting in seven prediction sub models. We also created a model based on merged dataset where a dataset includes all day type from Monday to Sunday. The accuracy of the models was measured using MAPE and CV-RMSE, and the results show that using models based on daily dataset more accurate than the model based on merged dataset. The best accuracy was achieved using models based on daily dataset with LSTM and Bi-LSTM resulted in an MAPE of 17.29% and 15.35%, respectively. Finally, using Bi-LSTM model based on daily dataset is an accurate method for predicting an HVAC electricity load."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078017773,
+    "Title": "Event-Based Control Strategies for HVAC Systems",
+    "Author": "Ozbek N.S.",
+    "Journal": "3rd International Symposium on Multidisciplinary Studies and Innovative Technologies, ISMSIT 2019 - Proceedings",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ISMSIT.2019.8932743",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Adana Alparslan Türkeş Science and Technology University",
+    "Affliation Country": "Turkey",
+    "Cited by count": 3,
+    "Abstract": "Recent developments in hardware and software enable us to develop resource-aware and computationally efficient optimal control strategies, which are important for efficiently usage of energy resources. Event-based control is one of the energy-efficient methods especially for distributed and complex control systems. The prominent feature of the event-based control is the idea of removing unnecessary updating of control input when the system state stays in desired bounds. This paper focuses on the central idea of event-triggered and time-triggered control strategies for Heating, Ventilating, and Air Conditioning (HVAC) applications. Furthermore, recent techniques on HVAC are classified concerning some prominent features. Thus, the present research provides an in-depth guide for designers who investigate the HVAC control application."
+}

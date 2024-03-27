@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85002250173,
+    "Title": "Statistically informed static pressure control in multiple-zone VAV systems",
+    "Author": "Tukur A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-01-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2016.11.032",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton",
+    "Affliation Country": "United States",
+    "Cited by count": 22,
+    "Abstract": "The proliferation of Building Automation Systems (BAS) has enabled the development of and use of more complex algorithms for controlling HVAC systems and increase energy efficiency in commercial buildings. One such complex algorithm, static pressure reset, which is associated with minimization of the static pressure in the supply air duct at all times while still maintaining zonal comfort—is a proven low cost means to reduce fan power consumption in Variable Air Volume (VAV) systems. Here we explore the possibility of utilizing historical BAS data to estimate annual energy savings from static pressure reset in any facility. The approach employed first establishes a statistical relationship between the effective system loss coefficient as a function of the mean VAV damper position using the measured duct static pressure, VAV damper positions and airflows. Observed is that the system loss coefficient decreases with an increase in mean VAV damper position. Thus, the desired control algorithm for minimizing fan power should seek to maximize the individual VAV damper positions needed for comfort. However, for a given duct static pressure, control sensitivity is diminished as more dampers are opened fully. Application of Static Pressure Reset in a number of buildings reveals that there is a maximum number of zonal dampers that can be fully opened before control robustness diminishes. In this condition, any additional increase in damper position has little effect on the system and zonal flowrates. If more flow is required, the static pressure must be increased. In this context, given the system loss relationship with mean damper position and the estimated maximum number of dampers that can be opened, the potential increase in the mean damper position to a value achievable if the maximum number of dampers are opened can be estimated at all times in the study period. This permits estimation of the minimal static pressure required. Savings can be estimated for the historical conditions based upon comparison of the predicted fan power based upon the optimal static pressure with the actual fan power. This methodology was tested on three different buildings with varying system characteristics. Savings estimates correlated well to the savings actually realized from static pressure reset. This result has significant implications for energy service providers, who could use the predictions to guarantee savings from static pressure reset."
+}

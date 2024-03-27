@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151031548,
+    "Title": "A review of data-driven fault detection and diagnostics for building HVAC systems",
+    "Author": "Chen Z.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.121030",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University",
+    "Affliation Country": "United States",
+    "Cited by count": 25,
+    "Abstract": "With the wide adoption of building automation system, and the advancement of data, sensing, and machine learning techniques, data-driven fault detection and diagnostics (FDD) for building heating, ventilation, and air conditioning systems has gained increasing attention. In this paper, data-driven FDD is defined as those that are built or trained from data via machine learning or multivariate statistical analysis methods. Following this definition, this paper reviews and summarizes the literature on data-driven FDD from three aspects: process, systems studied (including the systems being investigated, the faults being identified, and the associated data sources), and evaluation metrics. A data-driven FDD process is further divided into the following steps: data collection, data cleansing, data preprocessing, baseline establishment, fault detection, fault diagnostics, and potential fault prognostics. Literature reported data-driven methods used in each step of an FDD process are firstly discussed. Applications of data-driven FDD in various HVAC systems/components and commonly used data source for FDD development are reviewed secondly, followed by a summary of typical metrics for evaluating FDD methods. Finally, this literature review concludes that despite the promising performance reported in the literature, data-driven FDD methods still face many challenges, such as real-building deployment, performance evaluation and benchmarking, scalability and transferability, interpretability, cyber security and data privacy, user experience, etc. Addressing these challenges is critical for a broad real-building adoption of data-driven FDD."
+}

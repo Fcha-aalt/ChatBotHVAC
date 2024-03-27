@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85183420496,
+    "Title": "Improving the out-of-sample generalization ability of data-driven chiller performance models using physics-guided neural network",
+    "Author": "Guo F.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2024-01-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.apenergy.2023.122190",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 0,
+    "Abstract": "Modeling of the chiller performance is essential for the implementation of optimal energy-efficient control strategies in a heating, ventilation, and air conditioning (HVAC) system. Though classical data-driven chiller performance models are widely adopted in the industry, they generally suffer from poor out-of-sample generalization abilities, which refers to the model's capability to extrapolate for new data outside the range of the training dataset. In practice, however, the available chiller operation data for model development are often insufficient or collected from a few limited operating conditions, such that extrapolation is unavoidable after the model is applied for control purposes. To deal with this issue, this paper proposed a physics-guided neural network (PGNN) to model the energy performance of chillers. By adopting a new neural network architecture, modifying the loss function, and adding limited out-of-sample data, the PGNN incorporates domain knowledge into the data-driven model to achieve better out-of-sample generalization performance. Meanwhile, the convexity and monotonicity between the dependent and independent variables in the PGNN are properly addressed. The proposed PGNN is applied to model the chiller serving a high-rise building, and results show that PGNN performs much better in extrapolation than classical models and the multi-layer perceptron model. The research demonstrated the usefulness and effectiveness of the PGNN in modeling HVAC equipment."
+}

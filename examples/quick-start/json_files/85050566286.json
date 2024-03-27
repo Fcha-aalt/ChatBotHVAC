@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050566286,
+    "Title": "The occupant comfort challenge of building energy savings through HVAC control",
+    "Author": "Brissette A.",
+    "Journal": "2017 IEEE Conference on Technologies for Sustainability, SusTech 2017",
+    "Publication Date": {
+        "$date": "2018-04-06T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/SusTech.2017.8333531",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "ABB Group, USA",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Building energy efficiency improvements are often achieved by using a building automation system (BAS) to control the environmental and comfort conditions in a building, especially the climate (i.e., temperature, humidity, etc.). The traditional method for achieving energy savings through temperature control is by scheduling the heating, ventilation and air conditioning (HVAC) units using the BAS. Care must be taken to ensure that energy savings are achieved without sacrificing occupant comfort, but validating comfort is a challenge, and metrics for comfort are generally chosen ad hoc in the development of HVAC controls. This paper explores HVAC control methods and the potential impact they may have on comfort; approaches to quantifying comfort; and research directions that may provide solutions to the comfort problem."
+}

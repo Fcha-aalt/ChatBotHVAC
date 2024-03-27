@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054432208,
+    "Title": "Net-zero nation: HVAC and PV systems for residential net-zero energy buildings across the United States",
+    "Author": "Wu W.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enconman.2018.09.084",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Institute of Standards and Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 91,
+    "Abstract": "This study compared the energy performance and initial cost of photovoltaic (PV) and heating, ventilating, and air-conditioning (HVAC) equipment for a residential net-zero energy building (NZEB) in different climate zones across the United States. We used an experimentally validated building simulation model to evaluate various electrically-powered and commercially-available HVAC technologies. The HVAC accounted for 23.8% to 72.9% of the total building energy depending on the HVAC option and climate zone. Each HVAC configuration was paired with a PV system sized to exactly reach the net-zero energy target, so the economics were compared based on the initial PV + HVAC cost. Mechanical ventilation was considered with and without heat recovery; the heat recovery ventilator (HRV) saved a significant amount of energy in cold winter months and hot summer months, and the energy recovery ventilator (ERV) provided additional benefit for humid zones. The HRV was cost-effective in the cold northern latitudes of Chicago, Minneapolis, Helena, and Duluth, where energy savings reached 17.3% to 19.7%. In other climates, ventilation without recovery was more cost effective, by 1% to 9%, and sometimes even more energy efficient. The ERV was never the lowest cost option. A ground-source heat pump (GSHP) and an air-source heat pump (ASHP) were compared, with the GSHP providing significant energy savings, 24.3% to 39.2%, in heating-dominated climates (Chicago through Duluth). In warmer climates, the GSHP saved little energy or used more energy than the ASHP. The PV + HVAC cost was lower everywhere with the ASHP, though it is possible for colder climates that a carefully sized GSHP and ground loop could be cost-competitive. The energy and cost data as well as the required PV capacity could guide HVAC and PV designs for residential NZEBs in different climate zones."
+}

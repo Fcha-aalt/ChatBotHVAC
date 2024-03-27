@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177219941,
+    "Title": "Intelligent fault diagnosis for air handing units based on improved generative adversarial network and deep reinforcement learning",
+    "Author": "Yan K.",
+    "Journal": "Expert Systems with Applications",
+    "Publication Date": {
+        "$date": "2024-04-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.eswa.2023.122545",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Data-driven Automatic fault detection and diagnosis (AFDD) for air handling units (AHUs) is crucial for ensuring the stable operation and energy consumption of the heating ventilation air-conditioning (HVAC) system. However, traditional machine learning methods often underperform when confronted with insufficient training sample data, especially when lacking samples from the fault types. Based on the issues of insufficient samples from the fault types and imbalanced training dataset, this study proposes a novel AFDD approach using transformer integrated conditional Wasserstein generative adversarial network and deep reinforcement learning (TCWGAN-DRL) to synthesize the fault data and select high quality synthetic data samples. Firstly, we utilize the proposed TransCWGAN to synthesize fault samples. Then, reinforcement learning is utilized to select high quality synthetic samples. Finally, the filtered samples and the real fault samples are merged to form the training dataset for conventional supervised learning classifiers. Experimental results demonstrate that the enriched training dataset can effectively improve the AFDD results and outperforms recently published existing methods, for instance, compared to the suboptimal model, our method exhibits an increase in fault recognition accuracy of 4.9%, 3.66%, and 4.02% when the number of real fault samples is 15, 20, and 30, respectively."
+}

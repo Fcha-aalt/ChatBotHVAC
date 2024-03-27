@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175048401,
+    "Title": "An event-triggered collaborative neurodynamic approach to distributed global optimization",
+    "Author": "Xia Z.",
+    "Journal": "Neural Networks",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.neunet.2023.10.022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southeast University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "In this paper, we propose an event-triggered collaborative neurodynamic approach to distributed global optimization in the presence of nonconvexity. We design a projection neural network group consisting of multiple projection neural networks coupled via a communication network. We prove the convergence of the projection neural network group to Karush–Kuhn–Tucker points of a given global optimization problem. To reduce communication bandwidth consumption, we adopt an event-triggered mechanism to liaise with other neural networks in the group with the Zeno behavior being precluded. We employ multiple projection neural network groups for scattered searches and re-initialize their states using a meta-heuristic rule in the collaborative neurodynamic optimization framework. In addition, we apply the collaborative neurodynamic approach for distributed optimal chiller loading in a heating, ventilation, and air conditioning system."
+}

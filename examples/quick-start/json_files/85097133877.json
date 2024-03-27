@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097133877,
+    "Title": "Clustering of educational building load data for defining healthy and energy-efficient management solutions of integrated HVAC systems",
+    "Author": "Testi D.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2020-10-22T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1051/e3sconf/202019703001",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 3,
+    "Abstract": "The COVID-19 pandemic is changing the way individuals, worldwide, feel about staying in public indoor spaces. A strict control of indoor air quality and of people's presence in buildings will be the new normal, to ensure a healthy and safe environment. Higher ventilation rates with fresh air are expected to be a requirement, especially in educational buildings, due to their high crowding index and social importance. Yet, in this framework, an increased use of primary energy may be overlooked. This paper offers a methodology to efficiently manage complex HVAC systems in educational buildings, concurrently considering the fundamental goals of occupants' health and energy sustainability. The proposed fourstep procedure includes: dynamic simulation of the building, to generate synthetic energy loads; clustering of the energy data, to identify and predict typical building use profiles; day-ahead planning of energy dispatch, to optimize energy efficiency; dynamic adjustment of air changes, to guarantee a safe indoor air quality. Clustering and forecasting energy needs are expected to become particularly effective in a highly regulated context. The technique has been tested on two university classroom buildings, considering pre-lockdown attendance. This notwithstanding, quality and significance of the obtained thermal energy clusters push towards a benchmark post-pandemic application."
+}

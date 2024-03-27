@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085841260,
+    "Title": "An integrated HBIM simulation approach for energy retrofit of historical buildings implemented in a case study of a medieval fortress in Italy",
+    "Author": "Piselli C.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13102601",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Perugia",
+    "Affliation Country": "Italy",
+    "Cited by count": 34,
+    "Abstract": "The Italian building stock consists of buildings mainly constructed until the mid-20th century using pre-industrial construction techniques. These buildings require energy refurbishment that takes into account the preservation of their architectural heritage. In this view, this work studies an innovative integrated modelling and simulation framework consisting of the implementation of Historical Building Information Modeling (HBIM) for the energy retrofit of historical buildings with renewable geothermal HVAC system. To this aim, the field case study is part of a medieval complex in Central Italy (Perugia), as representative ancient rural offshore architecture in the European countryside. The system involves of a ground source heat pump, a water tank for thermal-energy storage connected to a low-temperature radiant system, and an air-handling unit. The building heating energy performance, typically influenced by thermal inertia in historical buildings, when coupled to the novel HVAC system, is comparatively assessed against a traditional scenario implementing a natural-gas boiler, and made inter-operative within the HBIM ad hoc platform. Results show that the innovative renewable energy system provides relevant benefits while preserving minor visual and architectural impact within the historical complex, and also in terms of both energy saving, CO2 emissions offset, and operation costs compared to the traditional existing system. The integrated HBIM approach may effectively drive the path toward regeneration and re-functioning of heritage in Europe."
+}

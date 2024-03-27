@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048207413,
+    "Title": "Cooling energy simulation and analysis of an intermittent ventilation strategy under different climates",
+    "Author": "Kabanshi A.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.energy.2018.05.093",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hogskolan i Gavle",
+    "Affliation Country": "Sweden",
+    "Cited by count": 18,
+    "Abstract": "Energy use on heating, ventilation and air conditioning (HVAC) accounts for about 50% of building energy use. To have a sustainable built environment, energy efficient ventilation systems that deliver good indoor environmental quality are needed. This study evaluates the cooling energy saving potential of a newly proposed ventilation system called Intermittent Air Jet Strategy (IAJS) and compares its performance against a mixing ventilation (MV) system in a classroom located in three cities with different climates, Singapore with ‘hot and humid’ Ahvaz with ‘hot and dry’ and Lisbon with “moderate” climate. The results show a significant reduction of cooling energy need and flexibility in control strategies with IAJS as a primary system in hot and humid climates like Singapore. Hot and dry climate with short cool periods like Ahvaz show possible application and considerable energy savings with IAJS as a primary system under optimized variable setpoints, but moderate climates have an increased risk of occupant discomfort likely due to increased draft especially during the cool season. Thus, IAJS as a secondary system that operates only during cooling season may be conducive for moderate climates like Lisbon. Additionally, the results show that supply fan energy savings can also be realised if well implemented."
+}

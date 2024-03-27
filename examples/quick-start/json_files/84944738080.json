@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84944738080,
+    "Title": "High performance solutions and data for nZEBs offices located in warm climates",
+    "Author": "Congedo P.M.",
+    "Journal": "Data in Brief",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.dib.2015.09.041",
+    "Source Type": "Journal",
+    "Document Type": "dp",
+    "Document Type Description": "Data Paper",
+    "Affliation": "Università del Salento",
+    "Affliation Country": "Italy",
+    "Cited by count": 21,
+    "Abstract": "This data article contains eleven tables supporting the research article entitled: Cost-Optimal Design For Nearly Zero Energy Office Buildings Located In Warm Climates [1].The data explain the procedure of minimum energy performance requirements presented by the European Directive (EPBD) [2] to establish several variants of energy efficiency measures with the integration of renewable energy sources in order to reach nZEBs (nearly zero energy buildings) by 2020.This files include the application of comparative methodological framework and give the cost-optimal solutions for non-residential building located in Southern Italy. The data describe office sector in which direct the current European policies and investments [3,4].In particular, the localization of the building, geometrical features, thermal properties of the envelope and technical systems for HVAC are reported in the first sections. Energy efficiency measures related to orientation, walls, windows, heating, cooling, dhw and RES are given in the second part of the group; this data article provides 256 combinations for a financial and macroeconomic analysis."
+}

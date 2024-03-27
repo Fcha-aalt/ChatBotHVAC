@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076878035,
+    "Title": "Optimizing the Operation of a Hybrid Solar Assisted Ground Source Heat Pump System",
+    "Author": "Weeratunge H.",
+    "Journal": "2018 IEEE 9th International Conference on Information and Automation for Sustainability, ICIAfS 2018",
+    "Publication Date": {
+        "$date": "2018-12-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICIAFS.2018.8913385",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Melbourne",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems are becoming an attractive target for efficiency improvements as they are responsible for approximately 40% of the total energy consumption in the building sector of the world. Hybrid energy systems which combine ground source heat pumps with solar thermal energy in buildings are gaining attention due to their ability to provide a stable energy supply at an improved efficiency compared to conventional systems. This paper presents an optimized controller to reduce the operational cost of a solar assisted ground source heat pump system considering the time of use electricity price while guaranteeing the thermal comfort for the occupants. The results indicate that the daily operational cost can be reduced by up to 48% when optimizing and controlling the system accordingly. The thermal capacity of the building is exploited to reduce the energy cost of the heating system by shifting the energy consumption of flexible energy consumers in a building. Furthermore, the consumption can also be shifted to periods with low electricity price."
+}

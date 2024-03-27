@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113600380,
+    "Title": "The development of cloud-based building automation system and creating predictive models of HVAC system with machine learning",
+    "Author": "Matsuda Y.",
+    "Journal": "2021 29th Mediterranean Conference on Control and Automation, MED 2021",
+    "Publication Date": {
+        "$date": "2021-06-22T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/MED51440.2021.9480357",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "DAI-DAN Co., Ltd.",
+    "Affliation Country": "Japan",
+    "Cited by count": 0,
+    "Abstract": "A cloud-based building automation system was developed, and implemented in an actual building featuring a thermo active building system, ground source heat pump system, and battery. Based on the operation and measurement data stored by this system, a predictive model was created using a neural network. In the hyper-parameters of the neural network, the number of hidden layers, nodes in each hidden layer, and history levels of the input data were optimized by particle swarm optimization with the mutation method. Models that predict future behavior of heating, ventilation, and air-conditioning system were evaluated according to normalized mean absolute error, with the best model obtaining 0.0796."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164119617,
+    "Title": "Model-Based Reinforcement Learning Method for Microgrid Optimization Scheduling",
+    "Author": "Yao J.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/su15129235",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Information Science and Engineering, Northeastern University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Due to the uncertainty and randomness of clean energy, microgrid operation is often prone to instability, which requires the implementation of a robust and adaptive optimization scheduling method. In this paper, a model-based reinforcement learning algorithm is applied to the optimal scheduling problem of microgrids. During the training process, the current learned networks are used to assist Monte Carlo Tree Search (MCTS) in completing game history accumulation, and updating the learning network parameters to obtain optimal microgrid scheduling strategies and a simulated environmental dynamics model. We establish a microgrid environment simulator that includes Heating Ventilation Air Conditioning (HVAC) systems, Photovoltaic (PV) systems, and Energy Storage (ES) systems for simulation. The simulation results show that the operation of microgrids in both islanded and connected modes does not affect the training effectiveness of the algorithm. After 200 training steps, the algorithm can avoid the punishment of exceeding the red line of the bus voltage, and after 800 training steps, the training result converges and the loss values of the value and reward network converge to 0, showing good effectiveness. This proves that the algorithm proposed in this paper can be applied to the optimization scheduling problem of microgrids."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103834346,
+    "Title": "Methodology for Interpretable Reinforcement Learning Model for HVAC Energy Control",
+    "Author": "Kotevska O.",
+    "Journal": "Proceedings - 2020 IEEE International Conference on Big Data, Big Data 2020",
+    "Publication Date": {
+        "$date": "2020-12-10T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/BigData50022.2020.9377735",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Deep reinforcement learning (DRL) approaches have been used in various application areas to improve efficiency, optimization, or automation. However, very little is known about how the DRL algorithms make decisions and what features affect their performance. Using a case study of a DRL based Heating, Ventilation and Air Conditioning (HVAC) optimization methodology, we demonstrate how we can address these challenges by applying interpretability tools and systematically exploring the model inputs for better understanding the DRL behaviour and decision making process. We developed a methodology for interpretable reinforcement learning and evaluated our approach in real-world house located in Knoxville, TN. Our findings explain the reasoning behind DRL-based optimization decisions under different circumstances which has been discussed and confirmed by the experts in the field."
+}

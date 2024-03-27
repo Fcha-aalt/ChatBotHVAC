@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059085113,
+    "Title": "The impact of energy efficient heating, ventilation and air-conditioning systems on energy performance of university buildings",
+    "Author": "Muthuraju P.",
+    "Journal": "Smart Innovation, Systems and Technologies",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/978-3-030-04293-6_11",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "School of Engineering and Built Environment",
+    "Affliation Country": "Australia",
+    "Cited by count": 1,
+    "Abstract": "This work investigates the effect of Heating, Ventilation and Air-Conditioning (HVAC) systems in converting university commercial buildings to Net Zero Energy Buildings (NZEB), with the target of achieving an efficient design. Three buildings, N54, N44 and N24 are considered as the experimental candidates with different mode of operation (Office, Laboratory and Residential). A baseline model, N78 as an operating NZEB is considered to compare the performance of the candidate buildings with. This comparison provided the target to be achieved for the candidate buildings. Dynamic simulations of the design variables of HVAC systems are done aiming to improve the energy efficiency of the buildings. After the modification and analysis of the performance of the buildings, the effect of HVAC systems on the NZEBs are validated. It is shown that HVAC systems play a major role on the conversion of the university buildings to NZEB."
+}

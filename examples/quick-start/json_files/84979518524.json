@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84979518524,
+    "Title": "Path of Optimized Engineering of HVAC Systems",
+    "Author": "Gagarin V.G.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.proeng.2016.06.359",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Moscow State University of Civil Engineering",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 9,
+    "Abstract": "This publication is considered the most promising path leading to the creation of energy-efficient engineering solutions for various buildings. This path begins with the first design calculations. The foundation for creating cost-effective heating and ventilation systems is carried out at the stage of forming the heat and mass balances of the premises as building components. Besides drawing the heat and mass balances must be closely connected with the study of the geometric parameters of premises and the thermal performance of the building envelope. In this paper a special way of heat load computing of heating and ventilation systems is considered. It is shown that considered method allows refining the calculations of heat losses of the building. The application of the proposed method to determine the transmission heat losses with the elemental approach is considered. The calculating method of ventilation heat losses with different variations of accounting the infiltration component is shown. Way of the joint account of heat energy consumption factors in a single mathematical apparatus is presented. The method of optimizing of heat loads during extreme operating conditions is reviewed. The paper shows further way application of accurate method in the design of buildings and the results of calculations. Some conclusions are suggested as a conclusion of this article."
+}

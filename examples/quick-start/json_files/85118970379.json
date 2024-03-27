@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118970379,
+    "Title": "Thermal Energy Storage Air-conditioning Demand Response Control Using Elman Neural Network Prediction Model",
+    "Author": "Meng Q.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.scs.2021.103480",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chang'an University",
+    "Affliation Country": "China",
+    "Cited by count": 24,
+    "Abstract": "Load forecasting plays a vital role in the effort to solve the imbalance between supply and demand in smart grids. In buildings, a large part of electricity load comes from heating, ventilation, and air-conditioning (HVAC), which has been deemed as effective DR resource, especially in system with thermal energy storage (TES). However, it is difficult to define the optimal charging and discharging period for TES in real DR events. Meanwhile, few studies have combined load forecasting with suitable demand response strategy for TES systems in field tests. Thus, this study develops an Elman neural network (ENN) prediction model for both load and TES. Based on this prediction model, a control strategy for DR is proposed in an office building. To get historical data, a TRNSYS simulation model was established. The ENN model was adopted by comparing with four other machine learning algorithms and then coupled with particle swarm optimization for optimizing load forecasting. Experimental results show that the ENN prediction model gains great fitness in the actual load curve and the storage-release time of the energy storage tank. Furthermore, case studies indicate that the proposed strategy can effectively reduce energy use and operation costs without comprising thermal comfort."
+}

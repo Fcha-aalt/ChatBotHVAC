@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089164486,
+    "Title": "Experimental fouling analysis in hvac rooftop units",
+    "Author": "Voinea M.",
+    "Journal": "UPB Scientific Bulletin, Series C: Electrical Engineering and Computer Science",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University Politehnica of Bucharest",
+    "Affliation Country": "Romania",
+    "Cited by count": 0,
+    "Abstract": "The purpose of the article is to highlight the impact of filters and heat exchangers under fouled operating conditions that intensify over time, during a seasonal operation for air conditioning systems. It is highlighted the optimal interval in which the preventive maintenance should take place. This experimental analysis, it is based on the operation under fouled conditions of a rooftop unit with mechanical vapor compression (DX unit). Results show that the operation in fouled conditions could reduce air flow through the evaporator by 20%, energy efficiency ratio EER up to 40% and electrical power consumption of the entire HVAC system increases by 14% or even more."
+}

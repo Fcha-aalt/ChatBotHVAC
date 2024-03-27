@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85108965767,
+    "Title": "Fault detection of low global warming potential refrigerant supermarket refrigeration system: Experimental investigation",
+    "Author": "Sun J.",
+    "Journal": "Case Studies in Thermal Engineering",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.csite.2021.101200",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "As one of the most energy-intensive end-uses in the commercial buildings sector, supermarkets consume around 50 kWh/ft2 (or 537.6 kWh/m2) of electricity annually, or more than 2 million kWh of electricity per year for a typical store. The biggest consumer of energy in a supermarket is its refrigeration system, which accounts for 40–60% of its total electricity usage and is equivalent to about 2–3% of the total energy consumed by commercial buildings in United States, or around 0.5 quadrillion Btu (or 0.53 quadrillion KJ). Also, the supermarket refrigeration system is one of the biggest consumers of refrigerants. Current supermarket refrigeration systems rely on high global warming potential hydrofluorocarbon refrigerants. Reducing refrigerant usage or using environment friendly alternatives can result in significant climate benefits. The refrigeration system can also be adapted to handle flexible building loads and be integrated into grid response transactive control to balance the supply and demand of the electric grid. Even minor improvements in the efficiency and operational reliability of supermarket refrigeration systems can create significant value in terms of saving energy, improving food quality, protecting the environment, reducing carbon footprint, and enhancing electric grid resilience. Fault detection and diagnostics (FDD) techniques can be used to support refrigeration system operators in achieving these benefits. However, compare to FDD of other building heating, ventilation and air-conditioning and refrigeration (HVAC&R) equipment and systems which has attracted extensive FDD studies for decades, FDD of supermarket refrigeration systems, especially for low GWP refrigerant supermarket refrigeration system, has not gained enough attention from researchers. One of the key challenges is lack of available testing datasets to benchmark the system performance and record the faulted performance for system FDD research. This study selects several common faults of supermarket refrigeration systems, including display case door open, ice accumulation, expansive valve failure, and fan failure, to conduct experimental study to identify their fault characteristics, benchmark their faulted performance, then create a FDD characteristics matrix to support next step research on the development of supermarket refrigeration system FDD methods and field automated FDD implementation."
+}

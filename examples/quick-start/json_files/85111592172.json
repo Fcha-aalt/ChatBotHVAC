@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111592172,
+    "Title": "A constrained distributed time-series neural network MPC approach for HVAC system energy saving in a medium-large building",
+    "Author": "Asvadi-Kermani O.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1080/19401493.2021.1951841",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tarbiat Modares University",
+    "Affliation Country": "Iran",
+    "Cited by count": 4,
+    "Abstract": "In this paper, heating and ventilation air conditioning system (HVAC) dataset for a medium-large size building in Romania has been used. It has been collected in one year. Linear state-space model of each air handling unit (AHU) has been estimated using two methods. Recursive extended least squares (RELS) algorithm has been used to estimate the state-space model in one year and seasonal form in the first method. In the second method, a linear time-series neural network has been used for estimating the state-space model in one year form. The constrained distributed model predictive controller has been applied to each AHU state-space model that was estimated before. Every AHU unit energy consumption has been calculated after applying DMPC controller and PI controller on estimated models using simulation results. Results have been compared with energy consumption calculated using the dataset. The mean of energy consumption reduction with 2 approaches is about 36.94%."
+}

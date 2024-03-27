@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161574702,
+    "Title": "Under Pressure: 3-D Indoor Airflow Monitoring Based on Differential Pressure Measurements",
+    "Author": "Schlichter J.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2023-07-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/JSEN.2023.3280709",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universität Braunschweig",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "In industry, large amounts of energy are used for heating, ventilation and air conditioning (HVAC) systems to ensure good working conditions for human workers and machines alike. To decrease the energy used by existing HVAC systems while maintaining the predefined working conditions, knowledge about the actual conditions inside factories and other buildings is required. In this article, we propose a low-cost 3-D airflow sensor based on three off-the-shelf differential pressure sensors that can be integrated into an industrial wireless sensor network (IWSN) to collect data about the airflow inside factories and other buildings. The sensor enables the monitoring of emission propagation through buildings and, therefore, provides data to control HVAC systems based on the actual demand. The low-cost and simple design enables the deployment in high quantities to provide comprehensive data with a high spatial resolution. To demonstrate and evaluate the sensor, we present a custom-made wind tunnel as well as a real-world evaluation."
+}

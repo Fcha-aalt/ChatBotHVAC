@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144434125,
+    "Title": "Net-positive office commissioning and performance gap assessment: Empirical insights",
+    "Author": "Mikhail M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2022.112717",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Waterloo",
+    "Affliation Country": "Canada",
+    "Cited by count": 4,
+    "Abstract": "During commissioning activities, many decisions can be made to reduce building energy consumption and help building operation to meet design goals. Decisions made in this period include reducing the temperature in unoccupied spaces such as mechanical equipment rooms, reducing the setpoints on specific equipment (e.g., amount of fresh air entering the building) and resizing equipment, such as pumps, to better meet operational and user needs. Energy meter data from January to December 2019 was compared with the first six months of 2022 to quantify the impact of commissioning decisions on building energy consumption. Interviews with key informants such as the building operator and energy advisor, were conducted to gain a holistic understanding of operational decisions. It was approximated that building commissioning activities, primarily HVAC, reduced building energy consumption (BEC) by 15% per year. Lastly, it was found that building operator expertise and the tools (e.g., live data from energy meters) available to them improved the efficiency and effectiveness of commissioning activities and ongoing operational decisions."
+}

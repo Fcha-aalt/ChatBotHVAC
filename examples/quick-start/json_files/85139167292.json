@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139167292,
+    "Title": "Energy management strategy with smart building control system to reduction electrical load using ANN",
+    "Author": "Jalal B.M.",
+    "Journal": "Bulletin of Electrical Engineering and Informatics",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.11591/eei.v11i6.4087",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Technology- Iraq",
+    "Affliation Country": "Iraq",
+    "Cited by count": 1,
+    "Abstract": "Buildings have long been large energy consumers, and inadequate control of heating, ventilation, and air conditioning kinds of variable refrigeration flow (HVAC-VRF) and lighting systems. To reduce energy consumption by using a smart building control system (SBCS) in a building was created using occupant control, daylight sensors, weather condition variations, load consumed, and changes in solar power. The model was tested using MATLAB/Simulink, and it was then utilized to investigate the impact of an integrated system on energy usage based on two scenarios. The first scenario was tested in a simulation of building occupant behavior, meteorological variables, daylight sensors, temperature, and load control. This resulted in energy savings for the HVAC system (23% on summer days and 16% on winter days), and lighting system energy savings (22% on summer days and 15% on winter days). In the second scenario, the building was tested to integrate PV system power with load consumption by using the artificial neural network (ANN) algorithm to manage building load consumption by PV, grid, and diesel generator. As a result, the energy savings were 56% on a summer day and 65% on a winter day of the combined energy utilized by the HVAC and lights."
+}

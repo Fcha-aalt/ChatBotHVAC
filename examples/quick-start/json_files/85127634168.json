@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127634168,
+    "Title": "Asset Management and Energy Improvements in a Critical Environment – The Case of a University Bioterium",
+    "Author": "Barandier P.",
+    "Journal": "Lecture Notes in Mechanical Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-030-96794-9_33",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "CISE-Centro de Investigação em Sistemas Electromecatrónicos",
+    "Affliation Country": "Portugal",
+    "Cited by count": 1,
+    "Abstract": "This paper addresses the asset management and energy efficiency of a critical environment - the Bioterium of the Faculty of Health Sciences (FCS) of the University of Beira Interior, Portugal – a facility where the environmental conditions are required to be uninterruptedly maintained at a temperature of 21 ºC and with an air-humidity of 50%. Such requirements demand a constant utilization of the Heating, Ventilation, and Air Conditioning (HVAC) system, in particular the use of chillers and propane boilers for cooling and heating purposes, respectively. Indeed, due to the significative local weather variation over the year, a system failure breakdown may result in drastic consequences for the facility assets and its critical activities. Hence, a large amount of energy is constantly required, thereby increasing the facility operating costs. In order to improve the energy efficiency, reduce the operating costs, and guarantee good asset management, this work aims to assess opportunities for improvements that may enable a more profitable and reliable asset management of the bioterium facilities, mainly with the advent and evolution of new technologies, which besides being more efficient, provide more useful information as well."
+}

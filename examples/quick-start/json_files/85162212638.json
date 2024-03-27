@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85162212638,
+    "Title": "Leveraging graph convolutional networks for semi-supervised fault diagnosis of HVAC systems in data-scarce contexts",
+    "Author": "Fan C.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s12273-023-1041-1",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sino-Australia Joint Research Center in BIM and Smart Construction",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "The continuous accumulation of operational data has provided an ideal platform to devise and implement customized data analytics for smart HVAC fault detection and diagnosis. In practice, the potentials of advanced supervised learning algorithms have not been fully realized due to the lack of sufficient labeled data. To tackle such data challenges, this study proposes a graph neural network-based approach to effectively utilizing both labeled and unlabeled operational data for optimum decision-makings. More specifically, a graph generation method is proposed to transform tabular building operational data into association graphs, based on which graph convolutions are performed to derive useful insights for fault classifications. Data experiments have been designed to evaluate the values of the methods proposed. Three datasets on HVAC air-side operations have been used to ensure the generalizability of results obtained. Different data scenarios, which vary in training data amounts and imbalance ratios, have been created to comprehensively quantify behavioral patterns of representative graph convolution networks and their architectures. The research results indicate that graph neural networks can effectively leverage associations among labeled and unlabeled data samples to achieve an increase of 2.86%–7.30% in fault classification accuracies, providing a novel and promising solution for smart building management."
+}

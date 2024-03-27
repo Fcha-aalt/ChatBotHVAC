@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072283571,
+    "Title": "Study of overall energy performance of amorphous silicon photovoltaic window based on variable transmittances",
+    "Author": "Wang C.",
+    "Journal": "Taiyangneng Xuebao/Acta Energiae Solaris Sinica",
+    "Publication Date": {
+        "$date": "2019-06-28T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "This paper developed an integrated model to investigate the thermal, daylighting and power performance of the ventilated amorphous silicon photovoltaic(a-Si PV)window with EnergyPlus. The overall energy performance of a-Si PV window with variable transmittances was analyzed based on the numerical model. The numerical model was validated by comparing the simulated results with the experimental data. The effect of variable transmittances of a-Si PV window on power generation, lighting energy consumption, air conditioning energy consumption and net energy consumption were studied in different climate zone utilizing the validated model. The results suggest that the power generation of a-Si PV modules with appropriate transmittance can compensate for the electricity consumption of HVAC as well as lighting and minimize the building energy consumption. The optimum transmittance of a- Si PV window in Guangzhou, Kunming, Changsha, Beijing and Harbin are 0.22-0.25, 0.25, 0.25-0.30, 0.25-0.30 and 0.35, respectively."
+}

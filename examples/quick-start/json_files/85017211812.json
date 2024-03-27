@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85017211812,
+    "Title": "Energy Efficient Building HVAC Control Algorithm with Real-time Occupancy Prediction",
+    "Author": "Shi J.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.03.028",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Marlan and Rosemary Bourns College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 55,
+    "Abstract": "A large amount of energy is wasted through inefficient operation of heating, ventilation, and air conditioning (HVAC) system due to the lack of reliable building occupancy measurement and prediction. To mitigate this problem, an innovative change-point logistic regression model is developed to provide an accurate forecast of building occupancy. A novel building HVAC control algorithm is then developed by embedding the occupancy prediction model into the model predictive control (MPC) framework. The occupancy-based MPC algorithm tries to minimize building electricity consumption and maximize building occupants' comfort at the same time. A penalty factor is introduced which allows building occupants to determine the optimal trade-off between comfort and energy efficiency. Numerical simulation results show that the proposed HVAC control strategy with real-time occupancy prediction not only reduces electricity consumption but also improves building occupants' comfort."
+}

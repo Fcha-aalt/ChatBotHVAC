@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169622863,
+    "Title": "Dynamic indoor thermal environment using Reinforcement Learning-based controls: Opportunities and challenges",
+    "Author": "Chatterjee A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110766",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "École Polytechnique Fédérale de Lausanne",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 0,
+    "Abstract": "Currently, the indoor thermal environment in many buildings is controlled by conventional control techniques that maintain the indoor temperature within a prescribed deadband. The latest research provides evidence that more dynamic variations of the indoor thermal environment can promote health and trigger positive thermal alliesthesia, but such an environment requires a flexible and responsive control system that can adapt to the changes in real-time. As an emerging control technique, Reinforcement Learning (RL) has attracted growing research interest and demonstrated its potential to enhance building performance while addressing some limitations of other advanced control techniques. Thus, a comprehensive review explored the boundaries and limitations of a dynamic indoor environment and the possibilities to apply RL for building controls suitable for varying the indoor thermal environment. The first part discussed the studies on the permissible limits of temperature step changes and acceptable drifts to human occupants. It also debated the flexibility of the range of human thermal comfort and adaptation. In the next part, studies on RL for HVAC controls were explored, focusing on their application in creating a dynamic indoor thermal environment. The different algorithms, HVAC systems, co-simulation environment, action spaces, and energy-saving potentials were discussed. Overall, based on the review, this work outlined a potential pathway for the RL-based controller that can dynamically vary the indoor temperature. Suitable environmental parameters to be controlled, a choice of the RL-based algorithm, action space, and co-simulation environment are discussed."
+}

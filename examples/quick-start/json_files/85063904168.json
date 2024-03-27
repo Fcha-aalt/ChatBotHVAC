@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063904168,
+    "Title": "The energy performance evaluation of roof retrofit under uncertainties for the Shanghai's worker village",
+    "Author": "Chen J.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.egypro.2019.01.1020",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Georgia Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Retrofitting the building roof of the Shanghai Worker Village is one of the governmental projects in Shanghai to improve the city appearance and energy efficiency of existing buildings. The roof is one of the most important building components to determine the energy performance. Hence, how to appropriately select the roof insulation level is a key question to answer to achieve the optimal performance in the building retrofit. Using the building simulation tool such as EnergyPlus, engineers typically run the deterministic simulation to evaluate the effectiveness of different roof insulation levels in the practice. However, this approach could result in bias due to the insufficiency of the deterministic approach in dealing with the complexity in the building performance simulation. In this study, to better mimic the real scenarios of buildings especially for the urban-level retrofit project, we utilized the uncertainty analysis considering impacts of urban heat island effect, material and building operation uncertainties to conduct a thorough evaluation of possible roof insulation retrofit scenarios. The results indicate that as we further increase the insulation levels, the effectiveness of adding insulation on the heating and total HVAC load saving decease significantly. In the uncertainty analysis, there exists a high probability of overlap in terms of the load saving if sufficient amount of insulation is already attached to the roof. Also, considering the characteristics of the retrofit building and weather conditions, adding extra roof insulation alone might only result in limited impact on the overall energy saving of a building. A further lifecycle analysis is necessary to determine the most efficient way of adding insulation for the roof retrofit."
+}

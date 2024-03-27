@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064113820,
+    "Title": "Optimized Automatic Lighting Control in a Hotel Building for Energy Efficiency",
+    "Author": "Verma N.",
+    "Journal": "2018 International Conference on Power Energy, Environment and Intelligent Control, PEEIC 2018",
+    "Publication Date": {
+        "$date": "2018-07-02T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/PEEIC.2018.8665417",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Amity University",
+    "Affliation Country": "India",
+    "Cited by count": 7,
+    "Abstract": "Energy efficient buildings are demand of today's world and very important area for RD, because requirement of electricity is quite higher than available resources. Energy Efficiency in buildings is a very popular area for RD. This paper demonstrates through software simulation that a significant reduction in the energy consumption can be achieved using daylight based lighting control. Lighting in a building is one of the dominant sources for electric-energy consumption and because of it a needs special attention during energy optimization, its heating effect also affects HVAC loading in building. Automatic lighting control can be daylight level, occupancy or schedule. Day-light level-based strategies takes efficient consideration of natural daylight availability and operate only the minimum amount of electrical lighting just to fulfill the desired level of lighting. The two main methods for controlling lighting in day lighted areas are switching daylight and dimming daylight. Gradual lighting control can provide 30-40% energy saving. The saving can be even more with on/off type of light control."
+}

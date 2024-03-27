@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099356737,
+    "Title": "Evaluation of data-driven thermal models for multi-hour predictions using residential smart thermostat data",
+    "Author": "Huchuk B.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/19401493.2020.1864474",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 7,
+    "Abstract": "Predictive residential HVAC controls can reduce a building's energy consumption; however, they require customized thermal models for each home. In this setting, detailed physical models are not practical. Fortunately, the recent availability of fine-grained thermostat data from residential buildings combined with modern machine learning creates an unprecedented opportunity to build customized data-driven thermal models. We trained and evaluated a range of promising candidate data-driven thermal models for multi-hour predictions using a sliding training window over logged temperature and equipment runtime data from 1000 smart thermostats. The models included machine learning methods, time series models, grey box models, and a simple baseline. Since many models can incorporate exogenous data, we also investigate which combination of features and history provides the best predictions of indoor air temperature. We conclude that lasso and ridge regression with solar, fan, heating and cooling runtime, and 20-minutes of history provided the lowest errors across our sample."
+}

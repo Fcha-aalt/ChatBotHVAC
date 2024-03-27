@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85036478037,
+    "Title": "Development and performance comparison of low-order black-box models for a residential HVAC system",
+    "Author": "Afram A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.jobe.2017.11.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 26,
+    "Abstract": "In this paper black-box models of residential HVAC systems commonly found in many Canadian households are developed. The models are useful for performance evaluation, operating point optimization, energy and cost optimization, and new control system design. The HVAC system under investigation is installed at House A of Toronto and Region Conservation Authority's (TRCA) Archetype Sustainable House (ASH) in Vaughan, Ontario, Canada. The system is comprised of four major subsystems, i.e., heat recovery ventilator (HRV), air handling unit (AHU), air source heat pump (ASHP) and the building envelope (zone). Data measured during the winter and summer of 2015 was used to develop black-box models of the system during both seasons for each subsystem. The developed models include artificial neural network (ANN) model, transfer function model (TF), process model, state-space model and auto-regressive exogenous (ARX) model. The performance of these models was compared both visually and analytically. Though visual comparison indicated that all models performed well, the analytical comparison revealed the true differences between them. It was found that state-space models outperformed all other models, the ANN and transfer function models were second best, which were followed by process models and ARX models. Grey-box models developed in a previous paper were also added for comparison, but all black-box models outperformed the grey-box models."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85167818539,
+    "Title": "Similarity learning-based fault detection and diagnosis in building HVAC systems with limited labeled data",
+    "Author": "Chen Z.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.rser.2023.113612",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 2,
+    "Abstract": "Machine learning has been widely adopted for fault detection and diagnosis (FDD) in heating, ventilation and air conditioning (HVAC) systems over the past decade due to the ever-increasing availability of massive building operational data. Machine learning-based FDD is flexible and accurate but heavily relies on the availability of sufficient labeled data to develop supervised or unsupervised models. However, collecting labeled data is usually labor-intensive for various types of faulty conditions, significantly limiting the practical implementation of machine learning-based FDD. Therefore, this study proposes a similarity learning-based method using Siamese networks to improve the performance of machine learning-based FDD in applications with limited labeled data. Unlike the conventional supervised approach, the proposed Siamese networks contain two identical long short-term memory subnetworks which take a pair of multivariate time-series samples from the building energy management system as input. The number of training samples can be significantly augmented by generating pairs randomly. In this way, the generalization ability of the machine learning-based FDD is significantly improved in practical applications. Two case studies were designed and conducted using experimental data when labeled data were limited and imbalanced to validate the proposed similarity learning-based method. In case 1, the proposed method improves the fault diagnostic accuracy by at most 45.7% compared with the baseline model when the number of labeled data is limited. In case 2, the proposed method demonstrated better generalization ability when the labeled data is imbalanced."
+}

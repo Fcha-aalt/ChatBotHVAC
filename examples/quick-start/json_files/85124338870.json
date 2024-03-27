@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124338870,
+    "Title": "Whole-building Energy Co-simulation for Dynamic Occupant-based Heating and Cooling Control with Rule-based and Q-learning Algorithms",
+    "Author": "An T.",
+    "Journal": "2021 IEEE 3rd International Conference on Frontiers Technology of Information and Computer, ICFTIC 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICFTIC54370.2021.9647091",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Ealing International School",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Commercial building has become one of the most energy-consuming fields, which is as the similar level as transportations and industries. The majority of energy consumption in a commercial building is derived from heating ventilation and air conditioning (HVAC) system. Previously, the indoor temperature was mostly regulated by a fixed control strategy, without varying on the basis of other dynamic factors such as occupancy schedules, which leads to huge amount of energy waste. To optimize this control strategy for energy consumption reduction, this research study has employed two algorithm methods of rule-based control and tabular Q-learning control to achieve the dynamic control to reduce building energy consumption with agent-based stochastic occupancy simulator. As a result, with rule-based control, the simulation result has shown total energy consumption saves approximately 24% site energy annually compared to baseline control. In addition, the result derived from tabular Q-learning has shown 10% savings could be achieved during the cooling season with the optimal policy based on the defined action space and state space. In the future, both rule-base control and Q-learning control used for the cosimulation in this study are expected to be applied in more and more commercial buildings to achieve energy savings and economic benefits."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137993268,
+    "Title": "Machine Learning Techniques to Predict Real Time Thermal Comfort, Preference, Acceptability, and Sensation for Automation of HVAC Temperature",
+    "Author": "Acquaah Y.T.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-031-08530-7_55",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "North Carolina A&amp;T College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The control of Heating, Ventilation, and Air Conditioning (HVAC) system automatically is one of the progressive areas of research. The collective importance of the HVAC system is to maintain indoor thermal comfort while ensuring energy efficiency. This study explores the thermal comfort, acceptability, preference, and sensation of fifteen subjects from February to September 2021. Multiclass-multioutput Decision Tree, Extra Trees, K-Nearest Neighbors and Random Forest classification models were developed to predict the thermal comfort metrics, of subjects in a room based on gender, age, indoor temperature, humidity, carbon dioxide concentration, activity level and time series features. It is important to understand occupants’ thermal comfort in real time to automatically control the environment. The best mean accuracy and mean squared error of 68% and 2.15 respectively was achieved by multiclass-multioutput Extra Tree classification model, when all the features were used in training and testing. Through this study, the feasibility of using machine learning techniques to predict thermal comfort, preference, acceptability, and sensation at the same time for HVAC control was established."
+}

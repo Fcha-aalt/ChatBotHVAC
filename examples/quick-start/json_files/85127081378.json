@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127081378,
+    "Title": "New Optimal Supply Air Temperature and Minimum Zone Air Flow Resetting Strategies for VAV Systems",
+    "Author": "Nassif N.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2022-03-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/buildings12030348",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Cincinnati",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Buildings account for a large portion of the total energy use in the US; therefore, improving the operation of typical variable-air-volume (VAV) systems in buildings can provide a tremendous economic opportunity. ASHRAE Guideline 36 recommends a resetting strategy for supply air temperature (SAT) for VAV systems based on outside air temperature. However, this strategy may not produce optimal performance, particularly when simultaneous cooling and heating occurs in zones. In addition, there is no strategy recommended in the Guideline to reset the zone minimum airflow set point in a single-duct VAV terminal unit with reheat, although this setpoint has a great impact on zone reheat requirements and ventilation efficiency. Thus, this paper introduces new strategies to reset both the SAT and zone minimum airflow rate set points to improve the efficiency of typical VAV systems. The strategies were tested under various conditions through experiments performed in fully instrumented VAV systems located in the HVAC lab at the University of Cincinnati. The experiments were conducted on a chilled-water VAV system that serves three controlled zones with hot-water reheat VAV boxes controlled by a typical commercial BACnet web-based building automation system BAS. The simulation studies were performed using the building energy simulation software EnergyPlus to evaluate the strategies at a larger scale in various locations. The simulation results show that the proposed resetting strategies can provide fan energy savings between 1.6% and 5.7% and heating load savings between 7.7% to 33.7%, depending on the location. The laboratory testing shows that the proposed strategies can provide stable control performance in actual systems as well as achieving the anticipated reheat and fan energy savings. The result offers significant improvements that can be implemented in the Guideline for single-duct VAV system operation and control."
+}

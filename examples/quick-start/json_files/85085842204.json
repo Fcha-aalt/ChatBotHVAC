@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085842204,
+    "Title": "Environmental sustainability and energy efficiency in historical buildings: GeoFit project implementation in the case study of a medieval fortress in Perugia",
+    "Author": "Romanelli J.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Perugia",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Italian cities are mainly constituted by buildings constructed until the mid-20thcentury by pre-industrial construction techniques. A HVAC system for the energy retrofit of historical buildings is evaluated when applied in the case study of Sant'Apollinare. It consists of a ground source heat pump a water tank for thermal energy storage connected to a low-temperature radiant system and air handling unit. The building thermal-energy behavior, typically influenced by thermal inertia in historical buildings, and the novel HVAC system performance interactions are comparatively assessed together with more traditional scenarios. Energy demand decreases by about one third compared to the pre-retrofit situation."
+}

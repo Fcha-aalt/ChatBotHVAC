@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118927178,
+    "Title": "Balancing Energy Consumption and Thermal Comfort with Deep Reinforcement Learning",
+    "Author": "Cicirelli F.",
+    "Journal": "Proceedings of the 2021 IEEE International Conference on Human-Machine Systems, ICHMS 2021",
+    "Publication Date": {
+        "$date": "2021-09-08T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ICHMS53169.2021.9582638",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Istituto Di Calcolo E Reti Ad Alte Prestazioni, Rende",
+    "Affliation Country": "Italy",
+    "Cited by count": 8,
+    "Abstract": "The management of thermal comfort in a building is a challenging and multi-faced problem because it requires considering both objective and subjective parameters that are often in contrast. Subjective parameters are tied to reaching and maintaining an adequate user comfort by considering human preferences and behaviours, while objective parameters can be related to other important aspects like the reduction of energy consumption. This paper exploits cognitive technologies, based on Deep Reinforcement Learning (DRL), for automatically learning how to control the HVAC system in an office. The goal is to develop a cyber-controller able to minimize both the perceived thermal discomfort and the needed energy. The learning process is driven through the definition of a cumulative reward, which includes and combines two reward components that consider, respectively, user comfort and energy consumption. Simulation experiments show that the adopted approach is able to affect the behaviour of the DRL controller and the learning process and therefore to balance the two objectives by weighing the two components of the reward."
+}

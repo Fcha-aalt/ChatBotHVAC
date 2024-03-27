@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173668905,
+    "Title": "Energy efficiency in hospitals: comparative analysis of different HVAC configurations",
+    "Author": "Del Regno N.",
+    "Journal": "Advances in Building Energy Research",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1080/17512549.2023.2266464",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi del Molise",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "The characteristics of health facilities e.g. the need to operate 24 h a day, strict cleaning procedures and indoor environmental parameters made these building-type energy-intensive. The huge potential that can be exploited in terms of energy savings is evident, mainly regarding the HVAC system refurbishment. From literature emerges that there are poor systematic analyses concerning all the possible HVAC retrofit scenarios, considering solutions currently on the market or renewable sources. To fill the research gap pointed out, the present paper proposes a rigorous analysis of the possible generation subsystems available on the market that can be implemented in an HVAC retrofit for a hospital. A real case study of 88,000 m3, represented by a hospital in southern Italy, has been used. Different technologies, such as the photovoltaic system, electric heat pump, absorption heat pump driven by solar energy, cogeneration are analysed from the energy and environmental point of view, with the introduction of the Imported Energy Level Index (IELI). The best retrofit measures is the installation of an absorption heat pump driven by solar thermal collectors and cogeneration, with a primary energy saving of 20%. Considering the installation of a heat recovery unit, the saving is up to 43%."
+}

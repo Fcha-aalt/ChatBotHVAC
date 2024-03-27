@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84962463413,
+    "Title": "A bi-directional systematic design approach to energy optimization for energy-efficient buildings",
+    "Author": "Cho J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-05-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.03.066",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Samsung C&amp;T Corporation",
+    "Affliation Country": "South Korea",
+    "Cited by count": 15,
+    "Abstract": "A new bi-directional systematic methodology was developed to minimize the building thermal load and energy consumption using cooling-to-heating load ratio and system efficiency to select optimal sets of building design factors and HVAC systems. On the basis of simulations conducted on a total of 384 combinations of HVAC system and alternative building models, the correlation between building cooling-to-heating load ratio and HVAC system energy consumption was analyzed. The diverse and total cooling and heating system efficiency of HVAC systems was derived. It was found that the ratio of the efficiencies of heating and cooling systems affected the optimum building design, hence the active and passive parts of a building should be considered simultaneously in a coupled way for the optimum design for the energy-efficient buildings. Energy consumption tends to vary radically with the type of HVAC system, even under identical building load conditions. That is, with different cooling-to-heating load ratio but a similar total energy, the total primary energy consumption and the cooling-to-heating energy ratio are predicted to change depending on the selected HVAC system. It is expected that a design plan formulated using the method and system efficiency enable a bi-directional energy optimization process conducive to providing feedback and prove to be of great use in building design factors, HVAC system solution, and decision-making at the initial design stage that considers building thermal load characteristics."
+}

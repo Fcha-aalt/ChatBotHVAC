@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106926805,
+    "Title": "An overview of data tools for representing and managing building information and performance data",
+    "Author": "Luo N.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.rser.2021.111224",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 25,
+    "Abstract": "Building information modeling (BIM) has been widely adopted for representing and exchanging building data across disciplines during building design and construction. However, BIM's use in the building operation phase is limited. With the increasing deployment of low-cost sensors and meters, as well as affordable digital storage and computing technologies, growing volumes of data have been collected from buildings, their energy services systems, and occupants. Such data are crucial to help decision makers understand what, how, and when energy is consumed in buildings—a critical step to improving building performance for energy efficiency, demand flexibility, and resilience. However, practical analyses and use of the collected data are very limited due to various reasons, including poor data quality, ad-hoc representation of data, and lack of data science skills. To unlock value from building data, there is a strong need for a toolchain to curate and represent building information and performance data in common standardized terminologies and schemas, to enable interoperability between tools and applications. This study selected and reviewed 24 data tools based on common use cases of data across the building life cycle, from design to construction, commissioning, operation, and retrofits. The selected data tools are grouped into three categories: (1) data dictionary or terminology, (2) data ontology and schemas, and (3) data platforms. The data are grouped into ten typologies covering most types of data collected in buildings. This study resulted in five main findings: (1) most data representation tools can represent their intended data typologies well, such as Green Button for smart meter data and Brick schema for metadata of sensors in buildings and HVAC systems, but none of the tools cover all ten types of data; (2) there is a need for data schemas to represent the basis of design data and metadata of occupant data; (3) standard terminologies such as those defined in BEDES are only adopted in a few data tools; (4) integrating data across various stages in the building life cycle remains a challenge; and (5) most data tools were developed and maintained by different parties for different purposes, their flexibility and interoperability can be improved to support broader use cases. Finally, recommendations for future research on building data tools are provided for the data and buildings community based on the FAIR principles to make data Findable, Accessible, Interoperable, and Reusable."
+}

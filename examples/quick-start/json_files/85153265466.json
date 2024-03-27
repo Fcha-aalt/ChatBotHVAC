@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153265466,
+    "Title": "Urban heat mitigation through improved building energy efficiency",
+    "Author": "Baniassadi A.",
+    "Journal": "Energy and Climate Change",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.egycc.2022.100078",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Harvard Graduate School of Design",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Buildings play a significant role in indoor and outdoor exposure to heat in urban areas. In this study, we quantify the heat mitigation potential of typical building energy efficiency measures that are often not considered as urban heat mitigation strategies, such as added insulation. We combined whole-building energy and urban climate simulations to compare indoor and outdoor (pedestrian-level) heat exposure with different levels of energy efficiency and under different climate timeframes in a soon-to-be-built public housing project in Phoenix, AZ. We found that improved energy efficiency reduces indoor and outdoor exposure to heat while climate change increases both. Considering the 2018 version of the energy code as the baseline, the mitigating impact of upgrading energy efficiency on indoor exposure to heat (as defined by% of year Tindoor > Tcooling setpoint +1 °C) exceeded the increase caused by climate change. Our estimates show a 6.6% increase caused by climate change vs. 20.7% reduction due to improved efficiency. Furthermore, our results indicate that energy upgrades may also have an impact on outdoor heat exposure (as defined by% of year with Toutdoor> 40 °C) due to reduced heat emitted from the buildings and their HVAC systems. We found a 2% increase in exposure caused by climate change vs. 1.4% reduction due to by improved efficiency. This suggest that upgrading energy efficiency of buildings may at least partially offset the impact of climate change on outdoor exposure to heat in the modelled urban canyon."
+}

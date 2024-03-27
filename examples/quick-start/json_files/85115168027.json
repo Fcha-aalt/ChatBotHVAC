@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115168027,
+    "Title": "Low-Cost Image-Based Occupancy Sensor Using Deep Learning",
+    "Author": "Sanjeev Kumar T.M.",
+    "Journal": "Lecture Notes in Electrical Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-16-1642-6_22",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Manipal Academy of Higher Education",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "An occupancy sensor is going to be an integral part of smart buildings for energy efficiency as well as for providing human-centric lighting. This paper presents a low-cost image-based alternative for conventional occupancy sensors using deep learning. The developed system works as a standalone unit and can integrate with heating, ventilation and air conditioning (HVAC) and lighting control schemes. Here, a Raspberry Pi 3B + is utilized as the hub for occupancy detection. Single-shot multi-box detection (SSD) is used as the primary architecture and is compared with you only look once (YOLO), the test results are computed for several test rooms, and an evaluation of the practical requirements in terms of camera and images captured for accurate detections is measured based on positives obtained. Here, a low-cost system is designed which avoids the use of multiple sensors and is most suitable for offices and libraries, and classrooms."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172468234,
+    "Title": "Technologies and Solutions for Smart Home and Smart Office",
+    "Author": "Luntovskyy A.",
+    "Journal": "Studies in Systems, Decision and Control",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-40997-4_13",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Berufsakademie Sachsen Staatliche Studienakademie Dresden",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "This work is dedicated to the Smart Office and Smart Home design: a brief smart survey of the used protocols, platforms, and best practices under consideration of the following criteria like price factor, easy configuring and manageability, data security, and privacy aspects, as well as energy efficiency. The practical problems for IoT and IIoT components compatibility as well as cloud independence, are discussed too. The authors mostly favor open-source and cloud-free solutions for Smart Home and established commercial platforms for Smart Office with advanced security, as shown in the presented case studies. Blockchaining of IoT and IIoT contributes to the compulsoriness and commitment in the decentralized world of “smart things” at home and in office rooms. However, secured smart devices can only be achieved with the combination of known crypto-technologies. Through a step-by-step provision of different blockchain-based platforms, the declared protection goals can be reached. The main features of the functioning of IoT, Edge, and Cloud computing technologies are considered. An intelligent IoT system has been developed to collect data from a specific location and transmit it to an Edge device for on-site processing. This data will be transferred to the cloud system or further processing or remote management, if needed. The solution aims to reduce the cost of maintaining the system by reducing the volume of messages that are sent to the cloud platform, which is quite expensive and a weighty factor in using the system, to provide remote management without buying a fixed server part. An algorithm for predicting temperature values in the server room of a smart office has been proposed and implemented in a designed IoT system based on Raspberry Pi 4 using an LSTM model. Using this solution in practice will increase the reliability of server equipment by early prediction, warning, and taking measures in case of temperature rise."
+}

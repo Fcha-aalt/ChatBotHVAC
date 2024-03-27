@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047070909,
+    "Title": "Investigation of stratified thermal storage tank performance for heating and cooling applications",
+    "Author": "Karim A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/en11051049",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Queensland University of Technology",
+    "Affliation Country": "Australia",
+    "Cited by count": 44,
+    "Abstract": "A large amount of energy is consumed by heating and cooling systems to provide comfort conditions for commercial building occupants, which generally contribute to peak electricity demands. Thermal storage tanks in HVAC systems, which store heating/cooling energy in the off-peak period for use in the peak period, can be used to offset peak time energy demand. In this study, a theoretical investigation on stratified thermal storage systems is performed to determine the factors that significantly influence the thermal performance of these systems for both heating and cooling applications. Five fully-insulated storage tank geometries, using water as the storage medium, were simulated to determine the effects of water inlet velocity, tank aspect ratio and temperature difference between charging (inlet) and the tank water on mixing and thermocline formation. Results indicate that thermal stratification enhances with increased temperature difference, lower inlet velocities and higher aspect ratios. It was also found that mixing increased by 303% when the temperature difference between the tank and inlet water was reduced from 80 °C to 10 °C, while decreasing the aspect ratio from 3.8 to 1.0 increased mixing by 143%. On the other hand, increasing the inlet water velocity significantly increased the storage mixing. A new theoretical relationship between the inlet water velocity and thermocline formation has been developed. It was also found that inlet flow rates can be increased, without increasing the mixing, after the formation of the thermocline."
+}

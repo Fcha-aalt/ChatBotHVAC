@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151499007,
+    "Title": "Prediction of HVAC loads at different spatial resolutions and buildings using deep learning models",
+    "Author": "Liguori A.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.26868/25222708.2021.30319",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "This paper explores the applicability of deep learning-driven models for the prediction of energy consumption in generic commercial buildings. The modeling approach relies on recurrent neural networks (RNNs), while the input consists of physical data streams such as indoor air temperature in different thermal zones and data obtained from the central heating ventilation and air conditioning (HVAC) system. The research steps include the implementation of an existing RNN-based model for energy consumption and further model optimization using training and validation sets. The final model was evaluated using the data from two datasets. Additionally, the evaluation performance was tested in case of the varied spatial and system granularities. The results showed that the optimal model architecture was dataset-agnostic. The results showed that predicting the HVAC energy consumption is more challenging at the higher spatial granularity, when compared to building wise or multi-zone wise modeling."
+}

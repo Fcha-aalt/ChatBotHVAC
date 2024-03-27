@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85062153473,
+    "Title": "Assessment of the potential of high-performance buildings to achieve zero energy: A case study",
+    "Author": "Wang D.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-02-22T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/app9040775",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing University of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "Buildings that are designed with aggressive energy performance targets are defined broadly in this study as high-performance buildings. As the technology advances, some of these buildings have the potential to become zero-energy ready through the adoption of cost-effective measures, such as retro-commissioning and occupant behavior techniques. This study demonstrated the viability of an office building to achieve the zero-energy goal and intended to engage the owners of similar facilities. The case building was designed as a very low-energy building with an energy use intensity (EUI) goal of 42 kWh/(m 2 a), and the actual EUI was 23.9 kWh/(m 2 a). The calibrated simulation approach was employed in the study, and the results indicated that the case building can achieve the zero-energy goal by optimizing the controls of the HVAC (Heating, Ventilation and Air Conditioning) system, changing the occupant behavior and improving the performance of the photovoltaic system."
+}

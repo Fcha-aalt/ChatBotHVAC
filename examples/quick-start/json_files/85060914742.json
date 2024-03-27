@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060914742,
+    "Title": "Development of a consecutive occupancy estimation framework for improving the energy demand prediction performance of building energy modeling tools",
+    "Author": "Kim S.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-01-29T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12030433",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Chungbuk National University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 29,
+    "Abstract": "To improve the energy prediction performance of a building energy model, the occupancy status information is very important. This is more important in real buildings, rather than under construction buildings, because actual building occupancy can significantly influence its energy consumption. In this study, a machine learning based framework for a consecutive occupancy estimation is proposed by utilizing internet of things data, such as indoor temperature and luminance, CO 2 density, electricity consumption of lighting, HVAC (heating, ventilation, and air conditioning), electric appliances, etc. Three machine learning based occupancy estimation algorithms (decision tree, support vector machine, artificial neural networks) are selected and evaluated in terms of the performance of estimating the occupancy status for each season. The selection process of the input variables that have crucial impact on the algorithms’ performance are described in detail. Finally, an occupancy estimation framework that can repeat model training and estimation consecutively in a situation when time-series data are continuously provided over the entire measurement period is suggested. In addition, the performance of the framework is evaluated to identify how it improves the energy prediction performance of the building energy model compared to conventional energy modeling practices. The suggested framework is distinguished from similar previous studies in two ways: (1) The proposed framework reveals that input variables for the occupancy estimation model can be occasionally changed by an occupant response to certain times and seasons, and (2) the framework incorporates time-series indirect occupancy sensing data and classification algorithms to consecutively provide occupancy information for the energy modeling effort."
+}

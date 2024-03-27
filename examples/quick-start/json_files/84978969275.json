@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84978969275,
+    "Title": "Economic and environmental impacts of energy efficiency investment on local manufacturers",
+    "Author": "Choi J.K.",
+    "Journal": "Proceedings of the ASME Design Engineering Technical Conference",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1115/DETC2015-46180",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "The main goal of this study is to estimate the communitywide economic and environmental impacts of energy efficiency investment on the local manufacturing using data with different granularity. A systematic framework is developed by using multiple scale/layer of data. Result shows that a 14M investment in HVAC upgrade to reduce energy and cost in the economy of the Montgomery County, Ohio can result in a total local economic impact of 22M, stemming from the 14.5M coming from direct impact, 2.8M coming from indirect impact, and 4.7M coming from induced impacts. Job creation over the investment period yields a total of 106 jobs. Analysis provides insight into the most important types of economic effects to the local industries. From an environmental perspective, short term economy-wide carbon dioxide emissions increase because of the increased community-wide economic activities spurred by the production from local manufacturers and installation of energy efficiency measures, however the resulting energy savings provide continuous carbon dioxide reduction for various target savings."
+}

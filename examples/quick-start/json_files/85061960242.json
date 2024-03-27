@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061960242,
+    "Title": "Neural network model-based adaptive control of a VAV-HVAC&amp;R system",
+    "Author": "Ning M.",
+    "Journal": "International Journal of Air-Conditioning and Refrigeration",
+    "Publication Date": {
+        "$date": "2019-03-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1142/S2010132519500068",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 10,
+    "Abstract": "A dynamic system model of a two-zone variable air volume heating, ventilation and air conditioning and refrigeration (VAV-HVAC&R) system is considered. The system model consists of two environmental zones, an HVAC system and a water-cooled vapor compression chiller. Five adaptive controllers were designed to achieve good tracking control of set points of zone air temperatures, discharge air temperature, chilled water supply temperature and static pressure of the VAV-HVAC&R system. The PI controller gains were updated online using adaptive neural networks and an auto-tuning algorithm. Simulation results show that adaptive PI control gave faster response and less overshoot compared to conventional constant gain PI control. The control responses tracked set-points closely and remained stable over a typical day simulation of building operation under variable load conditions."
+}

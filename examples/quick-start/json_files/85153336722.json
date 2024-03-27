@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153336722,
+    "Title": "Interpretable mechanism mining enhanced deep learning for fault diagnosis of heating, ventilation and air conditioning systems",
+    "Author": "Chen K.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110328",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Various faults in the heating, ventilation, and air conditioning (HVAC) systems may lead to high energy consumption and maintenance costs. Reliable fault detection and diagnosis (FDD) are essential for HVAC systems to minimize safety and efficiency risks. Most of current FDD studies established by deep learning have high accuracy, but lack of interpretability and generalization. This paper proposes an interpretable mechanism mining enhanced deep learning method for FDD model transfer among different HVAC systems. Firstly, three kinds of fault simulation experiments are carried out on two types of chillers to provide data for the diagnosis process. Secondly, a one-dimensional convolutional neural network (1D-CNN) is trained for the FDD task of the source chiller. Then score-weighted class activation mapping method (Score-CAM) is used to explain why the 1D-CNN can diagnose faults well and find six key variables consistent with expert experience. Finally, a general FDD model is obtained by retraining the original model with the extracted key variables, which is verified on another different type of chiller with two cycles. The testing results indicate that the retrained transfer model has a good diagnostic effect for the target chiller, the accuracy for the first and second cycles of the chiller are 80.27% and 73.73%, respectively. The proposed framework of FDD model transfer has significant performance advantages and practical application potential."
+}

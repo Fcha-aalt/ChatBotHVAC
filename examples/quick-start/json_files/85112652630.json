@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85112652630,
+    "Title": "A review on numerical approach to achieve building energy efficiency for energy, economy and environment (3e) benefit",
+    "Author": "Raj B.P.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-08-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14154487",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Central Building Research Institute India",
+    "Affliation Country": "India",
+    "Cited by count": 22,
+    "Abstract": "Increasing energy demand in buildings with a 40% global share and 30% greenhouse gas emissions has accounted for climate change and a consequent crisis encouraging improvement of building energy efficiency to achieve the combined benefit of energy, economy, and environment. For an efficient system, the optimization of different design control strategies such as building space load, occupancy, lighting, and HVAC becomes inevitable. Therefore, interdisciplinary teamwork of developers, designers, architects, and consumers to deliver a high-performance building becomes essential. This review aims to endorse the importance of Building Performance Simulation in the pre-design phase along with the challenges faced during its adaptation to implementation. A morphology chart is structured to showcase the improvement in Building Energy Efficiency by implementing Building Performance Simulation for different building energy systems and by implementing various energy efficiency strategies to achieve the 3E benefit. As a developing nation, India still lacks mass application of Building Performance Simulation tools for improving Building Energy Efficiency due to improper channelizing or implementation; thus, this framework will enable the designers, architects, researchers to contemplate variable building energy optimization scenarios."
+}

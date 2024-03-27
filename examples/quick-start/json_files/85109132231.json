@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109132231,
+    "Title": "Model-based and data-driven HVAC control strategies for residential demand response",
+    "Author": "Kou X.",
+    "Journal": "IEEE Open Access Journal of Power and Energy",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/OAJPE.2021.3075426",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tickle College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 27,
+    "Abstract": "The implementations of residential demand response (DR) based on heating, ventilation, and air conditioning (HVAC) are inseparable from effective control algorithms for coordinating the operating schedules of multiple HVAC devices. In this work, both model-based and data-driven HVAC control strategies are developed to determine the optimal control actions for HVAC systems. The control objectives are to minimize customers' electricity costs, customers' discomfort, and the utility-level load violation. In the model-based approach, a thermal resistance-capacitance (RC) HVAC model is formulated to capture buildings' thermodynamic behaviors, and a distributed solution algorithm (i.e., alternating direction method of multipliers) is applied to determine the day-ahead HVAC operation schedules. In the data-driven approach, the neural networks continuously interact with the environment during the training process to learn what control actions to take under certain circumstances and then are used for online decision-making. The case study is performed on a utility system with one hundred houses. Simulation results demonstrate that the model-based approach can save 22% of the total cost compared to the data-driven approach, while the data-driven approach does not require outdoor temperature forecast information and its computational speed is 46 times faster than that of the model-based approach."
+}

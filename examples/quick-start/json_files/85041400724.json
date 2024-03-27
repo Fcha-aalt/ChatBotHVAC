@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85041400724,
+    "Title": "A model for estimating cooling energy demand at early design stage of condominiums",
+    "Author": "Geekiyanage D.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2018-05-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.jobe.2018.01.011",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Moratuwa",
+    "Affliation Country": "Sri Lanka",
+    "Cited by count": 21,
+    "Abstract": "Amongst the energy end-use sectors of an economy, residential buildings have become the dominant by consuming 50–70% of operational energy for Heating Ventilation & Air Conditioning (HVAC). Surprisingly, in Sri Lanka, energy consumption for space cooling accounts for more than 75% of electricity use in a typical building. Construction of condominium buildings in Sri Lanka has significantly increased in recent past and consequently, the demand for space cooling has increased. This energy demand is significantly affected by “Building design variables” such as building size, shape, orientation, height, window and roof area, and grouping of buildings. Thus, it is essential to estimate the energy required for space cooling based on building design variables at the early stage in order to obtain less energy consuming building structures by altering design variables. On this note, this study developed an early stage model for estimating cooling energy demand of condominiums in Sri Lanka, which is based on building design variables. A quantitative approach involving questionnaire survey and document review was adopted to collect data from 30 condominiums. A correlation analysis performed on collected data indicates that the design variables of number of floors, building height, building shape, grouping of buildings, window-to-wall-ratio, gross internal floor area, and wall-to-floor-ratio have significant correlations with the cooling energy demand of condominiums in Sri Lanka. Subsequently, a stepwise multiple linear regression analysis performed indicates that only number of floors and window-to-wall-ratio are responsible for over 91% of fluctuation in cooling energy demand. Therefore, using the developed model, the annual cooling energy demand of a condominium can be estimated and minimised, giving considerations to significant design variables that could inform decisions at the early stage to ensure energy efficient designs."
+}

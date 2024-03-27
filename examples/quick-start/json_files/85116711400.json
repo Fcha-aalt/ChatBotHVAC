@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85116711400,
+    "Title": "Modeling and multiobjective optimization of indoor airborne disease transmission risk and associated energy consumption for building HVAC systems",
+    "Author": "Risbeck M.J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-12-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111497",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Johnson Controls",
+    "Affliation Country": "United States",
+    "Cited by count": 21,
+    "Abstract": "The COVID-19 pandemic has renewed interest in assessing how the operation of HVAC systems influences the risk of airborne disease transmission in buildings. Various processes, such as ventilation and filtration, have been shown to reduce the probability of disease spread by removing or deactivating exhaled aerosols that potentially contain infectious material. However, such qualitative recommendations fail to specify how much of these or other disinfection techniques are needed to achieve acceptable risk levels in a particular space. An additional complication is that application of these techniques inevitably increases energy costs, the magnitude of which can vary significantly based on local weather. Moreover, the operational flexibility available to the HVAC system may be inherently limited by equipment capacities and occupant comfort requirements. Given this knowledge gap, we propose a set of dynamical models that can be used to estimate airborne transmission risk and energy consumption for building HVAC systems based on controller setpoints and a forecast of weather conditions. By combining physics-based material balances with phenomenological models of the HVAC control system, it is possible to predict time-varying airflows and other HVAC variables, which are then used to calculate key metrics. Through a variety of examples involving real and simulated commercial buildings, we show that our models can be used for monitoring purposes by applying them directly to transient building data as operated, or they may be embedded within a multi-objective optimization framework to evaluate the tradeoff between infection risk and energy consumption. By combining these applications, building managers can determine which spaces are in need of infection risk reduction and how to provide that reduction at the lowest energy cost. The key finding is that both the baseline infection risk and the most energy-efficient disinfection strategy can vary significantly from space to space and depend sensitively on the weather, thus underscoring the importance of the quantitative predictions provided by the models."
+}

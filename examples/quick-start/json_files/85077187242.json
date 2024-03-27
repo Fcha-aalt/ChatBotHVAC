@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077187242,
+    "Title": "Testing and simulation of potential energy savings in renewing used split-type and window-type air-conditioners",
+    "Author": "Alabdulkarem A.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1177/0143624419894438",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "King Saud University",
+    "Affliation Country": "Saudi Arabia",
+    "Cited by count": 3,
+    "Abstract": "In Saudi Arabia, air-conditioners ACs are responsible for 50% of electricity consumption due to hot weather conditions as well as the delay in implementing ACs standards. In this work, six used split-type and eight used window-type ACs that have ages from 3 to 32 years were tested according to American Society of Heating, Refrigerating and Air-Conditioning Engineers and Saudi Standard, Metrology and Quality Organization cooling test conditions and their performances were compared against new units that have 5.27 kW rated capacity. Test results show that coefficient of performance and cooling capacity of used split-type units compared to new one are 68% and 93%, respectively. For window-type, test results show that coefficient of performance and cooling capacity of used units compared to new one are 55% and 77%, respectively. The effect of replacing used compressor units with a new compressor was experimentally investigated. A model was developed using a commercially available software and was validated with experimental data. An economical map was developed to identify feasible ACs replacement regions. Practical application: Using standard methods this study experimentally quantifies energy savings when used split- and window-type units are replaced with new units. This will help HVAC and energy professionals develop recommendations regarding replacing existing units for a given power tariffs. Additionally, tests were conducted with replacing compressors in used air-conditioners, rather than replacing the entire unit, so as to assist in answering how much energy savings, CO2 and payback period can be achieved by simply replacing the compressors."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133198602,
+    "Title": "Neural network based control charting for multiple stream processes with an application to HVAC systems in passenger railway vehicles",
+    "Author": "Lepore A.",
+    "Journal": "Applied Stochastic Models in Business and Industry",
+    "Publication Date": {
+        "$date": "2022-09-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1002/asmb.2702",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "A multiple stream process (MSP) is a process at a point in time that generates several streams of output with a quality variable of interest and specifications that are identical in all streams. In this article, a new control charting framework based on artificial neural networks (NNs), whose performance is prone to be measured in terms of (Formula presented.) and (Formula presented.), is proposed to improve the monitoring of a MSP and the detection of changes in individual streams. To the best of our knowledge, this is the first time that a NN has been applied to the monitoring of a MSP. The performance of the proposed control charting is evaluated through a wide Monte Carlo simulation and is compared with the traditional Mortell and Runger's MSP control charts based on the range statistic. The proposed method's potential is demonstrated by means of a real-case study in the monitoring of heating, ventilation and air conditioning (HVAC) systems installed on board modern trains. The NN4MSP package that implements the proposed monitoring scheme through the software environment Python, and the HVAC data set are made openly available online at https://github.com/unina-sfere/NN4MSP and on PyPI, together with a tutorial that shows how to practically implement the proposed methodology to the real-case study."
+}

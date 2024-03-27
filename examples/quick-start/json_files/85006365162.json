@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006365162,
+    "Title": "Data science for building energy management: A review",
+    "Author": "Molina-Solana M.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.rser.2016.11.132",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Universidad de Granada",
+    "Affliation Country": "Spain",
+    "Cited by count": 196,
+    "Abstract": "The energy consumption of residential and commercial buildings has risen steadily in recent years, an increase largely due to their HVAC systems. Expected energy loads, transportation, and storage as well as user behavior influence the quantity and quality of the energy consumed daily in buildings. However, technology is now available that can accurately monitor, collect, and store the huge amount of data involved in this process. Furthermore, this technology is capable of analyzing and exploiting such data in meaningful ways. Not surprisingly, the use of data science techniques to increase energy efficiency is currently attracting a great deal of attention and interest. This paper reviews how Data Science has been applied to address the most difficult problems faced by practitioners in the field of Energy Management, especially in the building sector. The work also discusses the challenges and opportunities that will arise with the advent of fully connected devices and new computational technologies."
+}

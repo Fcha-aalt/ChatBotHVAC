@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84959049487,
+    "Title": "Poster abstract - Controlling actuation in central HVAC systems in buildings",
+    "Author": "Koh J.",
+    "Journal": "BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built",
+    "Publication Date": {
+        "$date": "2015-11-04T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1145/2821650.2830300",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of California, San Diego",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Modern building HVAC systems consist of thousands of sensors and actuators networked together for control and monitoring of operations. Traditional Building Management Systems (BMS) are vertically integrated systems and usable by trained operators. Recent advances in literature has democratized this information by integrating information from diverse sources and making it available to third-party developers through standard APIs. We present Building Control Engine (BCE) that allows developers to safely control the actuators in the HVAC system. BCE provides an abstraction for handling the growing safety and reliability concerns when HVAC systems are made publicly available for actuation control. We focus on the Variable Air Volume (VAV) box in the HVAC system, and develop BCE by analyzing and actuation of a VAV in a real building. We show that ensuring reliability and safety of operation is non-trivial as actuators have hierarchical dependencies. BCE captures this domain knowledge and ensures developers cannot cause damage to actuators by checking for both frequency and range of control. In addition, BCE allows static checking of control sequences and rolls back the actuators to safe operation in case of application failure."
+}

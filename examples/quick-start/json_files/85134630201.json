@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85134630201,
+    "Title": "Analysis of a HVAC zoning control system with an air-to-water heat pump and a ducted fan coil unit in residential buildings",
+    "Author": "Fernández Hernández F.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.applthermaleng.2022.118963",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Málaga",
+    "Affliation Country": "Spain",
+    "Cited by count": 5,
+    "Abstract": "This paper presents an analysis of a thermal zoning system integrated in a Heating, Ventilation and Air-Conditioning (HVAC) system based on an air-to-water heat pump with a ducted fan coil. Zoned systems are based on independently controlling the temperature of each of the zones of a building. When a zone is not occupied or not in demand, the control board sends a control signal to the zone's motorised damper which interrupts the airflow supply to that room. Although this control system is gaining popularity in the residential sector, the results obtained in terms of thermal comfort and energy consumptions are not evident and should be documented. Besides, the control strategy is based on an algorithm that allows acting on the heat pump, setting the set-point temperature, and on the fan-coil, setting the fan speed. Based on this, it is possible to design an algorithm to optimize the performance of the installation ensuring thermal comfort and achieving energy savings. The thermal zoning and the HVAC control system are modelled and simulated in Trnsys17 for the case of study of a residential dwelling, compared with two different configurations: a non-zoned ducted fan coil and individual fan coils. Important benefits are obtained in the evaluation of thermal comfort, with higher values of PPD in all zones. From the point of view of energy consumption, the influence of the thermal zoning on the performance of the heat pump reports important energy savings. Finally, an economic analysis results in payback periods lower than 4.9 years."
+}

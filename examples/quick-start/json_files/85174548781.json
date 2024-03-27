@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174548781,
+    "Title": "Application of Feed Forward Neural Networks for modeling of heat transfer coefficient during flow condensation for low and high values of saturation temperature",
+    "Author": "Głuch S.",
+    "Journal": "36th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, ECOS 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.52202/069564-0036",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Gdańsk University of Technology",
+    "Affliation Country": "Poland",
+    "Cited by count": 0,
+    "Abstract": "Most of the literature models for condensation heat transfer prediction are based on specific experimental parameters and are not general in nature for applications to fluids and non-experimental thermodynamic conditions. Nearly all correlations are created to predict data in normal HVAC conditions below 40°C. High temperature heat pumps operate at much higher parameters. This paper aims to create a general model for the calculation of heat transfer coefficients during flow condensation which could be applied to a wide range of fluids and thermodynamical parameters up to the vicinity of the critical point. To achieve this goal authors present a model based on Feed Forward Neural Network. The designed neural network consists of 5 hidden layers and utilizes ReLu and linear activation functions. The first four layers consist of 50 neurons, and the last layer consists of 1 neuron. The network was trained on a consolidated database which consists of 4659 data points for 25 fluids and covers a range of reduced pressure from 0.1 to 0.9 for various mass velocities and diameters. Two input variants were considered. For randomly selected test data Mean Square Root achieved 0.1093 and Mean Absolute Error MAE achieved 0.2243 for the first configuration which consist of 4 parameters. For the second variant, which consists of 17 parameters, MSE achieved 0.0452 MAE achieved 0.1028."
+}

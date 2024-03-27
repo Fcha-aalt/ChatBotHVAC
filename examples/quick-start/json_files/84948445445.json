@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84948445445,
+    "Title": "Simulating the Impact of Phase Change Material Embedded Building Envelopes on the Inter-Building Effect in Non-tropical Cities",
+    "Author": "Han Y.",
+    "Journal": "Procedia Engineering",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.proeng.2015.08.511",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virginia Polytechnic Institute and State University",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "The built environment contributes significantly to rapidly growing world energy consumption. Along with urbanization, buildings continue to escalate this trend owing to their tighter spatial interrelationships and the influence of their surrounding micro-environment. The concept of the Inter-Building Effect (IBE) was introduced to understand complex mutual impact within spatially-proximal buildings. Disaggregate analysis further quantified shading effects and reflection effects separately from combined IBE interaction in a more nuanced way. Different from tropical cities where mutual reflection always shows a negative impression, recent research revealed more complex scenarios in non-tropical areas as the reflection or shading could become favorable month by month alternately according to climatological contexts. The application of phase change materials (PCMs) has attracted attention due to its important characteristic to store and release heat within a certain temperature range. A variety of research has been conducted for building applications to improve energy conservation and thermal comfort both numerically and empirically. In this paper, we sought to explore and understand if PCM building envelopes could potentially mitigate negative thermal-energy impact within building canyons in a non-tropical area. Building upon previous IBE research and simulation models, we conducted several building network simulations under different climatological contexts of non-tropical cities. The results showed considerable improvements (up to 12%) of annual HVAC energy consumption when PCM-embedded building envelopes were used in the control building. The findings expand and deepen our understanding of the IBE, and may help minimize negative mutual influences among buildings that lead to increases in energy consumption in urban environments."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179619994,
+    "Title": "L2A CDUS PERFORMANCE AND CONSIDERATIONS FOR SERVER ROOMS UPGRADE WITH CONVENTIONAL AIR CONDITIONING",
+    "Author": "Heydari A.",
+    "Journal": "Proceedings of ASME 2023 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems, InterPACK 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1115/IPACK2023-111564",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "NVIDIA",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "As the online frameworks and services are growing rapidly with the evolution of web-based Artificial Intelligence (AI) applications, server rooms are upgrading in computational capacity and size to keep up with these demands. Enterprise companies with their limited capacity server rooms struggle to keep up with these increasing computational demands. Hence, some of them end up outsourcing their servers to co-located facilities (Co-Lo) and the others choose to upgrade their existing server rooms. Correspondingly, the thermal load associated with such upgrades is typically tremendous. Approximately around 40% of the power consumed by datacentres is dissipated as heat. Conventional HVAC systems fail to satisfy the requirements of such server capacities. Not only do they struggle to fulfil the cooling load, but their maldistribution of cool air into the server room forms a major cause for hotspots formation. To tackle this issue, Liquid-to-Air (L2A) Coolant Distribution Units (CDUs) are being used as a liquid-based cooling solution for rack-level cooling. This type of CDUs provide efficient cooling for servers through liquid coolant that is distributed into cooling loops mounted on top of each server board. The generated heat is curried away using this liquid coolant back to the CDU, which then dissipates it into the surrounding air using dedicated pumps, fans, and heat exchanger, hence the name Liquid-to-Air. In the present work, one of the most popular liquid cooling strategies is explored based on various scenarios. the performance of a 24-kW liquid to Air (L2A) CDU is judged based on cooling effect, stability, and reliability. The study is curried out experimentally, in which a test rack with three thermal test vehicles (TTVs) are used to investigate various operation scenarios. Both liquid coolant and air sides of this experimental setup are equipped with the required instrumentations to monitor and analyse the tests. All test cases were taken in a room with limited air conditioning to resemble the environment of upgraded server rooms with conventional AC systems. Moreover, the impact of using such high-power density cooling unit on the server room environment with restricted HVAC system is also brought to light. Environmental and human comfort parameters such as noise, air velocity, and ambient temperature are measured under various operation conditions and benchmarked against their ranges for human comfort as listed in ASHREE standards. At the end of this research, recommendations for best practice are provided along with areas of enhancement for the selected system."
+}

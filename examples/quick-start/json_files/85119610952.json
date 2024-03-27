@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85119610952,
+    "Title": "A Hybrid Cloud and Edge Control Strategy for Demand Responses Using Deep Reinforcement Learning and Transfer Learning",
+    "Author": "Tao Y.",
+    "Journal": "IEEE Transactions on Cloud Computing",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/TCC.2021.3117580",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculty of Engineering",
+    "Affliation Country": "Australia",
+    "Cited by count": 13,
+    "Abstract": "A number of electric devices in buildings can be considered as important demand response (DR) resources, for instance, the battery energy storage system (BESS) and the heat, ventilation, and air conditioning (HVAC) systems. The conventional model-based DR methods rely on efficient on-demand computing resources. However, the current buildings suffer from the high cost of computing resources and lack a cost-effective automation system, which becomes the main obstacle to the popularization and implementation of the DR program. Therefore, in this paper, we present a hybrid cloud and edge control strategy for BESS and HVAC based on deep reinforcement learning (DRL). On the cloud infrastructure, the agent learns the control strategy online based on the proposed continuous dueling deep Q-learning (C-DDQN) algorithm, and the learned strategy is distributed to the edge devices for execution. Under this framework, the data-intensive application of cloud computing in real-time DR shows advantages in high processing speed, unlimited data aggregation, fault-tolerant, cost-saving, security, and confidentiality. However, if every controller is trained from the beginning, the cloud resources are wasted to a large extent. Therefore, we propose a transfer deep reinforcement learning methodology to transfer the control strategies between BESS and HVAC units. The transfer learning is realized based on fine-tuning and the proposed Evolving Domain Adaptation Network (EDAN). In case studies, it is verified that the proposed transfer deep reinforcement learning algorithm shows better convergence and learning capability compared with not applying transfer learning technologies. Compared with the conventional model-based method, the proposed methodology speeds up the decision-making time by 105 times."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174527164,
+    "Title": "Optimal Scheduling of Residential Heating, Ventilation and Air Conditioning Based on Deep Reinforcement Learning",
+    "Author": "Xia M.",
+    "Journal": "Journal of Modern Power Systems and Clean Energy",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.35833/MPCE.2022.000249",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Residential heating, ventilation and air conditioning (HVAC) provides important demand response resources for the new power system with high proportion of renewable energy. Residential HAVC scheduling strategies that adapt to real-time electricity price signals formulated by demand response program and ambient temperature can significantly reduce electricity costs while ensuring occupants' comfort. However, since the pricing process and weather conditions are affected by many factors, conventional model-based method is difficult to meet the scheduling requirements in complex environments. To solve this problem, we propose an adaptive optimal scheduling strategy for residential HVAC based on deep reinforcement learning (DRL) method. The scheduling problem can be regarded as a Markov decision process (MDP). The proposed method can adaptively learn the state transition probability to make economical decision under the tolerance violations. Specifically, the residential thermal parameters obtained by the least-squares parameter estimation (LSPE) can provide a basis for the state transition probability of MDP. Daily simulations are verified under the electricity prices and temperature data sets, and numerous experimental results demonstrate the effectiveness of the proposed method."
+}

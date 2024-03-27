@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099237578,
+    "Title": "In-situ-desorption of indoor relevant VOC toluene and limonene on activated carbon based filter media using high relative humidity",
+    "Author": "Ligotski R.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-03-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2020.107556",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität Duisburg-Essen",
+    "Affliation Country": "Germany",
+    "Cited by count": 9,
+    "Abstract": "The adsorptive purification of the gas phase is currently gaining more and more importance in the field of heating, ventilation and air conditioning (HVAC) because people spend most of the day in buildings. The so-called VOC (Volatile Organic Compounds) represent a health-relevant category of pollutant gases. To reduce the accumulation of VOC in buildings, adsorptive filters can be integrated into ventilation systems. For reasons of energy efficiency of ventilation systems (low pressure drop), filters with a pleated flat sheet filter media are often used. The special feature of that kind of filter media is that they have low material thicknesses and correspondingly contain small amounts of activated carbon. Their adsorption capacity and thus their service life are accordingly low compared to cartridges. In order to increase the service life of the described filters, the concept of in-situ desorption consisting of 12-h adsorption at 0.9 ppm, 23 °C and 50% relative humidity and a subsequent 12-h in-situ-desorption with challenge gas-free air and 50% and 90% RH (23 °C) is being investigated on two different activated carbon-based filter media. The substances used are the VOC toluene and D-limonene, which are relevant in indoor air. The more volatile toluene can be desorbed more efficiently than the less volatile limonene. An increase in relative humidity leads to an improvement in desorption, especially for toluene. Stationary cyclic operation is conceivable here. Furthermore, worse desorption is possible on the medium with the more microporous activated carbon than on the medium with the less microporous activated carbon."
+}

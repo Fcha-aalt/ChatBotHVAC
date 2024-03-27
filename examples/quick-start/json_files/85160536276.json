@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160536276,
+    "Title": "Building energy management system research in South Africa—A decade overview",
+    "Author": "Agbajor F.D.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.egyr.2023.05.056",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Durban University of Technology",
+    "Affliation Country": "South Africa",
+    "Cited by count": 1,
+    "Abstract": "Buildings account for about one-third of worldwide energy use alongside CO2 emission, and their energy demand is envisaged to increase in the upcoming decades, thus increasing the worries about climate change. Building energy management system (BEMS) is a strategic method that can assuage these impacts, balance the energy demand-supply mismatch, enhance building energy efficiency and whatnot. Information surrounding this subject should be readily available considering its significance. However, this is not the case as there is a dearth of such information in the form of a systematic review of scholarly contributions on BEMS in South Africa. Thus, this paper aims to fill the knowledge gap through an in-depth overview and analysis of recent research outputs from five prominent academic databases. Herein, the study unveils and discusses the BEMS in South Africa while drawing insights from five subsets namely: building typology; building services system; methodological approach and testbed; applied BEMS strategy; and focused energy management system task. The study synthesis revealed HVAC systems as the major building services system, while demand-side management is mostly considered as the ideal applied strategy, all which mainly manipulated in residential buildings. Based on the research findings, the paper proposes the utilization of novel data-driven methods for researchers and policymakers when developing models for energy datasets to achieve optimal results for monitoring building end-use energy patterns to improve energy saving and achieve the country's ambitious goal of carbon neutrality."
+}

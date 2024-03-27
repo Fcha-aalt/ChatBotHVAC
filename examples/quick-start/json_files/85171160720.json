@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171160720,
+    "Title": "Energy Recovery in Life Science and Healthcare Applications",
+    "Author": "Kolb G.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "AKF Group LLC",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "When looking at energy usage in most life science & healthcare facilities, some may be surprised to hear that HVAC systems in the Northeast generally make up 50-65% of the overall usage. Many efforts have been made over the years to create better and more efficient systems to reduce that percentage. From the broad umbrella of the International Energy Conservation Code to local authorities, such as Local Law 97 in NYC, the trend to energy efficiency is becoming less of an optional upgrade and more of a mandatory requirement when considering HVAC design. With this trend towards implementing energy recovery in HVAC design, it can be a particular challenge in life science & healthcare applications. One of the largest challenges to implementing energy recovery in these applications is how to safely recapture heat from \"dirty air\" spaces such as isolation rooms, hazardous lab exhaust, etc. This paper will present the currently available HVAC energy recovery systems and their applicability and effectiveness within these specialty systems. The information in this paper is intended to convey how these energy recovery systems can be applied in life science & healthcare applications. It will review the limitations of air-to-air energy recovery being implemented in \"dirty air\" systems and common pitfalls to be aware of when determining the right system for various applications. Finally, this paper intends to identify the opportunities for the implementation of these energy recovery systems within existing life science & healthcare facilities and help guide facilities in making an educated design decision."
+}

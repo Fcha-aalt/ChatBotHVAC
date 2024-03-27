@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067013567,
+    "Title": "Energy Management Strategy for Zone Cooling Load Demand Reduction with Occupancy Thermal Comfort Margin",
+    "Author": "Kannan T.",
+    "Journal": "2019 IEEE PES GTD Grand International Conference and Exposition Asia, GTD Asia 2019",
+    "Publication Date": {
+        "$date": "2019-05-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/GTDAsia.2019.8715879",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Singapore University of Technology and Design",
+    "Affliation Country": "Singapore",
+    "Cited by count": 6,
+    "Abstract": "Due to unpredictable thermal comfort requirements and the stochastic nature of occupancy dependent CLD, it is a challenging task to optimally scheduling and sequence control of a chiller plant with thermal energy storage system. One potential way to address this challenge is to design and develop an energy management and control strategy (EMCS) for zone variable air volume (VAV) unit. This paper proposes an EMCS to reduce zone CLD based on zone thermal parameters. The objective is to reduce zone CLD while maintaining temperature and thermal comfort within the threshold limits. In this context, first we develop zone thermal models. Second, we develop an artificial neural network approach and regression approach to predict zone temperature and CLD by tuning the zone parameters. Third, we implement a thermal feedback model to provide the thermal comfort status based on the zone temperature. Finally, we implement control strategies such as demand supply strategy (DSS) and proposed EMCS. The DSS provides required CLD based on occupancy requirements. Then, we implement the proposed EMCS to reduce the zone CLD by controlling the VAV supply air temperature while keeping the thermal comfort margin within the selected thresholds limits. Numerical case studies are conducted based on real data from a commercial building in Singapore to demonstrate the effectiveness of the proposed scheme."
+}

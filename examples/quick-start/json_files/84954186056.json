@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84954186056,
+    "Title": "Research and applications of ultrasound in HVAC field: A review",
+    "Author": "Yao Y.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2016-05-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.rser.2015.12.222",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 33,
+    "Abstract": "Applications of ultrasonic energy to enhance a wide variety of processes or to improve system efficiency have been explored since about 1960s. This work makes an overview of recent studies about the applications of ultrasound in the field of Heating, Ventilation and Air-Conditioning (HVAC), including air humidification/dehumidification, desiccant regeneration, air cleaning, heat enhancement and fouling reduction of heat exchanger, defrosting or frost suppression for evaporator of air-conditioner. The mechanisms for these ultrasonic applications can be illustrated by a series of ultrasonically induced effects such as acoustic cavitation, streaming and vibration. The literature reviews manifest that the parametric studies on the ultrasound-assisted enhancement are the main interest of people to help in the design, optimization, and scale-up of the ultrasound-assisted process. As a new technology applied to the HVAC, the possible major challenges are the design and development of efficient power ultrasonic systems capable of large scale successful operation specifically adapted to each individual process."
+}

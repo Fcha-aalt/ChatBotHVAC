@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120635676,
+    "Title": "Distributed real-time optimal control of central air-conditioning systems",
+    "Author": "Syed Asad H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-02-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2021.111756",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 6,
+    "Abstract": "Real-time optimal control (RtOpt) is an efficient tool to improve the energy efficiency of heating, ventilating and air-conditioning (HVAC) systems. RtOpt is always centralized and solved entirely in building energy management systems (BEMSs). However, centralized optimization is not be an efficient solution because real-time operation data in local loops need to be sent to the central computation unit in BEMS for optimization. This paper, therefore, proposes a distributed RtOpt scheme for typical centralized HVAC systems, which uses a dual decomposition mechanism to break the centralized problem into one mater problem and several sub-problems that can be solved in parallel and independently. The mater problem is converted to a simple mean value calculation using a projected sub-gradient method, thus distributing the computation load from the central computation unit into local computation units. Unlike available decomposition schemes in literature, the proposed method considered the functionality and spatial distribution of the major components of HVAC systems, which could enhance the physical meaning and facilitate the application of the decomposition scheme. The proposed distributed RtOpt scheme was tested in case studies, with numerical analysis being used to demonstrate its potential benefits."
+}

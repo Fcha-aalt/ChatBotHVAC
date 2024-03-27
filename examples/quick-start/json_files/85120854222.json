@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120854222,
+    "Title": "An analytical solution of the optimal chillers operation problems based on ASHRAE guideline 14",
+    "Author": "Liu P.L.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-04-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2021.103800",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Institute of Applied Mechanics, National Taiwan University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 2,
+    "Abstract": "The heating, ventilation, and air conditioning (HVAC) systems consume about half the energy in office buildings, and chillers account for the largest share of energy consumption, specifically in tropical or subtropical zones. This study aims to establish a method to optimize chiller sequencing and load distribution to reduce energy consumption. A constrained optimization problem is formulated using the total power consumption of chillers as the objective function. Each chiller load is restricted to lie between its upper and lower bounds, and the total chiller load must meet the cooling demand. Unlike the conventional approaches that use quadratic or cubic models, the Gordon-Ng simplified model suggested by ASHRAE guideline 14 is adopted to estimate the chiller efficiency. An analytical solution is derived for optimal chiller loading as follows: as n chillers are turned on, the optimal load distribution occurs as the top (k−1) energy-efficient chillers run at maximum load, and the bottom (n−k) energy-efficient chillers run at minimum load, where k is selected to meet the cooling demand. To determine the optimal chiller combination, one can determine the optimal load distributions for all admissible combinations. The combination that requires minimal energy consumption is the optimal chiller sequence. The proposed method is demonstrated using the HVAC data of a city hall in Taiwan. As the chilled water supply temperatures are set the same, the active chiller combination dominates the optimization results. To reduce the chiller switching induced by the optimization of chiller sequencing, one could either increase the minimal uptime or downtime of chillers or adopt shift operation. The energy-saving is significant no matter which operation strategy is adopted."
+}

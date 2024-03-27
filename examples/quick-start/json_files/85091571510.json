@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091571510,
+    "Title": "Generalized additive models: An efficient method for short-term energy prediction in office buildings",
+    "Author": "Khamma T.R.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-12-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.118834",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Illinois Urbana-Champaign",
+    "Affliation Country": "United States",
+    "Cited by count": 16,
+    "Abstract": "In 2018, commercial buildings accounted for nearly 18.2% of the total energy consumption in the USA, making it a significant contributor to the greenhouse gases emissions (see, e.g. [1]). Specifically, office buildings accounted for 14% of the energy usage by the commercial sector. Hence, their energy performance has to be closely monitored and evaluated to address the critical issues of greenhouse gases emissions. Several data-driven statistical and machine learning models have been developed to assess the energy performance of office buildings based on historical data. While these methods often provide reliable prediction accuracy, they typically offer little interpretation of the relationships between variables and their impacts on energy consumption. Moreover, model interpretability is essential to understand, control and manage the variables affecting the energy consumption and therefore, such a feature is crucial and should be emphasized in the modeling procedure in order to obtain reliable and actionable results. For this reason, we use generalized additive models as a flexible, efficient and interpretable alternative to existing approaches in modeling and predicting the energy consumption in office buildings. To demonstrate the advantages of this approach, we consider an application to energy consumption data of HVAC systems in a mixed-use multi-tenant office building in Chicago, Illinois, USA. We present the building characteristics and various influential variables, based on which we construct a generalized additive model. We compare the prediction performance using various commonly used calibration metrics between the proposed model and existing methods, including support vector machine as well as classification and regression tree. We find that the proposed method outperforms the existing approaches, especially in terms of short term prediction."
+}

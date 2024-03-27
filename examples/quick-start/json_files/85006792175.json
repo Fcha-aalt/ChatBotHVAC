@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85006792175,
+    "Title": "Poster abstract: Development of a hardware-the-loop framework with modelica for ener ficien buildings",
+    "Author": "O'Neill Z.",
+    "Journal": "Proceedings of the 3rd ACM Conference on Systems for Energy-Efficient Built Environments, BuildSys 2016",
+    "Publication Date": {
+        "$date": "2016-11-16T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1145/2993422.2996395",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Alabama",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "This poster details a development of a real-time Hardware-in-the-loop (HIL) testbed for analysis of advanced and intelligent building control strategies using a real-time emulator with actual Heating, Ventilation and Air Conditioning (HVAC) local controllers. Models running on this real-time emulator are created using a non-proprietary, object-oriented, equation based language, namely, Modelica. A real-time HIL study of single maximum control logic for a Variable Air Volume (VAV) box in a single thermal zone is presented."
+}

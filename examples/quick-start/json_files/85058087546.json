@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85058087546,
+    "Title": "Application of a New Method for Comparing the Overall Energy Consumption of Different Automotive Thermal Management Systems",
+    "Author": "Menken J.C.",
+    "Journal": "SAE International Journal of Passenger Cars - Mechanical Systems",
+    "Publication Date": {
+        "$date": "2018-10-03T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.4271/06-11-04-0024",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "AUDI AG",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "This article applies a new method for the evaluation and estimation of real-life energy consumption of two different thermal management systems based on driving behavior in the course of the day. Recent attempts to find energy-efficient thermal management systems for electric and plug-in hybrid electric vehicles have led to using secondary loop systems as an alternative approach for meeting dynamic heating and cooling demands and reducing refrigerant charge. However, the additional layer of thermal resistance, which influences the system’s transient behavior as well as passenger compartment comfort during cool-down or heat-up, makes it difficult to estimate the annual energy consumption. In this article, the overall energy consumption of a conventional and a secondary loop system is compared using a new method for describing actual customers’ driving behavior in the course of the day. Therefore, a reduced, representative set of 24-hour driving and stopping cycles from an actual data set of travel and transportation patterns in the United States is used. Additionally, respective weather data is considered. This method helps reduce simulation and testing effort significantly compared to long-lasting in-field studies and makes it possible to compare the annual energy consumption of a conventional and a secondary loop automotive refrigeration system."
+}

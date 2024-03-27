@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098129253,
+    "Title": "Machine learning methods for prediction of hot water demands in integrated R744 system for hotels",
+    "Author": "Zhang Z.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.18462/iir.gl.2020.1080",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Load forecasting can help modern energy systems achieve more efficient operation by means of more accurate peak power shaving and more reliable control. This paper proposes a framework based on machine learning algorithms to forecast the hot water usage for a Norwegian hotel. The framework is tested on the real data from an integrated R744 HVAC and domestic hot water system with a 6 m3 thermal storage. Recorded operational data and ambient temperatures are utilized to build several forecasting models that can predict demands with high accuracy. The hot water usage accounts for 52 % of hotels’ heat load, where strategic accumulation of the hot water storage can improve the overall system performance. Charging the hot water storage according to three-hour-ahead demand predictions presents significant savings potential. This work can facilitate a demand management strategy and thus improve the energy efficiency of the integrated 744 system."
+}

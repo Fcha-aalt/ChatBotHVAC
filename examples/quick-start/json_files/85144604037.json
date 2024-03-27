@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144604037,
+    "Title": "TEA-bot: A Thermography Enabled Autonomous Robot for Detecting Thermal Leaks of HVAC Systems in Ceilings",
+    "Author": "Cai W.",
+    "Journal": "BuildSys 2022 - Proceedings of the 2022 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2022-11-09T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1145/3563357.3564054",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 2,
+    "Abstract": "We propose TEA-bot (Thermography Enabled Autonomous Robot) to address the problem of labor-intensive manual inspections of thermal leaks in Heating Ventilation and Air Conditioning (HVAC) systems while avoiding installation of sensor networks, which can be challenging and expensive for existing buildings. TEA-bot is an Unmanned Ground Vehicle (UGV) designed to navigate in ceilings using visual-based Simultaneously Localization And Mapping (SLAM) while detecting thermal leaks from HVAC systems using Convolutional Neural Networks (CNN). TEA-bot uses inexpensive 3D printed parts as the bones, a single-board computer (SBC) as the brain, an RGB-D camera as the eyes, and a thermal camera as the leak detector. We build an in-lab ceiling environment as a true-to-size testing site with five types of common leaks in HVAC systems (e.g., improper connection) to test the feasibility and effectiveness of TEA-bot. Results show that TEA-bot can 1) generate high-resolution ceiling maps in the format of point clouds for existing buildings without Building Information Models (BIMs), with an average error of 1.56 inches in duct length measurements; 2) identify leak types with a precision of 86.60% using the thermal camera images; and 3) register leaks onto the point cloud maps, providing a holistic and intuitive view of leak locations in an unknown ceiling environment."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114316966,
+    "Title": "Edge HVAC analytics",
+    "Author": "Petri I.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14175464",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Cardiff University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 6,
+    "Abstract": "Integrating data analytics, optimisation and dynamic control to support energy services has seen significant interest in recent years. Larger appliances used in an industry context are now provided with Internet of Things (IoT)-based interfaces that can be remotely monitored, with some also provided with actuation interfaces. The combined use of IoT and edge computing enables connectivity between energy systems and infrastructure, providing the means to implement both energy efficiency/optimisation and cost reduction strategies. We investigate the economic implications of harnessing IoT and edge/cloud technologies to support energy management for HVAC (Heating, Ventilation and Air Conditioning) systems in buildings. In particular, we evaluate the cost savings for building operations through energy optimisation. We use a real use case for energy optimisation as identified in the EU “Sporte2” project (focusing on the energy optimisation of sports facilities) and explore several scenarios in relation to costs and energy optimisation."
+}

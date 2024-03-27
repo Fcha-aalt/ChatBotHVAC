@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85148485175,
+    "Title": "DEVELOPMENT OF A HOLISTIC DATA-DRIVEN DETECTION AND DIAGNOSIS APPROACH FOR OPERATIONAL FAULTS IN PUBLIC BUILDINGS",
+    "Author": "Alghanmi A.",
+    "Journal": "ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/IMECE2022-94599",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Manchester",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 0,
+    "Abstract": "The data-driven approach prioritises operational data and does not require in-depth knowledge of system background; nevertheless, it requires considerable amounts of data. Obtaining faulty building data is a significant challenge for researchers. As a result, employing simulated data can be beneficial in data-driven faults detection and diagnosis (FDD) analysis because it is inexpensive and can run multiple sorts of faults with varying severities and time periods. The predominant implementation of FDD techniques within the building sector is done at the system level. However, as useful as system-level analysis is, typical buildings are comprised of multiple systems with their peculiar characteristics. Also, individualised system level-based analysis makes it challenging and sometimes impossible to visualise system-to-system interactions. However, there is a glaring underrepresentation of literatures that explore the development of whole building models that diagnose faults over the entire building energy performance sphere. Therefore, this paper presents a work to detect and diagnose building systems (HVAC, lighting, exhaust fan) faults in whole building energy performance within hot climate areas, using energy consumption and weather data. The detection process on the main building meter was conducted using LSTM-Autoencoders, and different multi-class classification methods were compared for the diagnosis phase. Moreover, feature extraction approaches were included in the comparison to quantify their performance in improving the diagnosis."
+}

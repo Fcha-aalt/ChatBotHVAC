@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85069516077,
+    "Title": "Data-Driven User-Aware HVAC Scheduling",
+    "Author": "Petrov D.",
+    "Journal": "2018 9th International Green and Sustainable Computing Conference, IGSC 2018",
+    "Publication Date": {
+        "$date": "2018-10-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/IGCC.2018.8752161",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Department of Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "HVAC (Heat, Ventilation, Air Conditioning) systems account for significant amount of energy spent in residential and commercial buildings. Improved wall and window insulation, energy efficient bulbs as well as building design that facilitates a more optimal usage of the thermally conditioned air within a building, are amongst some of the measures taken to address the high usage of energy for space conditioning. In this paper we address a main issue that affects the energy consumption for heating and cooling of buildings, namely the duty cycle of the furnaces/air-conditioners. We propose D-DUAL, a 3-fold scheduling mechanism that builds on multiple variable linear regression model. Our scheduler minimizes the duty cycle and does not impact users' comfort. Our experimental evaluation shows that our proposed approach saves up to 49% energy, compared to commodity HVAC systems."
+}

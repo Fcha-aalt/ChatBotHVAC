@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174811278,
+    "Title": "Reduction in Energy Consumption of the 5G Communication System and Beyond Through Collaborative Optimization for BS Site Operation: Challenges, Efforts and the New Approach",
+    "Author": "Guan X.",
+    "Journal": "IEEE Transactions on Industrial Informatics",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/TII.2023.3310746",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an Jiaotong University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Wireless communication system such as the 5G system incurs significant energy consumption due to increased bandwidth, channels, complex architecture, great density of base station (BS) sites, and antennas. This article reviews two main approaches to enhancing energy efficiency of wireless communication systems. Despite the great efforts made, the energy consumption and costs remain high, and energy savings are critical to sustainability of the 5G system. This article presents a new optimization-based approach to reducing the energy consumption and costs of wireless communication systems through the collaborative operation of telecom equipment and supporting infrastructure while satisfying the requirements of the operating environment of BS equipment based on their forecasted traffic loads and durations. The new approach is implemented in various types of the 5G BS sites in operation in Guang Dong Province, China. The meter measurement shows that with the new approach more than 12<inline-formula><tex-math notation=\"LaTeX\">$&#x0025;$</tex-math></inline-formula> total energy cost reduction of the BS sites is achieved."
+}

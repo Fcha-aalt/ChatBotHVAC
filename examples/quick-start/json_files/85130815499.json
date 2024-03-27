@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85130815499,
+    "Title": "Energy Optimization of Air Handling Units Using Constrained Predictive Controllers Based on Dynamic Neural Networks",
+    "Author": "Asvadi-Kermani O.",
+    "Journal": "IEEE Access",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ACCESS.2022.3177660",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tarbiat Modares University",
+    "Affliation Country": "Iran",
+    "Cited by count": 3,
+    "Abstract": "Optimizing energy consumption in buildings is a significant challenge in today's society. A major part of energy consumption is in heating, ventilation and air conditioning (HVAC) systems. In this paper, the aim is to reduce the energy consumption of air handling units (AHU) by applying optimal control. This system used in this study has four AHUs, all of which are assumed to be the same. Due to the uncertainty of the temperature of the heat exchanger's (H/E) inlet and outlet water, a model of the system was first made using its hypothetical capacity according to the ASHRAE standards. The inlet and outlet water temperatures are calculated using simulated and real data. In order to increase the model's accuracy and facilitate implementation on a real system, the data obtained is used to train a dynamic recurrent neural network (RNN) for the H/E. Furthermore, to increase the system's stability and bolster its response to disturbances, which change system parameters over time and reduce the accuracy of neural network models, an online recursive least squares (RLS-based) adaptive constrained generalized predictive controller (AGPC) is used to control its outlet air temperature. The AGPC attempts to minimize the computational load and estimates the transfer function by using continuously updated input-output data from the model; this model has fewer parameters than the RNN model. Finally, the power consumption of the H/E is calculated. The outlet humidity and airflow are controlled using an optimal controller to minimize energy consumption. The results show a reduction in the energy consumption of 54.95% with respect to the previous work and of 69.9% compared to the dataset from the real system."
+}

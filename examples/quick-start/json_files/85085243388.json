@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85085243388,
+    "Title": "What drives our behaviors in buildings? A review on occupant interactions with building systems from the lens of behavioral theories",
+    "Author": "Heydarian A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-07-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.106928",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Virginia",
+    "Affliation Country": "United States",
+    "Cited by count": 80,
+    "Abstract": "Occupant behavior has a significant impact on building systems’ operations and efficiency. As a result, several innovative approaches have been introduced to quantify the dynamics of occupants within indoor environments, such as interactions with different building systems and the impact of various feedback and interventions to reduce the building energy consumption. To achieve this, researchers have highlighted the importance of reducing energy consumption without impacting occupant comfort. As a result, there is an increasing body of research evaluating how different theories of behavior across a variety of disciplines can explain occupant interactions with building systems. Future progress in this area calls for an in-depth understanding of behavioral theories in explaining occupant interactions with different building systems. In this paper, we have used a structured literature review approach to investigate how different psychological, sociological, and economic theories have been applied to explain occupant interactions with heating and cooling (HVAC systems), opening windows and ventilation, lighting and shading, electronic appliances, domestic hot water, as well as energy conservation behaviors. Throughout the paper, we identify the most common theories and methodologies applied within the existing research, general findings related to how occupants interact with different building systems, as well as a number of identified gaps within the literature. Finally, we provide a discussion on directions for future research studies in this area under each building system."
+}

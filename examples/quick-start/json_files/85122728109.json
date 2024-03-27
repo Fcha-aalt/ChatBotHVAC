@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85122728109,
+    "Title": "Controlled adjustments of indoor microclimate parameters for building's energy demand management",
+    "Author": "Sleptsov A.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2021-09-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.egyr.2021.06.037",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Skolkovo Institute of Science and Technology",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 2,
+    "Abstract": "Indoor air quality and thermal comfort are regulated by heating, ventilation, and air-conditioning (HVAC) system modules, which play an increasing role in integrating buildings into future energy networks as active nodes permitting flexible consumption management. A building's HVAC devices are controlled by automation and control systems consisting of basic and supervisory control layers. Local discrete-mode controllers of HVAC system devices, which receive control signals proposed by a supervisory control method, cause a performance gap between these control layers. Here, we study the performance gap of discrete-mode controllers and examine how such controllers can maintain set-points, using simulation studies developed in the TRNSYS software environment. Considering a set of different devices operating within one room to manage its indoor air temperature and quality, we show that coordination of their discrete-mode controllers may yield a sizeable, larger than 10%, reduction of the heat use and average thermal load. However, such coordination may also entail indoor comfort violation, meaning that there should be a trade-off between comfort and energy performance. We propose controlled adjustments of indoor microclimate parameters to manage heat use (kWh) and thermal load (kW) within demand-side management programs. According to our simulation studies for discrete-mode controllers, the heat use and average thermal load may be reduced by up to 14.1%, ceding the indoor temperature set-point profile by 1 °C and the proportion of fresh air in the room by 50%. Hence, the controlled adjustments of various indoor microclimate parameters would be an excellent approach for integrating HVAC system field devices with discrete-mode controllers, and thereby buildings, into future energy networks providing them extra flexibility."
+}

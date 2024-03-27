@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060087185,
+    "Title": "Simulation and identification of hydronic radiator model as a first step towards efficient control of thermal energy consumption in zones",
+    "Author": "Bevanda I.",
+    "Journal": "Annals of DAAAM and Proceedings of the International DAAAM Symposium",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.2507/29th.daaam.proceedings.154",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The buildings sector is the largest energy consumer with over one-third of final energy consumption globally and HVAC systems are its main energy-consuming component. Energy efficient control of heating and cooling processes can give a great contribution to overall energy savings. In this paper a hydronic radiator model has been developed and simulated using Mathwork’s dynamic simulation package Simulink. The mathematical model has been described using first order non-linear differential equations. The identification of unknown parameters has been carried out in Matlab using nonlinear programming solver. This procedure is the first step towards the model predictive control of the radiator since the estimated parameters are needed for calculation of maximum energy transmitted to the zone."
+}

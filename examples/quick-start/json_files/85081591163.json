@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85081591163,
+    "Title": "5th International Workshop on Security of Industrial Control Systems and Cyber-Physical Systems, CyberICPS 2019, the 3rd International Workshop on Security and Privacy Requirements Engineering, SECPRE 2019, the 1st International Workshop on Security, Privacy, Organizations, and Systems Engineering, SPOSE 2019, and the 2nd International Workshop on Attacks and Defenses for Internet-of-Things, ADIoT 2019, held in conjunction with the 24th European Symposium on Research in Computer Security, ESORICS 2019",
+    "Author": NaN,
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 27 papers. The special focus in this conference is on Security of Industrial Control Systems and Cyber-Physical Systems. The topics include: ADIoT 2019 preface; anomaly detection for industrial control systems using sequence-to-sequence neural networks; a conceptual redesign of a modelling language for cyber resiliency of healthcare systems; shaping digital identities in social networks: Data elements and the role of privacy concerns; GDPR compliance: Proposed technical and organizational measures for cloud providers; on the applicability of security and privacy threat modeling for blockchain applications; privacy, security, legal and technology acceptance requirements for a gdpr compliance platform; uncertainty-aware authentication model for IoT; From ISO/IEC 27002:2013 information security controls to personal data protection controls: Guidelines for GDPR compliance; on the trade-off between privacy and utility in mobile services: A qualitative study; analysis of automation potentials in privacy impact assessment processes; an insight into decisive factors in cloud provider selection with a focus on security; reflective attenuation of cyber-physical attacks; discrete event simulation of jail operations in pursuit of organizational culture change; a basic theory of lightweight hierarchical key predistribution scheme; adversarial examples for hardware-trojan detection at gate-level netlists; selective forwarding attack on IoT home security kits; Denial-of-service attacks and countermeasures in the RPL-based internet of things; Study of DNS rebinding attacks on smart home devices; Anomaly detection in the HVAC system operation by a radviz based visualization-driven approach; secure location verification: Why you want your verifiers to be mobile; Distributed UCON in CoAP and MQTT protocols."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072791840,
+    "Title": "Modeling and optimizing a chiller system using a machine learning algorithm",
+    "Author": "Kim J.H.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-07-25T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12152860",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Gachon University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 23,
+    "Abstract": "This study was conducted to develop an energy consumption model of a chiller in a heating, ventilation, and air conditioning system using a machine learning algorithm based on artificial neural networks. The proposed chiller energy consumption model was evaluated for accuracy in terms of input layers that include the number of input variables, amount (proportion) of training data, and number of neurons. A standardized reference building was also modeled to generate operational data for the chiller system during extended cooling periods (warm weather months). The prediction accuracy of the chiller’s energy consumption was improved by increasing the number of input variables and adjusting the proportion of training data. By contrast, the effect of the number of neurons on the prediction accuracy was insignificant. The developed chiller model was able to predict energy consumption with 99.07% accuracy based on eight input variables, 60% training data, and 12 neurons."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179505751,
+    "Title": "Using surrogate modelling and stochastic optimization for optimal day-ahead demand response strategies under weather uncertainty",
+    "Author": "Qin Q.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1175",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Laval",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Demand response (DR) programs are a promising way to increase the stability of the electrical grid and enable greater uptake of intermittent and renewable energy sources by balancing the supply and demand of electricity. For buildings, demand flexibility is defined as the ability to shift their energy consumption away from peak periods (termed a ‘demand event’). Heating, ventilation and air conditioning (HVAC) systems of buildings can provide such flexibility. However, the demand response flexibility of HVAC systems is sensitive to the weather. A surrogate modelling approach is proposed to allow sub-hourly stochastic modelling to be coupled with a robustness analysis within reasonable computational time. The surrogate model is a machine learning model used as a fast approximation of a dynamic energy model; we develop a formulation to obtain time-series outputs from the surrogate model. A method to quantify the error between the optimal solution of the full optimization using the dynamic energy simulation and the surrogate-based approach is developed. The results show that the proposed method reduces computational time by 90% while introducing only a 3% error. This makes the proposed method a potential solution for day-ahead demand-response optimization with consideration of uncertainty."
+}

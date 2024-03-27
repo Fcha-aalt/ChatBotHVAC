@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145855637,
+    "Title": "Multi-parameter analysis of different building forms in a semi-arid climate: Effect of building construction and phase change materials",
+    "Author": "Ait Laasri I.",
+    "Journal": "Solar Energy",
+    "Publication Date": {
+        "$date": "2023-01-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.solener.2022.12.050",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Green Energy Park",
+    "Affliation Country": "Morocco",
+    "Cited by count": 6,
+    "Abstract": "This paper presents a comparative study that will evaluate and optimize 96 building cases in a multi-parametric manner. This study is conducted by using the EnergyPlus simulation software with the integrated PCM hysteresis model. The studied building designs were carefully selected to have equivalent air volume, while taking into consideration the outer wall shape of the building to increase or decrease the outside sun and wind exposed surface as well as increasing the PCM area inside the buildings. Three different building forms were evaluated, the square form, the octagonal form which is considered as the building design with a reduced surface, and finally the innovative zigzag form which has a higher wall surface compared to the square form. Additionally, these three building forms, were evaluated at two different constructions (light-weight and heavy-weight), four different PCM types and four different HVAC scenarios. The main purpose of this study is to assess indoor air temperature fluctuation reduction, energy efficiency, and PCM activation. The results reveal an energy saving up to 13.1 % and a maximum total yearly temperature fluctuation reduction of 653 °C. The recommended building configuration was able to reach a maximum PCM activation of 26.63 %."
+}

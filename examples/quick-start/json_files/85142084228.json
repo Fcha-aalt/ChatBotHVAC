@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85142084228,
+    "Title": "Development of a simplified calibrated building simulation model of a supermarket for proposed ECMs and control strategies impact evaluation",
+    "Author": "Kunwar N.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1177/01436244221137241",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Calibrated building energy simulation is an important pathway to more energy-efficient buildings, but the information requirements of some approaches to this problem are significant. This is particularly true for supermarkets and other so-called “big-box” retail stores. Another characteristic of supermarkets is the significant interaction between Heating Ventilating and Air Conditioning (HVAC) and refrigeration systems in these buildings. These buildings could contain a wide variety of systems and a degree of load diversity that makes calibrated modeling a challenge. This paper describes a simplified approach that uses OpenStudio and EnergyPlus to combine known building parameters with “typical” parameters, resulting in a simplified building that is amenable to calibration. This approach was applied to a big-box store located in Nashville, Tennessee, and a calibrated model was obtained that was used to study potential energy conservation measures. The paper also explores the capabilities of whole-building energy modeling tools, such as EnergyPlus, for modeling the HVAC controls and sequences and their impact evaluation. Although some measures are precluded by the model simplicity, several measures were found to improve the efficiency of the model and demonstrate that the simplified modeling approach is effective. Practical Application : This paper introduces a hybrid approach of building energy model calibration using limited information available from the actual building in combination with characteristics of a “typical” building of the same type. This hybrid approach would also be applicable for other building types than discussed in this paper to calibrate the building energy model using limited information from the actual building."
+}

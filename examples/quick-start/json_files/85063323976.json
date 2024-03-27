@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063323976,
+    "Title": "Overview of computational intelligence for building energy system design",
+    "Author": "Sha H.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2019-07-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.rser.2019.03.018",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 37,
+    "Abstract": "Building energy systems, i.e. heating, ventilation, and air-conditioning (HVAC) systems, are essential for modern buildings. They provide a comfortable and healthy indoor environment. Design quality has significant impact on HVAC system efficiency. The typical building energy system design process involving several procedures is repetitive and time-consuming. It is often limited by the engineer's experience, capabilities, and time constraints; thus, the design in most cases barely satisfies building codes. In recent decades, computational intelligence (CI) has achieved substantial improvements in various fields. This paper presents a comprehensive review of using CI for HVAC system optimization design. Firstly, this paper analyzes seven procedures which constitute a typical HAVC system design process and finds that optimization problems encountered during design process can be divided into three categories: model estimation, decision making and uncertainty analysis. Then a brief introduction of CI techniques used to solve HVAC design optimization problems and detailed literature review of application examples are given. Though the design problem varies with each other, this paper outlines a typical workflow which is able to solve most HVAC optimization design problems. At last, a framework of an integrated HVAC automation and optimization design tool is proposed. The framework is developed based on building information modeling (BIM) and extracted typical design optimization workflow. It is able to connect various design stages by implementing structured information transfer between them and ultimately improve design efficiency and quality."
+}

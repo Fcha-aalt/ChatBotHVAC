@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088231245,
+    "Title": "An adaptive vent system for localized and customized thermal management in buildings",
+    "Author": "Keskin C.",
+    "Journal": "Journal of Heat Transfer",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1115/1.4045664",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Özyeğin Üniversitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 7,
+    "Abstract": "This paper introduces an innovative ventilation system that is capable of providing localized and customized thermal conditions in buildings. The system has diffusers with individually operable flaps that facilitate asymmetric air inlet to control air flow inside a room in an effective way. Moreover, the system involves distributed temperature sensors, a user interface, and a control unit that allows creation and management of “thermal subzones” within a room in accordance with the different preferences of occupants. As a specific case, the thermal management of a typical office in an academic building is considered. Both experimental and numerical studies were conducted to show that it is possible to achieve several degrees of temperature differences at different room locations in a transient and controllable fashion. The dynamic management of the temperature distribution in a room can prevent the waste of conditioning energy. It is shown that the system provides a practical and impactful solution by adapting to different user preferences (UPs) and by minimizing the resource use. In order to deal with the complexity of design, development, and operation of the system, it is considered as a cyber-physical-social system (CPSS). The core of the CPSS approach used here is an enhanced hybrid system modeling methodology that couples human dimension with formal hybrid dynamical modeling. Based on a coherent conceptual framing, the approach can combine the three core aspects, like cyber infrastructure, physical dynamics, and social/human interactions of modern building energy systems to accommodate the environmental challenges. Besides physics-based achievements (managing temperature distribution inside a room), the new AVS can also leverage user engagement and behavior change for energy efficiency in buildings by facilitating a new practice for occupants' interaction with heating, ventilation, and air conditioning (HVAC) system."
+}

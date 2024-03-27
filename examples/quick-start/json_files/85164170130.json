@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85164170130,
+    "Title": "Calibrated Energy Modeling Importance—A Sensitivity Analysis of Building Enclosure Performance Factors",
+    "Author": "Civitillo J.M.",
+    "Journal": "ASTM Special Technical Publication",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1520/STP163520210030",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "WDP Consulting Engineers",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The green building movement has motivated many governing bodies to pursue regulation of building energy efficiency. In 2019, New York City introduced unprecedented legislation targeting the operational energy consumption of the existing building stock. The intent of Local Law 97 is to impose increasingly rigorous limitations on greenhouse gas emissions from buildings 25,000 sq. ft. or greater. Based on current building utility data, approximately 75% of buildings subject to this legislation will not comply with limits set for 2030. Consequently, this legislation is expected to lead building owners to pursue energy modeling to predict future energy usage and evaluate various energy conservation measures. Energy models for existing buildings must be calibrated on the basis of current HVAC equipment, operational schedules, occupancy rates, lighting loads, process loads, facade construction, climatic data, and historical utility consumption. When dealing with existing buildings, documentation is often not available regarding the as-built conditions of the building systems or enclosure performance. To develop an energy model, assumptions must be made regarding the building enclosure, including the opaque thermal performance, air exfiltration and infiltration, fenestration performance, or the presence of thermal bridging. These assumptions can result in conservative inputs that do not reflect the built condition. The building enclosure performance has a direct impact on the operational performance of the HVAC systems and therefore the overall building energy consumption. This paper explores the impact of variations in building enclosure performance assumptions on the overall building energy usage. It provides recommendations for investigative methods to quantify the performance of the existing building enclosure to improve modeling accuracy. These methods include but are not limited to instrumentation to determine in situ R-values, blower door testing to measure air infiltration and exfiltration, and National Fenestration Rating Council simulation to define fenestration performance. Finally, this paper determines the relative importance of each variable in energy model calibration."
+}

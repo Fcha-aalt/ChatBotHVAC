@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019888327,
+    "Title": "Next-generation HVAC: Prospects for and limitations of desiccant and membrane-based dehumidification and cooling",
+    "Author": "Labban O.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.apenergy.2017.05.051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "MIT School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 84,
+    "Abstract": "Recently, next-generation HVAC technologies have gained attention as potential alternatives to the conventional vapor-compression system (VCS) for dehumidification and cooling. Previous studies have primarily focused on analyzing a specific technology or its application to a particular climate. A comparison of these technologies is necessary to elucidate the reasons and conditions under which one technology might outperform the rest. In this study, we apply a uniform framework based on fundamental thermodynamic principles to assess and compare different HVAC technologies from an energy conversion standpoint. The thermodynamic least work of dehumidification and cooling is formally defined as a thermodynamic benchmark, while VCS performance is chosen as the industry benchmark against which other technologies, namely desiccant-based cooling system (DCS) and membrane-based cooling system (MCS), are compared. The effect of outdoor temperature and humidity on device performance is investigated, and key insights underlying the dehumidification and cooling process are elucidated. In spite of the great potential of DCS and MCS technologies, our results underscore the need for improved system-level design and integration if DCS or MCS are to compete with VCS. Our findings have significant implications for the design and operation of next-generation HVAC technologies and shed light on potential avenues to achieve higher efficiencies in dehumidification and cooling applications."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056664593,
+    "Title": "Optimization of heating, Ventilating and Air Conditioning (HVAC) systems: A review",
+    "Author": "Kuan Y.N.",
+    "Journal": "Journal of Engineering and Applied Sciences",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3923/jeasci.2018.9049.9064",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tunku Abdul Rahman University of Management and Technology",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 1,
+    "Abstract": "Heating, Ventilating and Air Conditioning (HVAC) systems have become a very essential part in our daily lives in providing comfortable and satisfactory indoor conditions. As a consequence, large amount of energy are consumed every year in HVAC application to produce a desirable thermal environment. In light of the increasing energy consumption, energy efficiency improvement has become the ultimate goal of many authorities. Recent advances and revolutionary improvements in computing systems make optimization approaches one of the promising techniques in achieving greatest energy efficiency in HVAC application. This study gives an overview of research conducted on optimization techniques used in HVAC systems for energy and comfort purposes. Current literature are summarized with highlights given to the optimization algorithms used, control scheme, objective function parameters, HVAC simulation tools, optimization programs and HVAC simulation model approaches. Trends in HVAC optimization, performance and efficiency analysis of mostly used algorithms as well as factors affecting selection of algorithms will be mainly discussed in this study."
+}

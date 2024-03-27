@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85106865155,
+    "Title": "Multi-objective optimization of hvac operation for balancing energy use and occupant comfort in educational buildings",
+    "Author": "Franco A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-05-02T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14102847",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "The paper provides a methodology for the optimal control of heating, ventilation, and air conditioning (HVAC) systems used in public buildings, with the purpose of obtaining high comfort and safety standards along with energy efficiency. The combination of the two concurrent objectives of minimizing energy use and guaranteeing high standards of occupant comfort is obtained by means of multi-objective optimization, in which a comfort model is combined along with a dynamic energy model of the building. The use of dynamic setpoints for the HVAC and the inclusion of comfort indicators represent a step forward, compared to the current design and operation procedures suggested by technical standards. The utilization of the proposed methodology is tested with reference to a case study, represented by an academic building used by the University of Pisa for educational purposes, whose extensive and variable occupancy can help to emphasize the importance of comfort in the operation of HVAC systems in different climatic conditions and with different occupancy profiles. We show how this optimization brings interesting results in terms of energy-saving (up to 30%), obtaining an increased comfort level (of more than 25%) compared to the operating conditions suggested by technical standards."
+}

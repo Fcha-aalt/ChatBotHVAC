@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85051079894,
+    "Title": "Solar heat gains through train windows: a non-negligible contribution to the energy balance",
+    "Author": "Bouvard O.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1007/s12053-018-9643-7",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "École Polytechnique Fédérale de Lausanne",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 9,
+    "Abstract": "The sector of transportation accounts for about one third of the total energy consumption in Switzerland. A monitoring campaign of the energy consumption of a regional train revealed the critical energy-consuming systems. Heating, cooling and ventilation were identified as major consumers. Windows are a source of non-controlled heat transfer. In summer, it may result in overheating leading to larger cooling loads while in winter, it is an important source of thermal losses. Selective double glazing and solar protection coatings can reduce these effects. Angular-dependent optical properties of a selective double glazing have been measured, and the solar heat gain coefficient (g value) was determined. An estimation of the solar gains received by a panoramic waggon was performed using the monitored solar irradiation and the measured properties of the glazing. These data were compared to the heating and cooling energy consumption monitored in this waggon. Solar gains were found to be in the same order of magnitude that the heating energy during some sunny days. They were also compared to the estimated thermal losses through the glazing and the entire envelope. These results show that the solar gains play a non-negligible role in the energy balance of the waggon. Furthermore, thermal simulations were performed to evaluate the solar gains in different conditions. It showed that 7 to 13% of energy can be saved using the glazing adapted to the climatic conditions. In addition, improving the thermal insulation of the train envelope or equipping the train with an efficient heat recovery system can lead to significant energy savings."
+}

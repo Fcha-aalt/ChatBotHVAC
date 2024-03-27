@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84949494535,
+    "Title": "Development of a whole building model predictive control strategy for a LEED silver community college",
+    "Author": "Hilliard T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2015.11.051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Dalhousie University",
+    "Affliation Country": "Canada",
+    "Cited by count": 15,
+    "Abstract": "A model predictive control strategy method is developed for a LEED silver community college building that contains an advanced common loop heat pump HVAC system. MPC is performed using persistence based climate forecasting with two scenarios examined: fixed temperature setpoint pairs; and a deadband of 1 °C between the heating/cooling setpoint. EnergyPlus acts as the \"real\" building and is linked with R software for model predictive control via the Building Controls Virtual Test Bed. A statistical based building response model is created in R using training data from a calibrated EnergyPlus model. A brute force optimization strategy is used for solving the objective function. A piece-wise objective function maintains thermal comfort during occupied periods with a focus on reducing energy consumption during other periods. Results when using fixed setpoint pairs exhibit a 4% reduction in HVAC energy consumption, and deadband setpoints exhibit a 9% reduction in HVAC energy consumption, compared with reactive rule based control. Of interest is that the type of energy savings (thermal energy vs electricity) varies depending upon the setpoint options. The results are promising given the strict thermal comfort requirement employed, minimal search space, use of simplistic persistence forecasting, and the sophisticated HVAC system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85029898223,
+    "Title": "Regression analysis of the energy consumption of tertiary buildings",
+    "Author": "Arregi B.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.07.290",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "TECNALIA",
+    "Affliation Country": "Spain",
+    "Cited by count": 17,
+    "Abstract": "Energy signature methods are applied over three tertiary buildings in the UK, Sweden and Spain, based on both simulations and experimental data, for pre-and post-retrofit scenarios. Variations in their energy profiles relate to differences in climate severity, usage pattern (continuous/discontinuous) and HVAC scheduling. This study discusses the impact of such particularities for obtaining a steady-state linear regression model of the dependence of heating energy load against climate data. The choices of dataset and time step have important implications for the results obtained."
+}

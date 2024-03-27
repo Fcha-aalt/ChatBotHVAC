@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123362402,
+    "Title": "Control Architectures of Solar-Powered HVAC Systems: A DC-DC Converter's Perspective",
+    "Author": "Swaminathan N.",
+    "Journal": "2021 IEEE Energy Conversion Congress and Exposition, ECCE 2021 - Proceedings",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ECCE47101.2021.9595106",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oregon State University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Solar-powered energy efficient buildings could tie HVAC systems with solar energy and the grid to function together. Such HVAC systems require the grid, batteries, or other energy storage to supply or consume the excess power. This paper presents four different control architectures for solar-powered HVAC systems, focusing on their DC-DC converters. The analysis finds that a higher transformer turns ratio, as within the converter, is required on architectures with a fixed DC bus as opposed to those with a varying DC bus. On the other hand, the varying DC bus architectures require a wider duty ratio range, higher input inductance and output capacitance, a finding compounded due to larger low-power voltage ripples. The results are validated via hardware experimental testing from a 500 W solar simulator (power supply), a front-end current-fed full-bridge DC-DC converter, and a variable load mimicking the HVAC. A table then summarizes the features, advantages, and disadvantages of each architecture."
+}

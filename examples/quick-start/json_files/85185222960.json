@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85185222960,
+    "Title": "Development of an in-home energy rating tool for existing housing",
+    "Author": "Ren Z.",
+    "Journal": "Proceedings of the International Congress on Modelling and Simulation, MODSIM",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 0,
+    "Abstract": "In 2019, energy ministers agreed the Trajectory for Low Energy Buildings (the Trajectory). It aims to improve Australia’s energy productivity by 40% between 2015 and 2030. One of the key aspects in the Trajectory for residential buildings is to expand the Nationwide House Energy Rating Scheme (NatHERS) to offer nationally accredited whole-of-home (WoH) tools to enable compliance requirements in the National Construction Code (NCC). CSIRO was commissioned by the NatHERS Administrator to develop a benchmark WoH tool for existing housing. For this purpose the WoH tool was developed by implementing new modules for space heating and cooling, water heating, lighting, swimming pool, other appliances, and solar PV into the modified version of AusZEH design tool. The initial version of the tool was released in May 2022 for evaluation. After receiving feedback from stakeholders, the WoH tool was recently updated with the extensive input from the NatHERS Technical Advisory Committee (TAC) and other industry experts. The whole-of-home framework builds on the existing NatHERS framework and technology. Energy requirements for space heating and cooling are simulated by the Chenath engine developed by CSIRO. Considering energy efficiency of heating ventilation and air conditioning (HVAC) systems and the related system losses, hourly energy consumption is calculated over a period of one year. Energy consumption modules for other appliances, including lighting, water heating, plug-in load, cooking, pool pump, are also developed based on previous monitoring and survey studies and related standards. To demonstrate the tool’s capability for calculations of whole-of-home energy consumption, and energy value and rating, a case study was conducted for capital cities of Australia states and territories using a detached house built in 1990 with a gross floor area of 293 m2. As expected, a large amount of energy is required for space heating in Hobart and Canberra (heating dominated regions), and for space cooling in Darwin (tropical regions). To operate the house, when only electricity supply is available, Darwin is the most expensive city (near A$7000). It is the cheapest in Brisbane. The energy rating scale is 0 in Canberra, Darwin, Hobart and Melbourne. That means the energy performance of the house in these cities is under the worst energy performance condition. With the house being updated with high energy performance building envelop and high energy efficient equipment and appliances, more than half energy was saved in all the eight cities. To achieve zero energy (carbon) housing, installation of 5 kW solar PV is required in Darwin and Hobart, 4 kW in Melbourne and Canberra, 3.5 kW in Adelaide and Sydney, and 3 kW in Brisbane and Perth. Even it was achieved zero energy, it needs several hundred Australia dollars to operate the retrofitted house (except in Darwin) as the difference in tariffs for electricity imported and exported."
+}

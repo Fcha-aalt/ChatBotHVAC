@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150300115,
+    "Title": "A bi-level data-driven framework for fault-detection and diagnosis of HVAC systems",
+    "Author": "Movahed P.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2023.120948",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Purdue School of Engineering and Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Long-term operation of heating, ventilation, and air conditioning (HVAC) systems will eventually lead to a range of HVAC system failures, resulting in excessive energy consumption and maintenance costs. To avoid HVAC malfunctioning, fault detection diagnostic (FDD) is utilized as a common practice. Machine learning methods have lately received considerable interest for FDD analysis of HVAC systems due to their high detection accuracy. Meanwhile, HVAC malfunctions are regarded as rare occurrences, hence normal operating data samples are much more accessible than data samples in faulty and malfunctioning conditions. The dominating frequency of normal operation in HVAC datasets has also led to heavily biased classification algorithms within the literature. Moreover, the focus of previous literature has been on increasing the accuracy of the models which leads to a high number of false positives (misleading alarms) in the system. In order to enhance the performance of diagnostic procedures and fill the mentioned gaps, this study proposes a novel data-driven framework. A bi-level machine learning framework is developed for diagnosing faults in air handling units (AHUs) and rooftop units (RTUs) based on principal component analysis (PCA), time series anomaly detection, and random forest (RF). It is shown that PCA can reduce the dataset dimension with one principal component accounting for 95% of data variance. Also, the random forest could classify the faults with 89% precision for single-zone AHU, 85% precision for RTU, and 79% for multi-zone AHU. By proposing this framework, three persistent challenges are addressed: (I) minimizing false positives; (II) accounting for data imbalance; and (III) normal condition monitoring of equipment."
+}

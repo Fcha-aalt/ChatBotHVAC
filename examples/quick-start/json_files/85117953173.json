@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117953173,
+    "Title": "7th IFAC Conference on Nonlinear Model Predictive Control, NMPC 2021 - Proceedings",
+    "Author": NaN,
+    "Journal": "IFAC-PapersOnLine",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 56 papers. The topics discussed include: virtual storage plant aggregating electrical energy storages and HVAC systems providing regulating reserve and voltage regulation; predictive control co-design for enhancing flexibility in residential housing with battery degradation; deep learning explicit differentiable predictive control laws for buildings; transient performance of tube-based robust economic model predictive control; feedback-optimizing model predictive control for constrained linear systems; zero-order robust nonlinear model predictive control with ellipsoidal uncertainty sets; and reducing the computational effort of min-max model predictive control with regional feedback laws."
+}

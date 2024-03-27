@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086503067,
+    "Title": "Energy usage reduction in an air handling unit by incorporating two heat recovery units",
+    "Author": "Shahsavar Goldanlou A.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.jobe.2020.101545",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Duy Tan University",
+    "Affliation Country": "Viet Nam",
+    "Cited by count": 68,
+    "Abstract": "Due to the high energy usage in buildings, researchers have sought to reduce energy consumption in this sector. In this regard, lower energy demands undoubtedly reduce the large amounts of energy consumed for heating, ventilation, and air conditioning (HVAC) in buildings. In this study, a novel design of the air handling unit (AHU) equipped with the primary and secondary heat recovery units was proposed to diminishing energy demand through the energetic and exergetic analysis. In the primary heat recovery unit, the incoming fresh air is pre-cooled to decrease energy usage in cooling coil whereas, in the second one, the cooling coil outlet air is preheated to diminish the heating coil load. Due to the installing energy recovery units, the cooling and heating coils load decreased by 21.65% and 81.17%, respectively, which improved the energy efficiency by 43.75%. Also, the total irreversibility was reduced by 24.56%, and the second law efficiency improved by 9.27%. The sensitivity analysis results revealed that the quota of ambient temperature and relative humidity, chilled water temperature, and the amount of ventilation were more effective than other input parameters."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85040637957,
+    "Title": "Random neural networks based cognitive controller for HVAC in non-domestic building using LoRa",
+    "Author": "Javed A.",
+    "Journal": "Proceedings of 2017 IEEE 16th International Conference on Cognitive Informatics and Cognitive Computing, ICCI*CC 2017",
+    "Publication Date": {
+        "$date": "2017-11-14T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICCI-CC.2017.8109753",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Glasgow Caledonian University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 4,
+    "Abstract": "The critical requirements for devices connected in Internet of Things (IoT) are long battery life, long coverage range, and low deployment cost. In our previous work, we developed cognitive controller for controlling the HVAC of non-domestic building using short range communication in an unlicensed spectrum (915 MHz). In this work, we have upgraded our cognitive controller with recently developed long range communication (LoRa) technology and compared it with short range RF communication in an indoor building. The comparison is made in terms of battery life, coverage range, control accuracy and memory size. The effect of changing the transmission power of LoRa on battery consumption of the sensor node is also evaluated. Results show that coverage range of LoRa is 60.4% more than short range communication inside a building."
+}

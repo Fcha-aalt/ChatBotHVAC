@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147603641,
+    "Title": "Modelling virtual sensors for real-time indoor comfort control",
+    "Author": "Edtmayer H.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-05-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106040",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Technische Universitat Graz",
+    "Affliation Country": "Austria",
+    "Cited by count": 0,
+    "Abstract": "Increasing demands on indoor comfort in buildings and urgently needed energy efficiency measures require optimised HVAC systems in buildings. To achieve this, more extensive and accurate input data are required. This is difficult or impossible to accomplish with physical sensors. Virtual sensors, in turn, can provide these data; however, current virtual sensors are either too slow or too inaccurate to do so. The aim of our research was to develop a novel digital-twin workflow providing fast and accurate virtual sensors to solve this problem. To achieve a short calculation time and accurate virtual measurement results, we coupled a fast building energy simulation and an accurate computational fluid dynamics simulation. We used measurement data from a test facility as boundary conditions for the models and managed the coupling workflow with a customised simulation and data management interface. The corresponding simulation results were extracted for the defined virtual sensors and validated with measurement data from the test facility. In summary, the results showed that the total computation time of the coupled simulation was less than 10 min, compared to 20 h of the corresponding CFD models. At the same time, the accuracy of the simulation over five consecutive days was at a mean absolute error of 0.35 K for the indoor air temperature and at 1.2% for the relative humidity. This shows that the novel coupled digital-twin workflow for virtual sensors is fast and accurate enough to optimise HVAC control systems in buildings."
+}

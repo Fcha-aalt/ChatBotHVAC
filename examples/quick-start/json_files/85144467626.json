@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144467626,
+    "Title": "Ethanol adsorption onto various metal organic frameworks for cooling applications",
+    "Author": "Hasan Rupam T.",
+    "Journal": "Thermal Science and Engineering Progress",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.tsep.2022.101602",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kyushu University",
+    "Affliation Country": "Japan",
+    "Cited by count": 2,
+    "Abstract": "Global energy demand has risen due to rapid development and overpopulation. Heating, ventilation, and air conditioning (HVAC) systems consume over half of all energy consumed in buildings and account for 10 to 20% of overall energy consumption in developed countries. Worldwide, energy-intensive vapor compression systems are employed for HVAC applications that contribute significantly to global warming. An efficient adsorption cooling system has been regarded as one of the most potent alternatives to the high-power consuming vapor compression systems due to its low power consumption and the usage of environment-friendly refrigerants. Additionally, adsorption chillers can be driven by low-grade waste heat (<100 °C), which is abundantly available in the domestic and industrial sectors. Therefore, in this study, ethanol (a low GWP refrigerant) adsorption onto three different metal organic frameworks (MOFs): aluminum fumarate, CAU–10H, and MIL–100(Fe) have been experimentally investigated at three different temperatures with varying evaporation temperatures. The experimental isotherm data are correlated with Dubinin-Ashtakov (DA) or Dubinin-Radushkevich (DR) adsorption isotherm models. Moreover, theoretical computations are performed to obtain and compare the adsorption enthalpy, specific cooling effect, and coefficient of performance among the selected samples. This comparative study is vital in choosing the proper MOF/ethanol pair for an efficient adsorption heat pump."
+}

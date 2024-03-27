@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068765337,
+    "Title": "I-ZEB: Design and Development of a ZEB Test-Laboratory for an Integrated Evaluation of Building Technologies",
+    "Author": "Danza L.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-06-21T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/290/1/012092",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Research Council of Italy (ITC-CNR)",
+    "Affliation Country": "Italy",
+    "Cited by count": 2,
+    "Abstract": "Energy efficiency of buildings is a critical issue for international and national policy. The European Directives provide strict requirements for buildings, imposing the near Zero Energy Building (nZEB) standard for new or refurbished public and private buildings starting from 2018 and 2020, respectively. Furthermore, Zero Energy Building (ZEB) is a recognized as a standard in order to improve the energy efficiency of the building sector. The collaboration of the professional and industrial sectors along with the scientific research allows to face these challenges. Within a research project, called I-ZEB, a ZEB test-laboratory where the stakeholders can test their solutions is designed and developed. The facility is designed in compliance with ZEB standard and is suitable for performing researches on new building technologies and their interaction with the built environment. The paper describes the design, the testing and the validation phases of the facility. High performing envelope, efficient HVAC, renewable energy source systems and advance control logics are the technical pillars of I-ZEB. Several characterization tests, including thermal, acoustic and environmental performance, have been carried out in order to detect the most suitable technical solutions. Moreover, the results will be tested and validated through a continuous monitoring of energy and environmental variables within the laboratory."
+}

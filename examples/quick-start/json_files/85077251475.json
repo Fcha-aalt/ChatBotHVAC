@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077251475,
+    "Title": "High Sensitivity and Wide Dynamic Range Thermoresistive Micro Calorimetric Flow Sensor with CMOS MEMS Technology",
+    "Author": "Xu W.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2020-04-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/JSEN.2019.2961948",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shenzhen University",
+    "Affliation Country": "China",
+    "Cited by count": 15,
+    "Abstract": "In this paper, a thin film based Thermoresistive Micro Calorimetric Flow (TMCF) sensor by using a 0.35 μm 2P4M CMOS MEMS technology is designed, fabricated and tested. The developed 1.6 μm thick thin film CMOS TMCF sensor shows a maximum normalized sensitivity of 103 mV/(m/s)/mW with respect to the input heating power and a wide dynamic flow range of 0 19.4 m/s. The high sensitivity and wide dynamic range achieved by our CMOS MEMS flow sensor enable its deployment as a promising sensing node for HVAC application in the smart energy-efficient building (EeB). Moreover, a new one-dimensional (1D) analytical sensor model that considers the three-dimensional (3D) heat loss via the end of the thin film is proposed. The new 1D model can successfully capture the thin film based TMCF sensor's response, and its prediction results show a good agreement with the experimental study. Therefore, this new 1D model will be a useful design tool for the development of a high-performance TMCF sensor with a greatly reduced footprint."
+}

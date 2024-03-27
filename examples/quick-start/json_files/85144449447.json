@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144449447,
+    "Title": "Deep clustering of cooperative multi-agent reinforcement learning to optimize multi chiller HVAC systems for smart buildings energy management",
+    "Author": "Homod R.Z.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-04-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2022.105689",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Basra University for Oil and Gas",
+    "Affliation Country": "Iraq",
+    "Cited by count": 9,
+    "Abstract": "Chillers are responsible for almost half of the total energy demand in buildings. Hence, the obligation of control systems of multi-chiller due to changes indoor environments is one of the most significant parts of a smart building. Such a controller is described as a nonlinear and multi-objective algorithm, and its fabrication is crucial to achieving the optimal balance between indoor thermal comfort and running a minimum number of chillers. This work proposes deep clustering of cooperative multi-agent reinforcement learning (DCCMARL) as well-suited to such system control, which supports centralized control by learning of agents. In MARL, since the learning of agents is based on discrete sets of actions and stats, this drawback significantly affects the model of agents for representing their actions with efficient performance. This drawback becomes considerably worse when increasing the number of agents, due to the increased complexity of solving MARL, which makes modeling policy very challenging. Therefore, the DCCMARL of multi-objective reinforcement learning is leveraging powerful frameworks of a hybrid clustering algorithm to deal with complexity and uncertainty, which is a critical factor that influences to the achievement of high levels of a performance action. The results showed that the ability of agents to manipulate the behavior of the smart building could improve indoor thermal conditions, as well as save energy up to 44.5% compared to conventional methods. It seems reasonable to conclude that agents' performance is influenced by what type of model structure."
+}

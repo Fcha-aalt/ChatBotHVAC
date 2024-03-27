@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096814368,
+    "Title": "Estimating occupancy levels in enclosed spaces using environmental variables: A fitness gym and living room as evaluation scenarios",
+    "Author": "Vela A.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-11-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/s20226579",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tecnológico de Monterrey",
+    "Affliation Country": "Mexico",
+    "Cited by count": 14,
+    "Abstract": "The understanding of occupancy patterns has been identified as a key contributor to achieve improvements in energy efficiency in buildings since occupancy information can benefit different systems, such as HVAC (Heating, Ventilation, and Air Conditioners), lighting, security, and emergency. This has meant that in the past decade, researchers have focused on improving the precision of occupancy estimation in enclosed spaces. Although several works have been done, one of the less addressed issues, regarding occupancy research, has been the availability of data for contrasting experimental results. Therefore, the main contributions of this work are: (1) the generation of two robust datasets gathered in enclosed spaces (a fitness gym and a living room) labeled with occupancy levels, and (2) the evaluation of three Machine Learning algorithms using different temporal resolutions. The results show that the prediction of 3–4 occupancy levels using the temperature, humidity, and pressure values provides an accuracy of at least 97%."
+}

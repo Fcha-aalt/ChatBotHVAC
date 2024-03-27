@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85078742064,
+    "Title": "Simulation for energy savings in AC systems equipped with shaded condensing units",
+    "Author": "Shehadi M.",
+    "Journal": "ASEE Annual Conference and Exposition, Conference Proceedings",
+    "Publication Date": {
+        "$date": "2019-06-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Purdue Polytechnic Institute",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Part of Purdue's University Mechanical Engineering Technology (MET) program is to educate its MET students on energy conservation in general and for buildings in specific. In this study, which was part of a project conducted for HVAC & Refrigeration class (MET 42100), the team decided to investigate ways to reduce energy or improve the coefficient of performance (COP) and efficiency of refrigeration cycles by looking into energy consumption in the condenser unit of the system. Sometimes overlooked and underappreciated, a power plant condenser can make or break the efficiency and power delivery goals. Understanding how important a role the condenser plays is a good step toward greater energy conservation awareness. The team conducted a parametric study to analytically investigate improvements in the COP of a refrigeration cycle when its condenser is shaded from the solar flux. Energy balance and heat transfer equations for heat exchangers were used to determine the shaded and unshaded condenser temperatures while keeping the split temperature difference constant. The simulation investigated improvement in COP for multiple chiller units having various cooling loads varying from 286-1300 kW. Multiple cases and scenarios were investigated keeping the evaporator temperature fixed while varying the outdoor temperature and vice versa. A base case with 5°C evaporator temperature and 35°C for the ambient air temperature was used. The improvement in the COP for the base case with shaded condenser ranged between 10-15% for various cooling loads. As the ambient air temperature increased, the COP decreased whereas when the evaporator temperature increased, the COP increased. Students involved in the project were exposed to higher level of learning skills such as logical thinking, team work, problem solving and simulation. Many of these outcomes contribute towards ABET learning outcomes."
+}

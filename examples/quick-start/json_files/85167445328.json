@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85167445328,
+    "Title": "Effect of Sensor Redundancy on Model-Based Fault Detectability for Air Handling Units",
+    "Author": "Torabi N.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Faults occurring in heating, ventilation, and air conditioning (HVAC) systems such as air handling units (AHU) can result in excessive energy consumption in commercial buildings. This paper studies the behavior of AHU heating and cooling coil valves and outside air dampers using black- and grey-box modeling. Data from the building energy management system (BEMS) is extracted for three AHUs located in different buildings (educational and government) in Ottawa for one year. Three different model forms - artificial neural network (ANN), genetic algorithm (GA), and multiple linear regression - are developed to model the supply air temperature of AHUs. The effect of sensor redundancy on fault detectability in AHUs is studied in this paper. Although installing temperature sensors before and after the heating and cooling coils facilitates identifying the faults in AHUs, the authors showed the generated inverse models can act as virtual temperature sensors to estimate the intermediate measurements which are essential to isolate hard faults in AHU outside air dampers as well as heating and cooling coil valves."
+}

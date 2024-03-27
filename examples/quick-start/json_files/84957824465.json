@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84957824465,
+    "Title": "A process for developing deep energy retrofit strategies for single-family housing typologies: Three Toronto case studies",
+    "Author": "Jermyn D.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.01.022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 34,
+    "Abstract": "Energy consumption of existing single-family homes in cold climate urban centers needs to be reduced. This research presents a process for developing and analyzing retrofit strategies for specific housing archetypes using Toronto (Canada) as a case study. The process was applied to three Toronto urban archetypes with two separate energy intensity goals for heating and cooling: (1) 75 kWh/m2 and (2) Passive House EnerPHit estimated equivalency. Building data was collected through field study and calibrated baseline energy models (EnergyPlus) were created. Retrofit strategies were identified and costs were estimated in consultancy with several experienced Toronto-based retrofit contractors. The process utilized a Brute Force method for retrofit selection considering the cost/benefit of each strategy. Furnace and select building envelope parameters were shown to be priorities while windows were not. Energy use reductions of 64-67% and 88-89% from a baseline were achieved when meeting the 75 kWh/m2 and EnerPHit equivalency targets, respectively. The capital costs of $30,000-$80,000 to achieve the retrofit targets are likely to be prohibitive for homeowners, suggesting that a government funded program is necessary to achieve deep energy retrofits of this nature and to ensure early adoption leading to widespread market growth."
+}

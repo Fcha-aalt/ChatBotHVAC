@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047465734,
+    "Title": "An investigation into the use of water as a working fluid in wraparound loop heat pipe heat exchanger for applications in energy efficient HVAC systems",
+    "Author": "Jouhara H.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2018-08-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.energy.2018.05.134",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Brunel University London",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 38,
+    "Abstract": "Wraparound heat pipes have been used for many years and have found a niche application in outside air handling units in hot and humid climates. They are used in conjunction with primary, chilled water cooling coils to enhance the efficiency of moisture removal and ensure that the process consumes minimal energy. The type of heat pipe employed is a gravity assisted thermosyphon which is formed into a loop and ‘wrapped’ around the main cooling coil. The traditional working fluid for HVAC heat pipes has been a refrigerant and a replacement fluid is desirable as a short and long-term option. From an environmental standpoint, water is an ideal candidate and many of its thermal transport properties suggest that it should be viable. There are manufacturing issues associated with using water which are not the concern of this paper; the paper's intention is to prove the viability of water and compare its performance with that of traditional refrigerants. At the conditions used for the experimentation, the results suggest that the use of water in a loop heat pipe can enhance the effectiveness of the arrangement by up to 18% when compared with a conventional refrigerant filled pipe. The type of thermosyphon, or gravity-assisted heat pipe, that is under consideration has a performance which can be quantified using an effectiveness model. This model has been used in the investigation to compare the performance of identical pipes filled with different working fluids. The effectiveness of the heat pipe is determined by many variables and a good proportion of these are related simply to tube orientation, size and flow path. The application of wraparound heat pipes that is under consideration relies upon specific sizes and orientations of tubes and the conclusions of the report give pointers towards further research which needs to be undertaken, or is currently underway, in order to determine the extents of applicability of water as a working fluid."
+}

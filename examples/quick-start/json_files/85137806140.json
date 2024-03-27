@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137806140,
+    "Title": "Quantifying the impact of personal comfort systems on thermal satisfaction and energy consumption in office buildings under different U.S. climates",
+    "Author": "Al Jebaei H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112448",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Texas A&amp;M University",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Personal Comfort Systems (PCS) are energy-efficient devices that create a microenvironment around occupants and can be controlled individually to improve personal comfort. Most studies related to PCS either focus on improving occupants’ thermal satisfaction or evaluate the energy-saving potential of PCS devices but do not consider the energy and comfort consequences simultaneously. This paper investigates the impact of PCS on improving occupants’ thermal satisfaction and energy consumption across different climates in the U.S. using 16 representative cities. To account for the diversity in individual preferences, 400 comfort profiles for four climatic zones for summer and winter were generated utilizing comfort votes from ASHRAE global thermal comfort database I and II. PCS devices were used to improve occupant satisfaction by integrating the Corrective Power (CP) values into the comfort profiles. CP is defined as the temperature difference between two ambient temperatures that achieve the same thermal sensation one with PCS and another without PCS (reference condition). Then we compute the zone level setpoints that maximize the number of satisfied occupants and evaluate energy consumption of those zone level setpoints using EnergyPlus. Our study includes 3 cases; Case 1: without PCS (baseline), Case 2: only fans in summer and heaters in winter, and Case 3: fans and heaters in both summers and winters as required to improve satisfaction. In each of the three cases, we evaluated the comfort consequences using the comfort profiles, and the energy consumption implications. This accounts for the change in HVAC setpoints and the power requirements of PCS devices. The results show that incorporating PCS can increase occupants’ satisfaction from 68% in Case 1 to 77.8% in Case 2 and 86.6% in Case 3. Moreover, energy consumption results in Case 2 are 0–1% higher, and 0–1.3% higher in Case 3 compared to without PCS, depending on the climate. Our results demonstrate that the adoption of PCS with maximum-satisfaction setpoints can improve occupant satisfaction by 18% and meet the ASHRAE requirement of 80% occupant satisfaction with little increase in energy consumption. The comfort profiles generated in this study are also released as a dataset to support future studies."
+}

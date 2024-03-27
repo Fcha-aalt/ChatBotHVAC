@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048720427,
+    "Title": "Energy-cost analysis of HVAC system for office buildings: Development of a multiple prediction methodology for HVAC system cost estimation",
+    "Author": "Cho J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-08-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.05.019",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Korea Conformity Laboratories",
+    "Affliation Country": "South Korea",
+    "Cited by count": 36,
+    "Abstract": "Buildings targeted at high energy performance levels have been proven to be technically feasible, but are relatively expensive. This research examined the cost relationship between sub-systems of HVAC (Heating, Ventilation and Air Conditioning) for energy efficient buildings. Because of inadequate information to estimate investment cost of HVAC systems in the early stage of building projects, this study was carried out the cost analysis method in the process of formulating predictive models for cost of HVAC systems. The relationship between the variables in the cost estimation was examined with the use of descriptive statistics and multiple correlation analysis. One of the major findings of the research was that the cost of HVAC systems of any given office building project can be assessed from the same building conditions with high confidence limits using multiple matrix models of HVAC sub-systems and this provided a basis for developing 960 cost models. There is potentially large variability in the range −26–460% with an average at 179% in investment costs for the sub-systems. The cost of a HVAC system has a range of about 125–335 unit rate, which represents a variety of system combinations. Decision tree analysis of energy performance and investment cost of HVAC systems were obtained, yielding information on optimal combination HVAC sets in the office buildings."
+}

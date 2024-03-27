@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152411908,
+    "Title": "Physiological responses and data-driven thermal comfort models with personal conditioning devices (PCD)",
+    "Author": "Wang L.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-05-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110290",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "A. James Clark School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Thermal comfort in uniform environments created by HVAC systems have been investigated for decades. However, the case in nonuniform microenvironments created by the personal conditioning device (PCD) is different because of the local thermal stimuli on occupants. This study used PCD to provide localized cooling for users based on their individual thermal preferences. We collected PCD users' wrist temperatures and heart rate variabilities (HRV), as well as thermal sensation/comfort questionnaires. Because of the nonuniform thermal stimuli, the physiological responses triggered by the PCD show unclear patterns, which are incompatible with traditional thermal comfort models developed for the uniform environment. Therefore, we utilized machine learning methods to model PCD users’ thermal comfort. By using SVM with RBF kernel based on multiple HRV indices in addition to wrist temperatures, the F1 score is improved by more than four times when compared to the model only based on wrist temperatures. This indicates the importance of HRV as physiological indices for the thermal comfort with nonuniform thermal stimuli. The best performances of our models are higher than 0.90 for both thermal sensation and comfort, which can provide a reliable solution in predicting the thermal sensation and comfort in nonuniform environments with the PCD."
+}

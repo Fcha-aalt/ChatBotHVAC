@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163639004,
+    "Title": "Air Handling Unit Shutdowns During Scheduled Unoccupied Hours: US Commercial Building Stock Prevalence and Energy Impact",
+    "Author": "CaraDonna C.",
+    "Journal": "Journal of Engineering for Sustainable Buildings and Cities",
+    "Publication Date": {
+        "$date": "2022-08-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/1.4055887",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Renewable Energy Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Commercial buildings account for 18% of U.S. energy consumption, with 44% used for heating, ventilation, and air conditioning (HVAC). American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE) 90.1 requires HVAC systems to shutdown fans and outdoor air ventilation during unoccupied times, only allowing fans to cycle on, without outdoor air, to maintain thermostat setpoints. However, it is minimally understood how often existing building operations align with energy code requirements and the energy implications of not doing so. This study used building automation system data from 843 buildings containing 5706 air handling units (AHUs) to determine three unoccupied AHU shutdown control schemes ranging in efficiency and then estimated their prevalence in the U.S. commercial building stock, segmented by building type. ComStock was then used to analyze the energy savings potential of implementing the most energy efficient unoccupied shutdown control scheme in non-participating buildings across the U.S commercial building stock. Results show that only 23% of AHUs align completely with the ASHRAE 90.1 requirement. ComStock modeling results show 4% annual stock energy savings by switching all non-participating buildings to the most efficient scheme, with 19% annual energy savings demonstrated for the median building switching from the least efficient scheme to the most efficient. Findings also show 114.5 TBtu electricity and 75.8 TBtu natural gas fuel savings when converting to the most efficient scheme. These findings help stakeholders understand the high prevalence of buildings not aligning with the ASHRAE-90.1 requirements for unoccupied AHU shutdowns and the energy savings potential of utilizing the most efficient unoccupied AHU shutdown scheme."
+}

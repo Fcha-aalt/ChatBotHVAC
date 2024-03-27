@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063890803,
+    "Title": "Dynamic performance of indoor environment and energy consumption of air conditioning system under intermittent mode",
+    "Author": "Shan X.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.egypro.2019.01.866",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 9,
+    "Abstract": "Nowadays, energy efficiency and indoor thermal comfort have become two main issues in heating, ventilation and air conditioning (HVAC) systems. However, the balance between these two issues is difficult as the improvement of one is generally accompanied with trade-off the other. Hence, to achieve energy efficiency and thermal comfort simultaneously is of great significance to actual applications. This study proposes an optimal, intermittent operation mode for individual air conditioning system to achieve two goals concurrently. Firstly, the transient CFD approach is applied to explore the changing patterns of temperature profiles under on and off mode of the air conditioner. Secondly, the experimental test is implemented to validate the simulation results, which indicates that the indoor air temperature follows the exponential distribution via curve regression method. Based on the fitting curves of temperature under on/off patterns, the optimal intermittent operation mode can then be proposed involving 18 minutes switching-on and 8 minutes switching-off cycles. The energy consumption evaluation of such intermittent mode indicates that the 11% reduction of cooling power consumptions achieved comparing to the traditional operation mode."
+}

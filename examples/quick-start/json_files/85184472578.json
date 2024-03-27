@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85184472578,
+    "Title": "Optimizing Ventilation Systems for Sustainable Office Buildings: Long-Term Monitoring and Environmental Impact Analysis",
+    "Author": "Motuzienė V.",
+    "Journal": "Sustainability (Switzerland)",
+    "Publication Date": {
+        "$date": "2024-02-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.3390/su16030984",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Vilniaus Gedimino Technikos Universitetas",
+    "Affliation Country": "Lithuania",
+    "Cited by count": 0,
+    "Abstract": "One of the key elements in meeting decarbonisation targets is improving energy efficiency in the building sector. Although much is being done at the policy level, evidence from practice shows that buildings designed and constructed for energy efficiency often do not meet the efficiency targets. This matter has particular relevance when it comes to non-residential buildings, such as offices. A common problem with existing office buildings is the inefficient management of their HVAC systems, which leads to a waste of energy. The goal of this study is to demonstrate, based on the monitoring of four relatively new offices, the extent to which mechanical ventilation leads to energy performance gaps in office buildings and to estimate the resulting environmental impact over the life cycle of the building. The monitored parameters were the occupancy and indoor environment, focusing mainly on the relationship between the actual occupancy and the CO2 concentration as a parameter representing the performance of the ventilation system. The monitoring results showed that most of the time, the buildings were over-ventilated, with the ventilation rates failing to match the actual demand, resulting in wasted energy. The actual occupancy of the monitored buildings was much lower than their design value. In two buildings, it never reached 50% of the design value. The simulation showed that simply by applying ventilation rate reduction based on a more realistic occupancy schedule, the primary energy demand decreased by 30%. Thus, the building’s annual CO2 emissions could be reduced by up to 12.5%. These findings help to fill in the knowledge gap as to why the building sector is struggling to decarbonise. The results of this work are of great practical value in showing investors, designers and managers the importance of a properly automated and managed building. The practical value of the results was enhanced by the fact that the timeline of the data covered by the analysis began before and ended after the COVID-19 pandemic, making it possible to assess the fine aspects of managing systems in light of the new realities of a changing work culture and office occupancy."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083945589,
+    "Title": "Developing energy efficient building design in machine learning",
+    "Author": "Kim H.",
+    "Journal": "EG-ICE 2010 - 17th International Workshop on Intelligent Computing in Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "California State University, Fullerton",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Building energy simulation programs have been developed, enhanced, and are in wide-spread use throughout the building construction community (Stumpf et al. 2009). Energy modeling programs provide users with key building performance indicators such as energy use and demand, temperature, humidity, and costs. As the A/E/C industry is embracing the technology of energy simulation programs, building designers are currently encountering a large amount of data generated during energy simulations. From our experience, even a simple energy modeling run generates hundreds of pages of data. Examples of building features simulated include the estimated energy costs in terms of building orientation, HVAC system, lighting efficiency and control, roof and wall insulation and construction, glazing type, water usage, day-lighting and so on. Such volumes of data are simply beyond human abilities to identify the best combination of building components (insulation, windows, doors, etc.) and systems (heating and cooling systems, ventilation, etc.) during the building design process. Evaluating building energy modeling outputs clearly overwhelms the traditional methods of data analysis such as spreadsheets and ad-hoc queries. This paper presents the analysis to develop the energy efficient solutions with the baseline and target energy estimations. Finally, energy efficient solutions are presented that enable the energy savings to be met in fifteen different climate zones in the United States."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85116809698,
+    "Title": "Field Performance of HVAC System Under Healthy and Faulty Conditions During the Summer: Preliminary Development of a Simulation Model Based on Artificial Neural Networks",
+    "Author": "Rosato A.",
+    "Journal": "Smart Innovation, Systems and Technologies",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-16-6269-0_16",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi della Campania Luigi Vanvitelli",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "The dynamic behaviors of the heating, ventilation and air-conditioning (HVAC) system serving the integrated test room of the SENS i-Lab of the Department of Architecture and Industrial Design of the University of Campania Luigi Vanvitelli (Aversa, south of Italy) has been experimentally characterized by means of a series of tests performed during the summer under fault free and faulty operation (5 typical faults have been investigated) upon varying the boundary conditions. An artificial neural network-based model of the HVAC system has also been developed in the MATLAB environment and validated in contrast with the measured data with the aim of producing operation data to assist further research in control, fault detection and diagnosis of HVAC units. Finally, the validated artificial neural network has been coupled with a dynamic TRNSYS simulation model and used to assess the impact of the selected faults on both energy performance as well occupant indoor thermo-hygrometric comfort."
+}

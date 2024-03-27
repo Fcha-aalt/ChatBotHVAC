@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84964881404,
+    "Title": "A sequential process to assess and optimize the indoor climate in museums",
+    "Author": "Silva H.E.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2016-08-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.buildenv.2016.04.023",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa",
+    "Affliation Country": "Portugal",
+    "Cited by count": 52,
+    "Abstract": "Nowadays, one of the largest challenges of museums is to achieve sustainability by reducing costs and energy demands without jeopardizing conservation and thermal comfort. The evolution of science seems to show a new trend with the application of less stringent targets, but after more than one century of research in the museum environment field there is still not a consensus. The test of the published risk-assessment and optimization tools in real cases assumes therefore a fundamental role for the change of the approach.The current work uses data recorded along one year in a Portuguese national museum to test the application of a sequential process to classify the indoor microclimate in terms of HVAC efficiency, risk of damage and thermal comfort, in an attempt to reach a balance between conservation needs, thermal comfort and energy reduction by the climate optimization. A set of three rooms (2 equipped with HVAC system, and the other without control system) was used.The optimization process was carried out to limit the risk of damage by limiting the RH fluctuation with the use of a dynamic method (FCT-UNL) based on the past climate and limiting the T to maximize the thermal comfort of the visitors. New targets were achieved, allowing to replace the original set-point of 20-22°C and 50-60% by new values evidencing the high potential of energy reduction due to less demanding impositions."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102571269,
+    "Title": "Building HVAC control with reinforcement learning for reduction of energy cost and demand charge",
+    "Author": "Jiang Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-05-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.110833",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Johnson Controls",
+    "Affliation Country": "United States",
+    "Cited by count": 52,
+    "Abstract": "Energy efficiency remains a significant topic in the control of building heating, ventilation, and air-conditioning (HVAC) systems, and diverse set of control strategies have been developed to optimize performance, including recently emerging techniques of deep reinforcement learning (DRL). While most existing works have focused on minimizing energy consumption, the generalization to energy cost minimization under time-varying electricity price profiles and demand charges has rarely been studied. Under these utility structures, significant cost savings can be achieved by pre-cooling buildings in the early morning when electricity is cheaper, thereby reducing expensive afternoon consumption and lowering peak demand. However, correctly identifying these savings requires planning horizons of one day or more. To tackle this problem, we develop Deep Q-Network (DQN) with an action processor, defining the environment as a Partially Observable Markov Decision Process (POMDP) with a reward function consisting of energy cost (time-of-use and peak demand charges) and a discomfort penalty, which is an extension of most reward functions used in existing DRL works in this area. Moreover, we develop a reward shaping technique to overcome the issue of reward sparsity caused by the demand charge. Through a single-zone building simulation platform, we demonstrate that the customized DQN outperforms the baseline rule-based policy, saving close to 6% of total cost with demand charges, while close to 8% without demand charges."
+}

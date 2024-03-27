@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016729723,
+    "Title": "Performance evaluation of a ground source variable refrigerant flow (VRF) system for a university building in cold climate",
+    "Author": "Im P.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.18462/iir.icr.2015.0567",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "High initial costs and lack of public awareness of ground-source heat pump (GSHP) technology are the two major barriers preventing rapid deployment of this energy-saving technology in the United States. Under the American Recovery and Reinvestment Act (ARRA), 26 GSHP projects have been selected and carried out to demonstrate the benefits of GSHP systems and innovative technologies for cost reduction and/or performance improvement. This paper highlights the findings of a case study of one of the GSHP demonstration projects, a ground-source variable refrigerant flow (GS-VRF) system installed at the Human Health Building at Oakland University in Rochester, MI. Based on measured performance data and aided with calibrated computer simulations, a few performance metrics were evaluated, including energy efficiency of the VRF units and the overall GS-VRF system, pumping performance, energy and cost savings, and carbon emission reductions compared with conventional HVAC systems."
+}

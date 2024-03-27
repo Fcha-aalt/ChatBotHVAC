@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84978081677,
+    "Title": "An evaluation of HVAC energy usage and occupant comfort in religious facilities",
+    "Author": "Terrill T.J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-09-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.06.078",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "To date, religious facilities have received little attention in the published literature regarding energy use and efficiency. With unique operating and building characteristics, these buildings have distinct opportunities for analysis in regards to building energy use and occupant comfort. With overall lower average energy intensity, religious facilities rarely receive energy assessments or are operated by experienced personnel. Therefore, identifying common issues is critical for training church owners in energy efficiency. This paper presents an in-depth analysis of heating, ventilation and air conditioning (HVAC) systems and occupant comfort in two religious facilities. The analysis reveals that the largest opportunities for reduction in energy use come from proper maintenance and operation of HVAC equipment and schedules. Temperature setbacks are shown to be an important operational setting to reduce energy usage. An accompanying analysis on thermal comfort reveals that temperature setbacks must be coupled with sufficient preconditioning of the space to ensure occupant comfort during intermittent building occupancy. An analysis of CO2 levels in the building during occupancy reveals the need for sufficient outside air to meet ventilation standards."
+}

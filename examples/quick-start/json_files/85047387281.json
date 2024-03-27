@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047387281,
+    "Title": "Pervasive system architecture for optimal HVAC control in smart buildings",
+    "Author": "Stamatescu G.",
+    "Journal": "Proceedings of the 2017 12th IEEE Conference on Industrial Electronics and Applications, ICIEA 2017",
+    "Publication Date": {
+        "$date": "2017-07-02T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ICIEA.2017.8282814",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University Politehnica of Bucharest",
+    "Affliation Country": "Romania",
+    "Cited by count": 3,
+    "Abstract": "Buildings, as hallmark of urbanisation and test-beds for intelligent energy solutions, offer significant potential for energy savings through current state-of-the-art networked monitoring and control systems. The paper discusses current approaches and challenges in designing and implementing optimal control strategies for smart buildings over such networks. This targets also the modelling, controller design and evaluation stages as well as supporting hardware-software infrastructure for realistic adoption scenarios. Final goal is to achieve increased energy efficiency under user comfort constraints, while integrating various subsystems to operate together with both proprietary and open-source resources and tools. The proposed system architecture enables robust sensing, computing and actuation while accounting for future integration with higher level systems. These relate mainly to electrical smart grids over pervasive communication networks in future cities. Special consideration is given to allowing the collection of user feedback, incorporated into the control decision as means to accommodate the balance between operational and comfort constraints. A data-driven modeling case study is presented on measurements collected from a new building in our campus."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128462204,
+    "Title": "A NARX Model to Predict Cabin Air Temperature to Ameliorate HVAC Functionality",
+    "Author": "Kolachalama S.",
+    "Journal": "Vehicles",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/vehicles3040052",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Vehicular technology has integrated many features in the system, which enhances the safety and comfort of the user. Among these features, heating, ventilation, and air conditioning (HVAC) is the only feature that maintains the set cabin air temperature (CAT). The user’s command drives the set CAT, and the thermostat provides feedback to the HVAC to maintain the set CAT. The CAT is increased by extracting the heat from the engine surface produced by the fuel combustion, whereas the CAT is reduced by the known processes of the air conditioning system (ACS). Therefore, the CAT driven by the user’s command may not be optimal, and estimating the optimal CAT is still unsolved. In this work, we propose a new process where the user can input a range for CAT instead of a single value. Optimal HVAC criteria were defined, and the CAT was estimated by performing iterative analysis in the user-selected range satisfying the criteria. The HVAC criteria were defined based on two measurable parameters: air conditioning refrigerant fluid pressure (ACRFP) and engine surface temperature (EST) empirically defined as the vector CATOP. In this article, a NARX DL model was used by mapping the vehicle-level vectors (VLV) to predict the CATOP in real-time using field data obtained from a 2020 Cadillac CT5 test vehicle. Utilising the DL model, CATOP for future time steps was predicted by varying the CAT in the definite range and applying HVAC criteria. Thus, an optimal set CAT was estimated, corresponding to the optimal CATOP defined by the HVAC criteria. We performed the validation of the DL model for multiple datasets using traditional statistical techniques, namely, signal-to-noise ratio (SNR) values, first-order derivatives (FOD), and root-mean-square error (RMSE)."
+}

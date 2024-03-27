@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050001964,
+    "Title": "Energy efficient buildings based on occupants behaviour: A survey",
+    "Author": "Ahmed F.",
+    "Journal": "Proceedings - 2018, IEEE 1st International Conference on Power, Energy and Smart Grid, ICPESG 2018",
+    "Publication Date": {
+        "$date": "2018-06-13T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICPESG.2018.8384495",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "COMSATS University Islamabad",
+    "Affliation Country": "Pakistan",
+    "Cited by count": 3,
+    "Abstract": "Residential buildings consume significant energy and play a key role in increasing demand all over the world. The major sources of energy consumption in buildings are heating, ventilation and air conditioning (HVAC) system, lighting and plug loads. The concerns have been raised over balancing the demand and supply, occupants comfort and rapid depletion of energy resources. Therefore, an efficient utilization of energy is an essential component in buildings to cope with these challenges. In this work, an extensive survey is carried out on state-of-the-art work for occupants comfort management and efficient energy utilization. The main areas under consideration include indoor environmental comfort, energy optimization, computational algorithms, control strategies, energy consumption sectors, energy sources and simulation tools."
+}

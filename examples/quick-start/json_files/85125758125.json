@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125758125,
+    "Title": "Development of prototype energy model: A case study of shopping mall buildings in Changsha",
+    "Author": "Pan X.",
+    "Journal": "Xi'an Jianzhu Keji Daxue Xuebao/Journal of Xi'an University of Architecture and Technology",
+    "Publication Date": {
+        "$date": "2021-12-28T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.15986/j.1006-7930.2021.06.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Urban building energy modeling can effectively evaluate the energy-saving effects of different energy-saving technologies in designated cities by establishing bottom-up building energy models. Due to limited data, urban building energy models are typically generated based on prototype energy models of different building types. This paper took the shopping mall buildings in Changsha as an example, and studied the method to develop prototype energy models. First, on-site surveys of shopping mall buildings in Changsha were conducted to obtain such information as the building geometric characteristics, internal zoning, and average indoor temperature setpoints. Secondly, by investigating the design codes and standards, the energy efficiency parameters of the envelope, internal loads, heating, ventilation, and air conditioning system (HVAC), and domestic hot water system were determined. Then, by clustering the measured end-use data of some shopping malls, the working schedule of shopping malls in Changsha was obtained, including the working schedule of lighting, equipment and HVAC. Finally, the EnergyPlus energy model of the typical shopping mall building was built by means of SketchUp and OpenStudio software. The simulated annual electricity energy use intensity was 192.7 kW•h/m2 and the annual natural gas use intensity was 0.21 GJ/m2, which was closer to the surveyed energy use intensity of Changsha shopping malls. The prototype energy model of shopping malls built in this paper will be used to evaluate the energy consumption characteristics of all shopping malls in Changsha and their future carbon neutralization paths."
+}

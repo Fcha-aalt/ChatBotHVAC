@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118886504,
+    "Title": "A data-driven approach based on quantile regression forest to forecast cooling load for commercial buildings",
+    "Author": "Rana M.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.scs.2021.103511",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Commonwealth Scientific and Industrial Research Organisation",
+    "Affliation Country": "Australia",
+    "Cited by count": 15,
+    "Abstract": "Reliable prediction of thermal load is essential for implementing an efficient and economic energy management plan in commercial buildings. While previous research has been concerned with point forecasts, in this study we focus on forecasting prediction intervals for building thermal load. Prediction Intervals (PIs) are more useful than point forecasts as they can quantify the uncertainty associated with energy consumption in the buildings and enable the market participants to exploit current energy market benefits more effectively. We present a data-driven approach for forecasting PIs for building cooling load which first uses machine learning feature selection methods to identify a small but informative set of variables. It then applies quantile regression forest as the prediction algorithm that uses the selected features as inputs to compute the upper and lower boundaries of PIs. We evaluate the performance of the proposed approach using real data sets from two commercial buildings: a large shopping centre and an office building. The results show that the proposed approach can generate narrow and reliable PIs while satisfying the pre-specified coverage probabilities. The approach is fast to train and significantly outperforms traditional Gradient Boosting Regression (GBR) model in terms of reliability of the generated PIs."
+}

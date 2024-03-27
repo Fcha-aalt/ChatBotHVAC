@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098591802,
+    "Title": "Multi-Agent Deep Reinforcement Learning for HVAC Control in Commercial Buildings",
+    "Author": "Yu L.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/TSG.2020.3011739",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nanjing University of Post and TeleCommunications",
+    "Affliation Country": "China",
+    "Cited by count": 156,
+    "Abstract": "In commercial buildings, about 40%-50% of the total electricity consumption is attributed to Heating, Ventilation, and Air Conditioning (HVAC) systems, which places an economic burden on building operators. In this paper, we intend to minimize the energy cost of an HVAC system in a multi-zone commercial building with the consideration of random zone occupancy, thermal comfort, and indoor air quality comfort. Due to the existence of unknown thermal dynamics models, parameter uncertainties (e.g., outdoor temperature, electricity price, and number of occupants), spatially and temporally coupled constraints associated with indoor temperature and CO2 concentration, a large discrete solution space, and a non-convex and non-separable objective function, it is very challenging to achieve the above aim. To this end, the above energy cost minimization problem is reformulated as a Markov game. Then, an HVAC control algorithm is proposed to solve the Markov game based on multi-agent deep reinforcement learning with attention mechanism. The proposed algorithm does not require any prior knowledge of uncertain parameters and can operate without knowing building thermal dynamics models. Simulation results based on real-world traces show the effectiveness, robustness and scalability of the proposed algorithm."
+}

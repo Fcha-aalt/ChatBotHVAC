@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85016793634,
+    "Title": "Comparison of energy consumption in Wi-Fi and bluetooth communication in a Smart Building",
+    "Author": "Putra G.D.",
+    "Journal": "2017 IEEE 7th Annual Computing and Communication Workshop and Conference, CCWC 2017",
+    "Publication Date": {
+        "$date": "2017-03-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/CCWC.2017.7868425",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rijksuniversiteit Groningen",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 42,
+    "Abstract": "Modern Smart Buildings will utilize sensor technologies to obtain current information of the occupants and use it to provide automatic services to improve the safety, efficient use, productivity, and comfort. Energy saving is one of the promises of Smart Buildings. This can be achieved by controlling the HVAC system, lights, and other energy consuming appliances in relation to the activities of people in the building. In particular, presence is an important factor to consider. By using beacons such as those based on Bluetooth Low Energy (BLE) and mobile phones, one can deduct occupancy information by interacting, over WiFi, with a central server. In the present study, we investigate BLE utilization for transmitting the occupancy data to the server using off-the-self devices with several parameters, e.g., distance, packet size, and line-of-sight state. Furthermore, we propose a utilization of size-constrained BLE packets for transmitting occupancy data, which was previously only possible by means of HTTP over WiFi. The result shows that it is possible to transmit occupancy data via BLE, despite of its resource constraints. Bluetooth is also shown to be about 30% more energy efficient than WiFi to perform occupancy data transmission, i.e., the mobile phone has 16 hours and 38 minutes of battery life when running on BLE communication scheme and 14 hours and 46 minutes in WiFi communication."
+}

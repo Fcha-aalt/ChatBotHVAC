@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140723438,
+    "Title": "Indoor Lidar Plenoptic Array Based on Time-of-Flight Reflection",
+    "Author": "Wang X.",
+    "Journal": "IEEE Photonics Journal",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/JPHOT.2022.3215482",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of New Mexico",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Improved energy efficiency and the associated cost savings is critical for environmental stewardship. In heating, ventilation, and cooling (HVAC) systems, occupancy sensors play an important role in system control for energy conservation. This paper introduces an integrated plenoptic device/people occupancy counting sensor for time-of-flight (ToF) measurements based on grating-coupled-waveguide, angularly resolved detection. Light from a 940 nm laser source is scattered from objects up to 5-m distant. The acceptance angle for scattered light is determined by the period of the detector grating and the waveguide properties. As a consequence of the narrow-band optical coupling, the plenoptic sensor demonstrates a good immunity to background light sources, such as sunlight and incandescent room illumination. The conical acceptance angles (azimuth and altitude) of this device are measured and confirm the device model. Importantly, the device is realized on a commercial silicon-based integrated-photonics foundry line, providing a pathway to volume manufacturing."
+}

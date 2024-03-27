@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85157989990,
+    "Title": "Physics-informed hierarchical data-driven predictive control for building HVAC systems to achieve energy and health nexus",
+    "Author": "Wang X.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-07-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113088",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Buildings consume 74% of US electricity and 40% of primary energy use. However, 15% of the energy was wasted due to bad controls. Many research studies have demonstrated that model predictive control strategies could provide significant energy savings, but the lack of a scalable building dynamic model impeded the large-scale implementation of predictive control strategies. Moreover, many predictive control strategies lacked the consideration of indoor air quality. Therefore, in this research study, we proposed a novel physics-informed input convex neural network (PINN) to predict indoor environmental dynamics with 6 h ahead. The model sanity check results showed that the proposed PINN had physically consistent behavior to different control inputs. Then, the PINN is used to design a hierarchical data-driven predictive control (HDDPC) strategy to minimize both the space cooling load and airside coil load. Three different case studies were simulated to evaluate the proposed control strategy comprehensively: a) maintaining a similar indoor temperature profile as the measurement to evaluate energy reduction potential by the HDDPC; b) evaluating the impact of the proposed weather forecast models on the HDDPC performance by comparing the case with perfectly accurate weather information and the case with forecasted weather information. Results indicated that the hierarchical data-driven predictive control strategy with weather forecasting had a similar performance with measured weather inputs. On average, the HDDPC strategy could reduce more than 35% of total cooling energy and 70% of total airside coil energy with the guarantee of indoor thermal comfort and air quality."
+}

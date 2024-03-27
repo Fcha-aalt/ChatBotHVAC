@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060034213,
+    "Title": "Design and Validation of a Detailed Building Thermal Model Considering Occupancy and Temperature Sensors",
+    "Author": "Bagnasco A.",
+    "Journal": "IEEE 4th International Forum on Research and Technologies for Society and Industry, RTSI 2018 - Proceedings",
+    "Publication Date": {
+        "$date": "2018-11-26T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/RTSI.2018.8548424",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Genova",
+    "Affliation Country": "Italy",
+    "Cited by count": 9,
+    "Abstract": "Buildings are responsible for approximately 40% of energy consumption and 36% of CO 2 emissions in the European Union. Starting from these percentages is easy to imagine that the topic of energy efficiency applied to buildings has a great relevance in the scientific community representing one of the key aspects in today's international energy policies. In this context, the development of reliable building thermal models represents a crucial resource within a Building Management System (BMS). In particular, a robust thermal model is mainly able to provide a precise estimation of Heating, Ventilating and Air Conditioning (HVAC) system demand and an evaluation of building energy performance. These information can be exploited in the de-sign/restoration phase or within optimal management strategies in order to achieve environmental and economic benefits. In this work the design and the validation of a building thermal model is presented. The model has been developed in EnergyPlus environment with the help of SketchUp and OpenStudio. In addition, occupancy and temperature sensors have been exploited for the validation of the thermal model and for the definition of its inputs."
+}

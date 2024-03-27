@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151031528,
+    "Title": "Smart Filter Performance Monitoring System",
+    "Author": "Pei C.",
+    "Journal": "Aerosol and Air Quality Research",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.4209/aaqr.220416",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Science and Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Air filters are widely used in residential and industrial applications. It is designed to remove particulate pollutants in the air to supply cleaner air to either occupants or industrial equipment. Without air filters, the occupants might suffer from polluted air, and expensive industrial equipment could be damaged by contaminants. However, air filters are installed and operated with a limited performance monitoring system, and the efficacy of air filters is unknown after replacement. Here, we propose and prototype a smart filter performance monitoring system that costs less than 200 U.S. dollars and can report filtration efficiency, differential pressure, temperature, and RH (relative humidity) in real time. Three case studies are presented: an air purifier, a teaching building HVAC (heating, ventilation, and air conditioning) system, and a large-scale air cleaning system. Applications of the proposed system cover from household to industrial, which not only verified the concept of the system but also proved its feasibility and advantages of the system. With the proposed system, residential customers can rest assured with their air purifiers or HVAC furnace filter; industrial customers can monitor the filtered air cleanness that will enter their internal combustion engines or gas turbines. Moreover, filter monitoring data can establish a database for researchers to validate the filter models or train a machine learning model for filter performance prediction. Filter or air-cleaning device manufacturers can improve their products or recommend suitable products to their customers based on big data contributed by this filter monitoring system."
+}

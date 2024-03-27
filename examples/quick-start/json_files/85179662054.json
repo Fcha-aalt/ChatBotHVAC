@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179662054,
+    "Title": "Developing Machine Learning Model to Predict HVAC System of Healthy Building: A Case Study in Indonesia",
+    "Author": "Sari M.",
+    "Journal": "International Journal of Technology",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.14716/ijtech.v14i7.6682",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Indonesia",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 0,
+    "Abstract": "Sick Building Syndrome (SBS) is the health and comfort issues experienced by people during the time indoor. As urban dwellers typically spend 90% of the time indoor, Indoor Air Quality (IAQ) becomes essential. Consequently, ensuring appropriate air exchange in building is essential, with Heating, Ventilation, and Air-Conditioning (HVAC) system playing a crucial ole in maintaining indoor comfort. Therefore, this study aimed to develop a predictive machine learning (ML) model using Industry 4.0 technological advancements to optimize HVAC system design that meets IAQ parameters in Indonesia healthy building (HB). An extensive literature review was carried out to identify IAQ parameters specific to Indonesia HB. Furthermore, four ML models were developed using the RapidMiner Studio application, validated with the Mean Absolute Error (MAE), and confusion matrix methods. The results showed that the cooling load and the chiller-type prediction models had a relative error of 1.11% and 3.33%. Meanwhile, Air Handling Unit (AHU) type and filter area predictive model had a relative error of 10% and 1.22%, respectively. These errors showed the accuracy of ML model in predicting HVAC system of HB."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175297622,
+    "Title": "An Artificial Neural Network-based model that can predict inpatients’ personal thermal sensation in rehabilitation wards",
+    "Author": "Gong P.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.108033",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an Jiaotong-Liverpool University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Indoor thermal comfort is important to hospital designs as it affects healthcare outcomes. However, existing thermal sensation analysis models do not fully consider individual patient's preference and their effectiveness has not been validated in healthcare environments. The commonly used Predicted Mean Vote (PMV) model cannot process complex parameters such as individual differences, multiple patients' biosignals, medical activities, and spatial layout of wards, etc. To fill in the gaps, this research aims to develop an innovative model that can effectively predict in-patients' personal thermal sensation in rehabilitation wards. Based on previous research on machine learning (ML), a prototype of the Artificial Neural Network (ANN)-based model has been developed for this purpose. To test this model and assess its prediction accuracy in the real world, a case study was conducted in the rehabilitation department of a general hospital in Xuzhou, China. The results indicated that the ANN-based model effectively predicted patients' thermal sensation. Moreover, it was found from this study that the incorporation of spatial and health-related parameters into the ANN-based model could significantly improve the prediction accuracy. The best prediction accuracy of the ANN-based model was 8.10 % higher than that of the baseline model. It is therefore concluded that this model can be used to support architects and HVAC system engineers to make informed decisions in hospital designs and help medical staff allocate in-patients according to their preference."
+}

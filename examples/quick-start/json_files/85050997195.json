@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050997195,
+    "Title": "Modeling and optimization of complex building energy systems with deep neural networks",
+    "Author": "Chen Y.",
+    "Journal": "Conference Record of 51st Asilomar Conference on Signals, Systems and Computers, ACSSC 2017",
+    "Publication Date": {
+        "$date": "2017-07-02T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/ACSSC.2017.8335578",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "UW College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 33,
+    "Abstract": "Modern buildings encompass complex dynamics of multiple electrical, mechanical, and control systems. One of the biggest hurdles in applying conventional model-based optimization and control methods to building energy management is the huge cost and effort of capturing diverse and temporally correlated dynamics. Here we propose an alternative approach which is model-free and data-driven. By utilizing high volume of data coming from advanced sensors, we train a deep Recurrent Neural Networks (RNN) which could accurately represent the operation's temporal dynamics of building complexes. The trained network is then directly fitted into a constrained optimization problem with finite horizons. By reformulating the constrained optimization as an unconstrained optimization problem, we use iterative gradient descents method with momentum to find optimal control inputs. Simulation results demonstrate proposed method's improved performances over model-based approach on both building system modeling and control."
+}

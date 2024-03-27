@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85043377472,
+    "Title": "Smart building creation in large scale HVAC environments through automated fault detection and diagnosis",
+    "Author": "Dey M.",
+    "Journal": "Future Generation Computer Systems",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.future.2018.02.019",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "London South Bank University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 42,
+    "Abstract": "Modernization and retrofitting of older buildings has created a drive to install Building Energy Management Systems (BEMS) that can assist building managers in paving the way for smarter energy use and indirectly, using appropriate methods, occupant comfort understanding. BEMS may discover problems that can inform managers of building maintenance and energy wastage issues and in-directly, via repetitive data patterns appreciate user comfort requirements. The main focus of this paper is to describe a method to detect faulty Heating, Ventilation and Air-Conditioning (HVAC) Terminal Unit (TU) and diagnose them in an automatic and remote manner. For this purpose, a typical big-data framework has been constructed to process the very large volume of data. A novel feature extraction method encouraged by Proportional Integral Derivative (PID) controller has been proposed to describe events from multidimensional TU data streams. These features are further used to categorize different TU behaviours using unsupervised data-driven strategy and supervised learning is applied to diagnose faults. X-Means clustering has been performed to group diverse TU behaviours which are experimented on daily, weekly, monthly and randomly selected dataset. Subsequently, Multi-Class Support Vector Machine (MC-SVM) has been employed based on categorical information to generate an automated fault detection and diagnosis system towards making the building smarter. The clustering and classification results further compared with well-known and established algorithms and validated through statistical measurements."
+}

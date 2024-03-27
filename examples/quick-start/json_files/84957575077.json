@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84957575077,
+    "Title": "Experimental evaluation of a concrete core slab with phase change materials for cooling purposes",
+    "Author": "Navarro L.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.01.026",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitat de Lleida",
+    "Affliation Country": "Spain",
+    "Cited by count": 26,
+    "Abstract": "Due to the high amount of energy consumed by the building sector, efforts need to focus not only on improving the building envelope but also on enhancing the energy efficiency of HVAC systems. In this study, an innovative technology for cooling application in buildings is evaluated. A prefabricated concrete slab incorporating phase change material (PCM) was used as internal separation in the active slab cubicle. The incorporated PCM is paraffin macro-encapsulated in aluminium tubes. The target is to use the internal slab as storage unit and as an active cooling supply to replace totally or partially conventional HVAC systems. The operational mode consists of solidifying the PCM with the outside cold air (below solidification temperature) during the night time for covering a later cooling demand. Experimental analysis shows the energy performance of the technology, as well as a comparison with a conventional cooling system."
+}

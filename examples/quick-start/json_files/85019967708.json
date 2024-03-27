@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85019967708,
+    "Title": "Advanced detection of HVAC faults using unsupervised SVM novelty detection and Gaussian process models",
+    "Author": "Van Every P.M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-08-15T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.05.053",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of New Mexico School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 67,
+    "Abstract": "A novel fault detection algorithm based on machine learning is introduced in this paper, that is applied to the detection of faults in heater, ventilation and air conditioning (HVAC) systems. The algorithm is based on the use of a set of nonlinear regressors intended to estimate the response of the HVAC to the external variables. The regression algorithm is the well known Gaussian process regression, which, through a Gaussian modeling of the parameter priors and the conditional likelihood of the observations, is able to produce a probabilistic model of the prediction. We use the prediction error and its estimated variance as an input to a support vector machine novelty detector that, in an unsupervised way, is able to detect the faults of the HVAC. This algorithm improves the standard novelty detection, as it can be seen in the experiments."
+}

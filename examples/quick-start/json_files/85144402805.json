@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144402805,
+    "Title": "A Review of Reinforcement Learning for Controlling Building Energy Systems From a Computer Science Perspective",
+    "Author": "Weinberg D.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.scs.2022.104351",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Royal Institute of Technology (KTH)",
+    "Affliation Country": "Sweden",
+    "Cited by count": 7,
+    "Abstract": "Energy efficient control of energy systems in buildings is a widely recognized challenge due to the use of low temperature heating, renewable electricity sources, and the incorporation of thermal storage. Reinforcement Learning (RL) has been shown to be effective at minimizing the energy usage in buildings with maintained thermal comfort despite the high system complexity. However, RL has certain disadvantages that make it challenging to apply in engineering practices. In this review, we take a computer science approach to identifying three main categories of challenges of using RL for control of Building Energy Systems (BES). The three categories are the following: RL in single buildings, RL in building clusters, and multi-agent aspects. For each topic, we analyse the main challenges, and the state-of-the-art approaches to alleviate them. We also identify several future research directions on subjects such as sample efficiency, transfer learning, and the theoretical properties of RL in building energy systems. In conclusion, our review shows that the work on RL for BES control is still in its initial stages. Although significant progress has been made, more research is needed to realize the goal of RL-based control of BES at scale."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84974829622,
+    "Title": "Empirical energy performance evaluation of a high-performance office building in the U.S. Midwest",
+    "Author": "Liu R.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Iowa Energy Center",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Many innovative energy-saving strategies have been implemented in energy-efficient and sustainable building design to reduce overall energy use and operational cost. However, measurement of the actual energy usage and verification of implemented energy-saving design and strategies are also required to ensure the building performs as expected. This paper presents a comprehensive evaluation of the energy performance at the Iowa Utilities Board and Office of Consumer Advocate (IUB-OCA) building by examining annual detailed submetered data. The IUB-OCA building is located in Des Moines, Iowa. It has two stories with a total gross area equaling 44,460 ft2 (4130m ). The building features many low-energy and sustainable designs, and is certified as ENERGY STAR® 100 rating and Leadership in Energy and Environmental Design (LEED ) Platinum rating. The one-year energy performance evaluation shows the building total energy use intensity is only 2l.5kBtu/ft2·yr (67.7 kWh/m2·yr). The study also examines the performance of the building major components, including the building envelope; operable windows; HVAC system, including geothermal heat pumps and energy recover ventilator; lighting and daylighting; plug loads; and the photovoltaic system. A postoccupancy survey was also conducted and the occupants were generally satisfied with their work environment."
+}

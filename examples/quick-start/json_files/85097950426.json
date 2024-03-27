@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097950426,
+    "Title": "Automated Control of Transactive HVACs in Energy Distribution Systems",
+    "Author": "Liu B.",
+    "Journal": "IEEE Transactions on Smart Grid",
+    "Publication Date": {
+        "$date": "2021-05-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/TSG.2020.3042498",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Swanson School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 31,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems contribute significantly to a building's energy consumption. In the recent years, there is an increased interest in developing transactive approaches which could enable automated and flexible scheduling of HVAC systems based on the customer demand and the electricity prices decided by the suppliers. Flexible and automated scheduling of the HVAC systems make it a prime source for participation in residential demand response or transactive energy systems. Therefore, it is of significant interest to identify an optimal strategy to control the HVAC systems. In this article, reducing the energy cost while keeping the comfort level acceptable to the users, we argue that such a control strategy should consider both the energy cost and user comfort simultaneously. Accordingly, we develop the control strategy through the solution of an optimization problem that balances between the energy cost and consumer's dissatisfaction. This optimization enables us to solve a decision-making problem through first price prediction and then choosing HVAC temperature settings throughout the day based on the predicted price, history of the price and HVAC settings, and outside temperature. More specifically, we formulate the control design as a Markov decision process (MDP) using deep neural networks and use Deep Deterministic Policy Gradients (DDPG)-based deep reinforcement learning algorithm to find the optimal control strategy for HVAC systems that balances between electricity cost and user comfort."
+}

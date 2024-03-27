@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85073635274,
+    "Title": "Evaluation of the energy performance of a net zero energy building in a hot and humid climate",
+    "Author": "Shin M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.enbuild.2019.109531",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Civil, Construction and Environmental Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 43,
+    "Abstract": "In the past 20 years, the U.S. Army has made significant progress in making their facilities more energy efficient. Currently, the Army is required by law to eliminate fossil fuel use in new and renovated facilities by 2030 and to reduce overall facility energy usage 30% by 2030. As part of this on-going energy efficiency effort, the U.S. Army has designed and constructed a Net Zero Energy Building (NZEB) at the Fort Hood army base in Texas, which is currently being tested as a prototype. In order to achieve net zero performance and reduce the energy demand, several low-energy building technologies were designed and built including high-efficiency heating, ventilation, and air conditioning (HVAC) system, a high-performance building envelope, energy efficient lighting and a solar PV system. This paper presents the results of an evaluation of the net zero energy performance of the office building at the Fort Hood army base using measured data. The analysis methods applied to the building include: an un-adjusted, measured energy use comparison of both portions of the building; a weather-normalized, change-point linear regression to estimate annual energy savings; and calibrated building energy simulations with thermostat schedules and occupancy conditions of both portions in the building. The results show savings of 37–50% for the renovated portion of the building (i.e., NZEB) compared to the un-renovated portion depending on the method of analysis."
+}

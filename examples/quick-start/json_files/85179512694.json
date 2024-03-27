@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179512694,
+    "Title": "The role of HVAC controls in building Digital Twins: lessons learned from demonstration buildings with an application to air handling units",
+    "Author": "Walther K.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1434",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Bergische Universität Wuppertal",
+    "Affliation Country": "Germany",
+    "Cited by count": 0,
+    "Abstract": "This study investigates how information about the controls of heating, ventilation and air-conditioning (HVAC) systems can be gathered from building automation systems for the creation of Digital Twins in Building Performance Simulation (BPS). The concept of Digital Twins in BPS environments is commonly used for Fault Detection and Diagnosis or performance gap analysis during operation. In the creation, often emphasis is put on building physics or user behavior. In modern buildings, automation systems play an important role to guarantee user comfort requirements as well as an energy efficient operation. To replicate the behavior of real HVAC systems in Building Performance Simulations, the underlying control logic has to be known. To gather this information in operation we have investigated three sources: firstly, documentation from the design phase including already existing simulation models, secondly, the control code on automation systems and thirdly, reverse engineering from measured data. The study focuses on air handling units and is based on experiences in state-of-the-art building demonstrators from research projects in Sweden and Germany."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086056987,
+    "Title": "Numerical investigation of the indoor air quality and thermal comfort in large assembly",
+    "Author": "El Degwy A.E.A.",
+    "Journal": "15th International Energy Conversion Engineering Conference, 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.2514/6.2017-5036",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cairo University",
+    "Affliation Country": "Egypt",
+    "Cited by count": 0,
+    "Abstract": "In crowded places and large assembly halls, such as mosques and theaters, occupants are exposed to a matchless thermal environment due to the potential variations and non-consistency of the thermal environment. The indoor air quality, and consequently the status of thermal comfort in the occupied space, is anticipated that essentially affected by the design of HVAC (Heating, Ventilation and Air Conditioning) distribution system. The activity level, position of occupant and arrangement of air supply and exhaust grills in design spaces are investigated. A 3D computational model for the mosque has been conducted with ICEM CFD software for good quality grid generation; more than 12,000,000 grid nodes are used together with the most recent numerical modeling techniques and turbulence models. The focus is on thermal management and energy efficiency. The computational fluid dynamics approach is utilized here to predict the local flow properties, temperatures, relative humidity and thermal comfort parameters. Four different design cases of distributions for the supply and exhaust grills were investigated using FLUENT 17.0 as a solver and a CFD processor developed by ANSYS Inc. Each case revealed the impact of location of supply and exhaust grills on overall comfort levels for prayers. The performance of HVAC system is characterized by air flow patterns, temperature, relative humidity and CO2 contours as well as the most commonly used comfort parameters PMV and PPD based on Fanger model. This work aims to improve indoor air quality and thermal comfort inside mosques so that to meet both prayers comfort and sustainability requirements. The work ends with a brief summary of conclusions and guidelines for design remarks."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85099126330,
+    "Title": "Deep reinforcement learning for residential hvac control with consideration of human occupancy",
+    "Author": "McKee E.",
+    "Journal": "IEEE Power and Energy Society General Meeting",
+    "Publication Date": {
+        "$date": "2020-08-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/PESGM41954.2020.9281893",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of Tennessee, Knoxville",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "The Artificial Intelligence (AI) development described herein uses model-free Deep Reinforcement Learning (DRL) to minimize energy cost during residential heating, ventilation, and air conditioning (HVAC) operation. Building cooling loads and HVAC operation are difficult to accurately model due to complexity, lack of measurements and data, and model specific performance, so online machine learning is used to allow for real-time readjustment in performance. Energy costs for the multi-zone cooling unit shown in this work are minimized by scheduling on/off commands around dynamic prices. By taking advantage of precooling events that take place when the price is low, the agent is able to reduce operational cost without violating user comfort. The DRL controller was tested in simulation where the learner achieved a 43.89% cost reduction when compared to traditional, fixed-setpoint operation. The system is now ready for the next phase of testing in a live, real-time home environment."
+}

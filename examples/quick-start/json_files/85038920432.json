@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85038920432,
+    "Title": "The re-optimization strategy of multi-layer hybrid building's cooling and heating load soft sensing technology research based on temperature interval and hierarchical modeling techniques",
+    "Author": "Liu K.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2018-04-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.scs.2017.11.034",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Key Laboratory of Power Station Automation Technology",
+    "Affliation Country": "China",
+    "Cited by count": 13,
+    "Abstract": "To avoid expanding existing fossil power plants, building the energy performance management system is an effect method to cope with a high growth demand of electricity in China's urbanization process. The accuracy thermal load prediction is the first step to build an energy performance management system which has important significance for energy saving, decreasing air pollution and high-efficiency operation of HVAC system. This paper discusses the use of hybrid intelligent approaches and re-optimization strategy, a multi-layer hybrid model (APNN) has been proposed by hybridizing an auto-regressive model with exogenous inputs (ARX) and a particle swarm optimization neural network (PSO-NN) to make a good use of the comprehensive information of the meteorological data and historical data. For the purposes of improving prediction precision generalization ability of the multi-layer hybrid model, temperature interval and hierarchical modeling techniques were used. According to the re-optimization strategy, there are two improvements of the previous proposed APNN model, which are based on temperature interval and hierarchical modeling by solar radiation intensity. Compared with the basic prediction models, validation results show that accuracy of the optimized models are greatly improved. What's more, the optimization of multi-layer hybrid building's cooling and heating load soft sensing technology enhance learning and generalization capability of the basic APNN model."
+}

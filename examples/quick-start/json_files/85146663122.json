@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146663122,
+    "Title": "Minimalistic LSTM Models for Next Day Hourly Residential HVAC Energy Usage Forecasting",
+    "Author": "Heidarykiany R.",
+    "Journal": "2022 IEEE Electrical Power and Energy Conference, EPEC 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/EPEC56903.2022.10000121",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Opus College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Accurate electrical energy demand forecasting is essential to optimization and operation approaches aimed at reducing the cost of electricity at the consumer and utility level. Machine learning models, such as long short-term memory (LSTM) models, have been increasingly employed in energy usage prediction for different time-horizons into the future. The prediction accuracy of such models depends a multitude of model architecture and model training parameters, that are often left at their default values or the strategy of selecting them is not even reported. In this paper, we present a thorough investigation of the impact of fifteen different such parameters on the performance of LSTM models used to forecast HVAC energy usage in typical residential homes for 24 hours. The objective is to arrive at a select number of practical LSTM models, which are trained and tested on data generated from the equivalent of a 21 year long simulation of a testbed based on the IEEE 13 node test feeder. Our investigation reveals several remarkable characteristics that the highest ranked in terms of prediction accuracy LSTM models have in common: models can use as few as two layers, training should use more equivalent years of data available, batch size should include 24 days of data, and the best optimizer used during training is RMSprop."
+}

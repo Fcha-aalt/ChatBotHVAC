@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042924900,
+    "Title": "Potential of HVAC and solar technologies for hospital retrofit to reduce heating energy consumption",
+    "Author": "Pop O.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2018-02-21T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1051/e3sconf/20183201016",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitatea Tehnica din Cluj-Napoca",
+    "Affliation Country": "Romania",
+    "Cited by count": 4,
+    "Abstract": "The study presents a combination of several energy efficient technologies together with their potential to reduce the energy consumption and to increase the comfort through the retrofit of a hospital building. The existing situation is characterized by an old and inefficient heating system, by the complete missing of any ventilation and by no cooling. The retrofit proposal includes thermal insulation and a distributed HVAC system consisting of several units that includes air to air heat exchangers and air to air heat pumps. A condensing boiler was also considered for heating. A solar thermal system for preparing domestic hot water and a solar photovoltaic system to assist the HVAC units are also proposed. Heat transfer principles are used for modelling the thermal response of the building to the environmental parameters and thermodynamic principles are used for modelling the behaviour of HVAC, solar thermal system and photovoltaic system. All the components of the heating loads were determined for one year period. The study reveals the capacity of the proposed systems to provide ventilation and thermal comfort with a global reduction of energy consumption of 71.6 %."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179049322,
+    "Title": "Enhancing energy efficiency and comfort with a multi-domain approach: Development of a novel human thermoregulatory model for occupant-centric control",
+    "Author": "Buonomano A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2024-01-15T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1016/j.enbuild.2023.113771",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Occupant Centric Control (OCC) strategies aims to achieve a more personalized and comfortable indoor environment, translating occupants' comfort requirements into real environmental conditions. This strategy relies on a multilevel non-linear programming optimization procedure to determine optimal thermo-hygrometric setpoints. The objective is to minimize space heating and cooling requirements while addressing multi-domain comfort concerns related to individual thermal sensations and perceived air quality. To facilitate this process, this study adopts a novel Personal Comfort Model (PCM), incorporating physiological factors to predict occupants' thermal sensations and CO2 intakes. The PCM's reliable predictive capabilities are confirmed through validation with real experimental data from a test room at the University of Perugia. For detailed energy analyses, considering occupants' subjective comfort preferences, the PCM is seamlessly integrated into DETECt, an in-house building energy performance simulation tool developed by the University of Naples Federico II, for the design of advanced control algorithms and energy efficiency strategies. To effectively manage the HVAC system, a model predictive control is implemented, using the determined setpoints to ensure mechanical ventilation and maximize cost savings. The proof of concept for the developed methodology involves simulating experimental tests using the thermal model of the human body and the new facility management system, to be simulated and optimized by means of the enhanced building energy performance simulation tool, exploited for the design and operation of more occupant-centric and sustainable buildings. The proposed study demonstrates that through the developed OCC strategy enables a significant reduction in thermal discomfort (40 % and 60 % less than the occupation time for test 1 and test 2, respectively) compared to reference scenarios. Additionally, energy analysis reveals high efficiency, achieving savings of 12.8 % and 7.8 % of electricity consumed for HVAC system operation."
+}

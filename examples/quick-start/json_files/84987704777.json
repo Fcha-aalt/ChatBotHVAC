@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84987704777,
+    "Title": "Automated building energy performance simulation: A review of approaches and outline of research opportunities",
+    "Author": "Bres A.",
+    "Journal": "23rd International Workshop of the European Group for Intelligent Computing in Engineering, EG-ICE 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Austrian Institute of Technology",
+    "Affliation Country": "Austria",
+    "Cited by count": 2,
+    "Abstract": "This paper offers a review of approaches to the automated creation of input data for building energy simulation. Such data may be obtained by translation of available data from architectural and HVAC models. However, a full energy performance model also requires missing data to be completed, either with default values or automated procedures. Following the review, research opportunities for further automation are identified."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047271718,
+    "Title": "Low GWP halocarbon refrigerants: A review of thermophysical properties",
+    "Author": "Bobbo S.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2018-06-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ijrefrig.2018.03.027",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Consiglio Nazionale delle Ricerche",
+    "Affliation Country": "Italy",
+    "Cited by count": 135,
+    "Abstract": "In the present work, a large number of compounds described in the publicly available literature have been reviewed with the aim to identify possible substitutes for high-GWP HFCs in HVAC&R and organic Rankine cycle (ORC) applications. Taking into account various criteria (particularly low toxicity, low flammability, low GWP, and high energy efficiency), only a few single-component compounds are suitable for many of the relevant applications. In particular, in addition to natural fluids, studies have shown that there are only a few HFCs and a dozen or so HFOs, i.e. halogenated olefins characterized by the presence of a C[dbnd]C double bond in the molecule, that are potentially suitable for a number of relevant applications. Here, a review of the present state-of-the-art of experimentally-determined thermophysical properties of a number of HFOs working fluids and their mixtures also with other categories of refrigerants is presented, with particular emphasis placed on saturation and critical properties, vapor phase PVT data, liquid density, specific heat capacity, thermal conductivity, viscosity, and surface tension."
+}

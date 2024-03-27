@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179587250,
+    "Title": "Skill Set Development for Autonomous Vehicle Repairing Based on the Fuzzy MOP Based Competence Set Expansions",
+    "Author": "Huang C.Y.",
+    "Journal": "2023 International Conference on Fuzzy Theory and Its Applications, iFUZZY 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/iFUZZY60076.2023.10324152",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Taiwan Normal University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 0,
+    "Abstract": "The need for autonomous vehicles is on the rise in industrialized countries because of the imperative for driving safety and the scarcity of human resources. In conjunction with the ongoing study and advancement of pertinent technologies and products within the conventional automotive sector, enterprises specializing in information technology and artificial intelligence also play a significant role as frontrunners. The pursuit of self-driving technology has emerged as a prominent objective for both industrialized nations and those seeking rapid progress, with Taiwan serving as a notable example. Nevertheless, the ever-evolving technology landscape necessitates ongoing enhancements in vocational education, course design, and industry-specific curriculum to further optimize their effectiveness. Nevertheless, the body of relevant scholarly study remains significantly constrained. In order to address the existing research gap, this study presents a novel approach known as the fuzzy multiple objective programming (MOP) based competence set expansion technique. A plan was formulated to expand the competence set for electric vehicles, drawing from the skill set developed by advanced economies. The plan aimed to achieve the objectives of minimizing learning time, reducing learning costs, and maximizing learning quality. The most effective approach for enhancing competency sets involves initiating the depowering and reinitialization of hybrid electric vehicles at the outset, followed by the diagnosis and repair of air conditioning and heating, ventilation, and air conditioning (HVAC) systems towards the conclusion. The process of developing a skill set can be utilized as a foundation for the building of a curriculum."
+}

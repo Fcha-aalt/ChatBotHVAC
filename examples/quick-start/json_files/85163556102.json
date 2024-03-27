@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163556102,
+    "Title": "PREDICTING HVAC-BASED DEMAND FLEXIBILITY IN GRID-INTERACTIVE EFFICIENT BUILDINGS UTILIZING DEEP NEURAL NETWORKS",
+    "Author": "Avendano I.A.C.",
+    "Journal": "Proceedings - European Council for Modelling and Simulation, ECMS",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 0,
+    "Abstract": "Grid-interactive efficient buildings (GEBs) can provide flexibility services to the grid through demand response. This paper presents a novel predictive modeling methodology to estimate the availability of electrical demand flexibility in GEBs under demand response schemes. In this context, a physics-based energy simulation model of a reference building, considering the cooling demand in the summer season as the flexible load, is utilized. Accordingly, the impact of increasing the indoor setpoint temperature by 1.5 °C (for a maximum of 3 hours per day), which enables the demand side flexibility with a reduction of the cooling equipment’s electrical load, is simulated. Next, each demand response event is gathered, sorted, and then used to train the model to predict similar future events over the same time horizon in the following days. For this purpose, a deep neural network model trained using an expanding window training scheme is utilized to predict (15 minutes before the event) the load in the next 3 hours while undergoing the flexibility scenario. It is demonstrated that, with four months of training data, the model offers a promising prediction accuracy with a Mean Absolute Percentage Error (MAPE) of 3.55%."
+}

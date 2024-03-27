@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072317895,
+    "Title": "Implementation of SCADA systems for a real microgrid lab testbed",
+    "Author": "Martirano L.",
+    "Journal": "2019 IEEE Milan PowerTech, PowerTech 2019",
+    "Publication Date": {
+        "$date": "2019-06-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/PTC.2019.8810795",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 6,
+    "Abstract": "Considering the complexity of controller systems in and also managing a microgrid (MGs), using automation systems can be an effective step in increasing energy efficiency, high reliability, as well as economic and environmental issues. In order to achieve these goals, this paper presents a comprehensive testbed for control and energy management in MG lab project is called LAMBDA MG in Sapienza University of Rome. The MG is composed of several sources (Photovoltaic, Storage, Emergency Generator Set) a smart switchboard and loads (lights, HVAC, plugs). The control strategy consists of two different subnets: the first one is based on a distributed home and building electronic system (HBES) for the supervisory and control for energy and comfort goals and the second one based on a central PLC for the operation of the different sources in grid and island mode respect the grid. The two subnets are integrated in a common SCADA system able to provide a real time monitoring, alarm handling, human machine interfacing, event and data."
+}

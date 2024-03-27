@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125886191,
+    "Title": "An online energy management tool for sizing integrated PV-BESS systems for residential prosumers",
+    "Author": "Korjani S.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-05-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2022.118765",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Cagliari",
+    "Affliation Country": "Italy",
+    "Cited by count": 22,
+    "Abstract": "This paper presents an online energy management tool that suggests the most suitable size of a hybrid photovoltaic-battery energy storage system (PV-BESS) to residential prosumers based on their self-sufficiency expectations. An offline analysis of electricity generation and consumption expected from 128 residential prosumers has been carried out at first in order to find out their self-sufficiency map with different sizes of PV and BESS; this is carried out by the genetic algorithm based energy management (GA) presented in a previous work. Subsequently, a number of clusters have been defined, each of which groups prosumers that share similar self-efficiency maps; particularly, clustering has been carried out and refined by identifying the most significant features of prosumers belonging to the same cluster, as well as those that differentiate prosumers belonging to different clusters. As a result, it has been revealed that the habit of usage of some appliances, such as Heat Ventilation Air Conditioning system (HVAC) and water heater, and peak electricity consumption represent the most important features influencing clustering. Based on these outcomes, the proposed online energy management tool is able to assign a prosumer to the most suitable cluster just based on the answers to a few simple questions related to energy consumption habits, providing the corresponding self-efficiency map almost immediately. The results achieved by the proposed tool, which is currently running online, are promising and show that significant self-sufficiency increases can be obtained, allowing the proper choice of PV-BESS depending on specific prosumer's needs and expectations."
+}

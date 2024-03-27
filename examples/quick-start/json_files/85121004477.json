@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121004477,
+    "Title": "Learning-based framework for sensor fault-tolerant building HVAC control with model-assisted learning",
+    "Author": "Xu S.",
+    "Journal": "BuildSys 2021 - Proceedings of the 2021 ACM International Conference on Systems for Energy-Efficient Built Environments",
+    "Publication Date": {
+        "$date": "2021-11-17T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1145/3486611.3486644",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Northwestern University",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "As people spend up to 87% of their time indoors, intelligent Heating, Ventilation, and Air Conditioning (HVAC) systems in buildings are essential for maintaining occupant comfort and reducing energy consumption. These HVAC systems in smart buildings rely 'on real-time sensor readings, which in practice often suffer from various faults and could also be vulnerable to malicious attacks. Such faulty sensor inputs may lead to the violation of indoor environment requirements (e.g., temperature, humidity, etc.) and the increase of energy consumption. While many model-based approaches have been proposed in the literature for building HVAC control, it is costly to develop accurate physical models for ensuring their performance and even more challenging to address the impact of sensor faults. In this work, we present a novel learning-based framework for sensor fault-tolerant HVAC control, which includes three deep learning based components for 1) generating temperature proposals with the consideration of possible sensor faults, 2) selecting one of the proposals based on the assessment of their accuracy, and 3) applying reinforcement learning with the selected temperature proposal. Moreover, to address the challenge of training data insufficiency in building-related tasks, we propose a model-assisted learning method leveraging an abstract model of building physical dynamics. Through extensive experiments, we demonstrate that the proposed fault-tolerant HVAC control framework can significantly reduce building temperature violations under a variety of sensor fault patterns while maintaining energy efficiency."
+}

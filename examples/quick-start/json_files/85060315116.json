@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060315116,
+    "Title": "Investigation and analyses of energy-efficient technologies for HVAC and lighting systems via energy auditing processes",
+    "Author": "Mathur A.",
+    "Journal": "2018 International Conference on Smart Grid and Clean Energy Technologies, ICSGCE 2018",
+    "Publication Date": {
+        "$date": "2018-12-03T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/ICSGCE.2018.8556644",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Heriot-Watt University, Dubai Campus",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 4,
+    "Abstract": "In this tech-savvy society, energy consumed by buildings is rapidly increasing which is a challenge to control, thus it became a global concern. The annual energy consumption by residential and commercial buildings is between 30% and 40% in developed countries. The largest source of greenhouse gases (GHGs) in the building sector is from the already existing establishments. The biggest contributor to these types of energy usage is the HVAC (Heating Ventilation and Air Conditioning) system of the facility. In the United Arab Emirates (U.A.E.), the average temperature recorded over a year is almost 35°C. Therefore, 70% of the total electricity consumed by the country is due to the air-conditioning system. Lighting systems are another major aspect in the high energy consumption rates in an establishment, a close second to HVAC systems. They are known to consume between 22% and 30% of a building's energy. This paper describes a few energy efficient technologies through energy auditing (EA) processes, to optimize the energy consumptions, by HVAC and lighting systems. To validate the outcomes obtained through level 1 of EA (walk-through energy analysis), a case study has been carried out in an institutional building located in Dubai, U.A.E. This energy analysis was executed as per the guidelines published by ASHRAE. The recommendations and improvements proposed through the EA analyses are discussed in this paper. From the energy analyses, the efficacy of energy efficient technologies applied to the existing buildings are justified."
+}

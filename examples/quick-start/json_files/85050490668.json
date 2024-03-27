@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85050490668,
+    "Title": "Poster abstract: COD - A dataset of commercial building occupancy traces",
+    "Author": "Liu K.S.",
+    "Journal": "BuildSys 2017 - Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments",
+    "Publication Date": {
+        "$date": "2017-11-08T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1145/3137133.3141471",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Stony Brook University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In this poster we introduce the Commercial Occupancy Dataset (COD), a high-resolution long-term dataset of occupancy traces in a commercial office building spanning 9 months and covering zone-level occupancy for five different spaces containing more than 90,000 enter/exit events over this time period. Occupancy data in a building contains rich spatial-temporal information about the users and their usage of the space and facilities. However, obtaining accurate occupancy data is a very challenging task due to the limitation of existing sensing technologies. A novel depth-imaging based solution to estimate occupancy counts was deployed in five doorways of an office building to generate the dataset. The dataset has high resolutions in all three major dimensions: temporal, spatial and occupancy state. This allows applications such as building energy simulation, occupancy modeling and human-in-the-loop HVAC control which enhance energy efficiency and human comfort. Towards this objective, we provide a case study to demonstrate the utility of understanding occupancy."
+}

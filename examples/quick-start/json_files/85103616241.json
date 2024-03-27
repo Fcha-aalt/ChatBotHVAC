@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103616241,
+    "Title": "A computer vision deep learning method for the detection and recognition of manual window openings for effective operations of HVAC systems in buildings",
+    "Author": "Tien P.W.",
+    "Journal": "Proceedings of the International Conference of Architectural Science Association",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 2,
+    "Abstract": "Manual opening of windows by occupants can lead to substantial heat loss and consequent energy consumption. It is important to develop control strategies that can detect and recognise the period of the window opening in real-time and adjust HVAC systems to minimise energy wastage and maintain indoor thermal comfort. This paper presents a computer vision deep learning framework for the detection and recognition of the manual window operations. A trained deep learning model is deployed into an artificial intelligence-powered camera. To assess the model’s capabilities, building energy simulation was used with various operation profiles of the windows; fixed profile, actual observation profile, and the deep learning influenced profile (DLIP) generated via the framework which uses data obtained from the real-time detection. The total heating load for a 2-hour period was 24.56kW when windows were opened and 3.46kW when closed, while actual heating requirement of the room was 8.01kW. This suggests the typical “static” scheduled window profiles cannot provide an accurate estimation of the building energy demand. The framework is capable of identifying if a window is open or close and help adjust the HVAC set point. It also enables alerts to occupants or building managers to prevent unnecessary heat losses."
+}

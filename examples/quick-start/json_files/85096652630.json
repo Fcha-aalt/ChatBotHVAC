@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096652630,
+    "Title": "Effect of floor distance on velocity profile in a vertical ducting systems: CFD modelling",
+    "Author": "Tanjung M.I.A.",
+    "Journal": "AIP Conference Proceedings",
+    "Publication Date": {
+        "$date": "2020-11-16T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1063/5.0030377",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitas Indonesia",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 1,
+    "Abstract": "Consideration of energy consumption and its impact on the environment has been driving the heating, ventilating, and air conditioning (HVAC) industry to develop and test more energy-efficient units. The Air Handling Unit (AHU) is one of the important components of the HVAC system that has undergone a lot of improvements in terms of energy efficiency through increased coil surface area, thus its unit size. Variation of AHU models requires energy performance testing and rating standard which is currently guided by ASHRAE Standard 37. The standard provides a limited guideline on the distance between the floor and the inlet duct length of the vertical AHU units which, although giving flexibility during testing, can lead to the variation of testing results of the same unit. This study uses a computational approach and experiment result to examine the effect of floor distance on the air velocity profile and fan power of a vertical ducting arrangement for an AHU unit. The unit geometry specification is obtained from the experimental campaign at Oklahoma State University, USA as part of ASHRAE research project. The results indicate that for all cases the air velocity 1 m downstream the opening is well distributed. The experiment also shows that different floor distances do not have a big influence on fan power."
+}

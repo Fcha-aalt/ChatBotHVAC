@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115849552,
+    "Title": "Ensemble-based efficient anomaly detection for smart building control systems",
+    "Author": "Haque N.I.",
+    "Journal": "Proceedings - 2021 IEEE 45th Annual Computers, Software, and Applications Conference, COMPSAC 2021",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/COMPSAC51774.2021.00075",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Florida International University",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "Modern building control systems integrate the internet of things (IoT) for real-time monitoring of the building’s demand and manage the heating, ventilation, and air conditioning (HVAC) cost-efficiently and reliably. However, adversarial alterations of the sensor data can disrupt the occupants’ comfort or increase energy consumption. Several intrusion detection systems (IDSs) are proposed to detect the tempering of the sensor measurements. However, these approaches either demonstrate a high false alarm rate or fail to detect anomalies, putting the HVAC control or the building occupants in a vulnerable condition. This paper proposes a novel intrusion detection technique amalgamating two unsupervised machine learning techniques, namely autoencoder(AE) and one-class support vector machine (OCSVM), for identifying abnormality in smart building sensor measurements. Our experimental analysis shows that the AE model-based anomaly detector demonstrates satisfactory performance for lowering false alarms but fails to detect a number of anomalous samples. In contrast, the OCSVM-based anomaly detection model performs significantly well for anomaly detection while raises a lot of false alarms. Our proposed ensembled AE-OCSVM model combines both models’ benefits, resulting in significant reductions of false positive and false negative rates compared to the existing smart building IDSs. We evaluate the proposed intrusion detection system on the commercial occupancy dataset (COD) and find that the proposed IDS model can achieve a 99.6% F1-score."
+}

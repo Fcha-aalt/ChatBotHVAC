@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951013214,
+    "Title": "Thermal energy storage in building integrated thermal systems: A review. Part 1. active storage systems",
+    "Author": "Navarro L.",
+    "Journal": "Renewable Energy",
+    "Publication Date": {
+        "$date": "2016-04-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.renene.2015.11.040",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Universitat de Lleida",
+    "Affliation Country": "Spain",
+    "Cited by count": 233,
+    "Abstract": "Energy consumed by heating, ventilation and air conditioning systems (HVAC) in buildings represents an important part of the global energy consumed in Europe. Thermal energy storage is considered as a promising technology to improve the energy efficiency of these systems, and if incorporated in the building envelope the energy demand can be reduced. Many studies are on applications of thermal energy storage in buildings, but few consider their integration in the building. The inclusion of thermal storage in a functional and constructive way could promote these systems in the commercial and residential building sector, as well as providing user-friendly tools to architects and engineers to help implementation at the design stage. The aim of this paper is to review and identify thermal storage building integrated systems and to classify them depending on the location of the thermal storage system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107357588,
+    "Title": "Preventive maintenance of centralized HVAC systems: Use of acoustic sensors, feature extraction, and unsupervised learning",
+    "Author": "Srinivasan R.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.26868/25222708.2017.715",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Florida",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "In this paper, we propose a predictive maintenance scheme for centralized HVAC systems by autonomous monitoring and analyzing their acoustic emissions. Our proposed solution allows a building to be retrofitted to monitor its HVAC without having to modify the existing infrastructure. Our approach is to employ an energy-efficient, low-cost, and distributed acoustic sensing platform to capture and process audio signals from HVAC systems. As part of this project, we develop audio models of a running HVAC system using a combination of unsupervised and supervised machine learning techniques with a human-in-the-loop for fault identification and prediction."
+}

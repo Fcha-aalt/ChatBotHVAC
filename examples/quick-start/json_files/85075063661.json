@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075063661,
+    "Title": "Building occupancy estimation using supervised learning techniques",
+    "Author": "Chitu C.",
+    "Journal": "2019 23rd International Conference on System Theory, Control and Computing, ICSTCC 2019 - Proceedings",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICSTCC.2019.8885985",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "UC Merced",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "Smart buildings viewed as cyber-physical systems are currently a growing research topic oriented towards collaborative groups of buildings. Since buildings consume significant amount of energy, research efforts have concentrated to make them more efficient, in particular the Heating, Ventilation and Air-Conditioning (HVAC) systems that represent more than 40% of the buildings' energy budget. A key piece of information that facilitates the design of energy efficient HVAC systems, in particular in commercial buildings, is the knowledge of the real-time and predicted occupancy, which would allow an automatic control process to balance the trade-off between energy use and quality of comfort. In practice however, occupancy counting devices are not being wide-spread deployed in the market, so in order to move forward, we believe it is important to estimate occupancy using existing sensors currently deployed in buildings. In this work, we propose to use a combination of sensor data currently available in buildings, such as CO2 data and airflow, and develop a supervised learning framework that uses existing data to estimate occupancy. We developed two data-driven techniques based on Random Forest (RF) and KNN algorithms to estimate occupancy based on data collected from 4 rooms. Our results show an average RMSE occupancy error that varies from 3.10 to 11.21 for RF (depending on the room) and 2.96 to 8.46 for KNN, with best case results of 1.08 and 0.97 respectively. We believe that our framework can be integrated into existing Building Management Systems (BMS) control processes to improve energy efficiency in smart buildings."
+}

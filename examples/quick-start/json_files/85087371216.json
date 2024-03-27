@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087371216,
+    "Title": "Energy saving analysis of a metamaterial based radiative cooling system for low-rise residential buildings by integrating with radiant floor",
+    "Author": "Yuan J.",
+    "Journal": "Proceedings of the Thermal and Fluids Engineering Summer Conference",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1615/TFEC2018.nbe.022313",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "College of Engineering and Physical Sciences",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Existing radiative cooling materials have problems of either high cost or limited for nighttime use. Recently, a novel scalable-manufactured randomized glass-polymer hybrid metamaterial coated with silver has been reported with low absorption for solar radiation and high infrared emissivity. Films based on this low-cost roll-to-roll manufactured metamaterial can provide approximately 100 W/m2 cooling power and have potential wide applications in buildings. Using this film, this study proposed a radiative cooling system for low-rise residential buildings. The radiative cooling system has demonstrated good cooling capacity to carry sensible load, and thus the vapor compression refrigeration equipment only needs to provide supplemental latent cooling. The potential energy savings of the proposed system in a typical sized residential building have been analyzed for the Los Angeles, CA climate. It is estimated via simulation that about 73% of annual cooling load can be carried by a conservative size of roof radiative cooler. Compared to a conventional Air-Conditioning system (i.e., a split AC), the proposed radiative cooling combined with radiant floor system will save 67.4% cooling electricity annually."
+}

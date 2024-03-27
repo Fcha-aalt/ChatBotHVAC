@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083424210,
+    "Title": "A deep learning framework for energy management and optimisation of HVAC systems",
+    "Author": "Tien P.W.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2020-04-06T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1088/1755-1315/463/1/012026",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 9,
+    "Abstract": "To enable heating, ventilation and air-conditioning systems to effectively work for the next generation-built environment by reducing unnecessary energy loads while also maintaining satisfactory thermal comfort conditions, this present work introduces a demand-driven deep learning-based framework, which can be integrated with building energy management systems and provide accurate predictions of occupancy activities. The developed framework utilises a deep learning algorithm and an artificial intelligence-powered camera. Tests are performed with new data fed into the framework which enables predictions of typical activities in buildings; walking, standing sitting and napping. Building energy simulation was used with various occupancy profile schedules: two typical static office occupancy profiles, a schedule generated via the deep learning framework and an actual prediction profile. An office space within a case study building was modelled. Initial results showed that the overall occupancy heat gains were up to 30.56% lower when the deep learning generated profile was used; as compared to the static office occupancy profile. This indicated a 0.015 kW decrease in occupancy gains, which also influenced the increase in building heating loads. Analysis indicates the occupancy detection-based framework is a potential solution for the development of effective heating, ventilation and air-conditioning systems. Additionally, the requirement for the deep learning framework to work for multiple occupancy activity detection and recognition was identified."
+}

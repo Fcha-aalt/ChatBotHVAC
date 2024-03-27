@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85044681268,
+    "Title": "Assessment of thermal comfort and energy savings in a field study on adaptive comfort with application for mixed mode offices",
+    "Author": "Barbadilla-Martín E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-05-15T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.02.033",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Sevilla, Escuela Técnica Superior de Ingeniería",
+    "Affliation Country": "Spain",
+    "Cited by count": 40,
+    "Abstract": "The study of the thermal comfort of the occupants of a building represents an important challenge, due to its close relation with energy efficiency. Facing the application of set-point temperatures, the adaptive comfort model proposes the linking of the comfort temperature to the outdoor temperature which would potentially reduce the use of the HVAC system. Although there are studies that propose experimental adaptive models, few verify their effectiveness. In the current study an adaptive comfort algorithm for hybrid buildings is experimentally validated based on a 17-month field study in office buildings in Spain. The implementation of the algorithm in the HVAC control system, both during the cooling and the heating period, allowed for the evaluation of the energy consumption, obtaining savings of 27.5% and 11.4% respectively. The percentage of thermal sensation votes in comfort evolved from 94% (prior to implementing the comfort algorithm) to 87.5% (once implemented) for the summer season and from 79.5% to 81.6% for the winter season. The results demonstrate that the adaptive model is effective for the optimization of HVAC systems, and that it is possible to achieve energy savings without impairing the comfort of its occupants for the type of climate and buildings considered."
+}

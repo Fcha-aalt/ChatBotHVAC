@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175848164,
+    "Title": "A novel data-driven relationship inference approach for automatic data tagging in building heating, ventilation and air conditioning systems",
+    "Author": "Wan S.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110968",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing University of Civil Engineering and Architecture",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Building automation systems (BAS) data plays a critical role in monitoring a building's operational performance, implementing equipment/system's fault detection and diagnosis, as well as performing building maintenance. However, two major challenges hinder effective data analytics in the building industry. The first challenge is the low data interpretability and interoperability caused by customized naming conventions and various semantic models in BAS data labels. The second challenge is the inconsistent entity relationships among data labels used in various BAS applications. Although some studies have applied semantic analysis to annotate the contextual information of reading data, it relies too much on the quality of data pre-annotation. Considering the inherent ability of BAS data to display the operational status of building entities, we present a novel data-driven reference method to automatically tag the pivotal contextual information of measurements and equipment in heating, ventilation, and air-conditioning (HVAC) systems. The main contributions include: 1) propose an Incremental Classification (IC) method to achieve automatic group tagging of measurements. Hence, the measurements which belong to the same monitoring point or equipment can be classified, 2) integrate Cluster and Correlation (CC) algorithms to identify logical zone divisions, and hence the measurements can be labeled with zone tags, and 3) apply an unsupervised deep learning algorithm, Bidirectional Gated Recurrent Unit (BiGRU) to infer the functional relationship between the air handling unit (AHU) and associated variable air volume (VAV) boxes. We demonstrate the effectiveness of the proposed method by using real BAS data collected in a campus building. Our method results in 88.1 % accuracy in group tagging, 92.3 % accuracy in zone division inference, and 98.4 % accuracy in physical relationship inferring of AHUs and VAV boxes, respectively."
+}

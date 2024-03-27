@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951884802,
+    "Title": "An approach to optimised control of HVAC systems in indoor swimming pools",
+    "Author": "Ribeiro E.M.A.",
+    "Journal": "International Journal of Sustainable Energy",
+    "Publication Date": {
+        "$date": "2016-04-20T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1080/14786451.2014.907293",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "School of Technology and Management",
+    "Affliation Country": "Portugal",
+    "Cited by count": 13,
+    "Abstract": "Indoor swimming pools are recognised as having a high level of energy consumption and present a great potential for energy saving. The energy is spent in several ways such as evaporation heat loss from the pool, high rates of ventilation required to guarantee the indoor air quality, and ambient temperatures with expressive values (typically 28−30°C) required to maintain conditions of comfort. This paper presents an approach to optimising control of heat ventilation and air conditioning systems that could be implemented in a building energy management system. It is easily adapted to any kind of pool and results in significant energy consumption reduction. The development and validation of the control model were carried out with a building thermal simulation software. The use of this control model in the case study building could reduce the energy efficiency index by 7.14 points (7.4% of total) which adds up to an energy cost saving of 15,609€ (7.5% of total)."
+}

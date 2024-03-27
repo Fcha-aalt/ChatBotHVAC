@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85059131472,
+    "Title": "An energy exchange efficiency prediction approach based on multivariate polynomial regression for membrane-based air-to-air energy recovery ventilator core",
+    "Author": "Qiu S.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.buildenv.2018.12.052",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 28,
+    "Abstract": "Air-to-air energy recovery ventilators (AERVs) are widely applied in building heating, ventilation, and air conditioning (HVAC) systems to reduce energy consumption by reducing heating and cooling loads caused by ventilation. Its energy exchange efficiency data are typically acquired experimentally and are time consuming to be applied to engineering fields when the number of working scenarios to be tested is large. Instead of manual labor and time, detailed numerical calculation methods require the characteristic information of the membrane material, which is difficult for manufacturers to provide. Hence, an energy exchange efficiency prediction approach based on a multivariate polynomial regression model is proposed herein to predict the energy exchange efficiency of the membrane-based AERV (MERV) core. In the proposed approach, a simplified numerical efficiency calculation model of a cross-flow air-to-air enthalpy exchanger is trained with a small sample of experimentally measured efficiency data. Subsequently, the trained model is adopted to predict the energy exchange efficiency of the MERV core made of the same membrane, under other flowrates and structures. As verified by the experimental data, the proposed approach can predict the energy exchange efficiency with absolute deviation limits within ±8.0%. Compared to detailed numerical calculation methods, the proposed approach requires less membrane characteristic information and calculations; thus, the proposed approach is practical for engineering applications to simulate the equipment performance over different conditions and help sizing the equipment with less requirements."
+}

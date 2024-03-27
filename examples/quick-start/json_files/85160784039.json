@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160784039,
+    "Title": "Neural Network Model to Predict the Thermal Operating Point of an Electric Vehicle",
+    "Author": "Kolachalama S.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2023-04-11T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.4271/2023-01-0134",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Michigan, Ann Arbor",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The automotive industry widely accepted the launch of electric vehicles in the global market, resulting in the emergence of many new areas, including battery health, inverter design, and motor dynamics. Maintaining the desired thermal stress is required to achieve augmented performance along with the optimal design of these components. The HVAC system controls the coolant and refrigerant fluid pressures to maintain the temperatures of [Battery, Inverter, Motor] in a definite range. However, identifying the prominent factors affecting the thermal stress of electric vehicle components and their effect on temperature variation was not investigated in real-time. Therefore, this article defines the vector electric vehicle thermal operating point (EVTHOP) as the first step with three elements [instantaneous battery temperature, instantaneous inverter temperature, instantaneous stator temperature]. As a next step, a novel deep learning model was proposed utilizing the integrated functions of MATLAB, which predicts the vector EVTHOP mapping the elements of [Body module, Driver behavior, Environmental factors], which represent the dynamic state of the system. The trained models were developed using real-time data retrieved by driving the test vehicle 2023 Cadillac Lyriq, provided by General Motors Inc. Since the data retrieved is time-series, the trained functions were developed using the known established method NARX. The Error vector was defined by estimating the conformance of actual and predicted values. The performance of NARX was done by analyzing the Error using the known statistical techniques (RMSE, Area under the curve, Smoothness measure: RSquare). The data snippets for 100 seconds were selected randomly to validate the deep learning model, and it was observed that statistical analysis of the Error resulted [RMSE < 0.2; Area < 632, RSquare > 0.7] in all scenarios. Thus, the developed predictive model was assumed to produce satisfactory results in predicting the vector EVTHOP."
+}

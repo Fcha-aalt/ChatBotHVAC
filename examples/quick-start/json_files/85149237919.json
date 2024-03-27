@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149237919,
+    "Title": "Energy Cost Driven Heating Control with Reinforcement Learning",
+    "Author": "Kannari L.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13020427",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Teknologian Tutkimuskeskus VTT",
+    "Affliation Country": "Finland",
+    "Cited by count": 1,
+    "Abstract": "The current energy crisis raised concern about the lack of electricity during the wintertime, especially that consumption should be cut at peak consumption hours. For the building owners, this is visible as rising electricity prices. Availability of near real-time data on energy performance is opening new opportunities to optimize energy flexibility capabilities of buildings. This paper presents a reinforcement learning (RL)-based method to control the heating for minimizing the heating electricity cost and shifting the electricity usage away from peak demand hours. Simulations are carried out with electrically heated single-family houses. The results indicate that with RL, in the case of varying electricity prices, it is possible to save money and keep the indoor thermal comfort at an appropriate level."
+}

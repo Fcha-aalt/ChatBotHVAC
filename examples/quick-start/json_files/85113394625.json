@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85113394625,
+    "Title": "On the Validity of Decomposition for Distributed Parameter Estimation in Complex Dynamical Systems: The Case of Cooling Systems",
+    "Author": "Wu D.",
+    "Journal": "2020 52nd North American Power Symposium, NAPS 2020",
+    "Publication Date": {
+        "$date": "2021-04-11T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/NAPS50074.2021.9449723",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Massachusetts Institute of Technology",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "This paper concerns the difficult, somewhat circular, problem of managing complex interconnected dynamical systems. This generally must be done by avoiding complexity and the needs for fast fail-prone communications and having only a limited number of measurements. We illustrate this problem on a typical complex energy management for cooling systems. We first derive conditions for decomposition into subsystems modeled in terms of their own internal dynamics and output measurements on the interfaces with other components. We then use these decomposed models to illustrate how well distributed estimation can be done. The accuracy of parameter estimation is demonstrated using a real-world commercial cooling system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088099809,
+    "Title": "P&amp;ID-based automated fault identification for energy performance diagnosis in HVAC systems: 4S3F method, development of DBN models and application to an ATES system",
+    "Author": "Taal A.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110289",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hague University of Applied Sciences",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 3,
+    "Abstract": "Current methods for energy diagnosis in heating, ventilation and air conditioning (HVAC) systems are not consistent with process and instrumentation diagrams (P&IDs) as used by engineers to design and operate these systems, leading to very limited application of energy performance diagnosis in practice. In a previous paper, a generic reference architecture – hereafter referred to as the 4S3F (four symptoms and three faults) framework – was developed. Because it is closely related to the way HVAC experts diagnose problems in HVAC installations, 4S3F largely overcomes the problem of limited application. The present article addresses the fault diagnosis process using automated fault identification (AFI) based on symptoms detected with a diagnostic Bayesian network (DBN). It demonstrates that possible faults can be extracted from P&IDs at different levels and that P&IDs form the basis for setting up effective DBNs. The process was applied to real sensor data for a whole year. In a case study for a thermal energy plant, control faults were successfully isolated using balance, energy performance and operational state symptoms. Correction of the isolated faults led to annual primary energy savings of 25%. An analysis showed that the values of set probabilities in the DBN model are not outcome-sensitive."
+}

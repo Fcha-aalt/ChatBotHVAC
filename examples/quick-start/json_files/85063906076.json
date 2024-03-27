@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063906076,
+    "Title": "Application of artificial neural network in the prediction of ambient temperature for a cloud-based smart dual fuel switching system",
+    "Author": "Demirezen G.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.egypro.2019.01.992",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Toronto Metropolitan University",
+    "Affliation Country": "Canada",
+    "Cited by count": 16,
+    "Abstract": "This preliminary study is part of a bigger cloud-based smart dual fuel switching system (SDFSS) for hybrid heating, ventilation and air conditioning (HVAC) systems. The SDFSS being developed enables flexible and cost-optimized control between the natural gas furnace and air source heat pump (ASHP), allowing simultaneous reduction in energy costs and greenhouse gas (GHG) emissions. To meet the optimal energy consumption requirements and satisfaction of the residents, the employment of smart sensors and software are broadly used. The data regarding the outdoor temperature plays the most crucial role in operating and controlling the SDFSS optimally. This study introduces a novel approach to obtaining the outdoor temperature that could potentially replace smart sensors with a data-driven model utilizing weather station data at time resolutions of 2 minutes and 1 hour. In this work, a computer program was implemented under Matlab R2018a software. This study found that the artificial neural network (ANN) model was able to predict the outdoor temperature within 0.95 R error in average, demonstrating ANN to be a powerful tool in predicting outdoor temperature. Thus, the model proposed can be confidently implemented as an alternative to temperature sensors in automated systems, in hybrid energy systems or other energy systems requiring accurate ambient temperature measurements."
+}

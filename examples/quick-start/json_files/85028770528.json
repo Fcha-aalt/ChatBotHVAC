@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85028770528,
+    "Title": "A mode-based implementation framework for advanced control methods in building automation systems with Petri-Nets",
+    "Author": "Schild T.",
+    "Journal": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM",
+    "Publication Date": {
+        "$date": "2017-08-21T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/AIM.2017.8014020",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 10,
+    "Abstract": "Energy efficiency of buildings and districts is a core element in facing the climate change and scarcity of energy resources. A major domain for improving energy efficiency is building automation and control. Especially the application of advanced control methodologies requires special attention during the engineering process in order to guarantee for a meaningful, reasonable and comprehensible system behavior. In this paper, we present the concept of operating modes for increasing both, the operability and the applicability of advanced control methods in building energy systems. Referring to process automation methods, we introduce Petri-Nets as a powerful description method for mode-based building control development."
+}

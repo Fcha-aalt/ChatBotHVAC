@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85049785098,
+    "Title": "Efficient modeling of optically-complex, non-coplanar exterior shading: Validation of matrix algebraic methods",
+    "Author": "Wang T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-09-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2018.06.022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 17,
+    "Abstract": "It has long been established that shading windows with overhangs, fins, and other types of non-coplanar systems (NCS) is one of the most effective ways of controlling solar heat gains in buildings because they intercept solar radiation prior to entry into the building. Designers however often specify non-opaque materials (e.g., louvers, fritted glass, expanded metal mesh) for these systems in order to admit daylight, reduce lighting energy use, and improve indoor environmental quality. Most simulation tools rely on geometric calculations and radiosity methods to model the solar heat gain impacts of NCS and cannot model optically-complex materials or geometries. For daylighting analysis, optically-complex NCS can be modeled using matrix algebraic methods, although time-efficient parametric analysis has not yet been implemented. Determining the best design and/or material for static or operable NCS that minimize cooling, heating, and lighting energy use and peak demand requires an iterative process. This study describes and validates a matrix algebraic method that enables parametric energy analysis of NCS. Such capabilities would be useful not only for design but also for development of prescriptive energy-efficiency standards, rating and labeling systems for commercial products, development of design guidelines, and development of more optimal NCS technologies. A facade or “F” matrix, which maps the transfer of flux from the NCS to the surface of the window, is introduced and its use is explained. A field study was conducted in a full-scale outdoor testbed to measure the daylight performance of an operable drop-arm awning. Simulated data were compared to measured data in order to validate the models. Results demonstrated model accuracy: simulated workplane illuminance was within 11–13%, surface luminance was within 16–18%, and the daylight glare probability was within 6–9% of measured results. Methods used to achieve accurate results are discussed. Results of the validation of daylighting performance are applicable to solar heat gain performance. Since exterior shading can also significantly reduce peak demand, these models enable stakeholders to more accurately assess HVAC and lighting impacts in support of grid management and resiliency goals."
+}

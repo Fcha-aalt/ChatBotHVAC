@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153337635,
+    "Title": "Data Center HVAC Control Harnessing Flexibility Potential via Real-Time Pricing Cost Optimization Using Reinforcement Learning",
+    "Author": "Biemann M.",
+    "Journal": "IEEE Internet of Things Journal",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/JIOT.2023.3263261",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Norges Teknisk-Naturvitenskapelige Universitet",
+    "Affliation Country": "Norway",
+    "Cited by count": 1,
+    "Abstract": "With increasing electricity prices, cost savings through load shifting are becoming increasingly important for energy end users. While dynamic pricing encourages customers to shift demand to low price periods, the nonstationary and highly volatile nature of electricity prices poses a significant challenge to energy management systems. In this article, we investigate the flexibility potential of data centers by optimizing heating, ventilation, and air conditioning systems with a general model-free reinforcement learning (RL) approach. Since the soft actor-critic algorithm with feedforward networks did not work satisfactorily in this scenario, we propose instead a parameterization with a recurrent neural network architecture to successfully handle spot-market price data. The past is encoded into a hidden state, which provides a way to learn the temporal dependencies in the observations and highly volatile rewards. The proposed method is then evaluated in experiments on a simulated data center. Considering real temperature and price signals over multiple years, the results show a cost reduction compared to a proportional, integral and derivative controller while maintaining the temperature of the data center within the desired operating ranges. In this context, this work demonstrates an innovative and applicable RL approach that incorporates complex economic objectives into agent decision-making. The proposed control method can be integrated into various Internet of Things-based smart building solutions for energy management."
+}

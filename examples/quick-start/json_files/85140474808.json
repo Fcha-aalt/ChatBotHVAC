@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140474808,
+    "Title": "PMV inverse model-based indoor thermal environment control for thermal comfort and energy saving",
+    "Author": "Xue W.",
+    "Journal": "Chinese Control Conference, CCC",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.23919/CCC55666.2022.9902322",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Jiangsu University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "The heating, ventilation and air conditioning (HVAC) systems are commonly used to maintain the comfortable indoor environment and yet, are responsible for high building energy consumption. This paper presents an indoor thermal environment control strategy to guarantee desired occupant comfort and to promote building energy efficiency. Firstly, the predicted mean vote (PMV) inverse model is proposed as the room temperature setpoint estimator. Secondly, the PMV inverse model is trained by using the extreme learning machine. Then, the temperature setpoint tracking is realized by using the trained inverse model and pulse width modulation based PID algorithm. TRNSYS/MATLAB simulations verify that the proposed method can guarantee occupant thermal comfort as well as reduce the HVAC system's energy consumption."
+}

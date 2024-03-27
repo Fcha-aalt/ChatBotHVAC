@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85137583902,
+    "Title": "Sensing systems for smart building occupant-centric operation",
+    "Author": "Chu Y.",
+    "Journal": "The Rise of Smart Cities: Advanced Structural Sensing and Monitoring Systems",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/B978-0-12-817784-6.00025-4",
+    "Source Type": "Book",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Buildings are an essential part of our lives and thus are designed to provide a safe, comfortable, and healthy indoor environment in which we work and live. However, buildings also account for nearly 40% of energy and 74% of electricity use in the United States and thus largely influence the load shapes on the electric grid. Buildings also are responsible for approximately 36% of CO2 emissions. The performance of these buildings is strongly influenced by the occupants that use them and their energy-consuming behaviors. Most buildings, however, are not designed or operated to intelligently monitor their systems’ performance and occupants’ usage. With the emergence of the concept of smart cities and smart buildings, and the growth in available sensors and sensor systems, the ubiquitous availability of internet connectivity, data storage, communication networks, and protocols, there is an increasing opportunity to actively monitor and collect building systems data. This includes occupancy-related data using occupancy sensor systems. This data can be used to inform building controls to target energy use reductions and efficiency improvements while maintaining occupant comfort. Occupancy recognition technologies have been developed to collect occupancy information, including both single sensor systems and sensor fusion technologies. These technologies and systems include a broad range of sensor types and modalities. Such systems should be able to reliably detect occupants, should be easy to commission, and should, through connection with and control of the HVAC, lighting, and/or other building systems, help to reduce energy consumption and/or demand of a building. There are a variety of factors that influence the ability of a sensor system to detect occupants, such as interior building layout and geometry, lighting levels, and occupant characteristics, among others. This impact varies depending on the sensor system used and its corresponding algorithms. This chapter provides a comprehensive review of the types of occupancy sensors systems for buildings, sensing modalities, and corresponding variables found to impact sensor performance in terms of reliability and ease of commissioning. It also discusses various methods and metrics used to evaluate sensor system performance. This helps to provide guidance for various stakeholders interested in smart buildings and building systems, particularly for occupied buildings."
+}

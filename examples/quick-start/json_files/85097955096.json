@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85097955096,
+    "Title": "Development of deep learning-based equipment heat load detection for energy demand estimation and investigation of the impact of illumination",
+    "Author": "Wei S.",
+    "Journal": "International Journal of Energy Research",
+    "Publication Date": {
+        "$date": "2021-04-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1002/er.6306",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 8,
+    "Abstract": "As the use of equipment in office buildings increases, accurate equipment usage detection is valuable for the reduction of energy consumption and carbon emission. Using the collected equipment usage information, building energy management system (BEMS) can automatically adjust the operation of heating, ventilation, and air-conditioning (HVAC) systems to meet the actual demands in different conditioned spaces in real time. Previous studies highlighted that the use of conventional control strategies in office buildings such as “static” operation schedules could cause large energy waste in particular during unoccupied hours. Common equipment load detection techniques, such as power meters and survey, are unable to provide comprehensive (location, count and heat emission) and real-time equipment information necessary for demand-driven strategies. Based on a deep learning-based equipment load detection approach which employs artificial intelligence-enabled cameras, the detection performance of the proposed approach is likely going to be affected by environmental conditions, such as the positions of cameras and lighting level, within the monitored spaces. Improper detection conditions can result in incorrect detection and lead to inaccurate building energy demand estimation. This paper aims to investigate the influences of illumination conditions on the detection accuracy of the vision-based equipment load detection approach. The work will be using AI cameras to detect equipment information under different lighting levels, employing deep learning method to analyse and generate the real-time equipment usage profiles for offices which can be inputted to the BEMS to increase the efficiency of HVAC systems. The results showed that as compared with the conventionally-scheduled HVAC systems, the HVAC system with the use of equipment usage profiles conducted by the proposed approach can achieve up to 15% reduction of energy consumption. The finding indicates that adequate illumination level contributes to the decrease of building energy demand by achieving an effective deep learning approach."
+}

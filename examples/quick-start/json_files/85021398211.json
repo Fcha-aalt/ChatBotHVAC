@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85021398211,
+    "Title": "Modelling optimal pre-cooling time for buildings",
+    "Author": "Saurav K.",
+    "Journal": "e-Energy 2017 - Proceedings of the 8th International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2017-05-16T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1145/3077839.3081679",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "IBM Research",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Energy costs from hvacs is a significant fraction of the operational expenditure of a building. Pre-cooling is a proven demand side strategy to reduce this operating energy cost. However, generating optimal hvac operating schedule is a nontrivial problem and often, it requires the use of computationally expensive optimization frameworks. In this paper, we propose a simple machine learning based approach to approximately calculate the optimal pre-cooling time. The optimal pre-cooling time thus calculated can be used to generate an operation schedule for hvac. Using simulations we demonstrate that the schedule thus obtained is nearly same as the schedule obtained from the optimization. The results from this paper can be used to integrate pre-cooling with supply side strategies as using renewable energy sources (solar pv, wind) in a computationally efficient manner."
+}

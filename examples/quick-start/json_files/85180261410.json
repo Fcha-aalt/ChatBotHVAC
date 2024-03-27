@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85180261410,
+    "Title": "Predicting climate change and occupants’ behaviour impact on thermal-energy performance of global south housing: Case study in Brazil",
+    "Author": "Cruz A.S.",
+    "Journal": "Indoor and Built Environment",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1177/1420326X231222157",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Federal do Rio de Janeiro",
+    "Affliation Country": "Brazil",
+    "Cited by count": 0,
+    "Abstract": "Due to climate change conditions, natural ventilation potential may reduce over the years and increase dependence on HVAC systems. Moreover, occupants’ behaviour regarding natural ventilation is a significant parameter affecting the thermal-energy performance of residential buildings as people tend to occupy their homes differently depending on their life, work and cultural routines. Therefore, in this study, the thermal-energy performance of a Global South (GS) housing case study located in Brazil was assessed in a future weather context. This paper included two major steps: (1) Optimization procedure to create optimized models based on different occupancy patterns; and (2) Parametric analysis to explore the building’s thermal-energy performance for a given constructive design option, occupant behaviour and weather data. The optimization procedure included a multi-objective optimization based on the Non-dominated Sorting Genetic Algorithm II (NSGA-II) to minimize discomfort hours and cooling energy demand, while parametric analysis explored the occupants’ behaviour varieties derived from alternative occupancy patterns, ventilation availabilities and HVAC operation modes. The obtained future context simulation results indicated an increase in discomfort hours and cooling energy demand, while the most appropriate architecture design might vary depending on the occupancy behaviour."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083422675,
+    "Title": "Equipment load detection using deep learning for building energy management",
+    "Author": "Wei S.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2020-04-06T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1088/1755-1315/463/1/012027",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 0,
+    "Abstract": "The present work will develop a learning-based approach for a demand-driven control system which can automatically adjust the Heating, Ventilation and Air Conditioning (HVAC) setpoints and supply conditions in terms of the actual requirements of the conditioned space. Internal heat gains from typical office equipment, such as computers, printers and kettle will be the focus of this paper. Due to its irregular use during scheduled heating or cooling service periods, an opportunity is offered to reduce unnecessary energy demands of HVAC systems related to the actual use of the equipment and its heat gains, i.e. over- and under-utilization of equipment indicate whether interior spaces are required to be conditioned or not. The work will be using deep learning enabled cameras which can locally run trained algorithms to analyse and take action based on how equipment is utilised in a space. This proposed strategy automatically responds to the equipment usage for optimising energy consumption and indoor conditions. The work will compare the performance of the developed approach with a conventional approach such as the use of static heating or cooling profiles. To highlight its capabilities, the approach is applied to detect the equipment usage in a real open plan office and the output (i.e. deep learning profile) is used as input for a building energy simulation model. The initial results showed that while maintaining thermal comfort levels, up to 19% reduction of the annual energy consumption can be achieved by employing the proposed strategy in comparison to conventionally-scheduled HVAC systems, while only focusing on three types of equipment."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123782098,
+    "Title": "Estimating ASHRAE Guideline 36 energy savings for multi-zone variable air volume systems using Spawn of EnergyPlus",
+    "Author": "Zhang K.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/19401493.2021.2021286",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 16,
+    "Abstract": "ASHRAE Guideline 36 (G36) publishes high-performance control sequences for Variable Air Volume (VAV) system operation. Retrofitting existing VAV control sequences to G36 promises to have a large potential for energy savings. However, it is difficult to estimate the savings accurately and the process of doing so can be costly and time-consuming. This paper evaluates the energy use of a multi-zone VAV system with terminal reheat using the G36 sequences and compares it to a group of baseline control sequences that represent existing practices. Spawn of EnergyPlus is used for the whole building simulation, where the envelope is modelled in EnergyPlus and the HVAC equipment and its pressure-flow network and the control sequences are modelled in Modelica. The comparison of the control sequences performance is further conducted in parametric studies. For a medium-sized commercial building, the G36 sequences provide a wide range of HVAC energy savings with an average of 31%."
+}

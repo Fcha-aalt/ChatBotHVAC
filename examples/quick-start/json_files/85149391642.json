@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149391642,
+    "Title": "Hierarchical multi-agent control framework for energy efficiency and carbon emission reduction in multi-zone buildings",
+    "Author": "Mtibaa F.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.106204",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "École de Technologie Supérieure",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Centralized optimization approaches to trade-off between comfort, energy and carbon emissions are widely adopted in the control of building heating, ventilation, and air-conditioning (HVAC) systems. However, the high computational complexity in each control horizon, single point of failure risks, and the limited number of zones to control make the centralized approach unattractive. Unlike centralized controls, multi-agent control (MAC) systems are flexible and modular. This paper proposes a scalable multi-agent based distributed approach for optimized control of a multi-zone smart building based on a set of local agents which represent individual zones in the building, coordinated by a central agent. For each control horizon, the coordinator minimizes the overall carbon emissions and assigns an individual energy budget to each local agent. Each local agent minimizes the discomfort in its zone while respecting the energy budget assigned by the coordinator. We propose a heuristic search based on a genetic algorithm to find the optimized control sequences in each zone, and formulate an integer linear programming (ILP) model for the coordinator problem which can be solved using an ILP solver. For a representative winter test day, the proposed methodology gave an energy savings of 8.8% and reduced the carbon footprint by 23.4%."
+}

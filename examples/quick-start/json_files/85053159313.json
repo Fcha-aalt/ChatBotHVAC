@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053159313,
+    "Title": "Correlation of humidity and temperature in conference rooms - Preliminary tests",
+    "Author": "Gładyszewska-Fiedoruk K.",
+    "Journal": "E3S Web of Conferences",
+    "Publication Date": {
+        "$date": "2018-08-13T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1051/e3sconf/20184900032",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Bialystok University of Technology",
+    "Affliation Country": "Poland",
+    "Cited by count": 2,
+    "Abstract": "In three different conference rooms, temperature and humidity were measured, and then the correlation of these measured parameters was determined. The analysed rooms are located in buildings of the same construction and in the same town, in the temperate climate zone. The rooms had a different number of people. The experiment caused more questions than answers. The only concrete conclusions that can be formulated are that in two rooms the humidity was far too low. The HVAC system slightly disturbs the correlation of temperature and humidity. The density of people in the room affects the increase of humidity. Despite the use of air temperature controllers in all the analysed conference rooms, the temperature during the tests increased, mostly in the room with the largest number of people. The influence of the number of people on the correlation between the measured parameters has not been determined. It is also not specified if external conditions influence this correlation. Humidity measurements should be continued in rooms where there are a lot of people in various aspects. Above all, there must be constructed the mechanisms to control it."
+}

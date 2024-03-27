@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84965143681,
+    "Title": "Enabling IOT services using WIFI - ZigBee gateway for a home automation system",
+    "Author": "Vivek G.V.",
+    "Journal": "Proceedings of 2015 IEEE International Conference on Research in Computational Intelligence and Communication Networks, ICRCICN 2015",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICRCICN.2015.7434213",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "JAIN (Deemed-to-be University)",
+    "Affliation Country": "India",
+    "Cited by count": 49,
+    "Abstract": "Home automation system is a process of automating or adapting to basic household activities like control of Lighting, Heating, Ventilation and Air condition (HVAC) appliances on user command. A dedicated hand held device is ideal in providing a user interface in a home automation system, due to their portability and their wide range of capabilities. The hand held device runs on Linux OS which is an open source platform and can work on limited memory communication between the appliances a home automation network through low power communication protocols such as ZigBee. With the recent increase in the use of internet and cheaper components, large number of Home automation system with IOT capabilities are in demand. Home automation system prototype includes a gateway with user interactions capabilities, this experiment demonstrates that the proposed gateway work efficiently by sending and receiving instructions from different protocols, a Graphical User Interface (GUI) allows user to interact with the ambient environment settings."
+}

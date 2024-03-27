@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85028316672,
+    "Title": "18th International Conference on Engineering Applications of Neural Networks, EANN 2017",
+    "Author": NaN,
+    "Journal": "Communications in Computer and Information Science",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 61 papers. The special focus in this conference is on Engineering Applications of Neural Networks. The topics include: Motion-specialized deep convolutional descriptor for plant water stress estimation; analysis of parallel process in HVAC systems using deep autoencoders; using advanced audio generating techniques to model electrical energy load; memristor based chaotic neural network with application in nonlinear cryptosystem; predicting student performance in distance higher education using active learning; heuristics-based detection to improve text/graphics segmentation in complex engineering drawings; intrinsic plagiarism detection with feature-rich imbalanced dataset learning; random resampling in the one-versus-all strategy for handling multi-class problems; a spiking one-class anomaly detection framework for cyber-security on industrial control systems; boosted residual networks; a convolutional approach to multiword expression detection based on unsupervised distributed word representations and task-driven embedding of lexical features; remarks on tea leaves aroma recognition using deep neural network; deep convolutional neural networks for fire detection in images; improving face pose estimation using long-term temporal averaging for stochastic optimization; discriminatively trained autoencoders for fast and accurate face recognition; fish classification in context of noisy images; a method for the detection of the most suitable fuzzy implication for data applications; application of asymmetric networks to movement detection and generating independent subspaces; two hidden layers are usually better than one; neural networks as a learning component for designing board games and emotion prediction of sound events based on transfer learning."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84971656638,
+    "Title": "Integrated numerical and experimental methodology for thermal-energy analysis and optimization of heritage museum buildings",
+    "Author": "Pisello A.L.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2016-05-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1177/0143624415609910",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Perugia",
+    "Affliation Country": "Italy",
+    "Cited by count": 14,
+    "Abstract": "Research effort was dedicated to the analysis of museums microclimate for the preservation of artifacts and indoor environment. In this paper, continuous monitoring and dynamic simulation of an ancient exhibition site are carried out to evaluate indoor microclimate and energy performance. The aim is to develop a multidisciplinary methodology for preserving artworks and historic buildings in the view of sustainability and comfort. The paper also shows how the environmental conditions of two thermal zones different for geometry, occupancy, ventilation rate, and heating, ventilation, and air conditioning (HVAC) systems are far from the values suggested by the regulations for the preservation of artifacts and from human comfortable set points of temperature and relative humidity. This work highlights the need for further investigation of historical exposition sites to reduce artworks' damaging and occupants' environmental stress. Practical application: Many historical buildings in European countries host exhibition sites. Indoor microclimate of such areas is often inappropriate for visitors' comfort, for artworks', and building preservation. In fact, usually HVAC systems operate according to simple temperature-based control protocols. This study shows how old architectures could present indoor environmental conditions far from the target, for artworks' preservation, for occupants' comfort, and for the building maintenance. This paper presents a numerical-experimental methodology applied to an architectural heritage. The analysis gives insight on this issue, and could guide building operators and service management to investigate and optimize indoor environmental conditions where artworks are preserved."
+}

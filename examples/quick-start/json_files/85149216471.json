@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149216471,
+    "Title": "Study of the Data Augmentation Approach for Building Energy Prediction beyond Historical Scenarios",
+    "Author": "Fang H.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-02-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13020326",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aalto University",
+    "Affliation Country": "Finland",
+    "Cited by count": 1,
+    "Abstract": "Building energy consumption predictive modeling using data-driven machine learning is currently highly prevalent. However, the model typically performs poorly when the predicted day’s energy consumption exceeds the upper bound of the historical data. In this study, energy consumption projections are examined outside of historical boundary scenarios, including three occupancy behavior data (HVAC system, lighting, and equipment) and three operating future scenarios (Scenario 1: utilization rate is highest simultaneously; Scenario 2: energy-saving lighting renovation; Scenario 3: the number of people working is decreased). We propose using data augmentation based on the occupancy behavior (DAOB) method, which expands the building’s three occupancy behaviors. The case study showed that, among the three future operating scenario prediction tasks, scenario 1’s performance was the least accurate, with an average relative error of 50.21% compared to the DAOB method’s average relative error of 7.07%. The average relative error in Scenario 2 decreased from 15.83% to 10.10%. The average relative error in Scenario 3 decreased from 20.97% to 6.5%. This provided an efficient method of combining physical models with data-driven models, which significantly increased robustness and reliability of the model."
+}

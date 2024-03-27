@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053893298,
+    "Title": "Occupancy-based HVAC control with short-term occupancy prediction algorithms for energy-efficient buildings",
+    "Author": "Dong J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2018-09-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/en11092427",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 51,
+    "Abstract": "This study aims to develop a concrete occupancy prediction as well as an optimal occupancy-based control solution for improving the efficiency of Heating, Ventilation, and Air-Conditioning (HVAC) systems. Accurate occupancy prediction is a key enabler for demand-based HVAC control so as to ensure HVAC is not run needlessly when when a room/zone is unoccupied. In this paper, we propose simple yet effective algorithms to predict occupancy alongside an algorithm for automatically assigning temperature set-points. Utilizing past occupancy observations, we introduce three different techniques for occupancy prediction. Firstly, we propose an identification-based approach, which identifies the model via Expectation Maximization (EM) algorithm. Secondly, we study a novel finite state automata (FSA) which can be reconstructed by a general systems problem solver (GSPS). Thirdly, we introduce an alternative stochastic model based on uncertain basis functions. The results show that all the proposed occupancy prediction techniques could achieve around 70% accuracy. Then, we have proposed a scheme to adaptively adjust the temperature set-points according to a novel temperature set algorithm with customers' different discomfort tolerance indexes. By cooperating with the temperature set algorithm, our occupancy-based HVAC control shows 20% energy saving while still maintaining building comfort requirements."
+}

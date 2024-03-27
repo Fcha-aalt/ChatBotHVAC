@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089511201,
+    "Title": "Influence of the improvement in thermal expectation levels with adaptive setpoint temperatures on energy consumption",
+    "Author": "Bienvenido-Huertas D.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/APP10155282",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Sevilla",
+    "Affliation Country": "Spain",
+    "Cited by count": 8,
+    "Abstract": "A sustainable use of active heating, ventilation, and air conditioning (HVAC) systems is crucial for minimum energy consumption. Currently, research studies are increasingly applying adaptive setpoint temperatures, thus reducing considerably the energy consumption without influencing comfort levels excessively. Most of them, however, are focused on the limit values of adaptive comfort standards without considering the tolerance in users' adaptation capacity. This research study analyzed various tolerance ranges in the recent adaptive thermal comfort model from EN 16798-1:2019 used in setpoint temperatures. The study focused on the south of Europe, considering 47 cities in Spain, 18 cities in Portugal, 13 cities in Greece, and 20 cities in Italy. In addition, such cities were analyzed in three climate scenarios: present time, 2050, and 2100. The results showed that values prefixed by EN 16798-1:2019 for new buildings (tolerance of 0.00 °C) produced significant savings with respect to the static model and that each progressive improvement in users' thermal expectations in 0.25 °C increased the energy consumption between 6.57 and 9.31% in all scenarios analyzed. Even applying a thermal tolerance of 1.50 °C, energy savings are currently produced with respect to the static model. This tendency increases in future scenarios until a thermal tolerance of 1.75 °C. The results of this paper provide greater knowledge about the possible energy increase that the improvement in users' expectations would produce."
+}

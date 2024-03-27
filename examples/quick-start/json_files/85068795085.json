@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068795085,
+    "Title": "A data-driven approach to extract operational signatures of HVAC systems and analyze impact on electricity consumption",
+    "Author": "Yu X.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2019-11-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.apenergy.2019.113497",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NYU Tandon School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 37,
+    "Abstract": "The electricity consumption of Heating Ventilating and Air Conditioning (HVAC) systems has a significant share in the energy consumption of buildings, which account for 75% of total electricity produced in the US. Therefore, improving the energy efficiency in HVAC systems is an essential goal in facility management (FM) industry. Building Automation Systems (BASs) deployed in buildings provide an enormous amount of data on HVAC operations, which can be leveraged to extract hidden knowledge and insights about operational signatures of these systems (i.e., parameter-value pairs set for running the equipment) and their relationship to energy profiles. This study aims to identify critical parameters of HVAC systems that drive the changes in the building energy-use profiles and develop an automated approach for identifying HVAC operational signatures and their energy profiles in buildings. The approach relies on data-driven methodologies and is composed of three major steps: data preprocessing, feature selection, and signature discovery and analysis. The approach was tested on four air handling units (AHUs) in different buildings. The results showed that it is possible to define operational signatures for facility operators to run AHUs at these custom settings and achieve about 30% saving in electric power, given the profiles across the operational signatures."
+}

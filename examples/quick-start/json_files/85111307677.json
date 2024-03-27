@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111307677,
+    "Title": "A flexible and generic functional mock-up unit based threat injection framework for grid-interactive efficient buildings: A case study in Modelica",
+    "Author": "Fu Y.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.111263",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 15,
+    "Abstract": "Grid-interactive efficient buildings (GEBs) have been considered as an important asset to support the power grid reliability by utilizing the demand flexibility offered by GEBs. GEBs are enabled by advances in sensors and controls, and the communication between building equipment, whole buildings, and the grid. The integration of different building technologies and network-based communication system makes GEBs vulnerable to passive threats such as equipment failure and active threats such as cyber-attacks. Modeling and simulation is an effective way to evaluate the impact of threats on the system performance. This paper proposes a generic and flexible threat injection framework for commonly-used building energy simulators such as EnergyPlus and Modelica to support threat modeling and evaluation. This framework leverages functional mock-up unit (FMU) to develop a general modeling interface for threat injection and simulation. A numerical case study using Modelica as a building energy simulator is conducted to demonstrate the capability of the framework for supporting single/multiple-order threat modeling and simulation of a GEB. Four threats and their combinations are injected on a Modelica-based threat-free building energy and control system, including operating supply fan at its full speed, remotely cycling the chiller on and off, blocking the chiller from receiving the chilled water supply temperature setpoints, and hijacking the global zone air temperature setpoint. Simulation results show that the cyber-attack that leads to short-term signal blocking has small effects on the system operation due to the “self-healing” feature of the heating, ventilation, and air-conditioning (HVAC) interactive control system. The threat that takes control of resetting the global zone air temperature setpoints has the most adverse impact on the system energy use, peak power demand, thermal comfort and the provision of demand flexibility. The combination of four threats have aggregative effects on the system but the effects are less than the additive effects of the individual threat."
+}

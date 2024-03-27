@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85117077900,
+    "Title": "HVAC energy savings, thermal comfort and air quality for occupant-centric control through a side-by-side experimental study",
+    "Author": "Kong M.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2021.117987",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 56,
+    "Abstract": "Building sensing technologies have evolved rapidly in the last two decades in aid of monitoring building environment and energy system performance. A series of occupancy sensing systems were developed to track the occupant behavior in the indoor space. Occupancy-based building system control is defined as a control method that adjusts the building system operation schedules and setpoints based on the measured occupant behavior and has been identified as a smart building control strategy that can improve building energy efficiency as well as occupant comfort. Some studies demonstrated energy-saving potential and comfort-maintaining capability from occupancy-based control. This study adopted a first-of-its-kind side-by-side experimental approach to quantify the performance of the occupancy-based control in commercial buildings. Three state-of-the-art occupancy sensing technologies were integrated into the real-time Heating, Ventilation, and Air-Conditioning (HVAC) system control in this study. Their detection accuracy and its effectiveness on energy-saving and thermal comfort were analyzed. It was found that the occupancy-based control can maintain good thermal comfort and perceived indoor air quality with a satisfaction ratio greater than 80%. Although the daily energy-saving varied with occupancy sensor accuracy and outdoor environment conditions, the weekly averaged energy saving was between 17 and 24%."
+}

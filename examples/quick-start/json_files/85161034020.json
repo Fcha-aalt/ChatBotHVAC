@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161034020,
+    "Title": "Robot morphology evolution for automated HVAC system inspections using graph heuristic search and reinforcement learning",
+    "Author": "Duan K.",
+    "Journal": "Automation in Construction",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.autcon.2023.104956",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The building sector consumes more than 70% of the electricity produced in the U.S., with Heating Ventilation and Air Conditioning (HVAC) systems accounting for half of the electricity consumption. Leaks in HVAC systems have a significant impact on the energy efficiency of buildings, resulting in up to 33% of energy loss. However, the current manual approach to inspection is time-consuming and reactive, leaving room for automation. This paper presents a framework to automatically evolve robot morphology without requiring human intervention to suite any given HVAC and ceiling design. Robot morphologies are optimized using graph heuristic search based on tasks and environment designs, followed by testing of navigation abilities of the best-evolved robot in diverse ceiling environments using reinforcement learning. Tests conducted in robot simulation tools, utilizing realistic HVAC designs retrieved from Building Information Models (BIMs), demonstrate that effortless navigation in complex ceiling environments can be achieved by the evolved robots."
+}

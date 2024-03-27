@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85101158685,
+    "Title": "Feasibility study to detect occupant thermal sensation using a low-cost thermal camera for indoor environments in Indonesia",
+    "Author": "Faridah F.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1177/0143624421994015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Gadjah Mada",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 11,
+    "Abstract": "This paper concerns the feasibility study of 7 classes of thermal sensation detection in Indonesia's indoor environment using a low-cost thermal camera through face skin temperature. This study is required as an initial step to build a thermal comfort sensor system of HVAC control systems to produce a comfortable indoor environment with minimum and efficient energy use. The feasibility study was started by studying the thermoregulation system of respondents in Indonesia through measuring their body and facial skin temperatures under heating and cooling conditions, including their relationship with thermal sensations. The facial skin temperature variable, which is covered by four measurement points, namely forehead, nose, cheeks, and chin, represents the MST variable by the coefficient of determination of 0.54. The thermal sensation detection algorithm based on Artificial Neural Network (ANN) is 35.7% of accuracy. The thermal sensation questionnaire with 7 class categories is unsuitable for Indonesian respondents, and the number of the category classes predicted too much compared to the number of inputs. The detection algorithm has better accuracy with a smaller number of classes, namely 52.2% and 68.70% for the 5 and 3 classes of thermal sensation. Practical application: The air conditioning buildings system is possible to influence a thermal environmental control system to meet the occupants' thermal comfort level requirement in an indoor environment if the system is equipped with a sensor that can detect the occupants' thermal sensations. The thermal camera can be used as a non-contact sensor, detecting the occupant’s thermal sensation by reading the occupant's face skin temperature in an indoor environment."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85152593774,
+    "Title": "Deep learning GAN-based data generation and fault diagnosis in the data center HVAC system",
+    "Author": "Du Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-06-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113072",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "The automated fault diagnosis and smart management of heating, ventilation and air conditioning (HVAC) system is essential to the reliability of data centers. The machine learning is an efficient way to develop the smart management tools for HVAC system using historical data. In real data centers, however, the quantity of fault-free data is much more than that of fault data. As a result, the imbalanced training data limits the diagnosis capacity of machine learning models. The deep learning-based generative adversarial network is proposed to integrate with an incremental learning SVM model to diagnose the commonly occurred faults of data center air conditioning system. The adversarial learning between generator and discriminator generates the data of minority class for training purpose in HVAC system. The 8 sensitive features are selected as the inputs through three-step optimal selection strategy: manual screening, correlation feature selection and redundancy feature removing. The incremental learning strategy is proposed to update the FDD model regularly. The refrigerant leakage faults with intensities of 10%, 20%, 30% and 40% are tested and validated under various operational conditions. The experimental results show that the incremental learning SVM integrated with deep learning GAN reaches the acceptable diagnosis accuracies."
+}

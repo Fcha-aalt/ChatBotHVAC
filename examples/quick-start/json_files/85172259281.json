@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172259281,
+    "Title": "A critical review on efficient thermal environment controls in indoor vertical farming",
+    "Author": "Ahamed M.S.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jclepro.2023.138923",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "University of California, Davis",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Indoor vertical farming (IVF) has expanded exponentially over the last couple of years and is expected to have a compound annual growth rate (CAGR) of 25.9% from 2022 to 2029. IVF has enormous potential to ensure food security for the increased world population and other socio-economic benefits than traditional agricultural systems. However, the high energy demand, capital costs, and limitation in crop variety to be grown are major challenges to achieving the triple pillars (planter, people, and profit) of sustainability. The scholarly article comprehensively analyzes the current technologies, methodologies, and challenges in indoor thermal environment control (temperature, humidity, lighting, air circulation) and their integration with sustainability objectives. Space conditioning is achieved using heating, ventilation, air conditioning, dehumidification (HVACD), artificial lighting, and air circulation, which are energy-intensive due to the sealed envelope of IVF. Previous studies indicate energy consumption for lighting and space conditioning is the primary barrier to achieving sustainability. Minimal research activities have been reported for investigating the pathway to reduce the energy costs for lighting and HVACD systems for IVF. Integrating the air-side economizer and localized air supply for indoor climate control could save a significant amount of energy. The shifting electric demand and dynamic control also have enormous potential to reduce energy costs for lighting and HVACD. Integrating the transient model for heat gain/loss from plants and lighting heat gain is essential for precise energy simulation, which is critical for designing and sizing the right HVACD equipment and completing energy analysis. The research also shows that integrating green energy sources for HVACD and lighting reduces the environmental impacts on a large scale. Therefore, future research should focus on integrating renewable energy (geothermal, solar, wind, hydro) for HVACD, energy-efficient lighting technologies, and digital twin platforms for precision controls to reduce the energy and labor costs for thermal environmental controls in IVF."
+}

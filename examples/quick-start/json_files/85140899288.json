@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85140899288,
+    "Title": "Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications",
+    "Author": "Khan A.",
+    "Journal": "Proceedings - IEEE International Conference on Cluster Computing, ICCC",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/CLUSTER51413.2022.00044",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "Scientific communities are increasingly adopting deep learning (DL) models in their applications to accelerate scientific discovery processes. However, with rapid growth in the computing capabilities of HPC supercomputers, large-scale DL applications have to spend a significant portion of training time performing I/O to a parallel storage system. Previous research works have investigated optimization techniques such as prefetching and caching. Unfortunately, there exist non-trivial challenges to adopting the existing solutions on HPC supercomputers for large-scale DL training applications, which include non-performance and/or failures at extreme scale, lack of portability and generality in design, complex deployment methodology, and being limited to a specific application or dataset. To address these challenges, we propose High-Velocity AI Cache (HVAC), a distributed read-cache layer that targets and fully exploits the node-local storage or near node-local storage technology. HVAC seamlessly accelerates read I/O by aggregating node-local or near node-local storage, avoiding metadata lookups and file locking while preserving portability in the application code. We deploy and evaluate HVAC on 1,024 nodes (with over 6000 NVIDIA V100 GPUS) of the Summit supercomputer. In particular, we evaluate the scalability, efficiency, accuracy, and load distribution of HVAC compared to GPFS and XFS-on-NVMe. With four different DL applications, we observe an average 25 % performance improvement atop GPFS and 9% drop against XFS-on-NVMe, which scale linearly and are considered the performance upper bound. We envision HVAC as an important caching library for upcoming HPC supercomputers such as Frontier."
+}

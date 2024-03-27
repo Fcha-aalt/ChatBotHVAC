@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84920903559,
+    "Title": "Air quality metrics and wireless technology to maximize the energy efficiency of HVAC in a working auditorium",
+    "Author": "Leavey A.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2015-02-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.buildenv.2014.11.039",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Washington University in St. Louis",
+    "Affliation Country": "United States",
+    "Cited by count": 21,
+    "Abstract": "HVAC is the single largest consumer of energy in commercial and residential buildings. Reducing its energy consumption without compromising occupants' comfort would have environmental and financial benefits. A wireless testbed consisting of a retrofitted wireless Condensation Particle Counter (CPC), 25 wireless temperature sensors, 2 HVAC-embedded temperature and CO2 sensors, and a webcam was deployed in a working auditorium, to monitor the air quality, temperature, and occupancy of the room. The main objectives were to identify particle sources using the retrofitted CPC, map the temperature variability of the room and select an optimal sensor location for HVAC control using clustering algorithms, and examine possible energy savings by operating the HVAC only during periods of occupancy using calendar-based scheduling and air quality indicators as proxies of occupancy. All air quality metrics increased with higher occupancy rates, although HVAC-modes changes were also identified as a source for particle numbers. Operating the HVAC using calendar-based scheduling resulted in energy savings of between 8 and 79%, increasing if occupancy events were scheduled close together. Finally, CO2 was the strongest predictor of occupancy counts with an R2 of 0.62 (p<0.001) during simple regression analysis. Incorporating particle numbers and temperature improved estimates of occupancy only slightly (R2=0.67), however incorporating a particle metric may enable the general air quality to be monitored, and identify when filters should be replaced."
+}

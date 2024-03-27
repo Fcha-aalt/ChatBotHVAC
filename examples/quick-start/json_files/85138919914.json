@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138919914,
+    "Title": "Energy Consumption Cost Benefits through Smart Home Energy Management in Residential Buildings: An Indian Case Study",
+    "Author": "Yelisetti S.",
+    "Journal": "2022 IEEE IAS Global Conference on Emerging Technologies, GlobConET 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/GlobConET53749.2022.9872487",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Malaviya National Institute of Technology Jaipur",
+    "Affliation Country": "India",
+    "Cited by count": 6,
+    "Abstract": "Energy is a crucial prerequisite for personal activities and civilization since it fuels important everyday services and infrastructure. The primary source of pollution is global energy usage. Buildings have the second-highest power consumption in the world. As a consequence, increasing buildings' energy efficiency will help both the economy and the environment. Home Energy Management Systems (HEMS) are often applied in buildings to monitor actual consumption and schedule device operation to cut energy costs. Heating, Ventilation, and Air Conditioning (HVAC) systems, light loads, and other appliances used to improve indoor comfort have a significant impact on energy consumption. All interior heats have been considered while running the HVAC system. The lighting system in the proposed model can operate efficiently by considering outdoor illuminance. This article analyses energy consumption performance in five Indian metro cities: Chennai, Kolkata, Mumbai, Delhi, and Jaipur residential buildings using four meta-heuristic techniques. From the statistical and boxplot analysis, Hill Climbing (HC) has shown its effectiveness when compared to the other three techniques: Sine Cosine Algorithm (SCA), Modified Sine Cosine Algorithm (MSCA), and Arithmetic Optimization Algorithm (AOA). , HC outperforms AOA by 0.15%, while HC outperforms SCA and MSCA by approximately 30%."
+}

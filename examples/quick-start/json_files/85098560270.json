@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098560270,
+    "Title": "Demand management for optimized energy usage and consumer comfort using sequential optimization",
+    "Author": "Samadi M.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/s21010130",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Ottawa",
+    "Affliation Country": "Canada",
+    "Cited by count": 12,
+    "Abstract": "The Energy-efficiency of demand management technologies and customer’s experience have emerged as important issues as consumers began to heavily adopt these technologies. In this context, where the electrical load imposed on the smart grid by residential users needs to be opti-mized, it can be better managed when customer’s comfort parameters are used, such as thermal comfort and preferred appliance usage time interval. In this paper a multi-layer architecture is proposed that uses a multi-objective optimization model at the energy consumption level to take consumer comfort and experience into consideration. The paper shows how our proposed Clustered Sequential Management (CSM) approach could improve consumer comfort via appliance use sched-uling. To quantify thermal comfort, we use thermodynamic solutions for a Heating Ventilation and Air Conditioner (HVAC) system and then apply our scheduling model to find the best time slot for such thermal loads, linking consumer experience to power consumption. In addition to thermal loads, we also include non-thermal loads in the cost minimization and the enhanced consumer ex-perience. In this hierarchal algorithm, we classified appliances by their load profile including de-grees of freedom for consumer appliance prioritization. Finally, we scheduled consumption within a Time of Use (ToU) pricing model. In this model, we used Mixed Integer Linear Programming (MILP) and Linear Programming (LP) optimization for different categories with different constraints for various loads. We eliminate the customer’s inconvenience on thermal load considering ASHRAE standard, increase the satisfaction on EV optimal chagrining constrained by minimum cost and achieve the preferred usage time for the non-interruptible deferrable loads. The results show that our model is typically able to achieve cost minimization almost equal to 13% and Peak-to-Average Ratios (PAR) reduction with almost 45%."
+}

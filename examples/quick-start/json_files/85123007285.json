@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123007285,
+    "Title": "Causal discovery and inference-based fault detection and diagnosis method for heating, ventilation and air conditioning systems",
+    "Author": "Zhang C.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-03-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.108760",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhejiang University",
+    "Affliation Country": "China",
+    "Cited by count": 11,
+    "Abstract": "Data driven-based methods have aroused wide attention in the domain of fault detection and diagnosis of heating, ventilation and air conditioning systems. However, they are good at learning statistical relationships between faults and symptoms rather than their causal relationships, resulting in poor interpretability. This paper proposes a causal discovery and inference-based fault detection and diagnosis method to address this challenge. It applies a do-calculus-based individual average causal effect estimation approach to reveal causal relationships between faults and symptoms. Based on the causal relationships discovered, a backward structural causal model is developed for fault detection and diagnosis. Regression coefficients in the model are visualized using heatmaps to explain the model reasoning processes. The method is validated using the experimental data collected by the ASHARE project RP-1312. The individual average causal effect estimation approach reveals the causal relationships between eleven air handing unit faults and twenty-eight symptoms successfully. The diagnosis accuracy of the backward structural causal model (99.58%) is almost as high as that of k-nearest neighbors, support vector machine, classification and regression trees, deep neural networks and convolutional neural networks. Its hyper-parameter optimization time is reduced by 81.64% and 99.91%, respectively, compared with deep neural networks and convolutional neural networks. And its model training time is reduced by 38.61% and 92.01%, respectively. Based on the heatmap of regression coefficients of the model, it is demonstrated that the decision-making processes of the model are understandable and consistent with the domain knowledge in most cases."
+}

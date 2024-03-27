@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85132208500,
+    "Title": "Estimation of Unmeasured Room Temperature, Relative Humidity, and CO<inf>2</inf> Concentrations for a Smart Building Using Machine Learning and Exploratory Data Analysis",
+    "Author": "Kaligambe A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-06-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15124213",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shibaura Institute of Technology",
+    "Affliation Country": "Japan",
+    "Cited by count": 5,
+    "Abstract": "Smart buildings that utilize innovative technologies such as artificial intelligence (AI), the internet of things (IoT), and cloud computing to improve comfort and reduce energy waste are gaining popularity. Smart buildings comprise a range of sensors to measure real-time indoor environment variables essential for the heating, ventilation, and air conditioning (HVAC) system control strategies. For accuracy and smooth operation, current HVAC system control strategies require multiple sensors to capture the indoor environment variables. However, using too many sensors creates an extensive network that is costly and complex to maintain. Our proposed research solves the mentioned problem by implementing a machine-learning algorithm to estimate unmeasured variables utilizing a limited number of sensors. Using a six-month data set collected from a three-story smart building in Japan, several extreme gradient boosting (XGBoost) models were designed and trained to estimate unmeasured room temperature, relative humidity, and CO2 concentrations. Our models accurately estimated temperature, humidity, and CO2 concentration under various case studies with an average root mean squared error (RMSE) of 0.3 degrees, 2.6%, and 26.25 ppm, respectively. Obtained results show an accurate estimation of indoor environment measurements that is applicable for optimal HVAC system control in smart buildings with a reduced number of required sensors."
+}

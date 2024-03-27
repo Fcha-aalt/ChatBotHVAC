@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138163763,
+    "Title": "Model predictive control based on genetic algorithm and neural networks to optimize heating operation of a real low-energy building",
+    "Author": "Aruta G.",
+    "Journal": "2022 7th International Conference on Smart and Sustainable Technologies, SpliTech 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.23919/SpliTech55088.2022.9854312",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Napoli Federico II",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "This study applies a simulation- and optimization-based framework using artificial neural networks for the model predictive control (MPC) of space heating systems. The case study is a real low-energy building located in Benevento (South Italy). The framework is envisioned to provide optimal values of setpoint temperatures on a day-ahead planning horizon to minimize energy cost and thermal discomfort, based on weather forecasts. A Pareto multi-objective approach is applied, modeling thermal comfort via the adaptive theory of ASHRAE 55, i.e., assessing a comfort penalty function. The optimization problem is solved by running a genetic algorithm, using nonlinear autoregressive networks with exogenous inputs (NARX) as simulation tool. The nets are trained on the outputs of a validated EnergyPlus model, showing good agreement. The framework is tested addressing a typical day of the winter season and using EnergyPlus weather data to simulate weather forecasts. The proposed optimal solution presents running cost for heating of 1.1 câ‚¬/m2day and a daily comfort penalty of 15 Â°C h. This means a cost saving around 9% and a reduction of discomfort around 7% compared to a reference control strategy at fixed setpoint, i.e., 21Â°C. Besides the proposed virtual implementation, the framework can be integrated into automation systems for real-time MPC."
+}

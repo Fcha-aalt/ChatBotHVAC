@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143648942,
+    "Title": "Feeder Losses Analysis of Marine Vessel Power Systems: A Case Study of Container Ship Power Loss Analysis Using Newton–Raphson Method",
+    "Author": "Chen C.J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.3390/en15239175",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Sun Yat-Sen University",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 1,
+    "Abstract": "Load survey has become a routine project for shipbuilding and shipping companies to investigate electrical load characteristics to enhance the power system planning and operation of marine vessels. In this brief perspective, we will outline a few steps to feeder losses analysis based on the result conducted by the load survey. The power flow and feeder loss analysis are extracted and used to determine the critical parameters that can significantly affect the system feeder losses used in the electrical load analysis in new ships. Exploring this new research direction will provide a more thorough understanding of feeder losses in marine vessel power systems. In this paper, a case study of container ship power loss analysis using the Newton–Raphson method is presented. The analysis results can provide shipbuilding corporations and ship owners with useful information for planning, designing, operating, and controlling shipboard power systems. As an energy-saving measure for ship microgrids, the frequency converters are widely used by shipyards for seawater and freshwater cooling systems and heating, ventilation, and air conditioning (HVAC) systems, so that these systems can adjust the speed of the motor according to the actual demand of the load, so as to avoid full-load operation during the motor operation. With the proposed method, other measures, such as battery energy storage systems and energy-saving lighting equipment based on LEDs, are also utilized for shipboard power demand management."
+}

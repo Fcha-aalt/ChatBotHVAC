@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168474875,
+    "Title": "Artificial intelligence enabled energy-efficient heating, ventilation and air conditioning system: Design, analysis and necessary hardware upgrades",
+    "Author": "Lee D.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2023-11-25T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.applthermaleng.2023.121253",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "National Taipei University of Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 3,
+    "Abstract": "Literature search across different databases showed that the application of artificial intelligence (AI) in heating, ventilation and air conditioning (HVAC) equipment has been extensively studied. On the commercial front, Internet search suggested that numerous AI-equipped HVAC products have been launched. These products apply AI in very different ways, and their energy-saving effects are also different. Such divergence and uncertain energy-saving effects may hinder AI application. To overcome this difference and accelerate the development of AI applications, the present study proposed a double diamond preferred reporting items for systematic reviews and meta-analysis (PRISMA) method—an analysis method that combined literature review with design thinking. Through a process of divergence-convergence-re-divergence, this study described how to design AI functions for energy-efficient HVAC systems, taking into account more than 1,700 research papers it had reviewed. However, there was a limitation on the part re-divergence. Because the vast majority of research papers only published results of successful AI applications, no cases of failed applications were available for review, making it impossible to re-think profoundly. Instead, this study collected raw data from 88 research papers and used these data to analyze the effectiveness and ineffectiveness of AI in depth. It was concluded that AI application must be accompanied by necessary hardware improvements to achieve effective energy savings. AI-enabled energy-saving effects for chillers, air-handing units, heating systems, and air conditioners, as well as corresponding hardware upgrades, were discussed."
+}

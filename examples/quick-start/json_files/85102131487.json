@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85102131487,
+    "Title": "Reinforcement learning of occupant behavior model for cross-building transfer learning to various HVAC control systems",
+    "Author": "Deng Z.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-05-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2021.110860",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Lyles School of Civil Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 43,
+    "Abstract": "Occupant behavior plays an important role in the evaluation of building performance. However, many contextual factors, such as occupancy, mechanical system and interior design, have a significant impact on occupant behavior. Most previous studies have built data-driven behavior models, which have limited scalability and generalization capability. Our investigation built a policy-based reinforcement learning (RL) model for the behavior of adjusting the thermostat and clothing level. Occupant behavior was modelled as a Markov decision process (MDP). The action and state space in the MDP contained occupant behavior and various impact parameters. The goal of the occupant behavior was a more comfortable environment, and we modelled the reward for the adjustment action as the absolute difference in the thermal sensation vote (TSV) before and after the action. We used Q-learning to train the RL model in MATLAB and validated the model with collected data. After training, the model predicted the behavior of adjusting the thermostat set point with R2 from 0.75 to 0.8, and the mean absolute error (MAE) was less than 1.1 °C (2 °F) in an office building. This study also transferred the behavior knowledge of the RL model to other office buildings with different HVAC control systems. The transfer learning model predicted the occupant behavior with R2 from 0.73 to 0.8, and the MAE was less than 1.1 °C (2 °F) most of the time. Going from office buildings to residential buildings, the transfer learning model also had an R2 over 0.6. Therefore, the RL model combined with transfer learning was able to predict the building occupant behavior accurately with good scalability, and without the need for data collection."
+}

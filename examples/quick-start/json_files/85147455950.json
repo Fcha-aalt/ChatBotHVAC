@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85147455950,
+    "Title": "Assessing human activity noise in workspaces using machine learning and numerical models",
+    "Author": "De Salvio D.",
+    "Journal": "Internoise 2022 - 51st International Congress and Exposition on Noise Control Engineering",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Alma Mater Studiorum Università di Bologna",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "Acoustic comfort of workspace environments is deeply dependent on the balance between indoor background noises. For example, colleagues' speaking might affect task performances by downgrading privacy and productivity. Conversely, HVAC noise can reduce the employee's distraction since such continuous mechanical noise is detrimental to speech comprehension. Therefore, in the analysis of workspaces' acoustic comfort, different background noise sources identification becomes essential. In this regard, machine learning techniques are resourceful for clustering sound pressure level patterns among the unlabeled data. A previous work by the authors provided reliable results on separating noise sources via Gaussian Mixture Model and K-means clustering. Nevertheless, such method was applied to a single workspace, and thus it needs further investigation on a wider sample of environments. For this reason, in the present work long-term monitoring was carried out in various active workspaces extending previous results and confirming the procedure's robustness. Moreover, simulations of the acoustic conditions by summing up the human activity contribution to the mechanical noise allowed obtaining more reliable speech intelligibility criteria at the workstations. Refining the numerical models' setup through background noise levels obtained through machine learning analysis enhance the assessment of workers' privacy condition in realistic scenarios."
+}

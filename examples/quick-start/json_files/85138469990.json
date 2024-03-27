@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138469990,
+    "Title": "Indoor fire detection utilizing computer vision-based strategies",
+    "Author": "Pincott J.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2022-12-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.jobe.2022.105154",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Nottingham",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 23,
+    "Abstract": "Fires are an ever-increasing risk in the world for both indoor and outdoor environments. Current technologies for detection in indoor environments are smoke and flame detectors. However, these detectors have several limitations during both the ignition phase of a fire and propagation. These systems cannot detect an exact position of the fire nor how the fire is spreading, or its size, all of which is necessary information for fire services when dealing with these incidents. A potential solution is to use artificial intelligence techniques such as computer vision, which has shown the potential to detect and recognize objects and activities in indoor spaces. This study aims to develop a vision-based indoor fire and smoke detection system. Existing models based on the Faster R–CNN Inception V2 and the SSD MobileNet V2 models were explored and adopted in this work. This study utilized small training and testing datasets (for indoor specific fire cases) of varying pixel density images. Initial evaluation of the approach was carried out by testing both models on videos, including a mock-up bedroom and living room and a CCTV video of office space. Both high-density smoke environments and flame density scenarios were recognized. The promising results were achieved from using only 480 training images. Despite the success achieved by the Faster R–CNN Inception V2, the SSD MobileNet V2 model showed low accuracy and missed detection results. Future works can focus on integrating this with our previously developed approach, such as occupancy detection, enhancing training data and models, using more advanced detection models, and integrating the proposed approach with the fire fighting and HVAC control systems."
+}

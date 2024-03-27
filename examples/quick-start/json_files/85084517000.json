@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084517000,
+    "Title": "Artificial Intelligence for Efficient Thermal Comfort Systems: Requirements, Current Applications and Future Directions",
+    "Author": "Ghahramani A.",
+    "Journal": "Frontiers in Built Environment",
+    "Publication Date": {
+        "$date": "2020-04-28T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3389/fbuil.2020.00049",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "University of California, Berkeley",
+    "Affliation Country": "United States",
+    "Cited by count": 37,
+    "Abstract": "In buildings, one or a combination of systems (e.g., central HVAC system, ceiling fan, desk fan, personal heater, and foot warmer) are often responsible for providing thermal comfort to the occupants. While thermal comfort has been shown to differ from person to person and vary over time, these systems are often operated based on prefixed setpoints and schedule of operations or at the request/routine of each individual. This leads to occupants’ discomfort and energy wastes. To enable the improvements in both comfort and energy efficiency autonomously, in this paper, we describe the necessity of an integrated system of sensors (e.g., wearable sensors/infrared sensors), infrastructure for enabling system interoperability, learning and control algorithms, and actuators (e.g., HVAC system setpoints, ceiling fans) to work under a governing central intelligent system. To assist readers with little to no exposure to artificial intelligence (AI), we describe the fundamentals of an intelligent entity (rational agent) and components of its problem-solving process (i.e., search algorithms, logic inference, and machine learning) and provide examples from the literature. We then discuss the current application of intelligent personal thermal comfort systems in buildings based on a comprehensive review of the literature. We finally describe future directions for enabling application of fully automated systems to provide comfort in an efficient manner. It is apparent that improvements in all aspects of an intelligent system are be needed to better ascertain the correct combination of systems to activate and for how long to increase the overall efficiency of the system and improve comfort."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85033397406,
+    "Title": "Energy efficient HVAC control in historical buildings: A case study for the Amsterdam Museum",
+    "Author": "Kompatscher K.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.09.703",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Technische Universiteit Eindhoven",
+    "Affliation Country": "Netherlands",
+    "Cited by count": 7,
+    "Abstract": "Museums are often located in historical buildings. To provide suitable housing in a historical building for a museum, these buildings are usually adapted to suit the need for object preservation through HVAC control. Maintaining a strict indoor climate and limiting short fluctuations in indoor temperature and indoor relative humidity reduces risk on objects. However, this also results in a rather high energy demand and therefore rather high costs. Previous research showed the energy conservation possibilities for a museum with state-of-the-art building envelope by adapting setpoint strategies. A gap in literature is present in applying these strategies in historical museum buildings. The aim of this study is to make use of different setpoint strategies to provide an indication of possible energy conservation for a historical museum building with respect to object preservation and thermal comfort. The method used consists of a measurement campaign to establish the current indoor climate and a simulation study with different climate control strategies. The simulation study provides possibilities to assess energy efficient control strategies with preservation of valuable museum objects in mind. The Amsterdam Museum serves as a case study during this research. With the data obtained during the measurement campaign, a hygrothermal zone-simulation model was calibrated. The results of the different climate control strategies present the energy saving potential for historical museum buildings. It is concluded that using the adaptive thermal comfort guideline for temperature during opening hours, and letting the collection criteria developed by ASHRAE's climate classes determine the relative humidity during the day, can save up to approximately 15% for a historical museum building without increasing the risk to the collection."
+}

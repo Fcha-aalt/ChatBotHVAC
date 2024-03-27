@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174067337,
+    "Title": "Data-driven Model for Indoor Temperature Prediction in HVAC-Supported Buildings",
+    "Author": "Palaic D.",
+    "Journal": "International Conference on Electrical, Computer, Communications and Mechatronics Engineering, ICECCME 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICECCME57830.2023.10252601",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Faculty of Engineering, University of Rijeka",
+    "Affliation Country": "Croatia",
+    "Cited by count": 0,
+    "Abstract": "Increasing energy demand is an important issue due to limited resources and environmental concerns. Buildings are responsible for a large portion of total energy consumption, with heating, ventilation, and air conditioning (HVAC) systems being the largest consumer. With the advent of internet of things (IoT) technology, a large amount of data can be collected from buildings, providing insights into the operation of HVAC systems. This data can be employed with data-driven methods to improve efficiency, analyze performance, and develop models that represent system behavior. In this study, a data-driven artificial neural network model for predicting indoor temperatures in commercial buildings is presented. The data preprocessing procedure is described and the main features used to build the model are identified. The results show that the data-driven model can predict indoor temperatures with an intraday root mean squared error (RMSE) of 0.85 °C. The developed model has the potential to be integrated into a predictive control system as a possible solution to reduce energy consumption."
+}

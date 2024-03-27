@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121363010,
+    "Title": "Green Building Energy Cost Optimization With Deep Belief Network and Firefly Algorithm",
+    "Author": "Liao Y.",
+    "Journal": "Frontiers in Energy Research",
+    "Publication Date": {
+        "$date": "2021-12-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3389/fenrg.2021.805206",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zunyi Vocational and Technical College",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "In this research, we propose a multi-objective optimization framework to minimize the energy cost while maintain the indoor air quality. The proposed framework is consisted with two stages: predictive modeling stage and multi-objective optimization stage. In the first stage, artificial neural networks are applied to predict the energy utility in real-time. In the second stage, an optimization algorithm namely firefly algorithm is utilized to reduce the energy cost while maintaining the required IAQ conditions. Industrial data collected from a commercial building in central business district in Chengdu, China is utilized in this study. The results produced by the optimization framework show that this strategy reduces energy cost by optimizing operations within the HAVC system."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128959604,
+    "Title": "Human-in-the-Loop Model Predictive Operation for Energy Efficient HVAC Systems",
+    "Author": "Meimand M.",
+    "Journal": "Construction Research Congress 2022: Infrastructure Sustainability and Resilience - Selected Papers from Construction Research Congress 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1061/9780784483954.019",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virginia Tech College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "HVAC systems account for majority of energy consumption in buildings and play a vital role in energy efficiency and occupants' comfort. Efficient control of HVAC systems could reduce energy consumption while maintaining occupants' comfort at an acceptable level. Predictive control strategies that leverage the thermal capacity of buildings have been shown to be an effective approach in decreasing the energy consumption of buildings. One of the conventional methods in representing comfort in the formulation of predictive controllers is to consider a fixed temperature range as a constraint. However, this method does not account for differences in occupants' thermal preferences. Therefore, in this paper, we have compared the performance of two model-predictive controllers in terms of energy consumption and thermal satisfaction: the first one is a conventional controller constrained by a fixed temperature range and the second proposed controller is constrained by information from personal comfort profiles. The controllers were formulated as optimization problems using multivariate regression for predictive modeling and genetic algorithm for optimization. To represent human thermal preferences, probabilistic comfort profiles of occupants were developed by utilizing real-world thermal votes. The performance of these controllers was evaluated in a residential building through EnergyPlus simulations for different multi-occupancy scenarios of one, two, and four occupants. The proposed MPC controller improves thermal satisfaction by 15% while increasing energy consumption by 4% on average."
+}

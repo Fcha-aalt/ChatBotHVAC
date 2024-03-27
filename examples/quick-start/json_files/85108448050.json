@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85108448050,
+    "Title": "An online data-driven fault diagnosis method for air handling units by rule and convolutional neural networks",
+    "Author": "Liao H.",
+    "Journal": "Sensors",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/s21134358",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Nanyang Technological University",
+    "Affliation Country": "Singapore",
+    "Cited by count": 20,
+    "Abstract": "The stable operation of air handling units (AHU) is critical to ensure high efficiency and to extend the lifetime of the heating, ventilation, and air conditioning (HVAC) systems of buildings. In this paper, an online data-driven diagnosis method for AHU in an HVAC system is proposed and elaborated. The rule-based method can roughly detect the sensor condition by setting threshold values according to prior experience. Then, an efficient feature selection method using 1D convolutional neural networks (CNNs) is proposed for fault diagnosis of AHU in HVAC systems according to the system’s historical data obtained from the building management system. The new framework combines the rule-based method and CNNs-based method (RACNN) for sensor fault and complicated fault. The fault type of AHU can be accurately identified via the offline test results with an accuracy of 99.15% and fast online detection within 2 min. In the lab, the proposed RACNN method was validated on a real AHU system. The experimental results show that the proposed RACNN improves the performance of fault diagnosis."
+}

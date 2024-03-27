@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071853792,
+    "Title": "\"embodied and Operational Carbon of Typical Heating, Ventilation and Air Conditioning (HVAC) Systems in Office Buildings in Washington State: A study of buildings registered under LEED v3 2009",
+    "Author": "Rodriguez B.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2019-08-09T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1088/1755-1315/294/1/012057",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Washington",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "Heating, Ventilation and Air Conditioning (HVAC) systems contribute significantly to operational energy and CO2e emissions during the service life of office buildings. Over the last decade, stringent energy codes have enabled the introduction of new HVAC technologies to reduce operational CO2e emissions. However, life cycle carbon emissions of buildings are odivided into operational carbon (OC) and embodied carbon (EC). Operational carbon are the CO2e emissions generated from the burning of fossil fuels used to heat, cool and power the building space during its service life, while EC encompasses the CO2e emissions equivalent to producing, procuring, installing, mantaining, repairing and disposing of the materials and components that make up the building. Over the last decade, broad efforts have improved the understanding of the role that HVAC system selection play in overall OC, nevertheless, EC of HVAC has remained unexamined This paper aims to identify typical HVAC systems used in office building design in Washington State and explore the effects of current practice on total energy use, operational and embodied CO2e. The study sample is composed of twenty office buildings in Washington State registered under the LEED v3 2009 version, from which 15 have obtained LEED certification in the last two years. The projects are registered under the New Construction (NC), Core and Shell (CS), Existing Buildings and Operation and Maintenance (EB:OM) and Commercial Interiors (CI) products and comply with the requirements established in the ASHRAE 90.1-2007 energy standard. The results show that typical HVAC system selection is often a combination of different technologies for ventilation, heating and cooling, and that in general: smaller buildings tend to incorporate high efficiency packaged units while medium and large size buildings typically rely on High Performance Variable Air Volume (HPVAV) systems or hydronic systems such as chilled beams and water source heat pumps (WSHP). The results also indicate that data available through the LEED v3 2009 documentation system on embodied carbon of the mechanical systems is limited and that simplified methods to assess embodied carbon of HVAC are needed in order to integrate EC into whole life assessment of Mechanical Systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086458676,
+    "Title": "Thermal performance of multi-pipe earth-to-air heat exchangers considering the non-uniform distribution of air between parallel pipes",
+    "Author": "Amanowicz Ł.",
+    "Journal": "Geothermics",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.geothermics.2020.101896",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politechnika Poznanska",
+    "Affliation Country": "Poland",
+    "Cited by count": 22,
+    "Abstract": "In multi-pipe structures of earth-to-air heat exchangers (EAHEs), the airflow distribution between parallel pipes is not uniform and depends on many geometrical parameters, primarily the relation between the diameters of parallel pipes and manifolds, and the length of branch pipes. The phenomenon of airflow non-uniformity is usually neglected in the thermal performance calculations. This report investigates the influence of airflow distribution patterns on the thermal performance of multi-pipe EAHEs in order to bridge this knowledge gap. The calculations have been performed for a winter-time season for exchangers located in the climatic conditions of Central Europe. Analysis was conducted for different airflow conditions characterized by an airflow distribution uniformity coefficient. Results show that the thermal performance calculated for real EAHEs, with branch-pipes of a length L = 76d and diameters equal to the main pipe diameters, can be up to 28% lower than for ideal (uniform) distribution of air in an analogous exchanger. For EAHEs with branch-pipes of a length L = 300d and main pipes 1.4 times larger in diameter than parallel branch-pipes, the differences are much lower, i.e., less than 13%. The correlation between the airflow distribution uniformity coefficient and the EAHE seasonal heat gains is presented for exchangers consisting of 3, 5, 7, or 10 parallel branch-pipes. These results can be applied in various energy and economic analyses to estimate the potential energy savings from designing energy efficient building HVAC systems equipped with EAHEs characterized by better airflow distribution."
+}

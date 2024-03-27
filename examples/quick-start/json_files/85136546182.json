@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136546182,
+    "Title": "A methodology for multi-criteria assessment of renewable integrated energy supply options and alternative HVAC systems in a household",
+    "Author": "Usman M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-10-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.112397",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universität des Saarlandes",
+    "Affliation Country": "Germany",
+    "Cited by count": 8,
+    "Abstract": "This study presents a systematic approach for a comprehensive multi-criteria assessment of household energy systems (HES). For this purpose, fourteen energy systems with different combinations of energy mix and HVAC systems are evaluated in four climates. Firstly, energy systems are analyzed for meeting the building demand for electricity, heating, cooling, and hot water by conducting annual simulations in TRNSYS. The performance criteria of HES are non-renewable energy savings, load cover factor, life cycle emissions, life cycle costs, thermal comfort, levelized cost of electricity, and levelized cost of thermal energy. Then the multi-criteria decision making (MCDM) is employed using CRITIC-TOPSIS framework to decide the best HVAC system and renewable integrated energy supply in each location. Finally, a sensitive analysis tests the stability of MCDM results by altering weights of performance indicators (PIs). The multi-criteria assessment shows that the choice of HES is strongly influenced by the climate conditions and local energy tariffs and GHG emissions. The ground source heat pump (GSHP) is a favorable HVAC system regarding energy consumption and operating GHG emissions in cold climates. On the other hand, the absorption chiller with flat plate collectors (FPCs) is suitable for energy efficiency and life cycle emissions in warm or hot climates. Overall, the energy systems with air-to-water heat pump + PV + radiator (Stockholm), brine-to-water heat pump + PV + radiator (Saarbrücken), air-to-air heat pump + PV + FPC (Quetta), and absorption chiller + PV + FPCs (Jakarta) are the best options in different locations. Furthermore, altering the weights of PIs has little influence on the choice of HES except for energy efficiency-prioritized scenario. The results indicate that while applying the MCDM concept to a building energy system, the proposed PIs provide better insight than the traditionally employed evaluation criteria."
+}

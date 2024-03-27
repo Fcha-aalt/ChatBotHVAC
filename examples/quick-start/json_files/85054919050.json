@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054919050,
+    "Title": "Operational performance characterization of a heat pump system utilizing recycled water as heat sink and heat source in a cool and dry climate",
+    "Author": "Im P.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/en11010211",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "The wastewater leaving from homes and businesses contains abundant low-grade energy, which can be utilized through heat pump technology to heat and cool buildings. Although the energy in the wastewater has been successfully utilized to condition buildings in other countries, it is barely utilized in the United States, until recently. In 2013, the Denver Museum of Nature & Science at Denver, the United States implemented a unique heat pump system that utilizes recycled wastewater from a municipal water system to cool and heat its 13,000 m2 new addition. This recycled water heat pump (RWHP) system uses seven 105 kW (cooling capacity) modular water-to-water heat pumps (WWHPs). Each WWHP uses R-410A refrigerant, has two compressors, and can independently provide either 52 °C hot water (HW) or 7 °C chilled water (CHW) to the building. This paper presents performance characterization results of this RWHP system based on the measured data from December 2014 through August 2015. The annual energy consumption of the RWHP system was also calculated and compared with that of a baseline Heating, Ventilation, and Air Conditioning (HVAC) system which meets the minimum energy efficiencies that are allowed by American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) 90.1-2013. The performance analysis results indicate that recycled water temperatures were favorable for effective operation of heat pumps. As a result, on an annual basis, the RWHP system avoided 50% of source energy consumption (resulting from reduction in natural gas consumption although electricity consumption was increased slightly), reduced CO2 emissions by 41%, and saved 34% in energy costs as compared with the baseline system."
+}

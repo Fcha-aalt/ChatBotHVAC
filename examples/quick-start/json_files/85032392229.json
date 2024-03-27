@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032392229,
+    "Title": "Assessing energy use and overheating risk in net zero energy dwellings in UK",
+    "Author": "Gupta R.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2017.10.061",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Oxford Brookes University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 38,
+    "Abstract": "This paper presents the methodological approach and findings of a simulation study of advanced energy conservation, generation and management technologies applied to two case study dwellings in the UK, so as to achieve net zero energy (NZE) target that includes a reduction of net regulated energy (HVAC) to 0 kWh/m2 per year and energy generation of at least 50 kWh/m2 per year. The performance of the dwellings are also tested for a change in energy use and risk of summertime overheating in future climates in the short (2030s), medium (2050s) and long term (2080s). The findings indicate that to meet the NZE targets, regulated loads need to reduce by about half (over current Building Regulations) with community (rather than building-level) renewables playing a major role. It is also found that the NZE targets, given current regulations, are not particularly difficult to achieve in design with regard to energy efficiency but are highly expectant with regard to renewable energy. Further, summertime overheating is projected to be a risk for net zero energy dwellings by the 2050s. Despite this the regulated energy use of both dwellings is projected to reduce by 11 kWh/m2/yr, accompanied by a small increase in renewable generation (2 kWh/m2/yr)."
+}

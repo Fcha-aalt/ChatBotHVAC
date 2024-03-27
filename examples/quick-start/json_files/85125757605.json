@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125757605,
+    "Title": "Techno-Economic Analysis of Radiant Ceiling Cooling System on Building Energy Consumption under Hot and Humid Weather Conditions",
+    "Author": "Ghenai C.",
+    "Journal": "ZEMCH International Conference",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Sharjah",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 0,
+    "Abstract": "Modeling and simulation performance analysis of radiant cooling systems under UAE weather conditions were performed in this study. The main objectives were to determine the energy saving benefits of radiant cooling compared to conventional air systems, investigate the practical application of radiant cooling in Sharjah in particular and UAE in general, where the climate is hot and humid; and to determine the corresponding cost associated with the retrofitting of existing building with the proposed radiant cooling systems. Modeling and simulation analysis of radiant cooling systems including cooling load calculations and the HVAC system were performed in this study. The comparison of the results obtained for the conventional air-cooling system (100% forced convection) and the proposed radiant cooling system/down-sized forced air system showed: 20% energy savings for the cooling load, 53% energy savings for the fans (ventilation air), 41% energy savings for the pumps (Chiller), and 25% total energy saving for the HVAC system. The normalized metrics for the total energy consumption per floor area (HVAC, Lighting, Equipment) are 162.59 kWh/m2 and 140 kWh/m2 for conventional and hybrid Radiant Cooling System respectively."
+}

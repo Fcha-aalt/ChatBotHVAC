@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169817828,
+    "Title": "People Counting System Using MmWave MIMO Radar with 3D Convolutional Neural Network",
+    "Author": "Shih C.C.",
+    "Journal": "IEEE Vehicular Technology Conference",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/VTC2023-Spring57618.2023.10200061",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oregon State University",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "In recent years, the number of people counting systems in deployment has been increasing significantly. People counting systems can be used to automate the data collection for advertisement, and revenue projections as well as reduce energy costs using adaptive HVAC operations. However, a naive implementation of people counting systems may result in revealing some unintended information about the users/customers and higher power consumption from operating the systems continuously. In this paper, we study a mmWave Multiple Input Multiple Output (MIMO) radar sensor system for detecting the number of people in a confined space with the aims of low power consumption and minimal leakage of user information. In particular, we showed that a 3D convolutional neural network can accurately determine up to 4 people in a typical size room using a surprisingly minimal number of mmWave signatures ( less than 10 ) as its inputs."
+}

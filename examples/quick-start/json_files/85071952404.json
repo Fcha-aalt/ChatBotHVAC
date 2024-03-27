@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071952404,
+    "Title": "Maximize thermal comfort in open-plan offices by occupant-oriented control based on individual thermal profile",
+    "Author": "Zhang W.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 4,
+    "Abstract": "In open plan offices, several occupants usually have to share the same microclimate and one set of HVAC equipment (such as a diffuser or a radiant panel). However, studies have shown that thermal comfort is individual, time and location dependent, so different occupants often have various thermal preferences. Hence, the predefined temperature setpoint often leads to thermal discomfort of a large portion of occupants. On the other hand, advances of information technology make it possible to collect occupants' true thermal sensations and team each one's thermal preferences through data-driven method Therefore, this research proposes an algorithm that handles the divergence of thermal preferences of multiple occupants under office context. The algorithm is based on the obtainment of the individual thermal profile, which is defined as the response features to some the conditions of an occupant, such as the thermal preference and thermal sensitivity. First, personalised thermal profiles are learned to map the environment conditions to the thermal comfort of each occupant by machine learning models. Then the algorithm will deride the setpoint of the office room that maximize the overall thermal comfort of the group of occupants. A series controlled experiments are first conducted to collect environmental data and thermal votes. The data are used to train the machine lea models to predict a self-defined thermal comfort index for each participant. Different participants show clearly different patterns of thermal perception the average prediction accuracy of the best model is around 75%. Based on the thermal profile models, the algorithm searching for optimal-setpoint considers the sensitivity of each person and selects the setpoint that maximizes the overall comfort level for all people involved. The results show that the group can maintain high comfort level by using the algorithm."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85107300411,
+    "Title": "Phase change material integration in building envelopes in different building types and climates: Modeling the benefits of active and passive strategies",
+    "Author": "Carlucci F.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2021-05-02T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/app11104680",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Bari",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "Among the adaptive solutions, phase change material (PCM) technology is one of the most developed, thanks to its capability to mitigate the effects of air temperature fluctuations using thermal energy storage (TES). PCMs belong to the category of passive systems that operate on heat modulation, thanks to latent heat storage (LHS) that can lead to a reduction of heating ventilation air conditioning (HVAC) consumption in traditional buildings and to an improvement of indoor thermal comfort in buildings devoid of HVAC systems. The aim of this work is to numerically analyze and compare the benefits of the implementation of PCMs on the building envelope in both active and passive strategies. To generalize the results, two different EnergyPlus calibrated reference models— the small office and the midrise apartment—were considered, and 25 different European cities in different climatic zones were selected. For these analyses, a PCM plasterboard with a 23◦ C melting point was considered in four different thicknesses—12.5, 25, 37.5, and 50 mm. The results obtained highlighted a strong logarithmic correlation between PCM thickness and energy reduction in all the climatic zones, with higher benefits in office buildings and in warmer climates for both strategies."
+}

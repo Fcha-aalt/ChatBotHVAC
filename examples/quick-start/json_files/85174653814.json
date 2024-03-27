@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174653814,
+    "Title": "Pipeline inspection using Self-transforming Hybrid Drive quad-copter",
+    "Author": "Sivvani M.",
+    "Journal": "IET Conference Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1049/icp.2022.0620",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Institute of Technology Tiruchirappalli",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "This paper discusses a novel design for a convertible hybrid drive quad-copter that is manually controlled to move across inaccessible places as a drone or a 4-wheeler bot using a self-transforming mechanism, equipped with a camera whose feed is accessed and passed through image processing algorithms to inspect various industrial systems like HVAC pipes and check for defects or anomalies such as rust and cracks in the pipes with advanced deep learning algorithms at the controller side. The designed sprawl mechanism enables the bot to reach narrow places and perform inspections. The novel Power Engage Disengage mechanism is crucial in saving power by delivering it either to the wheels (drive mode) or to the propellers (drone mode), but not both at the same time, making sure power is used efficiently which guarantees a longer run time and allows more area to be covered in a single inspection run. A Convolutional Neural Network is designed to detect multiple potential defects that are precise, accurate and yield faster results. With all these features, the designed convertible hybrid drive quad-copter can break dimensional constraints and provide precise analysis of any industrial structure."
+}

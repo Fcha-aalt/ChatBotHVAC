@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85090833580,
+    "Title": "Intelligent systems applied to buildings' management",
+    "Author": "Pereira R.",
+    "Journal": "Proceedings - 2020 IEEE 14th International Conference on Compatibility, Power Electronics and Power Engineering, CPE-POWERENG 2020",
+    "Publication Date": {
+        "$date": "2020-07-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/CPE-POWERENG48600.2020.9161688",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Instituto Superior de Engenharia de Lisboa",
+    "Affliation Country": "Portugal",
+    "Cited by count": 3,
+    "Abstract": "Energy efficiency in buildings are an important domain regarding its impact in the global energy consumption. Several efficiency measures are currently available, using different methodologies. In this paper an approach using intelligent systems is implemented through a smart controller able to automatically and efficiently manage building's energy. This smart controller uses Fuzzy Logic Control (FLC) as a decision maker and is supported by Artificial Neural Networks (ANN) used to forecast the building outside temperature. In addition, and in order to increase overall energy efficiency, renewable energies associated with a storage system are considered. For the designed smart controller implementation, a thermal house model is simulated using a MATLAB toolbox. In this paper emphasis is given to the buildinǵs Heating Ventilation and Air Conditioning (HVAC) control and a rough economic analysis is drawn, allowing to infer about the adopted efficiency measures impact."
+}

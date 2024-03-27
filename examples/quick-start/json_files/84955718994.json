@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84955718994,
+    "Title": "Voltage stability enhancement using thermostatically controlled appliances as a comfort-constrained virtual generator",
+    "Author": "Wang D.",
+    "Journal": "International Transactions on Electrical Energy Systems",
+    "Publication Date": {
+        "$date": "2015-12-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1002/etep.2048",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 4,
+    "Abstract": "Conventional direct load-shedding for achieving static voltage stability lacks considerations on both customer comfort and energy efficiency, resulting in higher cost and emission. A novel security-based, optimal load-shedding strategy considering customer comfort settings is presented in this paper. A temperature priority list method is used to model the virtual generator (VG) consisting of thermostatically controlled appliances (TCAs). To illustrate the control process and performance evaluation of the proposed load-shedding scheme, a modified IEEE 6-bus test system is used. Three heat, ventilation, and air-conditioning (HVAC) groups are numerically simulated to respond to optimal load shedding signals. Reduced responsive load population, variations of temperature dead-bands, and different outdoor temperature profiles are modeled to evaluate the capacity variations of the VG and its control performance. The results demonstrate that TCAs can provide satisfactory voltage stability."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85088635482,
+    "Title": "Modeling and control of nonlinear systems using an Adaptive LAMDA approach",
+    "Author": "Morales L.",
+    "Journal": "Applied Soft Computing Journal",
+    "Publication Date": {
+        "$date": "2020-10-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.asoc.2020.106571",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Escuela Politécnica Nacional",
+    "Affliation Country": "Ecuador",
+    "Cited by count": 12,
+    "Abstract": "This paper presents a soft computing technique for modeling and control of nonlinear systems using the online learning criteria. In order to obtain an accurate modeling, and therefore a controller with good performance, a method based on the fundamentals of the artificial intelligence algorithm, called LAMDA (Learning Algorithm for Multivariate Data Analysis), is proposed, with a modification of its structure and learning method that allows the creation of an adaptive approach. The novelty of this proposal is that for the first time LAMDA is used for fuzzy modeling and control of complex systems, which is a great advantage if the mathematical model is not available, partially known, or variable. The adaptive LAMDA consists of a training stage to establish initial parameters for the controller, and the application stage in which the control strategy is computed and updated using an online learning that evaluates the closed-loop system. We validate the method in several control tasks: (1) Regulation of mixing tank with variable dead-time (slow variable dynamics), (2) Regulation of a Heating, Ventilation and Air-Conditioning (HVAC) system (multivariable slow nonlinear dynamics), and (3) trajectory tracking of a mobile robot (multivariable fast nonlinear dynamics). The results of these experiments are analyzed and compared with other soft computing control techniques, demonstrating that the proposed method is able to perform an accurate control through the proposed learning technique."
+}

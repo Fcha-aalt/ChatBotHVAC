@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85127479864,
+    "Title": "Safe Building HVAC Control via Batch Reinforcement Learning",
+    "Author": "Zhang C.",
+    "Journal": "IEEE Transactions on Sustainable Computing",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/TSUSC.2022.3164084",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Southern California",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "In this paper, we study safe buildingHVAC control via batch reinforcement learning. Randomexploration in buildingHVAC control is infeasible due to safety considerations. However, diverse states are necessary for RL algorithms to learn useful policies. To enable safety during exploration,we propose guided exploration by adding a Gaussian noise to a hand-crafted rule-based controller. Adjusting the variance of the noise provides a tradeoff between the diversity of the dataset and the safety.We applyConservativeQLearning (CQL) to learn a policy.CQL ensures that the trained policy stayswithin the policy distribution used to collect the dataset, thereby guarantees safety at deployment. To select the optimal policy during the offline training, we apply model-based performance evaluation.We use the widely adopted CityLearn testbed to evaluate the performance of our proposedmethod.Compared with a rule-based controller, our approach obtains 12% _ 35%reduction in ramping, 3% _ 10%reduction in 1-load factor, 3% _ 8% reduction in daily peak at deployment with less than 10%performance degradation during the exploration. On the contrary, the performance degradation of the state-of-the-art online reinforcement learning algorithmduring exploration is around 8% _ 18%. It also fails to surpass the performance of the rule-based controller at deployment."
+}

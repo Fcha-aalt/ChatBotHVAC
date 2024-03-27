@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091131215,
+    "Title": "Balancing user comfort and energy efficiency in public buildings through social interaction by ICT systems",
+    "Author": "Franco A.",
+    "Journal": "Systems",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/systems8030029",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 12,
+    "Abstract": "Energy efficiency, indoor environmental quality, and comfort in public buildings has received increasing attention in recent years as it can contribute to maintaining safety conditions and to the reduction of conventional fuels consumption, energy costs for building owners, and greenhouse gas emissions. People are an integral part of any building energetic ecosystem as, according to some estimates, they spend a great part of their life in indoor spaces. On one side, occupants are responsible for the energy consumption of the building and for this reason the “psychology of energy saving” has received attention since the 70s up to recent results. On the other hand, strategies for energy efficiency should not jeopardize occupants’ health and quality of life. While general awareness of the value of environmental variables has increased in the last few years, this interest has recently been further exacerbated by the spreading of the well-known COVID-19 pandemic. In fact, as most countries have started planning post-lock-down activities, there is a growing concern regarding how social distancing measures can be enforced in shared buildings and strict indoor air quality control can prevent airborne virus transmission in crowded spaces. The paper discusses the perspectives of increasing the level of social interaction of building users through the systematic use of Information and Communication Technologies (ICT), and in particular, some specific platforms. The ICT system, taking information from the occupants in a concerted way, can be an important instrument to collect data, coming both from physical sensors and from people to develop a multi-objective control strategy for the Heating, Ventilation, and Air Cooling (HVAC) systems in order to obtain energy savings whilst balancing user comfort and healthy conditions."
+}

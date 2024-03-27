@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168340751,
+    "Title": "An Intelligent Fault Detection Framework for HVAC Systems with Alert Generation",
+    "Author": "Sinha A.",
+    "Journal": "SN Computer Science",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s42979-023-02107-2",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "IIIT Naya Raipur",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The HVACs used in commercial buildings are one of the major electricity consumers. They undergo periodic inspections to prevent discomfort and potential hazards to the occupants. The existing technologies for fault detection are either based on personnel expertise or condition monitoring. Prediction of possible faults in the system gives time to take proper measures to act upon those faults and reduce the risk of system breakdown. Machine Learning (ML) models are able to analyze and predict a vast dataset in a short time, which makes them dependable assistance for diagnosing faults in HVAC systems. Thus, there is a need to develop a reliable and robust system that could predict working conditions and provide necessary alerts about faults on time. This study proposes a predictive health maintenance system that predicts upcoming faults and generates alert messages with their root cause analysis. The Automated ML (AutoML) detected different faults with the highest accuracy of 98.32% by choosing the random forest as the classifier. The root cause analysis provided with the alert messages saves time and resources for rectifying the faults and taking preventive measures. Hence, fault diagnosis using ML algorithms can help increase the HVAC’s lifespan and effectiveness."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85153398434,
+    "Title": "Industrial energy efficiency assessment and prioritization model: An approach based on multi-criteria method PROMETHEE",
+    "Author": "Richter B.K.",
+    "Journal": "International Journal of Sustainable Energy Planning and Management",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.54337/ijsepm.7335",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pontifícia Universidade Católica do Paraná",
+    "Affliation Country": "Brazil",
+    "Cited by count": 3,
+    "Abstract": "In today’s scenario of increasing energy prices, new legislations, and rising consumer concerns regarding environmental issues, industries face an unprecedented challenge of reducing their energy consumption without negatively impacting their profit and productivity. Based on this, companies are focusing on analyzing their energy efficiency, which has various criteria to be considered, and at least three organizational levels. To close this gap, this study developed an industrial energy efficiency assessment and prioritization model based on energy assessment literature. It utilized multi-criteria analysis for the prioritization of industrial energy efficiency measures. To achieve the goal, a literature review was conducted to map relevant energy efficiency practices from which an industrial energy efficiency assessment tool was developed through the lens of three organizational levels (plant, process, and machine). Subsequently, an energy-efficiency project prioritization tool was proposed using the multi-criteria PROMETHEE II method. The assessment and prioritization model was applied to an energy industry for refinement. It generated an overview of the company’s energy efficiency maturity and a ranking of the most recommended measures for the optimal use of energy resources according to established criteria and their weights. Four subcategories (lighting, HVAC systems, compressed air, and motors) were analyzed for the organizational levels, and lighting presented the higher result of a maturity of 2.77 on a scale from 0 to 3, also the maturity of the company was 2.01, which means that is still space for improvement. The improvements were highlighted according to each subcategory studied, pointing to actions that needed to be developed to improve energy efficiency."
+}

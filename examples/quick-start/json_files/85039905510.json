@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85039905510,
+    "Title": "Impact of retrofitting energy-efficient design strategies on energy use of existing commercial buildings: Comparative study of low-impact and deep retrofit strategies",
+    "Author": "Aksamija A.",
+    "Journal": "Journal of Green Building",
+    "Publication Date": {
+        "$date": "2017-09-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.3992/1943-4618.12.4.70",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Massachusetts Amherst",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "This article discusses energy-efficient retrofifitting design strategies for commercial office buildings, and examines their effect on energy consumption. The objective of the research was to study how to integrate passive design strategies and energy-efficient building systems to improve building performance, and reduce the energy consumption of existing buildings in three different climate types (cold, mixed and hot climates). First, properties of existing buildings were analyzed based on national CBECS database to determine typical characteristics of office buildings located in Chicago, Baltimore and Phoenix, including size, building envelope treatment and building systems. Then, fourteen diffierent prototypes were developed, varying the building shape and orientation to represent diffierent building stock, and energy modeling was conducted to establish energy usage baseline. Multiple design considerations were investigated based on extensive energy simulations and modeling, where low-impact and deep retrofits were considered. Low-impact strategies included improvements to the building envelope, lighting systems and optimization of HVAC systems operation (without upgrading heating and cooling equipment). Deep energy retrofits also included improvements to building envelope and lighting, and considered changes and improvements to HVAC systems (specifically, integration of radiant systems). Energy modeling was conducted for all prototypes, and results were obtained for the baseline (current energy usage), and energy usage considering low-impact design strategies and deep retrofits. A total of 126 energy models was developed, simulated and analyzed, providing a dataset that captured energy usage for investigated scenarios. The comparative analysis of simulation results was used to determine how specific techniques lead to energy savings in different climate types, as well as for buildings of various shapes and orientations."
+}

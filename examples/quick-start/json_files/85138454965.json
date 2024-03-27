@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138454965,
+    "Title": "Prediction and optimization of thermal comfort, IAQ and energy consumption of typical air-conditioned rooms based on a hybrid prediction model",
+    "Author": "Hou F.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-11-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2022.109576",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hong Kong University of Science and Technology",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 15,
+    "Abstract": "HVAC systems provide satisfactory indoor environments, but they usually consume large amounts of energy in order to achieve an acceptable thermal comfort level and indoor air quality (IAQ). Balancing thermal comfort, IAQ, and energy consumption is thus a challenging task. However, the main problem faced in such research is that it is inefficient to conduct traditional experiments or numerical simulation to obtain the optimal air supply parameters from a large number of variables. Therefore, the aim of this study is to develop a rapid prediction and optimization framework of IAQ, occupant comfort, and energy consumption. Firstly, Building Information Modeling (BIM) technology and Computational Fluid Dynamics (CFD) simulations are used to create the database containing indoor velocity, temperature and CO2 concentration for different distributions of occupants and ventilation parameters. Next, the extreme learning machine (ELM) model optimized by the grey wolf optimizer (GWO) algorithm is developed to predict the thermal comfort level and CO2 concentration, and the input parameters of the prediction models are interpolated to generate more cases. Finally, the satisfied air supply parameters for various optimization objectives are determined by combining the predicted PMV value and CO2 concentration with the energy consumption analysis. The results of the comprehensive analysis showed that the average concentration of CO2 after optimization is reduced and the |PMV|avg is reduced to less than 0.5, which is within acceptable limits. In addition, 14.34% energy saving is achieved in the illustrative example."
+}

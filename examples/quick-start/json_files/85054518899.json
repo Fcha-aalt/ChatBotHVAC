@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85054518899,
+    "Title": "An Energy Efficient System for Artifacts Preservation and Occupant Comfort",
+    "Author": "Elhariri E.",
+    "Journal": "2018 International Conference on Computer and Applications, ICCA 2018",
+    "Publication Date": {
+        "$date": "2018-09-10T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/COMAPP.2018.8460312",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Faculty of Computers and Information",
+    "Affliation Country": "Egypt",
+    "Cited by count": 2,
+    "Abstract": "Efficiently preserve artifacts with preservation of low energy consumption is a vitally important issue. In present times, artifacts in the museums face various vicious threats such as environmental conditions. Controlling indoor environmental quality for the museums is a substantial factor for the correct artifacts preservation and furthermore for the visiting tourists comfort. This requires the HVAC (heating, ventilation, and air conditioning) system to operate continuously resulting in excessive energy consumption. Therefore, a suitable controlling strategy for HVAC system, which permits to achieve useful energy savings, allows, nevertheless a good dynamic control for the indoor environmental quality is needed. This paper proposes a new HVAC control strategy as part of the smart energy saving system. The proposed system is adopted using Support Vector Machine (SVM) with Radial Basis and linear kernel functions, Multilayer Preceptor (MLP) and Multiple Linear Regression (MLR) algorithms. The proposed system predicted the next 24-hours indoor environment quality factors (temperature, humidity, CO2and light). Experimental results show that SVM prediction approach for (temperature, humidity and light) factors and MLP for CO2factor give promising results with better-predicting performance and more accurate results."
+}

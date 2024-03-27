@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85105851319,
+    "Title": "Towards Smart Building: Exploring of Indoor Microclimate Comfort Level Thermal Processes",
+    "Author": "Altayeva A.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/978-3-030-74717-6_7",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "International Information Technology University",
+    "Affliation Country": "Kazakhstan",
+    "Cited by count": 1,
+    "Abstract": "Modern requirements to reduce the consumption of energy resources while maintaining comfortable conditions for people in residential, public and administrative buildings pose the task of developing new approaches to assessing the comfort of the microclimate. Currently used methods for assessing the comfort of the microclimate do not take into account the specific hazards characteristic of non-industrial premises, and for this reason, the introduction of energy-saving measures may lead to a violation of the comfort conditions in the premises of buildings. In this regard, the development of methods and methods to take into account the impact of energy-saving measures on the microclimate is an urgent task. This research paper is devoted to solving the urgent problem – energy efficiency of buildings. We explore mathematical model of indoor microclimate thermal processes, parameters that affect to indoor microclimate, comfort microclimate serving, and represent simulation results of the developed mathematical model of thermal processes. Also, we explore how to control heating, ventilation and air conditioning equipments considering indoor and outdoor temperature and humidity level, and the problem, how to keep stable indoor comfort temperature and humidity."
+}

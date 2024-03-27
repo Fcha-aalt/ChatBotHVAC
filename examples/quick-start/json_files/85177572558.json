@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85177572558,
+    "Title": "Optimization study of spherical tuyere based on BP neural network and new evaluation index",
+    "Author": "Liu M.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2024-02-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1007/s12273-023-1075-4",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Xi'an University of Architecture and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "The energy consumption of heating, ventilation, and air conditioning (HVAC) systems holds a significant position in building energy usage, accounting for about 65% of the total energy consumption. Moreover, with the advancement of building automation, the energy consumption of ventilation systems continues to grow. This study focuses on improving the performance of spherical tuyeres in HVAC systems. It primarily utilizes neural networks and multi-island genetic algorithms (MIGA) for multi-parameter optimization. By employing methods such as structural parameterization, accurate and fast computational fluid dynamics (CFD) simulations, a minimized sample space, and a rational optimization strategy, the time cycle of the optimization process is shortened. Additionally, a new comprehensive evaluation index is proposed in this research to describe the performance of spherical tuyeres, which can be used to more accurately assess spherical tuyeres with different structures. The results show that by establishing a neural network prediction model and combining it with the multi-island genetic algorithm, a novel spherical tuyere design was successfully achieved. The optimized novel spherical tuyeres achieved a 27.05% reduction in the spherical tuyeres effective index (STEI) compared to the traditional spherical tuyeres. Moreover, the resistance decreased by 15.68%, and the jet length increased by 7.57%. The experimental results demonstrate that our proposed optimization method exhibits high accuracy, good generalization capability, and excellent agreement at different Reynolds numbers."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85128094649,
+    "Title": "Proceeding - 2021 China Automation Congress, CAC 2021",
+    "Author": NaN,
+    "Journal": "Proceeding - 2021 China Automation Congress, CAC 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 1480 papers. The topics discussed include: cooperative output feedback control of a dual rigid-flexible two-link manipulator; online identification of nonlinear quantization system with non-uniformly sampled data; application of battlefield threat source assessment method in flight path planning; ICP algorithm point cloud registration method based on a new improved Harris Hawk algorithm; a novel active power regulation strategy based on smc-consensus algorithm for islanded microgrid; patch group-based simultaneous sparse model for image denoising; distributed finite-time secondary control of DC microgrids based on virtual capacitance; architecture of the industrial controller development platform; a new invariant extended Kalman filter based initial alignment method of SINS under large misalignment angle; robust composite control of telescopic wing morphing aircraft with control allocation; HVAC system modeling and fault simulation research based on modelica; soft-sensing method of effluent ammonia nitrogen based on emotional neural network; and event-triggered fault detection fuzzy filtering for networked control systems via reduced-order approach."
+}

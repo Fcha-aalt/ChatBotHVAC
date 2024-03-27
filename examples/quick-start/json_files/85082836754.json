@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082836754,
+    "Title": "Multi-objective optimization to balance thermal comfort and energy use in a mining camp located in the Andes Mountains at high altitude",
+    "Author": "Dietz A.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-05-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.117121",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Pontificia Universidad Católica de Chile",
+    "Affliation Country": "Chile",
+    "Cited by count": 7,
+    "Abstract": "The mining industry is the largest electricity consumer in Chile. Sustainability reports of Chilean mining companies show that electricity consumption of mining camps is 350–500 kWh/m2 per year. Despite cold climate conditions, mining camps show overheating, and 40% of the miners find them uncomfortable. Mining camps’ energy access is difficult because they are located in remote zones. This paper aims to optimize the building envelope and HVAC system to minimize the total energy consumption and eliminate the overheating risk of a real mining camp located at 4400 m.a.s.l. The mining camp is 30,000 m2, built of timber prefabricated lightweight modules and hosts 1700 workers. The electricity consumption of the baseline case is 330 kWh/m2year and shows overheating. Multi-objective optimization is implemented to minimizing the electricity consumption while avoiding overheating. A hybrid multidimensional optimization algorithm implemented in GenOpt, a building energy simulation program (EnergyPlus) and several scripts developed in Pyhthon for optimizing discrete variables and calculating the overheating risk of each thermal zone are coupled. Two different cases are optimized depending on the heating systems: electric heaters (Case I), which is the current situation; and heat pumps with chilled beams with free cooling option (Case II). This paper shows that an efficient HVAC system (Case II) is crucial for achieving thermal comfort and minimizing electricity consumption, which reaches 112.9 kWh/m2year, representing a significant reduction of 66% compared to the baseline case. The optimization process provides not only the optimum set of energy-efficient strategies but also a set of feasible solutions close to the optimum that allows flexibility to choose other strategies based on economic, transportation and on-site construction constraints."
+}

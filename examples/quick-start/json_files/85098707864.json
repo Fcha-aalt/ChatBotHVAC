@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85098707864,
+    "Title": "Comparative study on the overall energy performance between photovoltaic and Low-E insulated glass units",
+    "Author": "Peng J.",
+    "Journal": "Solar Energy",
+    "Publication Date": {
+        "$date": "2021-01-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.solener.2020.12.006",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 20,
+    "Abstract": "A novel semi-transparent building integrated photovoltaic (BIPV) laminate was developed and introduced in this paper. It was produced by cutting standard mono-crystalline silicon solar cells into small strips and then making electrical connections between each strip before laminating the cells between two layers of glass. The overall energy performance and energy saving potential of the BIPV insulated glass unit (IGU) under real world conditions were identified through a side by side comparative study. Compared to the reference IGU, the BIPV IGU had lower solar heat gain coefficient (SHGC) but much higher U-factor. The average HVAC electricity saving of the BIPV IGU was about 10% relative to the reference IGU. Daylighting measurement and analysis were carried out to evaluate the trade-offs associated with the BIPV IGU between daylight, glare, and lighting energy use. The results indicated that the BIPV IGU is better than the reference IGU in reducing discomfort glare. However, if the most conservative viewpoint near the window is used for the assessment, a lower transmittance BIPV IGU is required to bring the overall discomfort levels below the perceptible level. Lastly, the net energy saving potential associated with the novel BIPV IGU was identified based on the power, thermal and daylighting performance. On average, the BIPV IGU saved 16.8% of the total electricity use of the room. Further studies and improvement on the energy conversion efficiency of solar cells, the optimal transmittance as well as the thermal properties would make this technology more energy-efficient and affordable."
+}

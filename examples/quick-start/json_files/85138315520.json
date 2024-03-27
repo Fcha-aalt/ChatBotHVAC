@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138315520,
+    "Title": "Partial Discharge Defect Recognition Tool For MV/HV DC Equipment",
+    "Author": "Dalstein M.",
+    "Journal": "ICD 2022 - IEEE 2022 4th International Conference on Dielectrics, Proceedings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ICD53806.2022.9863490",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "SuperGrid Institute",
+    "Affliation Country": "France",
+    "Cited by count": 1,
+    "Abstract": "Partial discharges (PD) measurement is the most common technique to identify defects and the corresponding risks for Medium/High Voltage equipment. However, the methods of recognition developed under HVAC constraints must be adapted under DC. In that purpose, recognition methods based on PD pulse magnitude and pulse time sequence are being studied. A machine learning tool, with integrated Artificial Intelligence software, has been developed to analyze and recognize defect under DC voltage. The software compares several classification methods to diagnose different type of PD defects and allows to select the best one for recognition. To build PD database and to verify the performance of the proposed software, partial discharge measurements were performed with several types of defects (protrusion on HV conductor, particle on insulation and floating-moving particle) placed in a real size SF6 Gas Insulated Switchgear (GIS) filled at several pressures. Part of the database has been used for learning and the remaining data to evaluate recognition accuracy. The results show more than 98 % accuracy for all investigated defects. The learning database can be smaller than the validation one showing the reliability of results. Nevertheless learning data must be sufficiently various to be representative of most situations."
+}

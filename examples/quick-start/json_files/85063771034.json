@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85063771034,
+    "Title": "Rethinking HVAC temperature setpoints in commercial buildings: The potential for zero-cost energy savings and comfort improvement in different climates",
+    "Author": "Papadopoulos S.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2019-05-15T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.buildenv.2019.03.062",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NYU Tandon School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 96,
+    "Abstract": "Heating, Ventilation, and Air Conditioning (HVAC) systems are responsible for a significant share of the energy consumed in commercial buildings. While energy system retrofits have been found to reduce buildings' carbon footprint substantially, these measures are often hindered by financial, regulatory or design constraints. Recent research sheds light on energy management approaches to energy conservation such as energy-efficient settings of HVAC temperature setpoints. While existing case studies confirm the significant energy saving potential of efficient HVAC operation, there is scarcity of studies quantifying energy savings from optimal HVAC temperature setpoints comprehensively, while controlling for important factors, such as guaranteeing tenant thermal comfort levels and the impact of different climate conditions on the results. In this work, we apply simulation-based multi-objective optimization to fine-tune heating and cooling setpoints of large “typical” office buildings with respect to energy consumption and occupant thermal comfort. We apply the framework in seven climate zones across the US in an effort to examine spatial variations in the energy savings potential due to different climate conditions and propose targeted energy-saving strategies and policies. We show that locations with mild climates, such as San Francisco, CA, can realize up to 60% of annual HVAC-related energy savings without compromising the occupants' thermal comfort. This untapped potential to simultaneously improve building performance and occupants’ comfort drives the discussion on revisiting HVAC setpoint configuration standards in commercial buildings, either as part of individual building retrofit planning or as part of energy policy regulations."
+}

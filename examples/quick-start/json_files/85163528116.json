@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163528116,
+    "Title": "Model-Free Optimal Control Method for Chilled Water Pumps Based on Multi-Objective Optimization: Engineering Application",
+    "Author": "Qiu S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "In order to optimize the chilled water pump operation for buildings without adjustable chilled water valves on AHUs, a model-free control method for chilled water pumps based on multi-objective optimization is proposed in this paper. In the proposed method, two objective functions (comfort objective and energy objective) are set up with pump power and indoor temperature bias (the gap between indoor temperature and its set point) as input variables, respectively. And the two objectives compose the comprehensive optimization objective with user-defined weights. With the comprehensive objective as the reward variable, reinforcement learning algorithm is utilized to optimize the real time pump operation. When using the reinforcement learning algorithm, time and outdoor temperature are selected as the state variable, pump frequency is defined as the action variable. The proposed method is applied to a real HVAC system of a supermarket in Nanjing city. The application result suggests that, compared to the baseline control logic (operating pumps at 50 Hz all the time), the proposed control method could save pump energy with limited sacrifice on indoor comfort."
+}

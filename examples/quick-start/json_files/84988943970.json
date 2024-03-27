@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84988943970,
+    "Title": "Performance of a Passive House under subtropical climatic conditions",
+    "Author": "Fokaides P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-12-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.09.060",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Frederick University",
+    "Affliation Country": "Cyprus",
+    "Cited by count": 55,
+    "Abstract": "The principle of Passive Houses is an important milestone in the evolutionary development towards environmental friendly and energy efficient buildings. Τhe concept as such was developed in central Europe tackling primarily the issue of heating. However, as the goal of sustainability has become a common one throughout Europe and beyond, it is now established that the energy performance of Passive Houses has to satisfy thermal comfort under diverse climatic conditions, in order to enable its adequate global applicability. This study presents the monitored performance of the first Passive House designed and constructed in Cyprus, a south-eastern Mediterranean European country with subtropical climatic conditions. This study aims to provide useful insights to improve the performance of Passive Houses in subtropical climates. The “as built” performance of the investigated building is compared to its asset design, revealing design gaps and possibilities for improvement. Different zones of the building were selected for investigation and the percentage of overheating in the examined zones was specified. The thermal performance of the examined building was also numerically investigated, by means of dynamic simulation in order to consider improvement options. The simulation model was validated for a cooling design day. The performance of a single zone was further investigated using CFD simulation for a specific summer day and the effect of potential measures for the improvement of its thermal performance was evaluated. An average reduction of 1.4 °C of the indoor air temperature was achieved by applying an optimized strategy for night ventilation, while the increase of the cooling capacity of the HVAC was found to significantly improve the thermal performance of the zone. The effect of external thermal coating application was also examined."
+}

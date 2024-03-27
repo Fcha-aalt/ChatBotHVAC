@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85068653951,
+    "Title": "An IoT-Based Data Driven Precooling Solution for Electricity Cost Savings in Commercial Buildings",
+    "Author": "Vishwanath A.",
+    "Journal": "IEEE Internet of Things Journal",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/JIOT.2019.2897988",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "IBM Research",
+    "Affliation Country": "United States",
+    "Cited by count": 34,
+    "Abstract": "The buildings sector is one of the largest energy consuming entities today, accounting for about 40% of global energy consumption. Alongside, electricity prices are increasing in several nations worldwide, putting pressure on facility managers to reduce the expense incurred in operating their buildings. In this paper, we focus on building heating, ventilation, and air conditioning and make the following contributions. First, inspired by the deployment of Internet of Things in buildings, we propose a data driven gray box model for zone thermal dynamics and use it to develop an optimization framework for precooling a building. The goal is to determine a precooling strategy that not only shifts the peak air conditioning power to low electricity tariff regimes, but also reduces the peak power, energy consumption, and electricity costs associated with cooling a building. Second, the optimal precooling problem turns out to be nonlinear. To enable ease of use of our framework in the real-world without undermining its efficacy, we develop a linearized version of the problem and show that it has comparable performance to the original formulation. Third, we quantify the benefits of the precooling optimization framework by applying it to building management system data, across multiple days, obtained from a large office building in Australia. The evaluations reveal that optimal precooling lowers the peak power, energy consumption, and electricity costs for cooling the building by up to 30% while ensuring that the thermal comfort of the occupants is maintained. We conclude by describing two applications of the proposed optimization framework for use in developing countries. Our precooling solution incurs no capital expense and permits facility managers to take decisions from a data driven point of view for improving the energy efficiency of their buildings."
+}

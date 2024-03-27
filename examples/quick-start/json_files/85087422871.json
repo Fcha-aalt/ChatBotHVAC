@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85087422871,
+    "Title": "Multi-objective optimization of HVAC control in museum environment for artwork preservation, visitors’ thermal comfort and energy efficiency",
+    "Author": "Schito E.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2020-08-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.buildenv.2020.107018",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 42,
+    "Abstract": "The paper deals with the multi-objective optimization of the HVAC control in museums. Scientific literature, technical standards and museums stakeholders mainly focus on the single-objective of artefacts conservation. However, a major attention should be paid at visitors’ comfort and energy consumption, without compromizing artwork integrity. In this work, we propose and apply a methodology to find the best control of the air-handling unit to concurrently optimize the three objectives. The proposed methodology is based on the achievement function method and finds the Pareto-optimal value of the HVAC control variables over the operational period. The priority given to each objective can be customized by changing the reference point of the achievement function. The method is applied to a museum in Italy hosting paper artworks during summer. Both exhibition room and HVAC system are simulated through an in-house dynamic model. The results show that all three objectives are improved with respect to typical fixed setpoint values (i.e., T = 23 °C and RH = 50%). Depending on the reference point, different profiles of indoor hygrothermal parameters are found; in any case, improvements of each of the objective functions indexes (equivalent lifetime multiplier for artwork preservation, predicted percentage of dissatisfied, and energy consumption) are obtained with respect to fixed setpoint strategy. The multi-objective optimization of museums with paper artworks in summer periods encourages low indoor temperatures. This would lead to slightly increased energy consumptions, which can be limited, by reducing the ventilation rate to 3–3.5 1/h instead of the typical 4–5 1/h."
+}

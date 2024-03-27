@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85162093860,
+    "Title": "Distributionally Robust Energy Consumption Scheduling of HVAC Considering the Uncertainty of Outdoor Temperature and Human Activities",
+    "Author": "Wang Y.",
+    "Journal": "CSEE Journal of Power and Energy Systems",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.17775/CSEEJPES.2021.08170",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Liverpool",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 0,
+    "Abstract": "Achieving a low or zero carbon target is to reduce energy demand and improve energy efficiency of electricity consumers. One of the main electricity consumers in power systems is heating, ventilation, and air conditioning systems (HVACs), which cost around 30% of the total usage in commercial buildings. This paper investigates the scheduling problem of HVAC energy consumption taking into account two uncertainties: outdoor temperature and human activities. The distributionally robust optimization approach (DROA) is extended to deal with these two uncertainties which are modeled by the proposed disjointed layered ambiguity sets according to historical data. Based on the proposed DROA method, the distributionally robust chance constraints (DRCCs) will be formulated as a nonlinear optimization problem, converted into a linear optimization problem using duality theorem and solved using SeDuMi solver. Simulation results are used to compare with existing methods, which shows the proposed DROA can decrease 2.81% and 0.14% of the electricity cost in comparison with traditional RO method and DROA based on a nest layered ambiguity set, respectively. Also, the proposed DROA decreases the number and maximum of violations from the comfort level of users. The multi-zone HVAC system model is used in the case study to verify the proposed DROA with the disjointed ambiguity set. The consecutive simulation results illustrate the proposed DROA approach can provide stable performance in a three-day scheduling period."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85169090792,
+    "Title": "Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer",
+    "Author": "Qaisar I.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-08-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13082002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "Buildings are responsible for approximately 40% of the world’s energy consumption and 36% of the total carbon dioxide emissions. Building occupancy is essential, enabling occupant-centric control for zero emissions and decarbonization. Although existing machine learning and deep learning methods for building occupancy prediction have made notable progress, their analyses remain limited when applied to complex real-world scenarios. Moreover, there is a high expectation for Transformer algorithms to predict building occupancy accurately. Therefore, this paper presents an occupancy prediction Transformer network (OPTnet). We fused and fed multi-sensor data (building occupancy, indoor environmental conditions, HVAC operations) into a Transformer model to forecast the future occupancy presence in multiple zones. We performed experimental analyses and compared it to different occupancy prediction methods (e.g., decision tree, long short-term memory networks, multi-layer perceptron) and diverse time horizons (1, 2, 3, 5, 10, 20, 30 min). Performance metrics (e.g., accuracy and mean squared error) were employed to evaluate the effectiveness of the prediction algorithms. Our OPTnet method achieved superior performance on our experimental two-week data compared to existing methods. The improved performance indicates its potential to enhance HVAC control systems and energy optimization strategies."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85181195904,
+    "Title": "Evaluation of the energy performance of a shallow geothermal facility through a second-order cone programming",
+    "Author": "Dhaundiyal A.",
+    "Journal": "Engineering Reports",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1002/eng2.12835",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Centre for Energy Research",
+    "Affliation Country": "Hungary",
+    "Cited by count": 0,
+    "Abstract": "Energy consumption and operational cost are two decision-making factors which evaluate the feasibility of any energy system. Whether a thermal unit is efficiently working or not depends on the state properties of the thermodynamic system. Therefore, operational research on a geothermal site was performed. Most research pivots around the basic energy conservation equation to determine the parameters. However, finding the parameters does not serve the purpose of an investor. Investment of capital in any project depends on the return and feasibility of the task performed under the project. In the same direction, this article focuses on the optimisation of the performance of a shallow geothermal site in terms of energy and plant economics using the concept of a second-order cone program (SOCP). The site was used to operate the hybrid heating, ventilation, and air conditioning unit (HVAC) installed in an academic building. The second-order cone programming was considered to minimize the energy requirement and cost of energy generation during the winter season. It is to be noted that the solver-based approach was considered to examine the unit. The optimized energy consumption of GSHP was 24.29 kW⋅h. The levelized cost of energy (LCOE/kW⋅h) derived from SOCP would vary from $ 0.38 to $ 0.58 for the shallow geothermal plant. The rate of return for air conditioning in the building through the geothermal plant would be 1.74%. The optimized upfront cost per m2 was estimated to be $ 1440.87."
+}

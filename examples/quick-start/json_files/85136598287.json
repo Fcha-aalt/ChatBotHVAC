@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85136598287,
+    "Title": "Energy consumption optimization of building air conditioning system via combining the parallel temporal convolutional neural network and adaptive opposition-learning chimp algorithm",
+    "Author": "Sun H.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2022-11-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.energy.2022.125029",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shandong University",
+    "Affliation Country": "China",
+    "Cited by count": 6,
+    "Abstract": "Heating, ventilation, and air-conditioning systems provide a comfortable indoor thermal environment, but high energy consumption is often necessary to achieve an adequate level of indoor thermal comfort. However, it is challenging to design an energy-efficient thermal comfort control strategy, mainly because the internal thermal environment is influenced by complicated factors and difficult to model accurately. To solve this problem, a control strategy incorporating the parallel temporal convolutional neural network (PTCN) and the improved chimp optimization algorithm (ICHOA) is proposed for thermal comfort control of buildings. Thermal comfort control is transformed into a cost-minimization problem by establishing an objective function for both the future thermal comfort of the occupants and energy consumption and optimizing multiple air-conditioning temperature set points for the coming day. First, to ensure the prediction performance, a PTCN model was developed to predict the energy consumption and thermal comfort under different factors. An opposition-learning-based adaptive chimp algorithm was then used to solve the objective function to output the optimal set temperature. Finally, the superiority of the PTCN-ICHOA optimization strategy was verified using an office building in Jinan as an example. In winter and summer experiments, the proposed PTCN model achieved the lowest prediction errors among the models compared in terms of energy and temperature prediction. Furthermore, the PTCN-ICHOA optimization model exhibited faster convergence than the other models for both experiments. Through the proposed optimization strategy, energy consumption savings of approximately 6.3%–8.1% can be achieved while maintaining indoor thermal comfort."
+}

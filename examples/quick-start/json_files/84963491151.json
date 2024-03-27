@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84963491151,
+    "Title": "Modeling and control architecture of source and load management in islanded power systems",
+    "Author": "Tian W.",
+    "Journal": "2015 IEEE Energy Conversion Congress and Exposition, ECCE 2015",
+    "Publication Date": {
+        "$date": "2015-10-27T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/ECCE.2015.7310141",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Department of Electrical Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "This paper studies the power consumption and supply in an islanded power system (IPS) with high penetration of air conditioning load. The characteristics and behaviors of the loads in the IPS are researched and analyzed. Based on the power study, a new source and load management (SLM) system is designed to improve the power quality and energy/fuel efficiency in the power systems. In this paper, at first, an indoor temperature model with a parameter identification tool is constructed to help us analyze the power demand of heating, ventilation, and air conditioning (HVAC) loads, which plays an important role in IPS power study. Then, a baseline model of a typical IPS is built to consider the power consumption in the whole power network. Based on the baseline model, we assign a priority to each power demand, and propose the control architecture and strategy of the SLM. The control performance is validated by simulation tests to demonstrate the effectiveness on the energy and fuel efficiency improvement as well as maximized comfort indoor."
+}

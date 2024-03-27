@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133132186,
+    "Title": "Heating, Ventilation, and Air Conditioning Control by Range-Doppler and Micro-Doppler Radar Sensor",
+    "Author": "Cardillo E.",
+    "Journal": "2021 18th European Radar Conference, EuRAD 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.23919/EuRAD50154.2022.9784461",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università degli Studi di Messina",
+    "Affliation Country": "Italy",
+    "Cited by count": 10,
+    "Abstract": "In this paper, a radar-based system for the buildings' heating, ventilation, and air conditioning (HVAC) control is proposed. Although a great effort was devoted to improving the performance of the HVAC control systems, the traditional technologies demonstrated their limitations thus making the effective sensing still an unsolved challenge. Radar sensing has been identified as a key technology for this emerging application, because it represents a reliable, versatile, cost-effective and solid-state compatible solution, with distinctive advanced features not present in the traditional technologies. Different strategies are proposed to accomplish the occupancy detection and counting tasks, based on range-Doppler and micro-Doppler detection. Moreover, the capability of the radar to enable touch-free control of the system has been shown by classifying different user's gestures. The basic principles of the radar sensing and processing are illustrated, whereas the feasibility of the different goals is experimentally demonstrated. The advanced features provided by the newly evolved radar technology might enhance the current HVAC systems' performance with a broad impact to the society, affecting the building energy consumption, the Earth climate, and the environmental health."
+}

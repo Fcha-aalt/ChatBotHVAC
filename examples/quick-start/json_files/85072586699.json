@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85072586699,
+    "Title": "A novel deep reinforcement learning based methodology for short-term HVAC system energy consumption prediction",
+    "Author": "Liu T.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2019-11-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.ijrefrig.2019.07.018",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Huazhong University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 63,
+    "Abstract": "Short-term energy consumption prediction has fundamental importance in many HVAC system management tasks, such as demand-side management, short-term maintenance, etc. Currently, the prevailing data-driven techniques, especially supervised machine learning methods, are widely applied for short-term energy consumption prediction. Deep reinforcement learning (DRL), as the state-of-the-art machine learning techniques, have been applied for HVAC system control, but rarely for energy consumption prediction. In this paper, a DRL algorithm, namely Deep Deterministic Policy Gradient (DDPG), is firstly introduced for short-term HVAC system energy consumption prediction. Moreover, Autoencoder (AE), which is powerful in processing data in their raw form, is incorporated into DDPG method to extract the high-level features of state space and optimize the prediction model. The operation data of the ground source heat pump (GSHP) system of an office building in Henan province, China is used to train and assess the proposed models. The results demonstrate that the proposed DDPG based models can achieve better prediction performance than common supervised models like BP Neural Network and Support Vector Machine. This study is an enlightening work which may inspire other researchers to tap the potential of DRL algorithms in this field."
+}

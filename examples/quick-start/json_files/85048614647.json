@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048614647,
+    "Title": "Sustainable refurbishment of historic buildings through an innovative trigeneration energy plant",
+    "Author": "Castaldo V.",
+    "Journal": "30th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, ECOS 2017",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Interuniversity Research Center on Pollution and Environment “Mauro Felli”",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "The environmental sustainability and energy efficiency of buildings represents nowadays a crucial issue, since the building sector is currently responsible for more than 40% of the global energy consumptions and emissions. This is true especially for historical buildings, usually equipped with ineffective HVAC systems and considered as low-performance constructions. For these reasons, the upgrade of historical constructions from an energy and environmental perspective is mandatory, especially in those countries where such buildings represent more than a half of the whole building stock. The present work concerns the refurbishment of a historical Italian building, i.e. S. Apollinare fortress, carried out by combining passive and active solutions to optimize the indoor thermal comfort conditions and the energy requirement. To this aim, the innovative GBC HB-Historic Building™ protocol, specifically developed for historical constructions, is applied. Moreover, a trigeneration combined heat and power plant with an absorption chiller to produce cooling and powered by vegetable oil produced through cardoon seeds milling is installed in the building. Therefore, a dynamic simulation of the building is carried out to predict the energy performance enhancement post-retrofit. The final aim is to propose an integrated approach for the restoration and energy upgrading of existing constructions by improving their energy performance and environmental quality."
+}

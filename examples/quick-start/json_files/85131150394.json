@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85131150394,
+    "Title": "Learning to Learn HVAC Failures: Layering ML Experiments in the Absence of Ground Truth",
+    "Author": "Budde C.E.",
+    "Journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-3-031-05814-1_7",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università di Trento",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "Passenger comfort systems such as Heating, Ventilation, and Air-Conditioning units (HVACs) usually lack the data monitoring quality enjoyed by mission-critical systems in trains. But climate change, in addition to the high ventilation standards enforced by authorities due to the COVID pandemic, have increased the importance of HVACs worldwide. We propose a machine learning (ML) approach to the challenge of failure detection from incomplete data, consisting of two steps: 1. human-annotation bootstrapping, on a fraction of temperature data, to detect ongoing functional loss and build an artificial ground truth (AGT); 2. failure prediction from digital-data, using the AGT to train an ML model based on failure diagnose codes to foretell functional loss. We exercise our approach in trains of Dutch Railways, showing its implementation, ML-predictive capabilities (the ML model for the AGT can detect HVAC malfunctions online), limitations (we could not foretell failures from our digital data), and discussing its application to other assets."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85160365041,
+    "Title": "Human physiology for personal thermal comfort-based HVAC control – A review",
+    "Author": "Bogatu D.I.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-07-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110418",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Technical University of Denmark",
+    "Affliation Country": "Denmark",
+    "Cited by count": 4,
+    "Abstract": "Standardized methods for thermal comfort assessment already exist, namely the predicted mean vote (PMV) and the adaptive comfort model, both valid for groups of people. To identify whether a specific person is comfortable under different factors such as thermal, air quality, lighting, and acoustics, the only current reliable method is subjective evaluation. To reduce the need of occupant feedback, personal comfort models are currently being developed that aim to predict thermal response based on information from the occupant and its surroundings. These comfort models leverage machine learning tools and have been found to provide suitable estimations of personal comfort responses. According to the literature, an average prediction accuracy of 70–80% is attainable. Therefore, these models are promoted as innovative and efficient ways for comfort-based HVAC control. The challenge is however identifying the most relevant indicators and acquiring them in a simple way. Integrating anthropometric data, e.g., age, sex, and body mass index may represent a method for generating a personal comfort model. Including physiological data such as skin temperature, heart rate, and signal transformation could increase performance. Strong relationships were identified between subjective thermal response and physiological indicators, however their variation was not found to be governed solely by thermoregulation. Few automatic control implementation examples of personal comfort models using physiological indicators shows that challenges still exist. In order to achieve an accurate control, certain issues remain regarding acceptable thresholds for personal comfort model performance and the optimum set of indicators and combination to achieve it."
+}

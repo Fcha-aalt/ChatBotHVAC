@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84926452042,
+    "Title": "Improving the efficiency of an air conditioning system using a fire water tank as thermal accumulator",
+    "Author": "Renedo C.J.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2015-05-10T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1177/0143624414555812",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Cantabria",
+    "Affliation Country": "Spain",
+    "Cited by count": 6,
+    "Abstract": "This paper studies the substitution of air condensation by water condensation in the chiller of a university building. This building has a surface of about 30,000 m2, is located in a city of the Spanish north coast, and refrigeration is needed for six months a year. In this paper, the novelty lies in the cooling system of the condensation water, since the typical cooling tower is not going to be considered; instead, the domestic cold water consumed in the building would be used to cool the chiller condensing water. As the domestic water consumption in the building is neither constant nor coincident with the cooling requirements of the chiller, the use of the fire water tank as heat storage was proposed. Thus, the chiller is cooled by the water contained in the fire tank and this fire water is then cooled by the domestic water. With this solution, the reduction in the annual energy consumption of the chiller is around 18.6%. The requirements to implement this solution in buildings are: cool water for air conditioning produced in a centralized way, a relatively high building domestic water demand and a building fire water tank.Practical application:The solution proposed in this paper can contribute to primary energy savings by improving the energy efficiency of HVAC systems. It can be adopted in all buildings that require refrigeration, have a significant consumption of domestic water, and have a water storage tank for fire or other uses. The article includes the preliminary design of a water-water heat exchanger as a possible solution for cooling the chiller, but alternative solutions could be adopted. Finally, a cost-benefit analysis has been performed, showing that the proposed solution is feasible."
+}

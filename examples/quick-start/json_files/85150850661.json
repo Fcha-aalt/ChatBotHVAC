@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85150850661,
+    "Title": "Evaluation of deploying data-driven predictive controls in buildings on a large scale for greenhouse gas emission reduction",
+    "Author": "Deng Z.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.energy.2023.126934",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "Buildings consume more than 70% of electricity in the U.S. In order to reduce building energy consumption, advanced building controls have been developed. However, most building controls are using physics-based models and lack of scalability. Recent development of data-driven control models could overcome this challenge and be automatically developed and implemented on large scale. The purpose of this study was to evaluate the effectiveness, robustness, and scalability of automatic and systematic data-driven predictive control (DDPC) for a large-scale real-world deployment. We first used collected data from 78 buildings in RTEM database to train deep neural network models. Then we applied the models to optimize the HVAC control for energy savings. We focused on over 1000 HVAC units in five different commonly used types, including air handling units, rooftop units, variable air volume systems, fan coil units, and unit ventilators. Next, we evaluated the energy-saving potential and the reduction of greenhouse gas emissions of the proposed method. We found that DDPC was robust and scalable in buildings, with an average energy saving of 65% and peak load reduction of 15% compared to current control systems. The average reduction of GHG emissions for CO2, CH4, and N2O was 15.18 kg, 5.76e-4 kg, and 5.48e-5 kg per m2 per year, respectively. New York State can benefit 11% reduction in carbon emission from DDPC in buildings. For scalability, we also identified and categorized the challenging conditions when DDPC may not work properly and summarized the lessons learned from large-scale DDPC deployment."
+}

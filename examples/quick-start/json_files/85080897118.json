@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85080897118,
+    "Title": "Conceptual cost models for energy simulation in building projects",
+    "Author": "Rafati Sokhangoo L.",
+    "Journal": "Proceedings, Annual Conference - Canadian Society for Civil Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Concordia University",
+    "Affliation Country": "Canada",
+    "Cited by count": 1,
+    "Abstract": "Economic analysis has been known as one of the major challenges for energy consultants in early phases of design, when project characteristics are not clear enough. One source of the challenge is to obtain cost data for elements based on their energy performance (rather than the product information). Therefore, quantitative economic analyses are usually postponed to later phases, when changing the decisions (which are already made) is costly and challenging. In response to this need, the present study aims to develop conceptual cost estimation models which can be used by energy simulation tools in early phases of projects (i.e. Schematic Design). These parametric cost models can assist energy simulator engines to estimate installation costs of building elements, based on parameters indicating their energy efficiency performance. In this study, three main categories of design parameters which significantly influence building energy consumption were considered: envelope (walls/roof insulation and windows/fenestration); lighting systems; and heating, ventilation and air conditioning (HVAC). For each component, cost databases such as RSMeans, and other commercial vendor databases were used for analysis based on physical parameters governing the energy performance of each element. Those parameters include R-value for insulation; U-Value and Solar Heat Gain Coefficient (SHGC) for windows; Lighting Power Density (LPD) for lighting; and efficiency for HVAC systems. To assist in recording and updating values for the cost model, a database was developed based on building energy performance parameters. The database is used in a life cycle cost analysis software and integrates well with Building Information Modeling (BIM), which can help energy consultants to start quantitative life cycle cost analyses during early design phase."
+}

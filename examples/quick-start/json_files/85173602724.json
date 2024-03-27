@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85173602724,
+    "Title": "Deep learning-based energy inefficiency detection in the smart buildings",
+    "Author": "Huang J.",
+    "Journal": "Sustainable Computing: Informatics and Systems",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.suscom.2023.100921",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "RUDN University",
+    "Affliation Country": "Russian Federation",
+    "Cited by count": 0,
+    "Abstract": "The operation of the heating, ventilation, and air conditioning (HVAC) system is essential for the indoor thermal environment and is significant for energy consumers in commercial properties. Although earlier studies suggested that reinforcement learning controls could increase HVAC energy savings, they lacked sufficient details regarding end-to-end management. Recently, the focus on gathering and analyzing data from smart meters and buildings connected to energy-saving studies has increased. Deep reinforcement learning (DRL) suggests novel methods for operating HVAC systems and lowering energy usage. This paper evaluates energy consumption by Convolution Recurrent Neural Networks (CRNN), and Deep Reinforcement Learning is used. This is intended to forecast energy use under various climatic circumstances, and the processes are assessed under different communication protocols. The suggested control technique might directly accept quantitative elements, such as climate and indoor air quality conditions, as input and control indoor thermal set - points at a supervisory level by utilizing the deep neural network. In a highly effective office area in the Houston area, time series data, CRNN, and DRL are effectively used to uncover new energy-saving options (TX, USA). The article presents 1-year information from the Net Zero, Energy Star, and Leadership in Energy and Environment Design (LEED)-certified building, demonstrating a potential energy savings of 8% with the presented design. The findings demonstrate how useful the suggested strategy is in assisting building owners in locating new potential for energy conservation."
+}

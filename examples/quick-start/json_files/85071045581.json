@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071045581,
+    "Title": "Adaptive modeling for reliability in optimal control of complex HVAC systems",
+    "Author": "Asad H.S.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/s12273-019-0558-9",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "City University of Hong Kong",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 20,
+    "Abstract": "The model-based real-time optimization (MRTO) of heating, ventilation, and air-conditioning (HVAC) systems is an efficient tool for improving energy efficiency and for effective operation. Model-based real-time optimization of HVAC systems needs to regularly optimize the set points for local-loop operation, taking into account the interactions between HVAC components with the help of system-performance models. MRTO relies on the accuracy of the performance model to provide reliability in decision making. In practice, due to high diversity in ambient conditions and load demands, system-model mismatches are difficult to avoid. This paper presents an adaptive, model-based, real-time optimization (AMRTO) approach for large-scale, complex HVAC systems, to counter any model mismatches by updating the performance model in real time with real-time measurements. Furthermore, to make this approach practically applicable and to keep the online training process computationally manageable, an empirical-physical model of HVAC system components was set up that is suitable for online training, and hybrid genetic algorithms (HGAs) method was used for faster, yet reliable, online training of the performance model. A case study was used to evaluate the performance of the proposed approach. The results demonstrated that the proposed AMRTO was able to provide energy saving approximately 8% and reduce the online computational burden by 99%."
+}

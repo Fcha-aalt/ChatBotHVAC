@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138491317,
+    "Title": "Performance Optimization of Chiller Used for Commercial Building Air-Conditioning",
+    "Author": "Azeem A.",
+    "Journal": "Green Energy and Technology",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-981-16-8274-2_34",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "Indian Institute of Technology Bombay",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "The energy efficiency of buildings is highly affected by heating, ventilation, and air-conditioning (HVAC) systems being more energy intensive. The paper aims in providing an energy-efficient cooling solution by analyzing and modeling the cooling load requirement of a commercial building and optimizing the chiller system. Design Builder software integrated with Energy plus simulation software is used for predicting the scope of improvement by energy simulation modeling. The study also focuses on analyzing the performance improvement achieved with the optimized chiller system and by integrating it with efficient control strategies at the component level. With the energy-efficient optimization, along with the assessment of energy cost savings, the reduction in carbon emissions is also interpreted. About 50% energy savings is achieved with the water-cooled chiller retrofit, and with improved control strategies, energy consumption is reduced by 62%. An added advantage of reduced energy consumption is the reduction in carbon footprint, which is analyzed in the study. This reduction contributes to the global aim of reducing carbon dioxide emissions and controlling global warming."
+}

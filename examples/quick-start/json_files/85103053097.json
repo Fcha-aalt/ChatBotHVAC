@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85103053097,
+    "Title": "A new analytical approach for evaluating fenestration impacts on residential building energy performance",
+    "Author": "Larsen J.",
+    "Journal": "Thermal Performance of the Exterior Envelopes of Whole Buildings",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Cardinal Glass Industries",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Two-parameter linear regression is used in this study to understand the interaction of window U-Factor and solar heat gain (SHGC) on building energy performance. The (3) coefficients from the regression analysis are identified with the following nomenclature: “b”. This scalar represents energy attributable to the opaque portion of the building envelope. The scalar itself is fixed (no functionality to the windows) but does change with building type and location. “m1”. This scalar is a multiplier for the window U-Factor and represents the change in building energy for the total window area versus the opaque wall it displaces. “m2”. Scalar for window solar heat gain. When the value is positive (+) window solar hear gain increases building energy. A negative (-) scalar value indicates that passive gains offset more heating load then cooling. The regression equation to describe building energy as a function of window U & SHGC takes the form: Y = b + m1*[U-Factor] + m2*[SHGC] where Y = total (energy, dollars, carbon, etc.) In this study there are four primary findings: 1. With the near ubiquitous use of air-conditioning across North America, increased fan sizes to deliver air-conditioning can negatively affect heating energy performance. Potential passive solar benefits are offset when a larger furnace fan is required for cooling loads. 2. Extrapolating beyond market “reasonable” on U-Factor for trade-off analyses biases the cold climate analysis in favor of passive solar gains. The example here would be including single pane glass in a cold climate regression when replacement products are more typically at or slightly better than code (e.g. low-E double pane). 3. The U vs. SHGC trade-offs suggested by the U.S. and Canada ENERGY STAR programs do not properly address orientation. Both programs use equal window distribution for all 4 sides of the building to predict average window energy performance. This shorthand approach fails to properly account for the impacts of solar exposure differences across the seasons. 4.Window energy performance is surprisingly consistent across a wide range ofresidential building insulation vintages and HVAC fuel sources. With this knowledge window energy savings for the entire market, not just new or existing buildings, are easier to predict."
+}

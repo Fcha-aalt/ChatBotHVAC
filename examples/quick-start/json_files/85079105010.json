@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079105010,
+    "Title": "State-of-the-art on research and applications of machine learning in the building life cycle",
+    "Author": "Hong T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-04-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.109831",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Lawrence Berkeley National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 180,
+    "Abstract": "Fueled by big data, powerful and affordable computing resources, and advanced algorithms, machine learning has been explored and applied to buildings research for the past decades and has demonstrated its potential to enhance building performance. This study systematically surveyed how machine learning has been applied at different stages of building life cycle. By conducting a literature search on the Web of Knowledge platform, we found 9579 papers in this field and selected 153 papers for an in-depth review. The number of published papers is increasing year by year, with a focus on building design, operation, and control. However, no study was found using machine learning in building commissioning. There are successful pilot studies on fault detection and diagnosis of HVAC equipment and systems, load prediction, energy baseline estimate, load shape clustering, occupancy prediction, and learning occupant behaviors and energy use patterns. None of the existing studies were adopted broadly by the building industry, due to common challenges including (1) lack of large scale labeled data to train and validate the model, (2) lack of model transferability, which limits a model trained with one data-rich building to be used in another building with limited data, (3) lack of strong justification of costs and benefits of deploying machine learning, and (4) the performance might not be reliable and robust for the stated goals, as the method might work for some buildings but could not be generalized to others. Findings from the study can inform future machine learning research to improve occupant comfort, energy efficiency, demand flexibility, and resilience of buildings, as well as to inspire young researchers in the field to explore multidisciplinary approaches that integrate building science, computing science, data science, and social science."
+}

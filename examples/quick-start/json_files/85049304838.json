@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85049304838,
+    "Title": "Vision-based thermal comfort quantification for HVAC control",
+    "Author": "Jung W.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2018-09-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.buildenv.2018.05.018",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Virginia Tech College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 39,
+    "Abstract": "This study presents a vision-based approach that employs RGB video images as the sole source for inferring thermoregulation states in the human body in response to thermal condition variations in indoor environments. The primary objective is to contribute to our envisioned thermoregulation-based HVAC control that leverages actual thermal demands from end-users’ thermoregulation states for increased energy efficiency. Given that the envisioned control system calls for measurement techniques under four constraints of non-intrusiveness, applicability, sensitivity, and ubiquity (i.e., feasibility and scalability), this study investigated the potentials of ubiquitously obtainable RGB video images (through webcams or smartphones). Using photoplethysmography (PPG), a well-known optical technique for measuring blood volume changes in the microvascular bed of skin, we have leveraged the mechanism of blood flow control to the skin surface (blood vessels' dilation and constriction) for heat dissipation regulations, reflected in PPG signal's amplitude. Given the subtle variations of PPG signals and their susceptibility to noise, we proposed a framework that uses a combination of independent component analysis and adaptive filtering to reduce unwanted and in-band artifacts while preserving the amplitude information of PPG signals that indicates thermophysiological states. The framework was experimentally evaluated using transient thermal conditions to account for applicability and sensitivity attributes. Therefore, without considering an acclimation time for stabilized thermoregulation states, human subjects were exposed to varying temperatures (∼20–30 °C) while reporting their thermal sensations. In total, for 10 human subjects out of 15, a positive correlation between vision-based indicators, skin temperature, and thermal sensations were observed demonstrating promising potential in inferring thermal sensations of occupants with sufficient sensitivity."
+}

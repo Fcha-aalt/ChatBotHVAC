@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163833879,
+    "Title": "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings",
+    "Author": "Fu Q.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-08-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110546",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Suzhou University of Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 28,
+    "Abstract": "Residential Heating, Ventilation, and Air conditioning (HVAC) systems are responsible for a significant amount of energy consumption, but their management is challenging due to the complexities of building thermodynamics and human activities. Reinforcement learning (RL) has been adopted to tackle this issue, but traditional RL methods require massive training data, long learning periods, and frequent equipment adjustments. To address these issues, we construct a new event-driven Markov decision process (ED-MDP) framework, which enables adjustments of control policies triggered by events, reducing unnecessary operations. Moreover, we propose an event-driven deep Q network (ED-DQN) method, which optimizes the action selection based on the triggered events. In the HVAC control problem, the proposed ED-DQN can effectively capture dynamic non-linear features of thermal comfort, and reduce the equipment damage caused by frequent adjustments. Our experimental results show that compared to three benchmark methods and three RL methods, our ED-DQN achieved state-of-the-art performance in both energy saving and thermal comfort violations. Moreover, our method demonstrates promising performance when applied to new test thermal environments, indicating its robustness and adaptability for optimizing residential HVAC controls."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951201719,
+    "Title": "Occupant feedback based model predictive control for thermal comfort and energy optimization: A chamber experimental evaluation",
+    "Author": "Chen X.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2016-02-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.apenergy.2015.11.065",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Penn State College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 67,
+    "Abstract": "In current centralized building climate control, occupants do not have much opportunity to intervene the automated control system. This study explores the benefit of using thermal comfort feedback from occupants in the model predictive control (MPC) design based on a novel dynamic thermal sensation (DTS) model. This DTS model based MPC was evaluated in chamber experiments. A hierarchical structure for thermal control was adopted in the chamber experiments. At the high level, an MPC controller calculates the optimal supply air temperature of the chamber heating, ventilation, and air conditioning (HVAC) system, using the feedback of occupants' votes on thermal sensation. At the low level, the actual supply air temperature is controlled by the chiller/heater using a PI control to achieve the optimal set point. This DTS-based MPC was also compared to an MPC designed based on the Predicted Mean Vote (PMV) model for thermal sensation. The experiment results demonstrated that the DTS-based MPC using occupant feedback allows significant energy saving while maintaining occupant thermal comfort compared to the PMV-based MPC."
+}

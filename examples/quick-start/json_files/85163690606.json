@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163690606,
+    "Title": "Comparative Analysis of ANN and LSTM Prediction Accuracy and Cooling Energy Savings through AHU-DAT Control in an Office Building",
+    "Author": "Seo B.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/buildings13061434",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "NC State University",
+    "Affliation Country": "United States",
+    "Cited by count": 2,
+    "Abstract": "This paper proposes the optimal algorithm for controlling the HVAC system in the target building. Previous studies have analyzed pre-selected algorithms without considering the unique data characteristics of the target building, such as location, climate conditions, and HVAC system type. To address this, we compare the accuracy of cooling load prediction using ANN and LSTM algorithms, widely used in building energy research, to determine the optimal algorithm for HVAC control in the target building. We develop a simulation model calibrated with actual data to ensure data reliability and compare the energy consumption of the existing HVAC control method and the two algorithms-based methods. Results show that the ANN algorithm, with a CV(RMSE) of 12.7%, has a higher prediction accuracy than the LSTM algorithm, CV(RMSE) of 17.3%, making it a more suitable algorithm for HVAC control. Furthermore, implementing the ANN-based approach results in a 3.2% cooling energy reduction from the optimal control of Air Handling Unit (AHU) Discharge Air Temperature (DAT) compared to the fixed DAT at 12.8 °C in a representative day. This study demonstrates that ML-based HVAC system control can effectively reduce cooling energy consumption in HVAC systems, providing an effective strategy for energy conservation and improved HVAC system efficiency."
+}

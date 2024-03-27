@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85100088369,
+    "Title": "Net Zero Energy Building (NZEB) Design",
+    "Author": "Singh B.",
+    "Journal": "Journal of The Institution of Engineers (India): Series A",
+    "Publication Date": {
+        "$date": "2021-03-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/s40030-020-00500-1",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Punjab Energy Development Agency",
+    "Affliation Country": "India",
+    "Cited by count": 3,
+    "Abstract": "Presently, buildings are expected to be designed to meet higher energy performance, sustainability to enjoy healthy and comfortable environment for the occupants. With the growing public awareness of environment issues, the energy efficient design concept for construction of buildings is being accepted to reduce the day-to-day energy demand of the buildings. In this scenario, net zero energy building design is one of the solutions to combat global warming by reducing energy demand and simultaneously use of renewable energy to run the operations of the building. In this paper, the focus is given on net zero energy building design criteria for composite climate zone. The technical parameters of planning, orientation, envelope, heating ventilation and air-conditioning (HVAC), use of energy efficient materials and integration of renewable energy system in designing the net zero energy building were analyzed and evaluated. The net zero energy balance equation was established from the building design strategies by evaluating the total annual energy demand, reduction in annual energy consumption implementing energy efficient technologies and annual renewable energy generation under the boundary of the building. This equation of net zero energy building was validated on design and construction of BISA building located at Ludhiana, Punjab falls under the composite climate zone. The analysis, evaluation and validation were carried out on system-generated model of the building. The reduced annual energy demand of the building of 432,742 kWh was met from the renewable energy generation of rooftop solar photovoltaic power plant of capacity 300kWp and satisfied the net zero energy balance equation."
+}

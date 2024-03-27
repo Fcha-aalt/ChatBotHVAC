@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85174308967,
+    "Title": "A New Paradigm in the Control of HVAC System Based on the Comfort Sensation Scale",
+    "Author": "Aparicio-Ruiz P.",
+    "Journal": "Proceedings - 2023 International Conference on Control, Artificial Intelligence, Robotics and Optimization, ICCAIRO 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICCAIRO58903.2023.00025",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universidad de Sevilla",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "In the current Heating, Ventilation, and Air Conditioning systems, the user selects the temperature in their office, and the controller maintains the setpoint. The systems are activated at the request of users, in marked temperature ranges, based on standardised temperatures. The paradigm shift is based on the change in the input temperature from the user to the comfort sensation scale. In resilient buildings, the purpose is to maintain a comfortable indoor environment and save energy, and to achieve this target, it is necessary to know and learn the comfort sensation. The first approach is the change to an adaptive model for mix-mode building, naturally ventilated and with mechanical systems. In this case, the HVAC controller could be used as a survey for users, and this knowledge could be transferred to the decision in the HVAC system. This solution could adapt current systems to systems based on machine learning."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85091992057,
+    "Title": "Quantification of the energy use due to occupant behaviour collected in surveys: a case study of a green and non-green building",
+    "Author": "Almeida L.M.M.C.E.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2020-11-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/19401493.2020.1825529",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Western Sydney University",
+    "Affliation Country": "Australia",
+    "Cited by count": 12,
+    "Abstract": "Perceptions of occupants to energy use, collected in questionnaire surveys, were used as input variable for building simulations. These perceptions are related to occupant interactions with lighting, plug loads, heating, cooling, windows opening and shading. The simulations were performed to a green-rated (GB) and a non-rated building, in Sydney Australia, with similar characteristics. The simulation models were calibrated according to measured annual energy data to incorporate the collected behaviours. Occupants' behaviours (OB) were quantified in terms of energy use, greenhouse gas emissions and costs. Results show that occupants have 25% more impact on the overall energy use in the non-rated building than in the GB. In the GB occupants have a major impact in the heating function while in the non-rated building they impact the lighting system. The GB is less subjected to the direct impact of OB if the majority of its systems are automatically controlled. Abbreviations: AC: Air conditioning; ASHRAE: American Society of Heating, Refrigerating and Air-Conditioning Engineers; AUD: Australian dollars; BCA: Building Code of Australia; BEPS: Dynamic Building Energy Performance Simulations; COP: Coefficient of performance; EER: Energy efficiency ratio; HW: Hot water; GB: Green building; HVAC: Heating, ventilation, and air conditioning; IEQ: Indoor environmental quality; NRB: Non-rated building; NSW: New South Wales; OB: Occupant behaviour; occ: Occupants; SPLITS: A split system is an air conditioning systems split into one unit that is indoors and another one that is outdoors; WSU: Western Sydney University; VRF: Variable refrigerant flow system; yr: Year."
+}

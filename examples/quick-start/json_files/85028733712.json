@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85028733712,
+    "Title": "Research on short-term and ultra-short-term cooling load prediction models for office buildings",
+    "Author": "Ding Y.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2017-11-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.enbuild.2017.08.077",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 85,
+    "Abstract": "Building cooling load predictions can be used to better understand energy demands and to improve the energy efficiency of HVAC systems. In this study, GA-SVR and GA-WD-SVR prediction models for short-term and ultra-short-term predictions for office buildings are established. The short-term cooling load prediction model is designed to outline an HVAC system's operation strategies for the following day. The ultra-short-term cooling load prediction model is designed to inform building managers of the cooling load for the next hour and to adjust HVAC system operations in advance. An office building in Tianjin is used to train and evaluate the load prediction models. Meteorological data and one-day-ahead and one-hour-ahead cooling load records are used as model inputs. The prediction results indicate that the GA-SVR prediction model performs better for short-term cooling load prediction with MRE and R2 of 6.5% and 73.1%, respectively, while the GA-WD-SVR prediction model performs better for ultra-short-term cooling load prediction with MRE and R2 of 4.6% and 88.7%, respectively."
+}

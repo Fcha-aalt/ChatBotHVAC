@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120965201,
+    "Title": "Deep Q-network boosted with external knowledge for HVAC control",
+    "Author": "Jneid K.",
+    "Journal": "BuildSys 2021 - Proceedings of the 2021 ACM International Conference on Systems for Energy-Efficient Built Environments",
+    "Publication Date": {
+        "$date": "2021-11-17T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1145/3486611.3488731",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Grenoble Alpes",
+    "Affliation Country": "France",
+    "Cited by count": 2,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems consume nearly 40% of the total energy consumption in developed countries. Traditional techniques such as rule based control (RBC) fail to control these systems in an optimal way. Model predictive control (MPC) has been widely explored in literature as well but it doesn't represent a practical solution due to the complexity of buildings' dynamics that it relies on. Recently, deep reinforcement learning (DRL) has shown great success in the domain of optimal control such as robotics and gaming. In this paper, we develop two model-free DRL approaches to optimize the energy consumption of an office while maintaining thermal comfort and good indoor air quality through controlling the radiator and the opening/closing of a window and a door existing in the office. The two DRL approaches belong to deep-Q network (DQN): the first approach represents a DQN agent with no knowledge of the environment and the second approach represents a DQN agent with initial knowledge of the environment: A hybrid approach DQN+RBC. The goal of having external knowledge in DQN agent is to boost convergence by exploiting the RBC rules. We evaluate the performance of these two approaches against an RBC approach through simulations using a physical model of the office's dynamics. Experiments show that the two DRL approaches succeeded to maintain better thermal comfort and better indoor air quality compared with RBC approach while consuming nearly the same energy. In addition, experiments demonstrate that the DQN with knowledge outperforms the DQN with no knowledge in the beginning and converges faster to the optimal value."
+}

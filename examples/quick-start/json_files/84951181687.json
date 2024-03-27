@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84951181687,
+    "Title": "Development of a probabilistic graphical model for predicting building energy performance",
+    "Author": "O'Neill Z.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2016-02-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.apenergy.2015.12.015",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Mechanical Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 54,
+    "Abstract": "This paper presents the development of a data driven probabilistic graphic model to predict building energy performance. A directed graphical model, namely, a Bayesian Networks (BNs) model is created. Each node in the BNs represents a random variable such as outside air temperature and energy end use. The links between the nodes are probabilistic dependencies among these corresponding variables. These dependencies are statistically learned and/or estimated by using measured data and augmented by domain expert knowledge. BNs models became popular models in the last decade and only recently received attention for HVAC (Heating, Ventilation and Air-conditioning) applications. A case study of using a BNs model to predict HVAC hot water energy consumption in an office building is presented. The energy estimation results meet with the criteria recommended by ASHRAE Guideline 14. This case study also shown that the discretized Bayesian Network model is sensitive to the discretization policy (i.e., bin size selection) employed. The applicability of a BNs model becomes questionable outside the range in which the model is learned."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124973168,
+    "Title": "Seasonal adaptation of VRF HVAC model calibration process to a mediterranean climate",
+    "Author": "Pachano J.E.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2022-04-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.enbuild.2022.111941",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidad de Navarra",
+    "Affliation Country": "Spain",
+    "Cited by count": 6,
+    "Abstract": "Today, Building Energy Models (BEM) have become essential in regulatory compliance calculations, the correct assessment of it's Air Conditioning (AC) systems is critical for the reduction of the performance gap between BEMs and reality and increase the accuracy of evaluating buildings energy performance and it's systems efficiency. Given that multi-split Variable Refrigerant Flow (VRF) systems have grown in the market in recent years becoming a particular trending solution to achieve building indoor comfort; the present paper focus on technical issues when modelling such VRF systems inside EnergyPlus, a white-box simulation environment, especially regarding the effects weather conditions have on the behaviour of VRF systems and it's correlation with the AC system performance curves. The study performs an empirical validation of an optimization-based calibration methodology assessing multiple levels: average interior temperature of the different building spaces and electric energy consumption from VRF outdoor unit. It is performed using fifteen minute time-step seasonal data obtained from a fully operational building located in a typical Mediterranean climate (Greece), adjusting the parameter and curve values of the VRF system using a genetic NGSA-II algorithm (Jeplus software) for both summer and winter conditions. The generated BEM captures the building's hourly performance for summer conditions using 1717 hours to fit into international standards. Complying with the requirements of the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Guidelines 14-2002 for hourly energy consumption, reaching an NMBE ⩽±10%, Cv(RMSE) ⩽30% and R2 ⩾75% while keeping indoor temperatures on every room with a RMSE ⩽1 °C. The resulting BEM proved stable during the 2077 hours of it's summer evaluation period, fitting into the new unseen weather and building operation conditions of 2020 which can be considered a step forward in the area of calibrating white box models. While for winter conditions the study demonstrates the value of the calibration methodology while presenting the importance of weather influence on VRF systems. Using a total of 802 hours the applied technology greatly improves the results from the baseline model, reaching a partially calibrated BEM model for winter. Which reinforces the fact that regardless of how good a baseline model is, building operating conditions and weather may will always generate a design/performance gap and therefore the calibration of a BEM is unavoidable."
+}

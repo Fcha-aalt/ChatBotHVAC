@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85172001575,
+    "Title": "The Impact of Occupancy Pattern on Energy-Efficient Building System Selection: A Case Study of a Living Laboratory in Okanagan (BC)",
+    "Author": "Sultana S.R.",
+    "Journal": "Lecture Notes in Civil Engineering",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/978-3-031-34593-7_34",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "The University of British Columbia",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The building sector is at the frontline in consuming energy worldwide and a substantial contributor to the global carbon footprint. An energy-efficient building can perform a significant role in lowering the adverse impacts of greenhouse gas emissions. Buildings’ physical characteristics and occupants’ behavioural patterns intensely influence buildings’ energy usage. With wide-scale adoption of the work-from-home concept in the last few years, the hours spent in residential buildings have spiked drastically. Building energy simulations can determine the associated increase in residential energy use. This paper proposes a research methodology that can help evaluate the impact of occupancy time on energy upgrades selection. This paper considers three levels of occupancy patterns, 25%, 50%, and 80% time spent at home and performance of three upgrades: heating, ventilation, and air conditioning system (HVAC), wall insulation (WL), and solar panels (PV), as well as their combinations. The performance is assessed in terms of carbon emissions and energy consumption costs. A real-life case study, a single-family detached home in Okanagan, Canada, demonstrates this methodology. The energy upgrade combinations were ranked through a multi-criteria decision-making method that considered economic and environmental criteria. The results revealed that PV and WL respond well under economic criteria. On the contrary, when greenhouse gas emission is the primary concern, HVAC combined with WL or PV has superior performance. The findings of this study can assist the construction practitioners (such as builders, developers, designers) and homeowners in making informed decisions for energy upgrade selection based on occupancy patterns."
+}

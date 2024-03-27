@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109966542,
+    "Title": "A hybrid deep transfer learning strategy for thermal comfort prediction in buildings",
+    "Author": "Somu N.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2021-10-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.buildenv.2021.108133",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Indian Institute of Technology Bombay",
+    "Affliation Country": "India",
+    "Cited by count": 44,
+    "Abstract": "Since the thermal condition of living spaces affects the occupants' productivity and their quality of life, it is important to design effective heating, ventilation and air conditioning (HVAC) control strategies for better energy efficiency and thermal comfort. An essential step in HVAC control and energy optimization is thermal comfort modeling. Recently, data-driven thermal comfort models have been preferred over the Fanger's Predicted Mean Vote (PMV) model due to higher accuracy and ease of use. However, the unavailability of comprehensive labelled thermal comfort data from the occupants poses a significant modeling challenge. This paper addresses data inadequacy issues by adopting ‘transfer learning’ to leverage well learned knowledge from source domain (same climate zones) to target domain (different climate zone) where modeling data is sparse. Specifically, a Transfer Learning based Convolutional Neural Networks-Long Short Term Memory neural networks (TL CNN-LSTM) is designed for effective thermal comfort modeling that exploits the spatio-temporal relations in the thermal comfort data. The significant modeling parameters for TL CNN-LSTM are identified using the Chi-squared test. Further, the lack of sufficient samples across all thermal conditions in the available thermal comfort datasets was handled by Synthetic Minority Oversampling Technique (SMOTE). Experiments with two source (ASHRAE RP-884 and Scales Project) and one target (Medium US office) datasets demonstrate the ability of TL CNN-LSTM in achieving an accuracy of >55% with limited data in target buildings. The limitation of TL CNN-LSTM is its continued dependence on intrusive parameters and the challenges in assessing its adaptability to different climate zones."
+}

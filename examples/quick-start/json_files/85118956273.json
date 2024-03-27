@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118956273,
+    "Title": "Leveraging Machine Learning (Artificial Neural Networks) for Enhancing Performance and Reliability of Thermal Energy Storage Platforms Utilizing Phase Change Materials",
+    "Author": "Chuttar A.",
+    "Journal": "Journal of Energy Resources Technology, Transactions of the ASME",
+    "Publication Date": {
+        "$date": "2022-02-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1115/1.4051048",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Phase change materials (PCMs) have garnered significant attention over recent years due to their efficacy for thermal energy storage (TES) applications. High latent heats exhibited by PCMs enable enhanced storage densities which translate into compact form factors of a TES platform. PCMs particularly address the shift between energy demand and supply; i.e., they absorb heat during surplus conditions and release it during a deficit. PCMs are used in a wide range of applications-solar power plants, building energy management, HVAC, waste heat recovery systems, domestic water heating, and thermal management of electronics to list a few. Inorganic PCMs have a high latent heat value (compared to organic PCMs) but suffer from several reliability issues. A major reliability issue with inorganic PCMs is the high degree of supercooling needed to initiate nucleation (which compromises the reliability, net energy storage capacity, and power rating of the TES platform). “Cold Finger Technique (CFT)” can obviate these issues wherein a small fraction of the total mass of PCM is left in a solid phase to aid spontaneous nucleation (thus, reliability is enhanced at a marginal expense to the net storage capacity while power rating of the TES remains unaffected). In this study, machine learning (ML) techniques, more specifically artificial neural networks (ANN), are implemented to enhance the efficacy of CFT. Temperature transients from PCM melting experiments are used to explore the efficacy of this deep learning technique (i.e., multi-layer perceptron model or “MLP”) in order to predict the time required to attain a predefined melt percentage. The results show that an artificial neural network is capable of providing apriori predictions regarding the time to attain a chosen melt fraction (e.g., 90% melt fraction). The mean error of the predictions was observed to be less than ∼5 min at instants that were within 30 min of the TES platform reaching 90% melt fraction. However, this approach is more sensitive to the type of training data set."
+}

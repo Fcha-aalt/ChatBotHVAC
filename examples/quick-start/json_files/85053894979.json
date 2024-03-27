@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85053894979,
+    "Title": "Risk analysis of energy efficiency investments in buildings using the Monte Carlo method",
+    "Author": "Togashi E.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2019-07-04T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1080/19401493.2018.1523949",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Kogakuin University",
+    "Affliation Country": "Japan",
+    "Cited by count": 8,
+    "Abstract": "Demonstrating the economic rationality of investments in energy efficiency is a necessary step in reducing the energy consumption of buildings. Generally, financial instruments are evaluated according to both the return on investment and the risk. However, many previous studies of energy efficiency investments in buildings are based on deterministic scenarios and do not evaluate the risk levels of these investments. Therefore, in this study, we clarify the risk involved in an energy-saving investment by calculating the probability distribution of the energy reduction and evaluating the result using financial engineering methods. We first develop a stochastic model of various conditions that affect the energy consumption of a building. These conditions include weather processes, office worker behavior, tenant characteristics, and tenant replacements. Next, we construct a prediction model of a building's energy consumption, and we use our stochastic model to create the boundary conditions of this prediction model. By repeatedly performing energy consumption predictions using the Monte Carlo method, we can obtain the probability distribution for building energy consumption. Finally, given this probability distribution, we evaluate energy efficiency investments using financial engineering methods. Based on the discounted cash flow distribution, we calculate the risk premium of each energy efficiency investment, and, based on the variance and covariance matrix of the internal rate of return of each energy efficiency investment, we find the optimal investment ratio."
+}

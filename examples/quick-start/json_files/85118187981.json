@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85118187981,
+    "Title": "“Demand Control” an Innovative Way of Reducing the HVAC System’s Energy Consumption",
+    "Author": "Talib R.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2021-10-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/buildings11100488",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Cincinnati",
+    "Affliation Country": "United States",
+    "Cited by count": 3,
+    "Abstract": "According to EIA, the Heating Ventilation and Air Conditioning (HAVC) systems account for about 25% of the U.S.’s total commercial building’s energy use. Therefore, advanced modeling and optimization methods of the system components and operation offer great ways to reduce energy consumption in all types of buildings and mainly commercial buildings. This research introduced an innovative integrated two-level optimization technique for the HVAC system to reduce the total energy consumption while improving the indoor thermal comfort level. The process uses actual system performance data collected for the building automation systems (BAS) to create accurate component modeling and optimization process as the first level of optimization (MLO). Artificial neural networks were chosen to be the tool used to serve the process of modeling. The second optimization level utilizes the whole system-level optimization technique (SLO) using a genetic algorithm (G.A.). The proposed two-levels optimization technique will optimize the system set-points, the supply air temperature, duct static pressure, minimum zone air flowrates, and minimum outdoor air ventilation rate. The proposed technique has contributed to the field of modeling and optimization of HVAC systems through several new contributions. (1) Implementing the demand control methodology with the optimization process to modify the electricity consumption power profile when the demand signal is received. (2) Implement the occupancy schedule inputs into the optimization process to adjust the ventilation airflow rates accordingly. (3) Implement the real-time zone occupancy sensor readings and adjust the zone’s ventilation flowrates and minimum flowrates. (4) Lastly, implementing the method of zone minimum air flowrates setpoint rests to reduce reheat requirements. The proposed optimization process was tested and validated, resulting in savings in the total energy consumed by the chilled water VAV system by 13.4%, 22.4 %, followed by 31% for July, February, and October, respectively."
+}

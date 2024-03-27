@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84939800811,
+    "Title": "Performance evaluation of the displacement ventilation combined with evaporative cooled ceiling for a typical office in Beirut",
+    "Author": "Younis M.",
+    "Journal": "Energy Conversion and Management",
+    "Publication Date": {
+        "$date": "2015-08-23T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.enconman.2015.08.030",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "American University of Beirut",
+    "Affliation Country": "Lebanon",
+    "Cited by count": 15,
+    "Abstract": "Displacement ventilation (DV) system combined with a novel evaporative cooled ceiling (ECC), Maisotsenko cycle (M-cycle), is a passive technique proposed to enhance the load removal in spaces beyond the conventional DV limit of 40 W/m<sup>2</sup>. In this study, predictive mathematical models of the conditioned space and the evaporative cooled ceiling were developed to study the performance of the integrated system. The integrated DV/ECC mathematical model was validated experimentally showing good prediction of ceiling temperature and room conditions at different space loads. A parametric study was done in order to study the limitations of the system, where it showed better efficiency at higher supply flow rates and lower supply air relative humidity. The validated DV/ECC system model was applied for a typical office in the city of Beirut, where a control strategy of increasing the supply flow rate was implemented to the DV system, while maintaining a stratification height of 1.5 m. The integrated system is operated only when the DV system cannot attain comfort in the space anymore. The load removal by the DV/ECC reached 50 W/m<sup>2</sup>, exceeding by 20% the maximum limit of 40 W/m<sup>2</sup> of the unaided DV system. Moreover, the proposed DV/ECC system resulted in 36.2% reduction in electric energy consumption in the summer months when compared with a conventional DV and chilled ceiling system."
+}

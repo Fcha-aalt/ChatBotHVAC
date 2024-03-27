@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089688900,
+    "Title": "The effect of occupant behaviors on energy retrofit: A case study of student dormitories in Tehran",
+    "Author": "Jami S.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.jclepro.2020.123556",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Shahid Beheshti University",
+    "Affliation Country": "Iran",
+    "Cited by count": 29,
+    "Abstract": "The growing interest in reducing energy consumption and the associated environmental impacts are promoting energy efficiency in buildings. Comprehensive energy consumption models affected by occupant behavior are needed to assess the techno-economic implications of adopting energy conservation measures (ECM). In this study, occupant energy behavior (OEB) in university dormitories was determined based on field studies. The main contribution of this study is to identify the sensitivity of OEB scenarios (austerity, normal, energy spender) on energy savings via energy retrofit and present a decision-making tool to help prioritize ECMs based on payback and thermal comfort improvements. ECMs could improve energy efficiency by 32%, 56%, and 60% with the energy spender, normal, and austerity OEB models, respectively. Furthermore, the effectiveness of the ECMs does not follow a consistent pattern. The most effective actions in the normal OEB models are wall insulation and airtightness, and in the energy spender models, HVAC and lighting systems are the most effective ECMs. The integrated analysis of ECMs including energy savings, thermal comfort improvement, and paybacks is required considering different OEB scenarios because our study showed that an ECM might be a mid-cost in the case of energy spender, and a low-cost ECM in the case of austerity users."
+}

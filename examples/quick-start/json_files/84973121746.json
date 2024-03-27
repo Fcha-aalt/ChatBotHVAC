@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84973121746,
+    "Title": "Artificial neural networks based thermal energy storage control for buildings",
+    "Author": "Amarasinghe K.",
+    "Journal": "IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society",
+    "Publication Date": {
+        "$date": "2015-01-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/IECON.2015.7392953",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virginia Commonwealth University",
+    "Affliation Country": "United States",
+    "Cited by count": 24,
+    "Abstract": "Heating, Ventilation and Air Conditioning (HVAC) system is largest energy consumer in buildings. Worldwide, buildings consume 20% of the total energy production. Therefore, increasing efficiency of the HVAC system will result in significant financial savings. As one solution, Thermal Energy Storage (TES) tanks are being utilized with buildings to store excess energy to be reused later. An optimal control strategy is crucial for optimal usage. Therefore, this paper presents a novel control framework based on Artificial Neural Networks (ANN) for optimally controlling a TES for achieving increased savings. The presented ANN controller utilizes 3 main inputs: 1) current TES energy availability, 2) predicted building power requirement, and 3) predicted utility load/price. In addition to the design details of the control framework, this paper presents implementation details of the ANN controller. Further, experiments on several test cases were carried out and the paper presents the experimental setup and obtained results for each test case. Performance of the presented ANN control framework was compared against a classical proportional derivative (PD) controller. It was observed that the presented framework resulted in better cost savings than the classical controller consistently for all the experimental test cases."
+}

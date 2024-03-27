@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85025445589,
+    "Title": "Comfort-efficiency-equilibrium a proactive, at room level individualized climate control system for smart buildings",
+    "Author": "Karatzoglou A.",
+    "Journal": "SMARTGREENS 2017 - Proceedings of the 6th International Conference on Smart Cities and Green ICT Systems",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Karlsruher Institut für Technologie",
+    "Affliation Country": "Germany",
+    "Cited by count": 1,
+    "Abstract": "Energy efficiency and thermal comfort depict two key topics in indoor climate controlling domain. HVAC systems are one of the biggest energy consumers in nowadays' households and yet they have difficulties in reaching the users' optimal comfort. We are presenting SVReCLCE, a proactive two-fold climate controlling approach that takes explicitly both energy consumption, as well as comfort in consideration. A user study in an office environment shows that our solution can in practice achieve up to 49% energy savings by keeping the personal comfort level high at the same time. Therefore, SVReCLCE sets a solid basis for future work in the field of climate control for low-energy buildings."
+}

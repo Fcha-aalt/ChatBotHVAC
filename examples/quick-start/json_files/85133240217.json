@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85133240217,
+    "Title": "A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment",
+    "Author": "Zhang W.",
+    "Journal": "Renewable and Sustainable Energy Reviews",
+    "Publication Date": {
+        "$date": "2022-10-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.rser.2022.112704",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "TaiZhou University",
+    "Affliation Country": "China",
+    "Cited by count": 62,
+    "Abstract": "The occupants' presence, activities, and behaviour can significantly impact the building's performance and energy efficiency. Currently, heating, ventilation, and air-conditioning (HVAC) systems are often run based on assumed occupancy levels and fixed schedules, or manually set by occupants based on their comfort needs. However, the unpredictability and variability of occupancy patterns can lead to over/under the conditioning of space when using such approaches, affecting indoor air quality and comfort. As a result, machine learning-based models and methodologies are progressively being used to forecast occupancy behaviour and routines in buildings, which may subsequently be used to aid in the design and operation of building systems. The present work reviews recent studies employing machine learning methods to predict occupancy behaviour and patterns, with a special focus on its related applications and benefits to building systems, improving energy efficiency, indoor air quality and thermal comfort. The review provides insight into the workflow of a machine learning-based occupancy prediction model, including data collection, prediction, and validation. An organised evaluation of the applicability or suitability of the different data collection methods, machine learning algorithms, and validation methods was carried out."
+}

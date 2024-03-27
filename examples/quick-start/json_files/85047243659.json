@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047243659,
+    "Title": "Analysis and prediction of chilled water plant performance based on multivariate statistical methods and large historical data",
+    "Author": "Beaulieu St-Laurent P.",
+    "Journal": "International Journal of Refrigeration",
+    "Publication Date": {
+        "$date": "2018-06-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.ijrefrig.2018.04.005",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Université Laval",
+    "Affliation Country": "Canada",
+    "Cited by count": 3,
+    "Abstract": "The large datasets resulting from operating HVAC&R systems are currently scrutinized to find ways to exploit the useful information that they might contain. In this work, historical data of a centrifugal water chiller over the course of more than 1.5 years of operation is used to learn about the system and to suggest modifications to its operation scheme. The results show that principal component analysis (PCA) captures well the variance in the historical data. The first two principal components explained between 62 and 80% of the variance, depending on the cases considered. The main factors responsible for the variation of the chiller operation are found to be the weather and the cold water temperature setpoint. The effect of the sampling time step on the results is also studied. Moreover, this work demonstrates that partial least squares (PLS) regression can adequately predict an important indicator of the chiller performance, namely the coefficient of performance (COP), one time step ahead with an R² of 77.49% and root-mean square error of estimation (RMSEE) of 0.463 using a separate validation set of data. The PLS model was also able to predict future COP values up to 2 time steps (∼3 h) in advance."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84974622878,
+    "Title": "High accuracy indoor localization for robot-based fine-grain inspection of smart buildings",
+    "Author": "Raja A.",
+    "Journal": "Proceedings of the IEEE International Conference on Industrial Technology",
+    "Publication Date": {
+        "$date": "2016-05-19T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICIT.2016.7475076",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "ABB Corporate Research, Vasteras",
+    "Affliation Country": "Sweden",
+    "Cited by count": 10,
+    "Abstract": "High accuracy indoor localization is demanded by future Smart Buildings to provide fine-grain temporal resolution of the data collected by various sensors (e.g. to optimize the operation of HVAC by real time temperature and air quality monitoring) and further provide high accuracy location based services. As an example use case, fine-grain and real-time building inspection aided by robots or drones is promising for buildings maintenance and energy efficiency. The high resolution Impulse Radio-based Ultra-Wide Band (IR-UWB) has been gaining momentum due to its fine-grain accuracy. In this paper, a system level architecture is proposed to enable robot-based fine-grain building inspection by combining the IR-UWB-based high accuracy localization with drone-control system, and real time data analytics. The architecture is verified by a fully working prototype using off-the-shelf components. Experimental results of the localization system illustrated position error down to 2cm. The drone's real time video, flight path can be used with additional sensors to scan indoor areas and form environmental panoramas which can quantify energy losses in harsh or hard to reach areas."
+}

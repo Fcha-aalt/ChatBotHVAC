@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146053288,
+    "Title": "Advanced control framework of regenerative electric heating with renewable energy based on multi-agent cooperation",
+    "Author": "Shen R.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-02-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112779",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tianjin University",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Heating, ventilation, and air conditioning (HVAC) systems have accounted for a significant proportion of building energy growth. It is crucial to develop efficient HVAC systems based on renewable energy (RE) utilization to reduce energy costs (EC) and carbon emissions. However, HVAC system regulation is meeting a huge challenge owing to the randomness of RE and fluctuation of demand-side load. Aiming to tackle this problem, a multi-agent cooperative optimization control framework based on deep reinforcement learning was proposed to achieve the optimal match between the supply and demand sides of the regenerative electric heating system. Then, the dueling double deep Q-network and deep deterministic policy gradient method were applied to achieve the discrete and continuous control of independent agents, respectively, and value-decomposition network was exploited to realize the above agents' cooperative optimization. Meanwhile, to further improve the stability, efficiency, and flexibility of the optimization control framework, the feasible action screening mechanism, prioritized experience replay mechanism, and regulation mechanism based on occupant behavior were introduced. According to simulation results, in contrast to the baseline model, the reduction of thermal discomfort duration, unconsumed RE, and EC under the control of the multi-agent cooperative optimization framework can reach 84.86%, 70.79%, and 16.08%, respectively."
+}

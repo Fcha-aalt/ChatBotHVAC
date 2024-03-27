@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067555756,
+    "Title": "Comparative study of neighbor communication approaches for distributed model predictive control in building energy systems",
+    "Author": "Baranski M.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.energy.2019.06.037",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "Affliation Country": "Germany",
+    "Cited by count": 14,
+    "Abstract": "Model predictive control (MPC), although considered a high-potential control approach, usually requires considerable effort for model-creation and parametrization. Moreover, many models can be too computationally intensive for control applications. Distributed model predictive control (DMPC) is a promising approach that avoids the construction of a complex model of the total system and thus facilitates modeling and supports the use of exact simulation models. DMPC divides the optimization problem into sub-problems, with the advantage that pre-fabricated simulation models from standard libraries, models provided by component manufacturers or purely data-driven models can be used. Moreover, each optimization problem, considered for its own, becomes smaller and, in whole, can be solved faster compared to an integrated system model. The distributed optimizations must be coordinated to achieve near-global-optimum performance. This coordination requires a suitable scheme, which, in many publications, is based on iterative data exchange between the subsystems. In previous works, we developed a non-iterative algorithm based on the exchange of lookup tables. In this paper, we compare and benchmark the previously developed approach against a second iterative approach to show advantages and limitations of both algorithms. We apply both approaches to the Modelica simulation model air-handling unit while using artificial neural network models and a non-linear solver for the DMPC algorithms. We make simplifying assumptions to provide mathematical justification regarding the optimality of the approaches. Judging from the indicators for control quality and the monetary operation costs in the case study, we conclude that the algorithms hold high potential for the application in generic building energy systems."
+}

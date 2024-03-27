@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143830291,
+    "Title": "Energy efficiency in shared buildings: Quantification of the potential at multiple scales",
+    "Author": "Franco A.",
+    "Journal": "Energy Reports",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.egyr.2022.11.142",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 5,
+    "Abstract": "The field of non-residential buildings is very heterogeneous. This results in a compartmentalized approach that prevents desired energy efficiency improvements from being achieved at a large scale. This paper proposes a transversal approach to energy efficiency based on the aggregation of building typologies and the integration of the scales of analysis. Upon energy and occupancy analogies we define shared buildings as buildings characterized by a low energy intensity, the predominance of HVAC systems on energy uses, and a large and variable occupancy. This concept gathers in itself a considerable energy efficiency potential, as shared buildings are found to account for 35% of non-residential energy consumption. We overview energy efficiency hotspots and operational criticalities in shared buildings and outline the development of a framework that is fit-for-purpose for the quantification of the energy efficiency potential at multiple scales. Improvement in ventilation energy management in a university stock is used to exemplify the approach: first, we apply dynamic simulation to a single building obtaining 65% HVAC energy savings; then, we generalize the results to the property stock obtaining reductions from 190 to 130 kWh/(m2y) in energy intensity, simultaneously fulfilling the desired energetic and economic targets."
+}

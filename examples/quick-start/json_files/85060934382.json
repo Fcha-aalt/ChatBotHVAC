@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85060934382,
+    "Title": "Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context",
+    "Author": "Chen X.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.energy.2019.01.112",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 49,
+    "Abstract": "This research thoroughly explored the impact of archetypes and confounding factors on a proposed holistic design optimization approach for high-rise office buildings with integrated photovoltaic (PV) facades. The design optimization adopts the hybrid generalized pattern search particle swarm optimization (HGPSPSO) algorithm, which is incorporated with qualitative and quantitative sensitivity analyses for factor prioritizing and fixing. Different archetypes are modelled by changing floor plan sizes and shapes, while diverse urban contexts and internal load (heat gain) levels are investigated as major confounding factors beyond designers’ control. Variation of these four simulation scenarios are then used to examine the uncertainty of sensitivity indices and optimization potential for passive architectural design parameters. The window geometry, thermal and optical properties are proved to be most important to the reference PV envelope design. The building plan shape is found to have little impact on the weighting of different design parameters, while the shape coefficient (SC) is determined to be almost linearly correlated with the HVAC (heating, ventilation and air-conditioning) demand. The office design with the highest shape coefficient can therefore achieve a net energy demand reduction up to 48.77%. The floor plan size also has minor impact on the sensitivity index for each design factor, but the energy-saving potential grows with decreasing floor sizes. On the contrary, confounding factors can greatly change the sensitivity analysis (SA) result. The window U-value becomes more important with an increasing internal load level and urban context density whereas the impact of the window light-to-solar gain ratio is reduced by peripheral shading. Furthermore, varying confounding factors can even change the dimension of optimization problems based on different factor fixing results. This research can provide early-stage design guidance for energy efficient buildings with a comprehensive analysis of pragmatic building archetypes, background contexts and operation scenarios."
+}

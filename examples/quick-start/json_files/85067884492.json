@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85067884492,
+    "Title": "Optimization of HVAC system energy consumption in a building using artificial neural network and multi-objective genetic algorithm",
+    "Author": "Nasruddin ",
+    "Journal": "Sustainable Energy Technologies and Assessments",
+    "Publication Date": {
+        "$date": "2019-10-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.seta.2019.06.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitas Indonesia",
+    "Affliation Country": "Indonesia",
+    "Cited by count": 163,
+    "Abstract": "The optimization of heating, ventilating and air conditioning (HVAC) system operations and other building parameters intended to minimize annual energy consumption and maximize the thermal comfort is presented in this paper. The combination of artificial neural network (ANN) and multi-objective genetic algorithm (MOGA) is applied to optimize the two-chiller system operation in a building. The HVAC system installed in the building integrates radiant cooling system, variable air volume (VAV) chiller system, and dedicated outdoor air system (DOAS). Several parameters including thermostat setting, passive solar design, and chiller operation control are considered as decision variables. Subsequently, the percentage of people dissatisfied (PPD) and annual building energy consumption is chosen as objective functions. Multi-objective optimization is employed to optimize the system with two objective functions. As the result, ANN performed a good correlation between decision variables and the objective function. Moreover, MOGA successfully provides several alternative possible design variables to achieve optimum system in terms of thermal comfort and annual energy consumption. In conclusion, the optimization that considers two objectives shows the best result regarding thermal comfort and energy consumption compared to base case design."
+}

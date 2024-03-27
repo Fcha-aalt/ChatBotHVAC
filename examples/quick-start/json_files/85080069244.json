@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85080069244,
+    "Title": "Personal comfort systems: A review on comfort, energy, and economics",
+    "Author": "Rawal R.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.109858",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "CEPT University",
+    "Affliation Country": "India",
+    "Cited by count": 92,
+    "Abstract": "Conventional heating, ventilation, and air-conditioning (HVAC) systems are designed to condition the entire building volume. In contrast, Personal Comfort Systems (PCS) target conditioning only the occupied zones of the space, while maintaining the remaining volume at a relatively under-conditioned state. PCS offer the occupants the choice of modulating their immediate thermal ambience with local controls. The individual-level control helps in improving the subjective thermal and air quality acceptability with the desired thermal sensation. This review paper details on the various types of heating, cooling, ventilation, heating with ventilation, and cooling with ventilation PCS devices. It summarises the thermal ambience created by the respective PCS devices and the resultant subjective responses of the occupants. This review also identifies the energy saving potential of various kinds of PCS devices, the power use of PCS devices, and discusses their economic viability."
+}

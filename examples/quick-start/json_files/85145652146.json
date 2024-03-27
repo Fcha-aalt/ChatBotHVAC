@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85145652146,
+    "Title": "Building Energy Simulations Based on Weather Forecast Meteorological Model: The Case of an Institutional Building in Greece",
+    "Author": "Giama E.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16010191",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Aristotle University of Thessaloniki",
+    "Affliation Country": "Greece",
+    "Cited by count": 5,
+    "Abstract": "The vision of decarbonization creates the need to design and construct even more energy-efficient buildings. This current target is even more compelling and challenging. The main issue when designing energy-efficient buildings is to identify present and future building energy requirements. A trending method for solving this problem is dynamic building energy simulation. One of the main inputs during energy simulation is weather data. However, the real problem lies in the fact that standard weather data are good at defining the present situation, and they help in designing buildings that behave efficiently under current climate conditions. To achieve the goal of constructing climate proof buildings, the Weather Research and Forecast meteorological model (WRF) was used to predict future climate scenarios. At first, data from previous years (2006–2010) were used to represent the current climate. The model was used to generate future climate data. Thus, results were produced for 5 year periods 2046–2050 and 2096–2100. These data were used for the energy simulation of an office building in Thessaloniki, Greece. The simulation results showed a reduction in heating loads by approximately 20% in the long term and a simultaneous impressive increase in cooling loads by 60%, highlighting the inadequacy of the existing building shell, as well as the heating, ventilation, and air-conditioning (HVAC) system design."
+}

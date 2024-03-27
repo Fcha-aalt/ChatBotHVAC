@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85143809535,
+    "Title": "Data-driven modelling for HVAC energy flexibility optimization",
+    "Author": "David A.",
+    "Journal": "IEEE PES Innovative Smart Grid Technologies Conference Europe",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/ISGT-Europe54678.2022.9960426",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Schneider Electric",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "This paper investigates data-driven modelling of HVAC (Heating Ventilation and Air Conditioning) systems for the evaluation of the energy flexibility potentials in a Demand Response (DR) scheme. We focus on the load shifting strategy that consists in preheating/precooling the building to allow a load reduction during a DR event. A data-driven model is used to estimate the balance between the preheating and the shedded energy. Optimization in terms of setpoint changes is then performed in order to maximize an economic objective function based on a market reward model. Potential yearly outcomes are evaluated by using an advanced dynamic multi-zone building simulation tool. The modelling approach is easily scalable as it is purely data-driven and does not require information about the HVAC sub-systems, relies on data from commonly available sensors and can be easily implemented in an existing Building Management System (BMS)."
+}

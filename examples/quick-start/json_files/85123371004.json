@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85123371004,
+    "Title": "A Sensor-Free Crowd Counting Framework for Indoor Environments Based on Channel State Information",
+    "Author": "Liu Z.",
+    "Journal": "IEEE Sensors Journal",
+    "Publication Date": {
+        "$date": "2022-03-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/JSEN.2022.3144454",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Yanshan University",
+    "Affliation Country": "China",
+    "Cited by count": 7,
+    "Abstract": "The number of people in a specific region can provide valuable information in many aspects including Heating Ventilating and Air Conditioning (HVAC) systems adjustment, firefighting rescue, consumer service updating and personnel management, etc. Most of the traditional studies for people counting utilize all the collected data for analyzing, which results in the heavy burden of data processing and extra sensing devices. In this paper, we propose a CSI-based sensor-free crowd counting scheme utilizing only existing WiFi infrastructure in a non-intrusive, low-cost and precise manner. Different from other systems, the best performed data in the received end are chosen to be analyzed for the purpose of obtaining the optimal results. The framework is proposed based on an intuition that different numbers of people wandering in the environment cause distinct impacts on WiFi signals. To begin with, the best performed data are processed and denoised with a wavelet-based denoising algorithm. Then, four features that can depict the relationship between the number of people and data fluctuation are extracted and analyzed. Eventually, the selected features are labeled and taken as inputs of several machine learning algorithms. And the complicated people counting problem is transformed into a classifying issue through extracting and training the features. The experimental results validate the effectiveness of the proposed easy and low-cost crowd counting framework."
+}

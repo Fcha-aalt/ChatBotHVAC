@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85183182270,
+    "Title": "Using Latent Heat Storage for Improving Battery Electric Vehicle Thermal Management System Efficiency",
+    "Author": "Wei Z.",
+    "Journal": "SAE International Journal of Electrified Vehicles",
+    "Publication Date": {
+        "$date": "2023-12-20T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.4271/14-13-02-0012",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SAIC",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "One of the key problems of battery electric vehicles is the risk of severe range reduction in winter conditions. Technologies such as heat pump systems can help to mitigate such effects, but finding adequate heat sources for the heat pump sometimes can be a problem, too. In cold ambient conditions below -10°C and for a cold-soaked vehicle this can become a limiting factor. Storing waste heat or excess cold when it is generated and releasing it to the vehicle thermal management system later can reduce peak thermal requirements to more manageable average levels. In related architectures it is not always necessary to replace existing electric heaters or conventional air-conditioning systems. Sometimes it is more efficient to keep them and support them, instead. Accordingly, we show, how latent heat storage can be used to increase the efficiency of existing, well-established heating and cooling technologies without replacing them. We investigate different possibilities for the integration of phase change materials into a baseline battery electric vehicle thermal management system and compare the resulting benefits."
+}

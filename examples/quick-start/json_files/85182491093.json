@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182491093,
+    "Title": "Analyzing Machine Learning Algorithms applied to HVAC Systems for Sustainability and Efficiency",
+    "Author": "Shevendrakumar D.D.",
+    "Journal": "International Journal of Intelligent Systems and Applications in Engineering",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Symbiosis Institute of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "With the rise of climate control and indoor comfort, the HVAC (Heating, Ventilation, and Air Conditioning) industry grew rapidly in recent years but this widespread use of HVAC systems created environmental havoc in our environment, it added energy to greenhouse gas emissions and helped resource balances. To overcome these challenges, it is important to find sustainable and environmentally friendly solutions that reduce environmental impact and maintain an attractive indoor environment while reducing labor cost savings. This requires upgrading HVAC systems to make them environmentally sustainable and economical. Machine learning can significantly improve the efficiency, environmental responsibility and cost savings of this approach. Machine learning is a framework that incorporates a variety of data-driven techniques, providing the ability to turn HVAC systems into intelligent, scalable models to adapt the HVAC system to environmental gatherings, those that they live in, match machine performance and use machine learning capabilities to do what you can in real time. This provides a green, energy-efficient and cost-effective solution, while still ensuring the comfort and well-being of the residents."
+}

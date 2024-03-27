@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85032660200,
+    "Title": "Geothermal contribution on southern Europe climate for energy efficiency of university buildings. Winter season",
+    "Author": "Pinto A.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.09.556",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Laboratório Nacional de Engenharia Civil",
+    "Affliation Country": "Portugal",
+    "Cited by count": 9,
+    "Abstract": "Geothermal energy production consists of two main types: low temperature or low enthalpy for temperatures below 150C, and high temperature or high enthalpy systems for temperatures over than 150C. In mainland Portugal the most common ground temperature varies from 20 to 40C, depending on the place where the geothermal boreholes are placed, which means that low enthalpy systems can be considered. Currently the increased development of ground source heat pumps (GSHP) lead to a continuous development and innovation of ground heat exchangers (GHE). The geothermal systems can contribute with savings between 25-75% of the energy demands of buildings' HVAC systems, making it a very appealing solution mainly in northern and central Europe. The goal of this paper is to analyse the performance of a geothermal system installed in a department of the University of Aveiro, in the center of Portugal. Firstly, an introduction about different GHE systems is done and after a real case study is described and the methodology applied. To achieve the goal established, the building was analysed, audit and modeled, and an energy simulation was carried out with EnergyPlus® 8.6 (EP) software. After the results obtained it can be concluded that even in regions with mild climate as Aveiro, the geothermal system contributes with 34% of savings of the annual global primary energy needs."
+}

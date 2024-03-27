@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071517393,
+    "Title": "An SVR-based Building-level Load Forecasting Method Considering Impact of HVAC Set Points",
+    "Author": "Haque A.",
+    "Journal": "2019 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2019",
+    "Publication Date": {
+        "$date": "2019-02-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ISGT.2019.8791649",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Virginia Polytechnic Institute and State University",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "This paper focuses on a technique to determine the impact of HVAC set point adjustments on building-level electrical load (kW) utilizing Support Vector Regression (SVR) with the minimum possible set of input variables. The paper uses two SVR-based forecasting methods, namely single-step and recursive models. These models are used to forecast hourly electrical loads of a commercial building in Chicago area for the summer period from 8AM to 8PM. The model accuracy is observed to be higher than 95% for hour-ahead load forecasts, and higher than 93% for 12-hour ahead load forecasts. The models presented in the paper can be used to quantify the reduction in electrical load (kW) based on HVAC set point adjustments during peak hours in buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85075473971,
+    "Title": "Prediction of building indoor temperature response in variable air volume systems",
+    "Author": "Ghofrani A.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2020-01-02T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1080/19401493.2019.1688393",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Department of Industrial and Systems Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 20,
+    "Abstract": "A major challenge to devise smart HVAC control is to ensure that the control system considers the non-linearities in building hygrothermal relationships. In this paper, we propose hybrid data-driven approaches to capture these non-linearities and accurately predict building zone-level average temperature response to cooling in Variable Air Volume (VAV) systems. The proposed methodologies are based on the heat transfer analysis of a zone and done via neural network and multivariate linear regression models. Damper position is introduced as a categorical variable to alleviate the non-linearity in predictive indoor temperature models. The room temperature response to different damper positions from minimum airflow to maximum airflow is elaborated. Also, the impact of asset degradation on the response model is presented. The proposed model can enhance the control and optimization of building space cooling, and, be used to optimize building’s participation in demand response and load shifting."
+}

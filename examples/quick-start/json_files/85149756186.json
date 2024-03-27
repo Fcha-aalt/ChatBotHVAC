@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85149756186,
+    "Title": "Quantum computing for future real-time building HVAC controls",
+    "Author": "Deng Z.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2023-03-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.apenergy.2022.120621",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering and Computer Science",
+    "Affliation Country": "United States",
+    "Cited by count": 7,
+    "Abstract": "Buildings contribute to more than 70% of overall U.S. electricity usage and greenhouse gas (GHG) emissions. HVAC systems in buildings often consume more than 40% of the total building energy usage. To reduce such high energy use, numerous control strategies including optimal and predictive controls have been developed and demonstrated. To achieve a near real-time solution, most previous research has simplified the non-linearity of building thermodynamics and provided an approximate optimal solution. The future HVAC control optimizes more connected devices in buildings, which requires a rapid and accurate response, not only to the building itself but also to the grid signals. It also poses the challenge of solving non-linear problems with discrete variables. With the recent development of quantum computers, this has become feasible. In this paper, we developed a new optimization solution based on quantum annealing for model predictive control (MPC) of a rooftop unit (RTU). Compared to traditional optimization methods, we obtained similar solutions with less than 2% differences and improved computational speed from hours to seconds. We also demonstrated an 80% reduction in total electricity consumption and a 21% reduction in electricity bills by considering day-ahead price time-of-use demand response signals. Quantum computing has proven capable of solving large-scale non-linear discrete optimization problems for building energy systems."
+}

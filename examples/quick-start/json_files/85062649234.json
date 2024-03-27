@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85062649234,
+    "Title": "Transformation of an office building into a nearly zero energy building (NZEB): Implications for thermal and visual comfort and energy performance",
+    "Author": "Ballarini I.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/en12050895",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Politecnico di Torino",
+    "Affliation Country": "Italy",
+    "Cited by count": 44,
+    "Abstract": "Directive 2010/31/EU promotes the refurbishment of existing buildings to change them into nearly zero-energy buildings (nZEBs). Within this framework, it is of crucial importance to guarantee the best trade-off between energy performance and indoor environmental quality (IEQ). The implications of a global refurbishment scenario on thermal and visual comfort are assessed in this paper pertaining to an existing office building. The retrofit actions applied to achieve the nZEB target consist of a combination of envelope and technical building systems refurbishment measures, involving both HVAC and lighting. Energy and comfort calculations were carried out through dynamic simulation using Energy Plus and DIVA, for the thermal and visual performance assessments, respectively. The results point out that energy retrofit actions on the building envelope would lead to significant improvements in the thermal performance, regarding both energy savings (−37% of the annual primary energy for heating) and thermal comfort. However, a daylighting reduction would occur with a consequent higher electricity demand for lighting (36%). The research presents a detailed approach applicable to further analyses aimed at optimizing the energy efficiency measures in order to reduce the imbalance between visual and thermal comfort and to ensure the best performance in both domains."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85015071881,
+    "Title": "Building cooling load prediction based on time series method and neural networks",
+    "Author": "Zhuang J.",
+    "Journal": "International Journal of Grid and Distributed Computing",
+    "Publication Date": {
+        "$date": "2015-09-11T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.14257/ijgdc.2015.8.4.10",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing Institute of Technology",
+    "Affliation Country": "China",
+    "Cited by count": 11,
+    "Abstract": "Predicting the load in a building is essential for the optimal control of heating, ventilating and air-conditioning (HVAC) systems that use Ice Thermal Energy Storage (ITES) technology and also for cost and energy reduction of the non-storage systems. To solve the problems of the low accuracy of prediction by a single method, and most load predictions focusing on short-time prediction that cause reducing the practical significance, the application of the combined prediction method of time series and neural networks is presented in this paper. A case study shows that high accuracy is achieved by using the combined prediction model based on these two methods compared with the time series method in predicting the building load for longer time."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85115261405,
+    "Title": "Parameter estimation of unknown properties using transfer learning from virtual to existing buildings",
+    "Author": "Ko Y.D.",
+    "Journal": "Journal of Building Performance Simulation",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1080/19401493.2021.1972159",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SNU College of Engineering",
+    "Affliation Country": "South Korea",
+    "Cited by count": 6,
+    "Abstract": "This study proposes a transfer learning (TL)-based inverse modelling to identify unknown building properties. This study examines the transfer from virtual buildings to existing buildings, especially for identifying wall U-value, HVAC efficiency and lighting power density (LPD). For this purpose, synthetic data were generated from simulation results of sampled EnergyPlus models, and then we developed artificial neural network (ANN) models using this data. By adopting TL, the ANN models were transferred to the domain of existing buildings and evaluated on 61 existing buildings. As a result, the relative improvements in CVRMSE achieved by the transferred models against the models trained only with existing buildings’ data were 8.85%, 10.34% and 15.73% for nominal cooling COP, wall U-value and LPD, respectively. Moreover, it is expected that the use of TL enables the developed model to be reusable for another group of buildings with improved performance and reduced training time."
+}

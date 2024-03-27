@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85030842066,
+    "Title": "Application of multi-agent control systems in energy-efficient intelligent building",
+    "Author": "Altayeva A.",
+    "Journal": "IFSA-SCIS 2017 - Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems",
+    "Publication Date": {
+        "$date": "2017-08-30T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/IFSA-SCIS.2017.8023299",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Gachon University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 20,
+    "Abstract": "The features provide the required comfort multizone buildings by using the power management multiagent system and comforts. This management system covers all controlled areas of the building and, if necessary, ensures the highest possible overall comfort in a building with a decrease in available electric power. The aim of this work is to develop a comfort control system multispectral building."
+}

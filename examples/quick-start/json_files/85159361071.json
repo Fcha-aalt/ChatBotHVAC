@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85159361071,
+    "Title": "Predicting the Temperature of Smart Classroom Environment Based on SSA-RF-LSTM Model",
+    "Author": "Dai Z.",
+    "Journal": "2023 11th International Conference on Information and Education Technology, ICIET 2023",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICIET56899.2023.10111242",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Central China Normal University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "The quality of environmental temperature in smart classrooms affects the working and learning status of both teaching parties. Realizing accurate prediction of environmental temperature in smart classrooms can timely adjust the HVAC, lighting and other equipment in smart classrooms according to the prediction results, and solve the problem of lagging effect of environmental regulation, so that teaching activities can always be carried out in an environment that makes teachers and students feel comfortable and satisfied. Therefore, this paper designs an SSA-RF-LSTM model based on Random Forest (RF) algorithm, Long Short-Term Memory Neural Network (LSTM) and Sparrow Search Algorithm (SSA) to achieve accurate prediction of factors influencing the environmental comfort of smart classrooms. The root means square error (RMSE), mean absolute error (MAE), and mean absolute percentage error (MAPE) are used to compare and analyze the prediction performance of SSA-RF-LSTM model with LSTM model and RF-LSTM model, and the experimental results show that SSA-RF-LSTM model has the best performance in predicting the temperature in smart classrooms."
+}

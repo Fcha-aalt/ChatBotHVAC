@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079287514,
+    "Title": "A survey on temperature monitoring and control mechanism of public building using machine learning",
+    "Author": "Sinha K.",
+    "Journal": "2019 2nd International Conference on Intelligent Communication and Computational Techniques, ICCT 2019",
+    "Publication Date": {
+        "$date": "2019-09-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/ICCT46177.2019.8969014",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Manipal University Jaipur",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Temperature is an important variable of HVAC system installed in usually most of the public buildings. Public buildings require appropriate and sustainable heating and cooling to address the challenges posed by the demand for human comfort at one hand and that of energy conservation on the other. With increasing number of public building and availability of large volume of building temperature data an endeavor is seen by the researcher towards the data analysis using emerging Machine learning techniques to understand energy consumption and to design energy efficient building. Machine leaning techniques yet to achieve maturity to the extent that this techniques may provide precise understanding and prediction of temperature status in a building. A systematic literature survey of relevant literatures published during 2010 to 2018 is being undertaken to understand the applicability in monitoring, controlling and predicting the building temperature. Questionnaires following a research protocol were developed and the insights in form of answer to the identified questions on the basis of critical analysis of shortlisted literatures was procured. This insights may be used to develop domain specific necessary guidelines towards framing the proposed and future research work."
+}

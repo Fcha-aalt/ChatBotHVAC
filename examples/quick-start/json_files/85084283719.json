@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084283719,
+    "Title": "Energy-saving potential of extending temperature set-points in a VRF air-conditioned building",
+    "Author": "Kim J.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2020-05-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.3390/en13092160",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sungkyunkwan University",
+    "Affliation Country": "South Korea",
+    "Cited by count": 9,
+    "Abstract": "Building energy savings and occupant thermal comfort are the main issues in building technology. As such, the development of energy-efficient heating, ventilation, and air-conditioning (HVAC) systems and the control strategies of HVAC systems are emerging as important topics in the HVAC industry. Variable refrigerant flow (VRF) systems have efficient energy performance, so the use of VRF systems in buildings is increasing. However, most studies on VRF systems focus on improving mechanical efficiency, with few studies on energy-efficient control while satisfying the thermal comfort of occupants. The goal is to estimate the energy-saving potential of adjusting the temperature set-points and dead-band (range) in VRF air-conditioned building. To do so, we analyzed the influence of control strategies of a VRF system on human thermal comfort and energy consumption using a simulation method. The results showed that energy consumption can be reduced by 25.4% for predicted mean vote (PMV)-based control and 27.0% for the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) comfort range control compared with the typical set-point temperature control of a VRF system. The indoor thermal environments of the analyzed control strategies are controlled in the thermal comfort range, which is based on a PMV at ±0.5. Compared with the typical set-point control, PMV and ASHRAE comfort range-based control reduced the operation time of the compressor in the VRF system."
+}

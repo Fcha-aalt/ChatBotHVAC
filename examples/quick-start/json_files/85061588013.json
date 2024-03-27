@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85061588013,
+    "Title": "Efficiency investigation on energy harvesting from airflows in HVAC system based on galloping of isosceles triangle sectioned bluff bodies",
+    "Author": "Wang J.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2019-04-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1016/j.energy.2019.02.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhengzhou University",
+    "Affliation Country": "China",
+    "Cited by count": 208,
+    "Abstract": "Galloping-based piezoelectric energy harvester (GPEH) has been used in power generation from small-scale airflows for low-power devices such as Micro-Electromechanical Systems (MEMS) and wireless sensing electronics. The bluff body plays an important role for the onset of galloping. Existing literature regarding analytical and numerical analysis of GPEH has focused on designs incorporating bluff bodies with a variety of cross-sections, such as square, D-section and regular triangle. In this work, a GPEH with triangular cross-section bluff bodies with different vertex angles is investigated. The aerodynamic characteristics are determined by Computational Fluid Dynamics (CFD) and verified by experimental data. Subsequently, an aero-electro-mechanical model with piezoelectric coupling is established and numerically solved. Furthermore, a parametric study is performed to investigate the influence of electromechanical coupling on the GPEH's behavior, with a focus on the threshold wind speed, transverse displacement and power output. It is determined that with weak coupling, the obtuse angle β = 130° is the most preferred vertex angle. This is the first documented determination that an obtuse angled isosceles triangle could be used for efficient galloping energy harvesting. The findings provide a guideline for designing efficient GPEHs with triangular bluff bodies."
+}

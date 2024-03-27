@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109342037,
+    "Title": "On the Joint Control of Multiple Building Systems with Reinforcement Learning",
+    "Author": "Zhang T.",
+    "Journal": "e-Energy 2021 - Proceedings of the 2021 12th ACM International Conference on Future Energy Systems",
+    "Publication Date": {
+        "$date": "2021-06-22T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1145/3447555.3464855",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Alberta",
+    "Affliation Country": "Canada",
+    "Cited by count": 8,
+    "Abstract": "Commercial buildings are comprised of multiple mechanical and electrical systems that work in tandem to provide a healthy, safe, and comfortable environment for occupants. These systems have complex interactions with each other, and consume a large amount of energy. In this paper, we apply three model-free deep reinforcement learning algorithms to jointly control HVAC and blind systems in a multi-zone test building, in scenarios with and without automatic dimming of the lights in response to daylight levels. The control agents are trained through interactions with a building simulator that generates traces for the movement of occupants. We investigate the three-way trade-off between energy use, thermal comfort, and visual comfort, and discuss how the joint control of the building systems could provide a better trade-off compared to when they are controlled separately. We compare the performance of the proposed control algorithms assuming the availability of occupancy data with two spatial resolutions, and confirm through experiments that a better trade-off can be achieved should zone-level occupancy information become available. Incorporating zone-level occupancy information, we show that 11.0% and 31.8% more energy can be saved respectively in heating and cooling seasons over existing rule-based baselines that control the same building systems."
+}

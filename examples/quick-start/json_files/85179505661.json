@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179505661,
+    "Title": "A comprehensive performance evaluation framework establish scheme for the operating period of buildings based on CRITIC-Entropy weighting method",
+    "Author": "Liu Z.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1738",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "With the improvement of human living standards, the sustainable development of society has placed certain requirements on building energy performance during the operation period. However, as the evaluation standards such as LEED&WELL credits and China’s \"Assessment standard for green building\" (GB/T50378-2019) are more applicable to the design period, the operability of evaluating the performance of actual buildings in operation is not high. Therefore, this study combines the CRITIC and the entropy weighting method to propose an establishment method of a comprehensive evaluation framework for the building operation period. Through this framework, the following can be calculated: (a) Energy use intensity level with the carbon neutrality performance correction; (b) Building comfort and convenience that includes the indoor environment quality (including thermal, quality, light, and sound items) and the operational quality of the elevators and HVAC system; (c) the overall building performance evaluation level. The method proposed in this study is applicable to evaluate the building energy performance in its operational period so that weaknesses in the operational period can be identified and the operational plan can be adjusted in time."
+}

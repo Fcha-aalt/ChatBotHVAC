@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85013243464,
+    "Title": "Smart Random Neural Network Controller for HVAC Using Cloud Computing Technology",
+    "Author": "Javed A.",
+    "Journal": "IEEE Transactions on Industrial Informatics",
+    "Publication Date": {
+        "$date": "2017-02-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1109/TII.2016.2597746",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Glasgow Caledonian University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 89,
+    "Abstract": "Smart homes reduce human intervention in controlling the heating ventilation and air conditioning (HVAC) systems for maintaining a comfortable indoor environment. The embedded intelligence in the sensor nodes is limited due to the limited processing power and memory in the sensor node. Cloud computing has become increasingly popular due to its capability of providing computer utilities as internet services. In this study, a model for the intelligent controller by integrating internet of things (IoT) with cloud computing and web services is proposed. The wireless sensor nodes for monitoring the indoor environment and HVAC inlet air, and wireless base station for controlling the actuators of HVAC have been developed. The sensor nodes and base station communicate through RF transceivers at 915 MHz. Random neural network (RNN) models are used for estimating the number of occupants, and for estimating the predicted-mean-vote-based setpoints for controlling the heating, ventilation, and cooling of the building. Three test cases are studied (Case 1 - Data storage and implementation of RNN models on the cloud, Case 2 - RNN models implementation on base station, Case 3 - Distributed implementation of RNN models on sensor nodes and base stations) for determining the best architecture in terms of power consumption. The results have shown that by embedding the intelligence in the base station and sensor nodes (i.e., Case 3), the power consumption of the intelligent controller was 4.4% less than Case 1 and 19.23% less than Case 2."
+}

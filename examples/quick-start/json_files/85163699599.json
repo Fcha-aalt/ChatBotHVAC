@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163699599,
+    "Title": "Artificial Neural Network-Based Development of an Efficient Energy Management Strategy for Office Building",
+    "Author": "Soni P.",
+    "Journal": "Intelligent Automation and Soft Computing",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.32604/iasc.2023.038155",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "SRM Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 1,
+    "Abstract": "In the current context, a smart grid has replaced the conventional grid through intelligent energy management, integration of renewable energy sources (RES) and two-way communication infrastructures from power generation to distribution. Energy management from the distribution side is a critical problem for balancing load demand. A unique energy management strategy (EMS) is being developed for office building equipment. That includes renewable energy integration, automation, and control based on the Artificial Neural Network (ANN) system using Matlab Simulink. This strategy reduces electric power consumption and balances the load demand of the traditional grid. This strategy is developed by taking inputs from an office building electricity consumption behavior study, a power generation study of a solar photovoltaic system, and the supply pattern of a grid in peak and non-peak hours. All this is done in consideration of the Indian scenario, where real-time data of month-wise ANN-based intelligent switching has been established for intermittent renewable sources and peak load reduction, as well as average load reduction, has been demonstrated along with the power control loop without the battery system."
+}

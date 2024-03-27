@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85010078150,
+    "Title": "Intelligent monitoring of HVAC equipment by means of aggregated power analysis",
+    "Author": "Sala E.",
+    "Journal": "IECON Proceedings (Industrial Electronics Conference)",
+    "Publication Date": {
+        "$date": "2016-12-21T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/IECON.2016.7794112",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Universitat Politécnica de Catalunya",
+    "Affliation Country": "Spain",
+    "Cited by count": 0,
+    "Abstract": "The increasing ubiquity of sensing and metering devices in buildings is a gateway of opportunities for the analysis of their behavior and the detection of anomalies or sub-optimal performance. In particular, the instrumentation of HVAC equipment, necessary for its monitoring and control, may be used in order to supervise its operation at a finer level. The intelligent supervision methodology proposed in this paper allows the accurate overseeing of the power consumption of HVAC equipment by means of establishing the relationship between the power consumed and the operating status of the installation, and its individual machines. The accurate correlation between the instantaneous power and the available control or state signals of the equipment, simultaneously with other support variables, allows detecting malfunctions or deviations from their nominal operation. First, a model of the power demand of the installation is obtained by means of a training function. Afterwards, the model can be applied in real-time over new samples in order to check if the power demand corresponds to the state of operation of the installation. In addition to the accurate tracking of the power demand, the chosen approach allows to monitor the installation with a single power meter, therefore decreasing the cost of implementation. Finally, this methodology has been validated by means of experimental data from a pilot plant where the complete system has been implemented."
+}

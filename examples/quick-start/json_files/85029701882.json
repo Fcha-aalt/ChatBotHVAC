@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85029701882,
+    "Title": "Deconstructing energy use intensity to optimize energy performance",
+    "Author": "Luna L.",
+    "Journal": "35th West Coast Energy Management Congress, EMC 2017 - Conference Proceedings",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "LPA, Inc",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Deconstructing energy use intensity (EUI) is critical in understanding building post-occupancy energy use to optimize energy performance for future buildings. Optimizing energy performance is important as California shifts to Zero Net Energy (ZNE)1 for commercial buildings by 2030. As leaders in the built environment, we are curious to understand post-occupancy energy performance on our designed buildings and to identify opportunities. The EUI2 (kBtu/sqft/year) is a key metric used to track and measure energy performance. LPA is returning to its built projects to collect historical energy data and will use this information to inform the design process by comparing against the design EUIs from the energy models. During the design stage, the design EUI is calculated based on assumptions in the energy modeling software. In the real-world, deviations from the assumptions occur. To demonstrate how LPA is deconstructing EUI to understand how to optimize energy performance in future projects, we have highlighted Ernest McBride High School as an example. LPA was the architect, MEP engineer, structural engineer, interior designer, landscape architect, and master planner for the high school, a 150,000 sqft facility in Long Beach, CA. Completed in 2013, the school's design included an energy-efficient chilled water plant and a 277-kilowatt rooftop photovoltaic system. During the design phase, the project was determined to exceed California Title 24 2008 standards by approximately 40 percent. To understand post-occupancy energy performance, the school's site EUI was analyzed and deconstructed into the following: EUI (grid electricity), EUI (natural gas), and EUI (renewable energy). The Energy Cost Index (ECI, $/sqft/year) was also calculated. The results of this post-occupancy evaluation are the beginnings of LPA's efforts to optimize energy performance for future projects as the industry shifts to Zero Net Energy. Recommendations to track and improve building energy performance based on deconstructing McBride High School's EUI include: incorporate submetering at the building systems level (process, plug, HVAC, and lighting loads); engage energy managers in design process; and, increase occupant energy use awareness."
+}

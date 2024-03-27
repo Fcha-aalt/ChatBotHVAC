@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056590188,
+    "Title": "Application of artificial neural networks to the simulation of a Dedicated Outdoor Air System (DOAS)",
+    "Author": "Pittarello M.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.egypro.2018.08.042",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Università IUAV di Venezia",
+    "Affliation Country": "Italy",
+    "Cited by count": 1,
+    "Abstract": "Tables of performance of installed HVAC (Heating, Ventilation and Air Conditioning) devices are important in the development of consistent building energy audits and appropriate control strategies. However, given the possible complexity of HVAC devices and the need for the deployment to computational environments, tables of performance should be passed in a more complete and flexible format, compared with the current practices in the HVAC sector. In such a context, this paper describes the phases of development and application of Artificial Neural Networks (ANNs) aimed at the assessment of the performance of a Dedicated Outdoor Air System (DOAS). ANNs are well renowned because of their applications in many important fields such as autonomous driving systems, speech recognition, etc. However, they may be used also to calculate the output of complex phenomena (like the ones involved in HVAC components) and are characterized by a very flexible and comprehensive formulation which would be able to adapt to any HVAC component or system. In the frame of this study, three ANNs have been developed and tested, for the full description of the performance of a DOAS. The developed ANNs were trained by means of data coming from a proprietary software. The achieved ANNs showed robust and reliable behavior and ensure high accuracy (mean absolute errors usually below 0.1 K on temperatures and 0.3% on capacity and power) and flexibility. Moreover, in some cases, they may be used also for the identification of anomalous data present among the sets of training and validation data."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175032888,
+    "Title": "Health Prognostics Classification with Autoencoders for Predictive Maintenance of HVAC Systems",
+    "Author": "Tian R.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2023-10-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.3390/en16207094",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Western University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "Buildings’ heating, ventilation, and air-conditioning (HVAC) systems account for significant global energy use. Proper maintenance can minimize their environmental footprint and enhance the quality of the indoor environment. The adoption of Internet of Things (IoT) sensors integrated into HVAC systems has paved the way for predictive maintenance (PdM) grounded in real-time operational metrics. However, HVAC systems without such sensors cannot leverage the advantages of current data-driven PdM techniques. This work introduces a novel data-driven framework, the health prognostics classification with autoencoders (HPC-AE), designed specifically for PdM. It utilizes solely HVAC power consumption and outside temperature readings for its operations, both of which are readily obtainable. The primary objective of the HPC-AE framework is to facilitate PdM through a health prognostic approach. The HPC-AE framework utilizes an autoencoder for feature enrichment and then applies an artificial neural network to classify the daily health condition of an HVAC system. A multi-objective evaluation metric is employed to ensure optimal performance of the autoencoder within this framework. This metric evaluates the autoencoder’s proficiency in reducing reconstruction discrepancies in standard data conditions and its capability to differentiate between standard and degraded data scenarios. The HPC-AE framework is validated in two HVAC fault scenarios, including a clogged air filter and air duct leakage. The experimental results show that compared to methods used in similar studies, HPC-AE exhibits a 5.7% and 2.1% increase in the F1 score for the clogged air filter and duct leakage scenarios."
+}

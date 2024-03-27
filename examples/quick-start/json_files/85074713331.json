@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85074713331,
+    "Title": "Energy management system in battery electric vehicle based on fuzzy logic control to optimize the energy consumption in HVAC system",
+    "Author": "Abulifa A.A.",
+    "Journal": "International Journal of Integrated Engineering",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.30880/ijie.2019.11.04.002",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universiti Putra Malaysia",
+    "Affliation Country": "Malaysia",
+    "Cited by count": 5,
+    "Abstract": "This particular research has been conducted at University Putra Malaysia (UPM) to investigate the applicability of fuzzy logic technique in enhancing the energy management of battery-powered electric vehicle (BEV). Because of the increasing demand of BEVs, there is a need to increase the battery power while fulfilling the conflicting of battery power needs and power consuming needs for motor and auxiliaries (such as HVAC). The balance between keeping the comfort of HVAC use and increasing the battery range is complicated and the support of Artificial Intelligence can be useful. The study integrated an energy management system, which is using the designed Fuzzy Logic strategy, to enhance the drain of battery power capacity. The simple black box design of the EMS system has two inputs, State of Charge (SoC) and Speed, and three outputs, Heated Seats, Front HVAC, and Rear HVAC. The membership functions of output fuzzy of the Front HVAC, which shows that every output has three equal categories, 1/3, 2/3, 3/3, associated with low, mid, and high. The same approach of membership functions is applied for Rear HVAC, and Heated Seat. The three outputs of the HVAC system assumed to have a constant load of 1000 Watt each and have three equal categories, low, medium, and high. The fuzzy logic design uses a strategy of nine rules. The simulation is applied on MATLAB Simulink environment and the tests are using two driving cycles, the New European Driving Cycle (NEDC) and Japan 10-15. The results show that using the managed HVAC strategy can increase the battery driving range by 9.8-20.4% compared with the full-unmanaged HVAC strategy."
+}

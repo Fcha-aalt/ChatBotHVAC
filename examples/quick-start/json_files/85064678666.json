@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064678666,
+    "Title": "Large scale residential energy efficiency prioritization enabled by machine learning",
+    "Author": "Al Tarhuni B.",
+    "Journal": "Energy Efficiency",
+    "Publication Date": {
+        "$date": "2019-12-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/s12053-019-09792-0",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 14,
+    "Abstract": "Cost-effective energy efficiency improvements in residential buildings can realize 30% energy reduction within this energy sector for the USA. Unfortunately, audits on residences to identify potential savings, generally based on detailed energy models, tend to over-estimate anticipated savings. This leads to wariness on the part of potential investors. We address this issue by taking an integrated data- and physics-based approach, using residential building geometrical and energy system characteristics (e.g., envelope, appliances, and HVAC systems), as well as historical energy consumption for each residence and weather data, to predict monthly natural gas energy consumption and savings from the adoption of individual energy saving measures. This approach requires only those geometrical and energy system characteristics associated with the greatest potential for realized savings which are also easy to obtain. We construct a dataset from a collection of houses with a wide range of energy effectiveness, and train a single statistical model that accurately predicts natural gas energy consumption in any of the individual residences. The model is then used to estimate the savings from most impactful energy efficiency investments for individual residences, as well as the collective grouping. The specific case considered here involves hundreds of university-owned student residences in the U.S. Midwest. The resulting machine-learning derived model is used to predict monthly natural gas consumption with a mean squared error of 0.00023 for unitary scaled cross-validation data. We use a nearest neighbor approach to validate savings estimates for virtually improved residences, identifying the surrogate residence most like an improved residence. This validation demonstrates a savings prediction accuracy to within 3.5% for most of the measures considered. The validated models are shown capable of prioritizing investments among the collective of residences considered. Sequential adoption of the most cost-effective energy efficiency measure among a group of residences renders a total energy reduction of 36%. The practical implications of this research are significant. This integrated machine-learning and physics-based approach to estimate savings could be used in any utility district and throughout all of the USA to enable district-wide residential energy reduction based upon sequential adoption of the most cost-effective energy measures."
+}

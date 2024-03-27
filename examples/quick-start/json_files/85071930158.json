@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85071930158,
+    "Title": "Development and calibration of an online energy model for ahu fan",
+    "Author": "Dong J.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Oak Ridge National Laboratory",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "The model development is necessary for the study of the energy consumption of Heating/ Ventilation, and Air Conditioning (HVAC) systems. To predict the HVAC energy consumption accurately, one needs to model the individual HVAC components either from the measured data or based on the knowledge of the underlying physical phenomenon. On Sne model characterisation is critical for improving the performance of real-time model-based fault detection and diagnosis (FDD) strategies. For HVAC control, models can be used to optimise the supervisory and local feedback control strategies to improve the energy consumption efficiency, or for providing ancillary services to the grid. It has been reported that, fans in HVAC systems of commercial buildings ahne can provide substantial frequency regulation service, with little change in the indoor environment. In this paper, a real-time data-driven Air Handling Unit (AHU) fan model was developed based on recursive multi regression model A generic nonlinear polynomial model has been studied to cover scenarios with different combinations of measurement variables, variable orders as well as different training and prediction horions. Typical measurements including static pressure, mass flow rate, and damper positions are utilised as inputs to model the power consumption of the fan. The developed models have been validated both with simulation data from Energy Plus-Dimola co-simulation model and with field measurement data for small to medium commercial buildings. The validation results show that the online model proposed can provide an effective prediction of the AHU fan power consumption."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171584743,
+    "Title": "Coupling PCM wallboard utilization with night Ventilation: Energy efficiency and overheating risk in office buildings under climate change impact",
+    "Author": "Tamer T.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-11-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.113482",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Middle East Technical University (METU)",
+    "Affliation Country": "Turkey",
+    "Cited by count": 1,
+    "Abstract": "The rising population and increasing thermal comfort expectations are expected to exacerbate the already high HVAC use in offices, which unavoidably places a strain on energy supply systems. Storing thermal energy by incorporating phase change materials (PCMs) is an effective method for improving the buildings’ energy efficiency. Understanding how a PCM wallboard responds to climate change (CC) is crucial to maintaining its viability and effectiveness in achieving energy efficiency and sustainability goals during a building's lifetime. This study presents a methodological framework to assess the performance of a building utilizing PCM wallboards in terms of cooling/heating energy demand (and corresponding GWP and operation cost) and occupant thermal comfort considering the changing climate. As a case study, a hypothetical office building located in a cold semi-arid climate with high diurnal fluctuations was selected, and the performance of offices orienting in different directions was evaluated when PCM wallboards with different melting ranges were utilized. PCM19 with a melting range close to heating set point reduced the heating demand by 5.0–7.4% for 2020 and 7.8–9.2% for 2050; while PCM25 with a melting range close to cooling set point yielded cooling reductions of 1.9–4.3% for 2020 and 0.7–2.4% 2050. However, PCM19 and PCM25 were ineffective in cooling and heating, respectively, as they were not compatible with the chosen set points. Coupling PCM25 with night-ventilation (NV) significantly enhanced the cooling savings (NV: 23.2–25.7% for 2020; 13.9–15.7% for 2050; NV + PCM25: 29.4–30.6% for 2020; 16.6–17.5% for 2050); though, the effectiveness of NV was impaired with rising night temperatures due to CC. Hourly energy analysis demonstrated varying performance of wallboards based on the time of day, suggesting potential benefits in supply–demand dynamics and time-of-use energy pricing. In naturally-ventilated scenarios, PCM utilization was ineffective in reducing indoor overheating risk, even when night-ventilation was introduced. Results highlight that to effectively mitigate indoor overheating risk in office buildings, PCM wallboards should be coupled with air-conditioning and night-ventilation. Furthermore, for a comprehensive evaluation of the energy/GWP/cost saving potential of a PCM wallboard during a building's lifetime, not only the current but also the projected local climate should be considered given the shifting energy demand towards cooling due to climate change. Overall, this study provides valuable insights into effective PCM wallboard utilization and lays the groundwork for enhancing the resilience of built environments in the face of climate change challenges."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85029901725,
+    "Title": "NeuroCool: Field tests of an adaptive, model-predictive controller for HVAC systems",
+    "Author": "Stauffer Y.",
+    "Journal": "Energy Procedia",
+    "Publication Date": {
+        "$date": "2017-01-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.egypro.2017.07.316",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Centre Suisse d'Electronique et de Microtechnique SA",
+    "Affliation Country": "Switzerland",
+    "Cited by count": 2,
+    "Abstract": "We present the field test results on a novel model-predictive controller for HVAC systems, which minimizes the operational costs of the air-Treatment unit while guaranteeing indoor comfort. Unlike traditional control systems, which usually ignore the building's physics and cannot use weather forecasts, this controller features an adaptive model of the controlled space and uses weather forecasts from a national weather forecasting service. We tested this controller on two real, occupied buildings during the summer of 2017 and compared its performance with the existing control system. The system performs at least as well as the original controller, while reducing the operational costs by about 20%."
+}

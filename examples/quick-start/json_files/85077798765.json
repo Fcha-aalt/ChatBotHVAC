@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85077798765,
+    "Title": "Linear Model-Predictive Controller (LMPC) for Building's Heating Ventilation and Air Conditioning (HVAC) System",
+    "Author": "Ostadijafari M.",
+    "Journal": "CCTA 2019 - 3rd IEEE Conference on Control Technology and Applications",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1109/CCTA.2019.8920657",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Voiland College of Engineering and Architecture",
+    "Affliation Country": "United States",
+    "Cited by count": 12,
+    "Abstract": "Model predictive control (MPC) is a widely used technique for temperature set-point tracking and energy optimization of Heating Ventilation and Air Conditioning (HVAC) systems in buildings. Unfortunately, a nonlinear thermal building model leads to a computationally expensive nonlinear MPC problem that is not suitable for real-time control and optimization. This paper presents a novel approximate linearized model for building's thermal dynamics and the HVAC system power consumption that leads to a computationally efficient linear model predictive controller (LMPC) for the buildings' HVAC systems. We employ feedback linearization technique to obtain an equivalent linearized model for the nonlinear thermal building dynamics and use constraint mapping approach to obtain a linearized formulation for new control variables. Next, using piecewise linearization, we obtain a linearized analytical model for the HVAC system power consumption. The proposed LMPC technique is validated using multiple simulation case studies. We demonstrate that the proposed LMPC technique is not only computationally efficient but also accurately approximates the nonlinear optimal control decisions."
+}

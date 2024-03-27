@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84976339060,
+    "Title": "On the Performance of a Net Zero Energy House: A Case Study of the GridStar House in the Navy Yard, Philadelphia",
+    "Author": "Kurdi Y.",
+    "Journal": "Construction Research Congress 2016: Old and New Construction Technologies Converge in Historic San Juan - Proceedings of the 2016 Construction Research Congress, CRC 2016",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1061/9780784479827.122",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Penn State College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "The net zero energy house (NZEH) is defined as a house with greatly reduced energy needs which can be supplied with renewable energy technologies. Renewable energy (RE) produces less greenhouse gas emissions compared to fossil fuels, and it is more cost effective. The objective of this study is to understand the energy performance of an existing NZEH house. The GridStar house - a NZEH located in the Navy yard, Philadelphia - is selected as a case study. This objective is achieved by creating an energy simulation model for the NZEH using DesignBuilder software. Then, the daily, monthly, and annually energy performance of the house was investigated using EnergyPlus software. In addition, the interaction between the NZEH with the grid is studied in this paper. The results of this study shows that the Renewable Energy System (RES) used in the GridStar house was able to offset 83% of the total energy demand of the house and the energy efficient envelope with the energy efficient HVAC system used in the GridStar house helped decrease the energy consumption of the house by 42% compared to a typical residential house."
+}

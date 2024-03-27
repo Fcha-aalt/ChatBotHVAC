@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85182992037,
+    "Title": "Smart and Secure Office Automation using Internet of Things for Energy Consumption Reduction",
+    "Author": "Narayana V.L.",
+    "Journal": "International Conference on Sustainable Communication Networks and Application, ICSCNA 2023 - Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1109/ICSCNA58489.2023.10370241",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Vignan's Nirula Institute of Technology and Science for Women",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "Internet of Things (IoT) technology combined with office spaces appears as a potent answer in our quickly changing environment, where energy conservation and sustainability are essential issues. This research study investigates how the Internet of Things (IoT) might change conventional workplaces into ones that are less wasteful of resources and more profitable to run. In order to monitor temperature, humidity, lighting, and electricity consumption in real time, our proposed system makes use of Internet of Things (IoT) devices, sensors, and actuators strategically placed throughout the workplace. The deep learning technique known as Convolutional Neural Networks (CNN) is the backbone of our methodology. The CNN system takes these measurements into account when deciding how to best use energy for things like lighting, HVAC, and more. It optimizes energy consumption and guarantees the comfort and safety of office workers through persistent learning. Organizations can do their part for the environment and their bottom line by implementing this IoT and CNN-based smart and secure office automation solution. The proposed model gathers information from the smart gadgets connected in the network. This research considers gadgets as IoT nodes for the security modelling and controlling the devices. This paper is an excellent reference for academics, businesspeople, and policymakers interested in maximizing the Internet of Things' (IoT) energy-saving potential in commercial settings. This research proposed a Hash based Arbitrary Multi Point Key Acknowledgement Model (HbAMPKAM) for smart and secure office automation model using IoT. The proposed model when compared to the traditional models performs better in energy consumption reduction and securing the network using strong hash based cryptography models."
+}

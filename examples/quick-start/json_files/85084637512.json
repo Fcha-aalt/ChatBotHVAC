@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85084637512,
+    "Title": "Design and operation optimization of multi-chiller plants based on energy performance simulation",
+    "Author": "Chen Y.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-09-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2020.110100",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 38,
+    "Abstract": "Buildings consume about 20% of the total primary energy use in China. It is critical to enhancing building energy efficiency for sustainable development. The heating, ventilation, and air-conditioning (HVAC) systems account for about half of the energy consumption in commercial buildings. For large commercial buildings, central chiller plants are typically used to provide chilled water for space cooling and consume lots of energy. This study evaluates the impacts of different chiller design and their operation strategy on the energy performance of central chiller plants. A case study is conducted using an office building located in Beijing, China. Feasible chiller combinations are studied based on 13 available chillers with different capacities. Four control strategies are explored, including three sequencing control strategies based on weekly, daily, and hourly maximum cooling loads and one optimal control strategy. A building energy model is created using DeST to simulate the hourly cooling load of the office building, and calibrated using the measured data. An integration model has been developed in MATLAB scripts to calculate the annual energy consumption of the chillers for each chiller design under each control strategy. The results indicate that it is essential to control the chiller plant hourly; however, the optimal control may not be necessary. It is not good to select the chillers with all the same capacity. The capacity of the chillers should be slightly different to provide flexibility for control. The design of the chiller combination is essential in the design stage. When bad combinations of chillers were designed, the performance of the chiller plant may be low even with optimization control strategies."
+}

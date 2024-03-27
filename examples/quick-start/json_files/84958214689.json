@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84958214689,
+    "Title": "Unraveling electricity consumption profiles in households through clusters: Combining smart meters and door-to-door surveys",
+    "Author": "Gouveia J.P.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-03-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.01.043",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universidade Nova de Lisboa",
+    "Affliation Country": "Portugal",
+    "Cited by count": 108,
+    "Abstract": "Improvements of energy efficiency and reduction of Electricity Consumption (EC) could be pushed by increased knowledge on consumption profiles. This paper contributes to a comprehensive understanding of the EC profiles in a Southwest European city through the combination of high-resolution data from smart meters (daily electricity consumption) with door-to-door 110-question surveys for a sample of 265 households in the city of Évora, in Portugal. This analysis allowed to define ten power consumption clusters using Ward's method hierarchical clustering, corresponding to four distinct types of annual consumption profiles: U shape (sharp and soft), W shape and Flat. U shape pattern is the most common one, covering 77% of the sampled households. The results show that three major groups of determinants characterize the electricity consumption segmentation: physical characteristics of a dwelling, especially year of construction and floor area; HVAC equipment and fireplaces ownership and use; and occupants' profiles (mainly number and monthly income). The combination of the daily EC data with qualitative door-to-door survey-based data proved to be a powerful data nutshell to distinguish groups of power consumers, allowing to derive insights to support DSOs, ESCOs, and retailers to design measures and instruments targeted to effective energy reduction (e.g. peak shaving, energy efficiency)."
+}

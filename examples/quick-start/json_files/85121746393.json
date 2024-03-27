@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85121746393,
+    "Title": "AI-powered virtual assistants nudging occupants for energy saving: proactive smart speakers for HVAC control",
+    "Author": "He T.",
+    "Journal": "Building Research and Information",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1080/09613218.2021.2012119",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Virginia Tech College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Virtual assistants powered by Artificial Intelligence (AI) and integrated into the smart home ecosystems facilitate human–building interactions. We have envisioned that the proactive virtual assistant capabilities could be designed to encourage energy conservation behaviours by relying on their nudging effect through conversational interactions, autonomous actuation and guiding users’ decision-making. To this end, we investigated how proactive virtual assistants, in a simulated smart home ecosystem, influence occupants to take energy-saving, adaptive actions for Heating, Ventilation and Air Conditioning (HVAC) operations and how participants’ personal characteristics affect their responses. Through an interactive online experiment, we collected data from 307 participants from diverse backgrounds across the United States. It was found that proactive communications with follow-up conversations can significantly increase the likelihood of accepting virtual assistance recommendations. This improvement was reflected in an increased number of participants (by 16%) who accepted energy-saving suggestions by comparing initial versus final responses during proactive conversations. Characterizing groups of participants based on their personal features and individual differences showed that user experience (with ∼30% increase), pro-environmental values/beliefs (with ∼24% to 35% increase) and forgiving thermal preferences (with ∼12% increase) had a significant influence on participants’ stated likelihood to accept virtual assistants’ recommendations and their evaluation of the general concept of proactive communication from virtual assistants."
+}

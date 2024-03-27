@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85111926162,
+    "Title": "A delay-tolerant distributed optimal control method concerning uncertain information delays in IoT-enabled field control networks of building automation systems",
+    "Author": "Su B.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.apenergy.2021.117516",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The Hong Kong Polytechnic University",
+    "Affliation Country": "Hong Kong",
+    "Cited by count": 4,
+    "Abstract": "Distributed optimal control deployed on field control networks has gotten increasing attention with the rapid development and wide applications of the Internet of Things, including the applications in building automation. Information delays, time delays in information exchange between different devices integrated in communication networks, can affect the performance of distributed optimal control but have rarely received attention in the building automation and HVAC (heating, ventilation, and air conditioning) fields. This paper proposes a delay-tolerant control method to reduce the impacts of uncertain information delays on the performance of the distributed optimal control of HVAC systems. The proposed method reduces the impacts of information delays through synchronizing the local optimization results used for convergence determination and adaptively setting the step-size used for updating Lagrange multiplier. The purpose of synchronizing local optimization results is to reduce the impacts of information delays on accuracy of the optimization results. The purpose of setting the step-size adaptively is to reduce the impacts of information delays on the convergence rate. The computational load of the proposed method is 40 FLOPs (floating-point operations), which can be handled by typical smart sensors. Test results show that the proposed delay-tolerant control method could effectively reduce the impacts of information delays on optimization accuracy and convergence rate, thereby improving the energy performance of the distributed optimal control strategy under conditions where delays occur."
+}

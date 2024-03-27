@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85034569692,
+    "Title": "How the commitment to disclose in-use performance can transform energy outcomes for new buildings",
+    "Author": "Cohen R.",
+    "Journal": "Building Services Engineering Research and Technology",
+    "Publication Date": {
+        "$date": "2017-11-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1177/0143624417711343",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Verco",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 9,
+    "Abstract": "The paper describes the transformation that has taken place over the last 15 years in the energy efficiency of new office buildings constructed in Australia and considers if and how the UK could follow suit. The success in Australia has been greatest for the ‘base building’: the energy performance of the HVAC services in tenanted spaces and of all end uses in the common parts. It embraces a ‘design for performance’ culture, supported by the NABERS ‘Commitment Agreement’, where developers and their teams sign up to an in-use performance target. The process is underpinned by advanced simulation, strategic sub-metering and fine-tuning post occupation to help eliminate wasteful deviations. The paper considers the opportunity for the UK to introduce a Commitment Agreement process for new office buildings, integrated with the Soft Landings Framework. It is argued that from a technical perspective base building energy performance in new UK offices could be as good as it is in Australia. However, there are non-technical drivers missing in the UK. To compete with their Australian peers, the UK property and construction industries need a base building energy measurement and rating system, creating the ability to set a performance target and disclose the outcome. Practical application : Design for performance uses a much more realistic building simulation model at the design stage. Although this requires a lot more inputs (details of the building’s proposed chillers, AHUs, ducts and valves, etc. and their controls), it enables the designers to capitalise from computer-aided-design to improve energy efficiency. This process deploys the technology improvement template by which much of the modern world has progressed so fast, and enables innovation to flourish. The more advanced HVAC model can predict target energy budgets for each sub-system (boilers, chillers, fans, pumps, etc.) against which the actual energy used, as measured with sub-meters, can be compared to inform fine tuning during early operation. Although a model’s predictions can be considered the ideal energy performance of the as-built system, there’s an expectation that the base building’s real performance should turn out to be within around 10% of that anticipated from the modelling."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85022342302,
+    "Title": "Dynamic programming and genetic algorithms to control an HVAC system: Maximizing thermal comfort and minimizing cost with PV production and storage",
+    "Author": "Pombeiro H.",
+    "Journal": "Sustainable Cities and Society",
+    "Publication Date": {
+        "$date": "2017-10-01T00:00:00Z"
+    },
+    "Publication Year": 2017,
+    "DOI": "10.1016/j.scs.2017.05.021",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Instituto Superior Técnico",
+    "Affliation Country": "Portugal",
+    "Cited by count": 41,
+    "Abstract": "Finding the optimal balance between electricity demand and production constrained to economic and comfort variables requires intelligent decision and control. This article addresses the formulation of three models that optimize control of a heating, ventilation and air conditioning (HVAC) system in an experimental room, which are coupled with two thermal models of the indoor temperature. Electricity is supplied by the grid and a photovoltaic system with batteries. The primary objective is to maximize users comfort while minimizing cost constrained to: thermal comfort; variable electricity price; and available electricity in batteries that are charged by a PV system. Three models are developed: (i) dynamic programming with simplified thermal model (STM), (ii) genetic algorithm with STM, and (iii) genetic algorithm with EnergyPlus. The genetic algorithm model that uses EnergyPlus to simulate indoor temperature generally achieves higher convergence to the optimal value, which also is the one that uses more electricity from the PV system to operate the HVAC. The dynamic programming performs better than the genetic algorithm (both coupled with STM). However, it is limited by the fact that uses STM, which is a less accurate model to simulate indoor temperature especially because it is not considering thermal inertia."
+}

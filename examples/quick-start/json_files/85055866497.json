@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85055866497,
+    "Title": "An Energy-Efficient Approach for Controlling Heating and Air-Conditioning Systems",
+    "Author": "Lachhab F.",
+    "Journal": "Proceedings of 2017 International Renewable and Sustainable Energy Conference, IRSEC 2017",
+    "Publication Date": {
+        "$date": "2018-09-28T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1109/IRSEC.2017.8477265",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "International University of Rabat",
+    "Affliation Country": "Morocco",
+    "Cited by count": 7,
+    "Abstract": "Heating, ventilating, and air conditioning (HVAC) systems in industrial and commercial buildings constitutes 40% of the world energy consumption. Many recent studies put more emphasize on developing efficient control strategies in order to deliver acceptable occupants' comfort while maintaining optimal energy consumption. This paper introduces a state feedback control approach for heating and air conditioning systems by optimizing set points and operation modes while providing the desired indoor environmen's quality at minimum energy consumption. Simulations have been conducted using the BCVTB framework by developing the interface that allows data exchange between EnergyPlus for building's envelope and MATLAB for integrating the proposed controller. Simulation results are reported to show the potential of the state feedback control approach for saving energy while keeping suitable occupant's comfort."
+}

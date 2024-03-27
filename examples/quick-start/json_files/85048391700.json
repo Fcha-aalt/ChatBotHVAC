@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85048391700,
+    "Title": "Occupancy-driven energy-efficient buildings using audio processing with background sound cancellation",
+    "Author": "Huang Q.",
+    "Journal": "Buildings",
+    "Publication Date": {
+        "$date": "2018-06-07T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/buildings8060078",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Southern Illinois University Carbondale",
+    "Affliation Country": "United States",
+    "Cited by count": 20,
+    "Abstract": "Demand-driven HVAC (heating, ventilation, and air conditioning) operation is essential in occupant-oriented smart buildings, where the levels of heating, cooling, and ventilation are intelligently regulated to avoid energy waste. Despite the great potential of building energy efficiency, one of the remaining technical challenges is how to accurately estimate building occupancy information in real time. In this paper, this design challenge is addressed. An advanced audio-processing technique is adopted that minimizes the impacts of environmental sounds on the recorded voice sounds of humans. Adopted mathematical modeling and signal processing procedures are elaborated in this work. Experimental studies show that our proposed audio processing with background sound cancellation algorithm improves the estimation accuracy of room occupancy quantity by approximately 11-12%, which results in an averaged ventilation energy reduction of 3.54% compared to the case of not applying background sound cancellation. The proposed audio-processing technique is promising to achieve non-intrusive, cost-effective, robust, and accurate solutions for building occupancy estimation."
+}

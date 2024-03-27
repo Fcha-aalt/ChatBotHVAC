@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85114740296,
+    "Title": "Prediction of Vehicle Cabin Occupant Thermal Comfort Using Deep Learning and Computational Fluid Dynamics",
+    "Author": "Warey A.",
+    "Journal": "SAE International Journal of Connected and Automated Vehicles",
+    "Publication Date": {
+        "$date": "2021-08-19T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.4271/12-04-03-0022",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "General Motors",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) systems can have a significant impact on the driving range of battery electric vehicles (BEVs). In our previous work, high-fidelity Computational fluid dynamics (CFD) simulations, validated against climatic wind tunnel measurements, were coupled with machine learning (ML) algorithms to predict vehicle occupant thermal comfort for any combination of glazing properties for any window surface, environmental conditions, and HVAC settings (flow rate and discharge air temperature). In the present study, the input feature space was expanded significantly to include climate seats (heated/cooled), heated steering wheel, radiant heating pads, and airflow direction from the air-conditioning (A/C) vents. The modified vehicle cabin CFD model, which included these additional features, was used to generate steady-state training and test data. Feedforward artificial neural networks (ANN) were applied to the simulation data to predict the equivalent homogeneous temperature (EHT) for each occupant. The EHT is a recognized measure of the total heat loss from the human body that can be used to characterize highly nonuniform thermal environments. The prediction performance of the trained deep learning models was evaluated on an unseen test dataset. An ensemble of five neural network models was able to achieve a mean absolute error (MAE) of 2°C or less in predicting the EHT for all occupants in the vehicle, which is acceptable for rapid evaluation of thermal comfort technologies under steady-state conditions."
+}

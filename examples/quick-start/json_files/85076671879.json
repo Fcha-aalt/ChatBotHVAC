@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076671879,
+    "Title": "Energy use in residential buildings: Analyses of high-efficiency filters and HVAC fans",
+    "Author": "Alavy M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-02-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109697",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Toronto",
+    "Affliation Country": "Canada",
+    "Cited by count": 17,
+    "Abstract": "This study explores the impact of filtration on energy use in residences based on yearlong measurements in 19 homes in Toronto, Canada. Results show that permanent split capacitor (PSC) motor fans drew approximately 40% more power than electronically commutated motor (ECM) fans and the median efficacy (flow divided by power) of ECM fans was 43% higher than that of PSC motor fans. In response to a pressure drop of 150 Pa, ECM fans drew more power (46% − 58% increase) and generally tended to maintain airflow rate, while PSC motor fans drew less power (10% − 23% decrease), but generally tended to reduce airflow rate. Filter pressure drop was not strongly correlated with filter nominal efficiency; thus, the use of higher-efficiency filters may not impact fan power draw. Fan energy consequences of high-efficiency filters are negligible in our sample, and because HVAC runtimes were generally low (median = 11%), the difference between the energy consumption of ECM and PSC motor fans at typical runtimes was small (less than 10 kWh per month). Filters in systems with ECM fans have higher effectiveness per unit of power draw than those in systems with PSC motor fans."
+}

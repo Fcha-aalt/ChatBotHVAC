@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175839500,
+    "Title": "Occupancy-based one-year-ahead heating, ventilation, and air-conditioning electricity consumption optimization using machine learning",
+    "Author": "Alaraj M.",
+    "Journal": "Journal of Building Engineering",
+    "Publication Date": {
+        "$date": "2023-12-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jobe.2023.108051",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zayed University",
+    "Affliation Country": "United Arab Emirates",
+    "Cited by count": 0,
+    "Abstract": "The world is increasingly urbanized. While, more than a half of its population lives in big cities, buildings are responsible for nearly the 40 % of the global annual energy consumption. Recent advances in smart grids and the high penetration of renewable energy sources have increased the need for long-term buildings' electricity consumption prediction to support operational decision making, demand response, and the installation of distributed generation systems. In addition, to meet international environmental goals, electric utilities usually offer financial incentives to reduce consumption levels. Heating, ventilation, and air-conditioning (HVAC) systems use the half of the buildings' energy to maintain users' comfort. In this scenario, predicting and optimizing their long-term electricity consumption without neglecting comfort conditions become vital to negotiate beneficious service-level agreements (SLAs) within the framework of demand-side management strategies. In this paper, we predict and optimize the one-year-ahead HVAC electricity consumption profile of a reference office building based on a machine learning approach. Although the occupants' number influences the HVAC electricity consumption, there has long been a lack of high-resolution, non-Boolean, long-term occupancy estimators. In this context, we first forecast the one-year-ahead occupants' number schedule and then use it, together with traditionally used historical weather data, to predict the one-year-ahead HVAC electricity consumption. The consumption profile is then optimized based on the estimated one-year-ahead occupants’ count schedule. The best results, obtained with a feedforward neural network, achieve 33 % annual electricity saving without neglecting summer cooling conditions in a hot zone like Miami, being efficient even in energetic-demanding scenarios such as extended working hours."
+}

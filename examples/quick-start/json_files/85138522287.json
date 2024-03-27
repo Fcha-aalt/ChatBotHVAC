@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85138522287,
+    "Title": "A machine learning-based control strategy for improved performance of HVAC systems in providing large capacity of frequency regulation service",
+    "Author": "Wang H.",
+    "Journal": "Applied Energy",
+    "Publication Date": {
+        "$date": "2022-11-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.apenergy.2022.119962",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Sino-Australia Joint Research Center in BIM and Smart Construction",
+    "Affliation Country": "China",
+    "Cited by count": 9,
+    "Abstract": "Heating, ventilation and air-conditioning systems (HVAC), at demand side, have been regarded increasingly as promising candidates to provide frequency regulation service to smart power grids. In many control systems, chilled water outlet temperature setpoint is reset to change the power use of HVAC systems after the regulation capacity is determined. However, the conflict between changed power use and unchanged cooling/heating demand could become a prominent problem when a large regulation capacity is provided. This problem can deteriorate the performance of frequency regulation service provided by HVAC systems. In this study, a machine learning-based control strategy is proposed to solve this problem for improved performance of HVAC systems in providing large capacity of frequency regulation service. It adjusts the power use of HVAC systems by simultaneously resetting chilled water outlet temperature setpoint and indoor temperature setpoint. The proposed control strategy is validated on a simulation platform. Results show that the strategy can significantly increase the performance of service when an HVAC system provides different regulation capacities. Moreover, the robustness of the strategy is studied. The results show that the strategy can still work effectively even the machine learning algorithms has a relatively low prediction performance in real application due to practical difficulties."
+}

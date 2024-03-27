@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85070860839,
+    "Title": "Sensorless air flow control in an HVAC system through deep learning",
+    "Author": "Son J.",
+    "Journal": "Applied Sciences (Switzerland)",
+    "Publication Date": {
+        "$date": "2019-08-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.3390/app9163293",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "LG Electronics, Korea",
+    "Affliation Country": "South Korea",
+    "Cited by count": 6,
+    "Abstract": "Sensor-based intelligence is essential in future smart buildings, but the benefits of increasing the number of sensors come at a cost. First, purchasing the sensors themselves can incur non-negligible costs. Second, since the sensors need to be physically connected and integrated into the heating, ventilation, and air conditioning (HVAC) system, the complexity and the operating cost of the system are increased. Third, sensors require maintenance at additional costs. Therefore, we need to pursue the appropriate technology (AT) in terms of the number of sensors used. In the ideal scenario, we can remove excessive sensors and yet achieve the intelligence that is required to operate the HVAC system. In this paper, we propose a method to replace the static pressure sensor that is essential for the operation of the HVAC system through the deep neural network (DNN)."
+}

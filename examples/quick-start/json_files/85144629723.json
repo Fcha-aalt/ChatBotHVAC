@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144629723,
+    "Title": "Analyzing the Multiscale Impacts of Implementing Energy-Efficient HVAC Improvements Through Energy Audits and Economic Input-Output Analysis",
+    "Author": "Shook P.",
+    "Journal": "Journal of Energy Resources Technology, Transactions of the ASME",
+    "Publication Date": {
+        "$date": "2023-04-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1115/1.4056116",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Dayton",
+    "Affliation Country": "United States",
+    "Cited by count": 4,
+    "Abstract": "Heating, ventilation, and air-conditioning (HVAC) systems are usually an industry's highest consumer of energy, most of which goes toward space cooling in buildings. Industrial energy-efficiency audits not only benefit manufacturers but also generate significant economic and environmental benefits to localities, states, and the nation. This article analyzes the micro- and macro scale impacts of implementing energy-efficient HVAC systems by integrating the industrial building energy data with the macroeconomic regional economic flow model. Micro-scale data include 10 years of historical energy, cost, and carbon dioxide savings achieved from energy-efficient HVAC implementation offered to manufacturers through industrial energy audits. The data were integrated into the macroeconomic modeling framework to illuminate the cascading regional economic impacts of implementing energy-efficient HVAC recommendations in manufacturing facilities. Results show that if recommendations had been implemented throughout all manufacturers in the region, $656 M energy costs would have been directly saved, 7.8 million metric tons of carbon dioxide emissions would have been avoided, and 4387 jobs could have been created, resulting in a total annual economic impact of $899 M stemming from direct, indirect, and induced impacts. The results offer insight into how industrial energy systems can be designed and provide models for how communities can accomplish a net-zero society."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129304530,
+    "Title": "Demonstration of Intelligent HVAC Load Management With Deep Reinforcement Learning: Real-World Experience of Machine Learning in Demand Control",
+    "Author": "Du Y.",
+    "Journal": "IEEE Power and Energy Magazine",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/MPE.2022.3150825",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "The University of Tennessee, Knoxville",
+    "Affliation Country": "United States",
+    "Cited by count": 8,
+    "Abstract": "Buildings account for 40% of total primary energy consumption and 30% of all CO2 emissions worldwide. A large portion of building energy consumption is due to heating, ventilation, and air-conditioning (HVAC) systems. In the summer, for example, more than 50% of a building's electricity consumption is used for cooling. With proper energy management, buildings can provide load shifting, peak shaving, frequency regulation, and many other demand response services."
+}

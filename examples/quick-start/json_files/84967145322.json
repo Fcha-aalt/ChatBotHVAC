@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84967145322,
+    "Title": "BEES: Real-time occupant feedback and environmental learning framework for collaborative thermal management in multi-zone, multi-occupant buildings",
+    "Author": "Gupta S.K.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-08-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.04.084",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Rensselaer Polytechnic Institute",
+    "Affliation Country": "United States",
+    "Cited by count": 65,
+    "Abstract": "In this work we present an end-to-end framework designed for enabling occupant feedback collection and incorporating the feedback data towards energy efficient operation of a building. We have designed a mobile application that occupants can use on their smart phones to provide their thermal preference feedback. When relaying the occupant feedback to the central server the mobile application also uses indoor location techniques to tie the occupant preference to their current thermal zone. Texas Instruments sensortags are used for real time zonal temperature readings. The mobile application relays the occupant preference along with the location to a central server that also hosts our learning algorithm to learn the environment and using occupant feedback calculates the optimal temperature set point. The entire process is triggered upon change of occupancy, environmental conditions, and/or occupant preference. The learning algorithm is scheduled to run at regular intervals to respond dynamically to environmental and occupancy changes. We describe results from experimental studies in two different settings: a single family residential home setting and in a university based laboratory space setting."
+}

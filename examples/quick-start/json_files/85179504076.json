@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179504076,
+    "Title": "GNNs based method for evaluating HVAC terminal piping layout solutions in office buildings",
+    "Author": "Wang H.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1275",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "In the design practice of heating, ventilation and air conditioning (HVAC) systems in office buildings, designers may design different terminal piping/ducting solutions for the same building layout. They often apply subjective and objective evaluations to different terminal piping/ducting design solutions from several dimensions which make it difficult to effectively compare them at the solution selection stage. At the same time, in the process of training generative algorithms for system solution generation, we cannot quantitatively evaluate which solution is better to be the training objectives for deep generative models. In this paper, we propose a graph-based HVAC system parametric model and use graph neural networks (GNNs) to learn the evaluation criteria of different designers by combining the evaluation results of their system design solutions. To verify the feasibility of the proposed method, we use the self-developed automated forward design toolkit to generate a large number of cases that meet the HVAC system design standards as the data set for model training and the models we used are GNN, GCN, GraphSAGE and GAT etc., which are commonly used in the graph deep learning domain. The results show that the models trained by this method can fully explore the potential design logic and have good performance on the validation dataset. The solution evaluation method in this paper can make good use of the node-edge relationship of the graph structured data to explore the potential system features, and at the same time fully consider the subjective and objective evaluation results of the designers. It could be an important basis for the solution formulation and parameter selection at the early stage of HVAC system design and can also be the optimization target for HVAC system design solution generation tasks based on generative algorithms."
+}

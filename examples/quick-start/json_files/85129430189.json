@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129430189,
+    "Title": "Variable Frequency Drive operated Air Blower in Air Handling Unit of Heating, Ventilation and Air Conditioning Systems",
+    "Author": "Balasubramanian G.",
+    "Journal": "2022 IEEE Delhi Section Conference, DELCON 2022",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1109/DELCON54057.2022.9753386",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Vel Tech Rangarajan Dr.Sagunthala R&amp;D Institute of Science and Technology",
+    "Affliation Country": "India",
+    "Cited by count": 4,
+    "Abstract": "Heating, Ventilation and Air Conditioning (HVAC) system is consuming the substantial power for its regular and sustained operation to maintain Relative Humidity (RH) and temperature of the plant in order to keep the quality of the end product. The topic of energy conservation and utilization of conventional energy sources are currently more relevant and important to the present scenario of electrical systems. The most commonly used electric drive in the Air Handling Unit (AHU) of HVAC system is of squirrel cage induction motor. Conventional method of AHU operation was comfortable, but not energy efficient and they are not controlled. Replacing an uncontrolled induction motor with a controlled one in AHU can significantly save electricity, increase the life of the mechanical part of the drive and improve the quality. The paper provides the introduction of a frequency-controlled electric drive to HVAC system, in particular, modelling, simulation 'without feedback' and 'with feedback' for controlling the speed of the AHU blower motor in MATLAB were analysed, the effect on the system harmonics is measured, Energy conservation are presented."
+}

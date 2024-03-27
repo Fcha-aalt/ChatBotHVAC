@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85179502751,
+    "Title": "Investigation of Input Feature Combinations Considering Occupant Behavior for Modeling Indoor Air Temperature in a Classroom",
+    "Author": "Soufi A.",
+    "Journal": "Building Simulation Conference Proceedings",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.26868/25222708.2023.1500",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "École d’ingénieurs CESI",
+    "Affliation Country": "France",
+    "Cited by count": 0,
+    "Abstract": "This study investigated the performance of artificial neural networks and random forests with various combinations of input variables in modelling indoor air temperature in a classroom. The data collection methodology was designed to investigate key input parameters, including indoor air data, classroom occupancy, and occupant behavior factors such as windows, doors, blind operation, and occupant interaction with HVAC control. The random forest models exhibited the highest accuracy (determination coefficient of 0.99) compared with artificial neural networks (determination coefficient of 0.80). The results also show that the occupant behavior data are important parameters for model performance. Combinations with limited occupant behavior data exhibited high root-mean-square errors."
+}

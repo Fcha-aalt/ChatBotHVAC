@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139089177,
+    "Title": "Investigating passive strategies in a cold climate - teaching EDDA in architectural education",
+    "Author": "Gottkehaskamp B.",
+    "Journal": "IOP Conference Series: Earth and Environmental Science",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1088/1755-1315/1078/1/012059",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Jade University of Applied Sciences",
+    "Affliation Country": "Germany",
+    "Cited by count": 1,
+    "Abstract": "This paper describes the results of an architectural teaching module investigating passive building strategies in cold climatic conditions on the case study of Iceland. Focusing on thermal comfort in buildings, usual case study tasks are located in cooling-dominated climates - as vernacular design for hot climate zones offers more passive strategies than for cold climates. As part of the architectural education programme at Jade University of Applied Sciences, students investigated the impact of passive strategies in a building design concept for a hotel in Iceland by applying numerical simulation within the initial design phase. The aim was to develop a holistic energy efficiency strategy and to optimize their initial design propositions exploiting its full potential for high thermal comfort in the guest rooms. Although each student started with an individual research question for a specific passive strategy, i.e., investigating varying construction materials, buffer zones, window-wall-ratio, Trombe walls, etc., all design concepts finally included multi-storey glazed buffer zones contributing to comfortable room temperatures by high solar gains from April to September resulting in a significantly reduced heating load. Furthermore, the study identified several design metrics for passive solar buffer zones to ensure the positive impact throughout the months with varying solar intensity. The teaching module called EDDA (Environmental Digital Design Analysis) is based on simplified 3D models in McNeels Rhinoceros 3D undergoing thermal simulation with a Grasshopper-Ladybug-Honeybee workflow. This allowed the students to iterate their building designs for maximum thermal comfort before adding HVAC systems. Ultimately, EDDA fostered to design climate-sensitive buildings by identifying a suitable set of passive strategies for the predominant climatic conditions as a first - but essential - step towards climate-neutral buildings. At the same time, prospective architects are empowered leading the building sectors towards a carbon-neutral future."
+}

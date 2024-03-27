@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85096539629,
+    "Title": "Evaluation and optimization of the performance of the heating system in a nZEB educational building by monitoring and simulation",
+    "Author": "Borrelli M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2021-01-15T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.enbuild.2020.110616",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università degli Studi di Bergamo",
+    "Affliation Country": "Italy",
+    "Cited by count": 12,
+    "Abstract": "The optimal control of the HVAC system in the nearly zero energy buildings (nZEBs) can be considered as a challenge. Indeed, the lack of data given by monitored data does not allow understanding what are the implications of different strategies on thermal comfort and energy consumptions. This paper determines an approach for the evaluation of the management of the heating system in an existing educational nZEB. The aim is to understand how the energy efficiency of the heating system is sensitive to controls strategies and the important role played by the control systems. The test lecture rooms on KU Leuven Ghent Technology Campus (Belgium) have been chosen as case study. A deep analysis, starting from an in-field monitoring, was carried out during the winter period of 2019, in order to assess the actual operation and the energy use of building systems under real conditions. Then, a building energy simulation (BES) model of the building and its systems was developed and calibrated against the real monitoring data. Control strategies of the heating system are simulated and compared to the current configuration. The simulation results show that strategies based on a definition of a heating curve for the boiler can reduce the comfortable time (−23%). Controlling the temperature inside the storage tank as a function of the outdoor temperature together with the control on the activation of the air handling unit result in an energy savings from 32% to 46%, with a correspondent increase of comfort time in the period from 0.6% to 3.4% compared to the baseline scenario, depending to the relationship between the external temperature and water temperature inside the water storage tank."
+}

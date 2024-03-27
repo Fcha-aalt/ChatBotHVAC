@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85086166487,
+    "Title": "5th International Conference on Recent Developments in Science, Engineering and Technology, REDSET 2019",
+    "Author": NaN,
+    "Journal": "Communications in Computer and Information Science",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": NaN,
+    "Source Type": "Book Series",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 74 papers. The special focus in this conference is on Recent Developments in Science, Engineering and Technology. The topics include: A Novel Activation Function in Convolutional Neural Network for Image Classification in Deep Learning; evaluation of Nephrology Dataset Through Deep Learning Technique; prediction of Ticket Prices for Public Transport Using Linear Regression and Random Forest Regression Methods: A Practical Approach Using Machine Learning; identification of Novel Drug Targets in Pathogenic Aspergillus Fumigatus: An in Silico Approach; comparing Classifiers for Universal Steganalysis; airline Prices Analysis and Prediction Using Decision Tree Regressor; ANN Based Direct Modelling of T Type Thermocouple for Alleviating Non Linearity; forecasting of Literacy Rate Using Statistical and Data Mining Methods of Chhattisgarh; recommendation System for Prediction of Tumour in Cells Using Machine Learning Approach; a Novel Mobile Based Hybrid Skin Tone Classification Algorithm for Cancer Detection; bedsore Ulcer Detection Using Support Vector Machine; Detection of Lung Cancer Through Image Processing Using SVM; learning Vector Quantization Based Leaf Disease Detection; Towards Prediction of Energy Consumption of HVAC Plants Using Machine Learning; ionic Concentration and Action Potential Differences Between a Healthy and Alzheimer’s Disease Person; an Adaptive Framework for Human Psycho-Emotional Mapper Based on Controlled Stimulus Environment; Implementation of Common Spatial Pattern Algorithm Using EEG in BCILAB; a Review on Enhancement of Road Safety in Vehicular Ad-hoc Networks; intelligent Parking Using Wireless Sensor Networks: A Review; review on Computational Techniques to Identify Drug Targets from Whole Proteome of Fungi and Bacteria; innovative Smart Hoisting Assistance."
+}

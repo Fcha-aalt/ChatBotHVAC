@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85144895826,
+    "Title": "BuildSys 2022 - Proceedings of the 2022 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Author": NaN,
+    "Journal": "BuildSys 2022 - Proceedings of the 2022 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+    "Publication Date": {
+        "$date": "2022-11-09T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cr",
+    "Document Type Description": "Conference Review",
+    "Affliation": NaN,
+    "Affliation Country": NaN,
+    "Cited by count": 0,
+    "Abstract": "The proceedings contain 91 papers. The topics discussed include: Reducio: model reduction for data center predictive digital twins via physics-guided machine learning; constrained differentiable cross-entropy method for safe model-based reinforcement learning; data-driven decarbonization of residential heating systems; understanding the willingness to share building data by a social study based on privacy calculus theory; accelerate online reinforcement learning for building HVAC control with heterogeneous expert guidances; cross-zone and extreme-aware mobility learning of crowd interactions with built environments; on efficient operation of a V2G-enabled virtual power plant: when solar power meets bidirectional electric vehicle charging; integrated MPC-ILC control design for thermal control of a large-scale variable air volume reheat systems in buildings; and an effective electrical load disaggregation approach for low-sampled smart meter data."
+}

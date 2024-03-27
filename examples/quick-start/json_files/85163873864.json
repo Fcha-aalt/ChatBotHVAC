@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85163873864,
+    "Title": "Efficient HVAC system identification using Koopman operator and machine learning for thermal comfort optimisation",
+    "Author": "Wahba N.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2023-08-15T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.buildenv.2023.110567",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Melbourne",
+    "Affliation Country": "Australia",
+    "Cited by count": 2,
+    "Abstract": "The aim of this article is to improve the efficiency of heating, ventilation, and air conditioning (HVAC) systems by using a linear control approach. Conventional HVAC systems use a wall thermostat and a simplified ON/OFF controller to condition the thermal environment, but this approach is not always efficient in meeting indoor heat loads. To address this issue, we propose using the Koopman operator combined with Machine Learning, a linear embedding method, to model the nonlinear behaviour of thermal comfort indices. Specifically, we use the Predictive Mean Vote (PMV) index, which has been a superior indicator of occupants’ thermal sensation. We apply Computational Fluid Dynamics to create high-dimensional training, testing, and validation datasets, and a deep autoencoder network framework to map the original nonlinear coordinates of the PMV index into a latent space where the system is behaving linearly. Our results show that the Koopman autoencoder can reproduce and predict data from the latent space, enabling offline system identification for the zone thermal conditions and this has the potential to improve HVAC feedback control systems."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85007153130,
+    "Title": "Study on energy efficiency and harmonics mitigation in a HVAC AHU blower/fan application using electronically commutated BLDC motors",
+    "Author": "Somasundaram B.",
+    "Journal": "Journal of Electrical Engineering",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": NaN,
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "VEDIK Foundation",
+    "Affliation Country": "India",
+    "Cited by count": 2,
+    "Abstract": "Air Handling Unit (AHU) Blowers in a Heating Ventilation and Air Conditioning (HVAC) system contributes to signification share in the total energy of a typical commercial establishment. Energy efficiency projects in these AHU's widely uses speed control of motors with solid state devices. This method has a disadvantage of injecting harmonics in the system. Hence, this paper proposes a novel scheme of mitigating harmonics in an energy efficient way of replacing widely popular centrifugal blower driven by AC Induction motor connected to Pulse Width Modulation (PWM) based Variable Speed Drive(VSD) with a variable speed Electronically Commutated Brushless DC radial blowers (EC BLDC). Comparisons based on simulation and theoretical analysis using Matlab / Simulink of the proposed scheme is validated by a real time retrofit with an EC BLDC radial blower in a AHU which was originally fitted with a centrifugal blower driven by AC Induction motor connected to a PWM based VSD. The results of the study achieved a reduction in Total Harmonic Distortion (THD) by 15 % and reduction in energy consumption by 40 %. Further the proposed scheme opens up future opportunities for improving the overall system efficiency by optimizing the selection and installation of EC BLDC blowers after performing aerodynamic analysis of the AHU."
+}

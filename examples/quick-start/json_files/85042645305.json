@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85042645305,
+    "Title": "A review of building climate and plant controls, and a survey of industry perspectives",
+    "Author": "Royapoor M.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1016/j.enbuild.2017.10.022",
+    "Source Type": "Journal",
+    "Document Type": "re",
+    "Document Type Description": "Review",
+    "Affliation": "Newcastle University",
+    "Affliation Country": "United Kingdom",
+    "Cited by count": 36,
+    "Abstract": "A historic and current perspective is offered of building climate and plant control techniques while also reporting the results of a survey that reveals more conventional control methods to still be preferred by industry-based practitioners. Specifically Artificial Neural Network and reinforcement and machine learning have seldom been taken up in practice by HVAC and BAS industries due to uncertainty, long training periods, and complexity in setting up and maintaining the system. Future buildings are expected to be responsive to other civic activities, namely power generation, storage and distribution and potentially even transport. Given that HVAC industry predominantly continues to deploy conventional techniques, future control solutions seem inevitably to be pioneered by the digital and information technology innovators. Conventional techniques such as PID and simpler computational methods which require no data-training are reported to continue to exist particularly on closed loop mechanical systems (hydronic or air-based) at plant level. Survey participants state that at and beyond building level, control and integration require software-intensive solutions to enable online data analytics, system and occupant feedback, diagnostics, renewable energy management but most urgently smart grid controls and forecasting. Most of these innovations are expected to come from sectors beyond the building automation industry."
+}

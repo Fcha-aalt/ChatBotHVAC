@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85056669252,
+    "Title": "A method for fault detection and diagnostics in ventilation units using virtual sensors",
+    "Author": "Mattera C.G.",
+    "Journal": "Sensors (Switzerland)",
+    "Publication Date": {
+        "$date": "2018-01-01T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.3390/s18113931",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Syddansk Universitet",
+    "Affliation Country": "Denmark",
+    "Cited by count": 42,
+    "Abstract": "Buildings represent a significant portion of global energy consumption. Ventilation units are complex components, often customized for the specific building, responsible for a large part of energy consumption. Their faults impact buildings’ energy efficiency and occupancy comfort. In order to ensure their correct operation, proper fault detection and diagnostics methods must be applied. Hardware redundancy, an effective approach to detect faults, leads to increased costs and space requirements. We propose exploiting physical relations inside ventilation units to create virtual sensors from other sensors’ readings, introducing redundancy in the system. We use two different measures to detect when a virtual sensor deviates from the physical one: coefficient of determination for linear models, and acceptable range. We tested our method on a real building at the University of Southern Denmark, developing three virtual sensors: temperature, airflow, and fan speed. We employed linear regression models, statistical models, and non-linear regression models. All models detected an anomalous strong oscillation in the temperature sensors. Readings fell outside the acceptable range and the coefficient of determination dropped. Our method showed promising results by introducing redundancy in the system, which can benefit several applications, such as fault detection and diagnostics and fault-tolerant control. Future work will be necessary to discover thresholds and set up automatic fault detection and diagnostics."
+}

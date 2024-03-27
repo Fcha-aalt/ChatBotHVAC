@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85171148618,
+    "Title": "Opportunities for Rural Electrification of Space Heating in U.S.A.",
+    "Author": "Krishnamoorthy S.",
+    "Journal": "ASHRAE Transactions",
+    "Publication Date": {
+        "$date": "2023-01-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": NaN,
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Electric Power Research Institute, Inc",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "Residential space heating presents a large opportunity for energy-efficient electrification throughout the U.S. Currently, less than 10% of the households in the country use heat pumps. Among alternative fuels, natural gas is the main heating fuel used, and natural gas-fired heating equipment can potentially outweigh the cost to the homeowner when compared to heat pumps. However, rural areas are typically beyond the reach of the natural gas distribution infrastructure and have to rely on other fuels such as propane, fuel oil, kerosene and wood. These fuels are both a high carbon emitting fuel source as well as more expensive than natural gas. Yet, about 12 million households in the U.S. use these fuels for accomplishing space heating needs. Specifically, 83% of propane fuel users are located in rural areas. The current work evaluates the potential for heat pump adoption in this niche market. Using building energy simulations, the energy performance of a conventional air-source heat pump, an efficient cold-climate heat pump and a ductless heat pump are evaluated for residential buildings in rural area locations, for multiple climates. The lifecycle costs and source CO2 emissions of these heat pumps are then calculated and compared against the corresponding data for a central AC and propane furnace HVAC system. Our results show that heat pumps have significant energy, cost and carbon reduction advantages than a propane based heating system, and indicates that rural areas could move towards electrification of space heating without having to bear financial burden, while simultaneously benefiting the climate and the environment. The quantitative results of this work provide a strong basis that can be used by electric utilities across the country to promote rural electrification of space heating in their service territories."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85083822423,
+    "Title": "Artificial Neural Network Based Predictive Approach in Vehicle Thermal Systems Applications",
+    "Author": "Mirzabeygi P.",
+    "Journal": "SAE Technical Papers",
+    "Publication Date": {
+        "$date": "2020-04-14T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.4271/2020-01-0148",
+    "Source Type": "Journal",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "FCA Canada Inc.",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "In the automotive industry, there is an abundance of test data collected at different stages of a vehicle's development. Heavy reliance on testing can lead to a significant increase in a vehicle program's design costs and further delay in the development timing as vehicle instrumentation and testing is costly and time-consuming. This paper focuses on a novel approach using the Artificial Neural Network (ANN). ANNs are computing systems inspired by the brain's biological networks that can learn by considering examples. The \"trained\" network can then be used to predict the system's performance in a reliable and efficient manner. This is particularly useful in the automotive industry as there exists a considerable amount of test data in the system, sub-system or component level that can be used to train the ANN. The trained ANN can then be used as an alternative for performance prediction and reduce the reliance on additional physical testing. The study focuses on thermal and climate control systems and the application of ANNs to predict the thermal performance. It is shown that ANNs are very robust at predicting a system's thermal performance after being trained on system and bench level test data, and can potentially reduce the need to conduct additional testing. Furthermore, there are certain variables of thermal systems such as vehicle cabin humidity and HVAC fresh air purge that are very difficult to capture using physics based transient simulation at vehicle level. ANNs modeling methodology is developed and shown to be able to reliably predict these variables; the methodology is then implemented in a 1D numerical model."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85109407085,
+    "Title": "Energy intensity reduction in large-scale non-residential buildings by dynamic control of hvac with heat pumps",
+    "Author": "Franco A.",
+    "Journal": "Energies",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.3390/en14133878",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Università di Pisa",
+    "Affliation Country": "Italy",
+    "Cited by count": 7,
+    "Abstract": "One of the main elements for increasing energy efficiency in large-scale buildings is identified in the correct management and control of the Heating Ventilation and Air Conditioning (HVAC) systems, particularly those with Heat Pumps (HPs). The present study aimed to evaluate the perspective of energy savings achievable with the implementation of an optimal control of the HVAC with HPs. The proposed measures involve the use of a variable air volume system, demand-controlled ventilation, an energy-aware control of the heat recovery equipment, and an improved control of the heat pump and chiller supply water temperature. The analysis has been applied to an academic building located in Pisa and is carried out by means of dynamic simulation. The achieved energy saving can approach values of more than 80% if compared with actual plants based on fossil fuel technologies. A major part of this energy saving is linked to the use of heat pumps as thermal generators as well as to the implementation of an energy efficient ventilation, emphasizing the importance of such straightforward measures in reducing the energy intensity of large-scale buildings."
+}

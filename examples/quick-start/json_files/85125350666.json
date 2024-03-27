@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85125350666,
+    "Title": "A Roadmap for intelligent HVAC control in Vehicle Cabin",
+    "Author": "Alkhadashi M.",
+    "Journal": "2021 22nd International Arab Conference on Information Technology, ACIT 2021",
+    "Publication Date": {
+        "$date": "2021-01-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/ACIT53391.2021.9677383",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "University of Michigan-Dearborn",
+    "Affliation Country": "United States",
+    "Cited by count": 0,
+    "Abstract": "This paper is intended to provide an overview of a literature survey conducted to explore the level of control technology in the space of Heating, Ventilation and Air Conditioning (HVAC). The survey aims to determine if there is room for improvement to HVAC control and prediction. While the survey reviewed HVAC control in different environments such as building and transportation vehicles, the scope of the survey is aimed to address HVAC control in vehicles. Efficiency has become very critical as the automotive industry takes the path of electric vehicles and therefore many types of approaches to control HVAC in an effort to increase energy consumption efficiency while maintaining consumer comfortability. A proposal to use both LDA and Kalman Decomposition to provide comfort and efficiency has not been found to be implemented and would be a good study to explore. Learnings and prediction will be further evaluated for opportunities of new innovations and implementation."
+}

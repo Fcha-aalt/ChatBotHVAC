@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85047398875,
+    "Title": "Performance assessment of variable frequency drives in heating, ventilation, and air-conditioning systems",
+    "Author": "Wang G.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2018-11-26T00:00:00Z"
+    },
+    "Publication Year": 2018,
+    "DOI": "10.1080/23744731.2018.1469947",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Miami",
+    "Affliation Country": "United States",
+    "Cited by count": 9,
+    "Abstract": "Variable frequency drives (VFDs) are widely applied on the induction motors in heating, ventilation and air-conditioning (HVAC) systems to reduce energy consumption and improve power factor (PF) in commercial buildings. On the other hand, VFDs not only consume energy but also create harmonic distortion, which may interfere with sensitive electronic equipment, cause additional motor energy losses, and worsen PF. These negative impacts are more often concealed by the significant energy reduction. The purpose of this paper is to comprehensively assess those positive and negative impacts of VFDs in actual HVAC systems. Experiments were conducted on three HVAC systems to quantify the energy reduction, PF improvement, voltage and current total harmonic distortions (THDs), and system efficiency degradation introduced by VFDs. The experiment results reveal that the VFDs significantly reduced the system input power by 85% at 50% rated frequency and increased the PF to 0.95 at 95% rated frequency with the voltage THDs always less than 1%. However, the current THDs increased to 90% at 50% rated frequency, which worsens the improved PF to 0.7. Moreover, the VFDs degraded the system efficiency by 3.5% at the rated frequency and by more percentage, potentially due to increased current THDs, at partial frequencies."
+}

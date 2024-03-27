@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84963646793,
+    "Title": "Efficient and robust optimization for building energy simulation",
+    "Author": "Pourarian S.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2016-06-15T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1016/j.enbuild.2016.04.019",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Drexel University College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 11,
+    "Abstract": "Efficiently, robustly and accurately solving large sets of structured, non-linear algebraic and differential equations is one of the most computationally expensive steps in the dynamic simulation of building energy systems. Here, the efficiency, robustness and accuracy of two commonly employed solution methods are compared. The comparison is conducted using the HVACSIM+ software package, a component based building system simulation tool. The HVACSIM+ software presently employs Powell's Hybrid method to solve systems of nonlinear algebraic equations that model the dynamics of energy states and interactions within buildings. It is shown here that the Powell's method does not always converge to a solution. Since a myriad of other numerical methods are available, the question arises as to which method is most appropriate for building energy simulation. This paper finds considerable computational benefits result from replacing the Powell's Hybrid method solver in HVACSIM+ with a solver more appropriate for the challenges particular to numerical simulations of buildings. Evidence is provided that a variant of the Levenberg-Marquardt solver has superior accuracy and robustness compared to the Powell's Hybrid method presently used in HVACSIM+."
+}

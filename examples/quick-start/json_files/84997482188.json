@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84997482188,
+    "Title": "Dynamic modeling and experimental analysis of Induced Draft Cooling Tower",
+    "Author": "Languri E.",
+    "Journal": "American Society of Mechanical Engineers, Power Division (Publication) POWER",
+    "Publication Date": {
+        "$date": "2016-01-01T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1115/POWER2016-59155",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tennessee Technological University",
+    "Affliation Country": "United States",
+    "Cited by count": 1,
+    "Abstract": "A dynamic modeling study and field validation of a cooling tower serving a chiller are performed in this study to evaluate the efficiency of the cooling tower under various conditions. The dynamic model examines the losses and thermal capability of the cooling tower. The cooling tower used in this study for field validation is located at Cookeville, Tennessee, USA. The whole setup is fully instrumented to record the water and air flow rates and temperature; make-up water and blow down water flow rates; power consumption of pump; fan and chiller; weather data; etc. with one-hour resolution. The outcomes of the model are validated with the recorded data of the cooling tower and the test condition data. Furthermore, the effects of using Variable Frequency Drive (VFD) on the cooling tower's fan power consumption are investigated. Additional recommendations on improving the energy efficiency and reducing the water losses are suggested based on the modeling data."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85112863515,
+    "Title": "A data-driven approach to optimize building energy performance and thermal comfort using machine learning models",
+    "Author": "Chen Z.",
+    "Journal": "ACM International Conference Proceeding Series",
+    "Publication Date": {
+        "$date": "2021-06-18T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1145/3473714.3473794",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Nanjing Foreign Language School",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Buildings account for 30% of the world's total energy consumption, and heating, ventilation and air conditioning systems account for more than 70% of the world's total energy consumption. People pay more and more attention to the energy efficiency improvement of building energy saving system, especially HVAC system. Open-plan office is one of the most popular office types in recent decades, which can not only improve communication efficiency, but also save considerable construction costs. But it can't satisfy everyone's comfort requirements, especially indoor air temperature and relative humidity. In this paper, a data-driven thermal comfort model is established based on ASHRAE Global Thermal Comfort Database II. Two machine learning algorithms for building thermal comfort models are studied: support vector machine (SVM) and random forest. The model optimizes energy consumption while ensuring thermal comfort of commercial buildings. Under the thermal comfort condition, the purpose of energy saving is achieved by controlling the indoor temperature setting value. We also set up a co-simulation model of building energy consumption, compared the benchmark control strategy with the optimal control strategy by using the data-driven thermal comfort model, and analyzed the economic benefits of the enterprise by using the whole-life cycle cost analysis method. The results have shown the optimized control strategy outperforms the baseline owing to better thermal comfort prediction performances with machine learning. Therefore, this paper contributes to intelligent human building interaction areas with artificial intelligence."
+}

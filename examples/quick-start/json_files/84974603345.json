@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84974603345,
+    "Title": "Variable recycled air controls of HVAC systems for energy savings in high-tech industries",
+    "Author": "Yu K.T.",
+    "Journal": "Proceedings of the IEEE International Conference on Industrial Technology",
+    "Publication Date": {
+        "$date": "2016-05-19T00:00:00Z"
+    },
+    "Publication Year": 2016,
+    "DOI": "10.1109/ICIT.2016.7474753",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "National Kaohsiung University of Science and Technology",
+    "Affliation Country": "Taiwan",
+    "Cited by count": 9,
+    "Abstract": "The recycle air-handling unit (RCU) is a very important type of air-conditioning equipment for high-tech electronics factories and also consumes a lot of energy. Its main purpose is to stabilize the indoor temperature and humidity, appropriately treat the outside air supplement in order to maintain positive indoor pressure, and supply the required additional exhaust to ensure the balance of air in the factory. Recycled heated air is one of the necessary processes for RCU. To enhance the energy efficiency of HVAC systems in high-tech factories, this paper proposes a methodology for RCU energy management by using variable recycled air controls. The proposed method utilizes the heat produced by the manufacturing processes and the high quality of recycled air to replace or reduce the output of the reheating devices. A variable frequency control also shall determine the required recycled air, the circulating air flow, heater output, and cooling water control valve output according to the system operation. A practical high-tech semiconductor plant is selected for field testing in order to demonstrate the performance of proposed method. Test results indicate that it significantly benefits the processing environments with a small sensible heat load and a large change in loads."
+}

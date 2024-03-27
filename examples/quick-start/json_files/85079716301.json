@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85079716301,
+    "Title": "Improving the energy efficiency of aging retail buildings: a large department store in Lisbon as case study",
+    "Author": "Poço E.R.G.",
+    "Journal": "Energy Systems",
+    "Publication Date": {
+        "$date": "2021-11-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1007/s12667-020-00377-w",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Instituto Superior Técnico",
+    "Affliation Country": "Portugal",
+    "Cited by count": 1,
+    "Abstract": "The majority of opportunities to energy savings today and in the next decades are in the existing building stock, including commercial and retail ones. These are constrained by old equipment, aging infrastructure, and inadequate operations resources. In particular, we focus on a retail store located in Lisbon, El Corte Inglés, to reduce its electricity consumption while maintaining the same level of service and continuing to be a profitable business. Improving the operation of the air-handling unit (AHU) and the operation schedule of floors illumination is our focus. Data provided had long-term records of variables as the building power consumption, exterior temperature, solar irradiation, elevators, and HVAC system. Two artificial neural networks (ANN) models were developed to predict the building power consumption and indoor average temperature, which allowed verifying the impact of small variations in the AHU electricity consumption. We deal both with the indoor average temperature (comfort) and power consumption of AHU to reduce the electric energy cost. The study leads to a decrease of 9.6% of the total electricity consumption, with an average indoor temperature increasing by only 0.15 °C. The total potential savings considering all the building 48 AHUs resulted in very good savings of 34,000 euros per year."
+}

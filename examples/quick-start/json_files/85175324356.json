@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85175324356,
+    "Title": "Energy Management Analysis of Residential Building Using ANN Techniques",
+    "Author": "Sahoo L.K.",
+    "Journal": "Indonesian Journal of Electrical Engineering and Informatics",
+    "Publication Date": {
+        "$date": "2023-09-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.52549/ijeei.v11i3.4607",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Trident Academy of Technology",
+    "Affliation Country": "India",
+    "Cited by count": 0,
+    "Abstract": "The process of limiting the amount of energy that is utilized is known as energy conservation. This can be accomplished by making more effective use of the energy that is available. As a result, there is a requirement for more effective management of the consumption of energy in buildings. It is essential to have an accurate load calculation for a residential building because the loads for heating and cooling add up a significant portion of the total building loads. In this study, the load analysis of the HVAC (Heating, Ventilation, and Air Conditioning) system in a residential building was carried out by taking into consideration three different neural networks. These networks are known as the feed forward network, the cascaded forward back propagation network, and the Elman back propagation network. During the process of conducting a load study of the heating and cooling loads on an HVAC system, performance measurements like MAE (mean absolute error), MSE (mean square error), MRE (mean relative error), and MAPE (mean absolute percentage error) are taken into consideration. It has been discovered that the cascaded forward back propagation method is the most effective method, with MAE, MSE, MRE, and MAPE values of 0.08, 0.0336, 0.0051, and 0.51% respectively for heating load and MAE, MSE, MRE, and MAPE values of 0.0975, 0.0406, 0.0053, and 0.53% respectively for cooling load."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082989829,
+    "Title": "Sensitivity Analysis of Building Energy Performance Assessment Based on Machine-Learning Models",
+    "Author": "Tian W.",
+    "Journal": "Environmental Science and Engineering",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1007/978-981-13-9528-4_41",
+    "Source Type": "Book Series",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Tianjin University of Science &amp; Technology",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "Variance-based sensitivity analysis in combination with machine-learning techniques has been increasingly applied in energy analysis of buildings in order to reduce computational cost of running a large number of energy models with sufficient accuracy. This paper compares the performance of two sensitivity analysis methods based on machine-learning models for building energy assessment: multivariate adaptive regression splines (MARS) and Cubist (CB). An office building located in Tianjin, China, is used as a case study with the EnergyPlus simulation program, to study the characteristics of these two sensitivity analysis methods. The results indicate that sufficient sample number is required to obtain reliable sensitivity analysis results in building energy assessment and subsequent HVAC system design and sizing. It is recommended to use at least two machine-learning models for variance-based sensitivity methods to allow the comparison of ranking results. The consistency of results from these learning methods should be thoroughly checked since the parameters in tuning these machine-learning models have significant influences on ranking results."
+}

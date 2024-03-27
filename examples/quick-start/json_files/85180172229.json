@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85180172229,
+    "Title": "Deployment of real-time building automation system-integrated inverse-model-based fault detection and diagnostics algorithms",
+    "Author": "Markus A.A.",
+    "Journal": "Science and Technology for the Built Environment",
+    "Publication Date": {
+        "$date": "2024-01-01T00:00:00Z"
+    },
+    "Publication Year": 2024,
+    "DOI": "10.1080/23744731.2023.2290976",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Carleton University",
+    "Affliation Country": "Canada",
+    "Cited by count": 0,
+    "Abstract": "The complex operation of HVAC systems in large commercial buildings warrants regular implementation of advanced analytical approaches to operations and maintenance, and subsequent corrective measures to improve and maintain optimal energy performance. Despite the established capabilities of data-driven fault detection and diagnostics (FDD) to identify suboptimal controls policies and mechanical faults resulting in poor energy performance, few attempts have been made to deploy scalable solutions around these approaches. Furthermore, real-time BAS-integrated FDD methods are predominantly rule-based, offering limited insights to faults with gradual negative impacts to energy performance. This paper demonstrates the application of various established data-driven, inverse-model-based FDD methodologies in a BAS-integrated environment. Traditionally implemented sparingly, the novelty of recursive and automatic execution of advanced FDD methodologies, facilitated through a direct data pipeline to an existing BAS, capitalizes on the BAS’s real-time monitoring capabilities to enable continuously refreshed inverse model generation that can capture the gradual degradation of building performance, and provide up-to-date actionable visualizations and key performance indicators (KPI) to building operators. Since deployment, the application has successfully identified a scheduling fault on two separate occasions in a case study building in Ottawa, Canada, and the visualizations were presented to the building operators who resolved the issues."
+}

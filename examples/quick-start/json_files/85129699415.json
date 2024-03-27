@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85129699415,
+    "Title": "Deep reinforcement learning optimal control strategy for temperature setpoint real-time reset in multi-zone building HVAC system",
+    "Author": "Fang X.",
+    "Journal": "Applied Thermal Engineering",
+    "Publication Date": {
+        "$date": "2022-07-25T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.applthermaleng.2022.118552",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Hunan University",
+    "Affliation Country": "China",
+    "Cited by count": 44,
+    "Abstract": "Determining a proper trade-off between energy consumption and indoor thermal comfort is important for HVAC system control. Deep Q-learning (DQN) based multi-objective optimal control strategy is designed for temperature setpoint real-time reset to balance the energy consumption and indoor air temperature. In addition, this study develops an EnergyPlus-Python co-simulation testbed to evaluate DQN control strategy in a simulation environment. A case study experiment is conducted to evaluate the performance of DQN control strategy for real-time reset of supply air temperature and chilled supply water temperature setpoint in a multi-zone building VAV system. The developed EnergyPlus-Python co-simulation testbed is used to train and test the DQN control strategy for performance analysis. The applied DQN strategy leans to update control actions (i.e. temperature setpoint) through interaction with the simulation environment. Simulation results show that the DQN control strategy is effective in finding a proper trade-off between the energy consumption of HVAC system and indoor air temperature. Meanwhile, the DQN control strategy can find a proper temperature setpoint reset sequence in smaller training episodes, and the control actions can be stable after ten DQN training episodes. This study provides a preliminary direction of deep reinforcement learning control strategy for temperature setpoint real-time reset in multi-zone building HVAC systems."
+}

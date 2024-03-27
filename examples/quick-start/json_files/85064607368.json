@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85064607368,
+    "Title": "Lean Energy Buildings: Applications of Machine Learning, Optimal Central Chilled-Water Systems, and Hybrid Solar-Ground Source Heat Pump Systems",
+    "Author": "Chiasson A.",
+    "Journal": "Lecture Notes in Energy",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.1007/978-3-030-05636-0_4",
+    "Source Type": "Book Series",
+    "Document Type": "ch",
+    "Document Type Description": "Book Chapter",
+    "Affliation": "University of Dayton School of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 6,
+    "Abstract": "This chapter discusses topics for improving energy efficiency in buildings that employ: (i) conventional large, central heating, ventilating, and air-conditioning (HVAC) systems, and (ii) unitary HVAC systems, specifically distributed ground-source heat pump (GSHP) systems. First the chapter discusses the framework of energy informatics, including data classes, data measurement and acquisition, data organization and warehousing, data visualization, data analytics, and actionable information and control. Second, we address the question, “Now that building energy data are available, what do we do with it to inform actionable items?”. The usefulness of an energy informatics approach for improving the control of key building energy systems, including outdoor air and pump/fan control, is demonstrated though case examples. Thirdly, we discuss unitary HVAC systems, specifically GSHP systems, which have gained popularity because of their higher energy efficiency, lower maintenance, and lower environmental impact compared to conventional heating and cooling systems. Our focus is reducing their capital cost through the coupling of solar energy systems to the GSHP system, hence the term hybrid solar-GSHP system. Technical and economic aspects of hybrid solar GSHP systems are discussed for both heating- and cooling-dominated buildings, and system simulation examples are provided. Finally, an emerging type of hybrid solar-GSHP system, one that uses combined photovoltaic-thermal (PVT) collectors, is described, which provides a means of getting buildings toward net-zero energy."
+}

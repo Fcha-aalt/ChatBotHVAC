@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85161853186,
+    "Title": "Principle, Design and Optimization of Air Balancing Methods for the Multi-zone Ventilation Systems in Low Carbon Green Buildings",
+    "Author": "Zhang X.",
+    "Journal": "Principle, Design and Optimization of Air Balancing Methods for the Multi-zone Ventilation Systems in Low Carbon Green Buildings",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1007/978-981-19-7091-7",
+    "Source Type": "Book",
+    "Document Type": "bk",
+    "Document Type Description": "Book",
+    "Affliation": "College of Electrical Engineering, Zhejiang University",
+    "Affliation Country": "China",
+    "Cited by count": 1,
+    "Abstract": "This book presents a systematic study on the air balancing technologies in heating, ventilation and air conditioning (HVAC) systems. Several modern air balancing methods, including advanced control-based air balancing, data-driven-based air balancing, and energy-saving-oriented air balancing, are introduced in this book to balance the air duct system. Furthermore, this book provides clear instructions for both HVAC designers and engineers, as well as researchers, on how to design and balance duct systems for improved performance and energy efficiency."
+}

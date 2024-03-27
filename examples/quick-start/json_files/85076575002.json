@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85076575002,
+    "Title": "Research on systematic optimization methods for chilled water systems in a high-rise office building",
+    "Author": "Deng J.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2020-02-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.enbuild.2019.109695",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 23,
+    "Abstract": "The chilled water system is the major component of HVAC systems, and it consumes a large amount of energy and has significant influence on the cooling effect. To save energy and provide a comfortable indoor environment, the energy performance of the chilled water system should be analyzed and improved. This paper introduces a systematic optimization process of the chilled water system in a high-rise office building. First, the influencing factors and their characteristics are summarized and analyzed, and the results show that higher temperature difference, energy efficiency of typical devices, and lower terminal resistance contribute to the improvement in energy performance. Then, based on the analysis, a systematic optimization method is put forward considering the external factors, internal factors, and synergies between them. Finally, an optimization of the studied building is conducted, from terminals to the chiller plant, and considerable energy saving effects are achieved on the premise of ensuring the indoor cooling demand."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84941037697,
+    "Title": "A bio problem-solver for supporting the design, towards the optimization of the energy efficiency",
+    "Author": "Sara K.",
+    "Journal": "6th International Conference on Modeling, Simulation, and Applied Optimization, ICMSAO 2015 - Dedicated to the Memory of Late Ibrahim El-Sadek",
+    "Publication Date": {
+        "$date": "2015-07-07T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1109/ICMSAO.2015.7152251",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Université Mohamed Khider Biskra",
+    "Affliation Country": "Algeria",
+    "Cited by count": 4,
+    "Abstract": "In the framework of Energy Efficiency and Renewable Energy, we are wondering to find new strategies for the Energy optimization that leads to identify designs and technologies that minimize the energy use and maximizing energy savings. That is why the development of very efficient services and technologies in terms of energy is very crucial. Biomimetics, as an optimization approach offers us a great potential for Energy Efficiency. In this paper, we propose a useful bio-key tool based on biomimetic principles to find new methods and systems for renewable energy in hot and arid regions. This methodology is relevant to various disciplines as a problem solver to optimize the energy use; this is due to the generality of the strategy tools."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85089921048,
+    "Title": "Day-ahead prediction of hourly subentry energy consumption in the building sector using pattern recognition algorithms",
+    "Author": "Chen Y.",
+    "Journal": "Energy",
+    "Publication Date": {
+        "$date": "2020-11-15T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1016/j.energy.2020.118530",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Zhengzhou University",
+    "Affliation Country": "China",
+    "Cited by count": 24,
+    "Abstract": "The accurate day-ahead prediction of subentry electric energy consumption (SEEC) is a critical basis for elaborative building energy management. However, most of the current studies mainly focus on modeling overall energy consumption without distinguishing its patterns of different temporal features. At the same time, advances in metering technologies and machine learning methods provide new opportunities for detailed predictions. In this paper, a day-ahead prediction model based on the improved recognized patterns via fuzzy C-means clustering and nonlinear regression is proposed and discussed. The proposed indirect pattern recognition is carried out by taking advantage of the connotative incidence relation between fluctuation features and influencing factors. Considering the different temporal characteristics of hourly SEEC, this proposed model is applied in an office building with the scope to manage the day-ahead prediction of hourly HVAC subentry and hourly socket subentry. These are taken as the typical non-stationary sequence and typical stationary sequence respectively. Results show that the proposed pattern recognition is applicable for the non-stationary HVAC subentry, and a stable energy pattern can contribute to accurate predictions. Furthermore, the introduction of additional hourly meteorological parameters improves the accuracy via rolling prediction instead. Finally, the modeling adaptability and applicable implications are summarized for references of optimal building energy operation."
+}

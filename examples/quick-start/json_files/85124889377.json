@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85124889377,
+    "Title": "Using ML to increase the efficiency of solar energy usage in HVAC",
+    "Author": "Kilinç E.",
+    "Journal": "Proceedings - 2020 2nd International Conference on Societal Automation, SA 2020",
+    "Publication Date": {
+        "$date": "2020-01-01T00:00:00Z"
+    },
+    "Publication Year": 2020,
+    "DOI": "10.1109/SA51175.2021.9507176",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Çukurova Üniversitesi",
+    "Affliation Country": "Turkey",
+    "Cited by count": 0,
+    "Abstract": "Recent research showed that heating, ventilation and air conditioning systems consume a considerable amount of electricity when compared with the remaining household appliances. Therefore, efficient use of solar energy on these appliances in combination with the Internet of Things (IoT) platforms became a well-researched topic, especially when storage units like batteries are out of option. In this context, the use of solar energy should be managed so that the room temperature at the time of occupancy is the one desired. This task is particularly challenging when the house is mainly occupied in night periods (in which no solar energy is available). To address this issue, we propose a modular device consisting of a microcontroller that relies on machine learning algorithms. The device keeps the heater turned on ignoring the desired temperature until a decision point so that when it turns the heater off, the room cools down just the right amount. Since the device should be modular and installable to any kind of house, the proposed device should be able to make these predictions without knowing any home-specific features like size, isolation,... Therefore, in our framework, the switching off decision point is computed based only on indoor and outdoor temperatures. According to our experimental evaluation, the proposed system exhibits an accuracy of 77% in identifying when to switch off the heater so that the room is at the desired temperature at a pre-specified time."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 84930181124,
+    "Title": "A new approach, based on the inverse problem and variation method, for solving building energy and environment problems: Preliminary study and illustrative examples",
+    "Author": "Zhang Y.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2015-09-01T00:00:00Z"
+    },
+    "Publication Year": 2015,
+    "DOI": "10.1016/j.buildenv.2015.02.016",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tsinghua University",
+    "Affliation Country": "China",
+    "Cited by count": 50,
+    "Abstract": "Building energy systems consume increasing amounts of energy and emit many pollutants (e.g., NO<inf>x</inf>, PM<inf>2.5</inf>) and CO<inf>2</inf> into the atmosphere. The problems of air pollution are very serious in China due to the very rapid urbanization and economic development over the past few decades and the fact that most of the primary energy comes from coal in China. In addition, China is facing serious indoor air quality problems caused by various pollutants with both indoor and outdoor origins. These pollutants have been found to be associated with certain diseases. The questions of increasing the energy efficiency of building energy systems and of how to effectively control temperature, humidity and pollutant concentrations in indoor air in an energy efficient way are two great challenges in the field of building energy and environment in China.Although engineering thermodynamics and heat and mass transfer are fundamental concepts for addressing building energy and environment problems, there are still some limitations in both theories: (1) the former can be used to optimize heat and work conversion processes, but it fails when used to optimize various heat and mass transfer processes and the processes of simultaneous control of indoor temperature, humidity and various pollutants; (2) the latter (including the entransy-based theory) can only be used for analysing or optimizing pure transfer processes.Based upon the inverse problem and variation method, a new approach is put forward for solving building energy and environment problems. Through illustrative examples we show that this new approach can overcome the limitations outlined above when addressing some building energy and environment problems."
+}

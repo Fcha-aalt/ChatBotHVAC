@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85108993142,
+    "Title": "Energy modeling of pig houses: A South Korean feasibility study",
+    "Author": "Kwak Y.",
+    "Journal": "Energy Strategy Reviews",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1016/j.esr.2021.100672",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "University of Seoul",
+    "Affliation Country": "South Korea",
+    "Cited by count": 17,
+    "Abstract": "South Korea has potential in developing large-scale pig-farming practices. However, poorly designed facilities and ventilation structures lead to production losses and energy inefficiency. This study examines energy efficiency in pig houses by establishing a heating, ventilation, and air-conditioning (HVAC) system. Using the current ventilation system of the baseline energy model, case studies were conducted. Compared with baseline case 1, energy consumption of remaining cases were lower. This suggests that the pig house is currently energy inefficient. Photovoltaic (PV) generation, contributing toward 35% of the annual energy consumption, for a sustainable pig house was investigated. This energy model shows energy efficiency potential. Therefore, expanding research into energy management is essential for optimal facility design and operation using the energy model."
+}

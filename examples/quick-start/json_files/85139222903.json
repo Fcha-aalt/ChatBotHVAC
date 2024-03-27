@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85139222903,
+    "Title": "Quantification of how mechanical ventilation influences the airborne infection risk of COVID-19 and HVAC energy consumption in office buildings",
+    "Author": "Pang Z.",
+    "Journal": "Building Simulation",
+    "Publication Date": {
+        "$date": "2023-05-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1007/s12273-022-0937-5",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "College of Engineering",
+    "Affliation Country": "United States",
+    "Cited by count": 5,
+    "Abstract": "This paper presents an EnergyPlus-based parametric analysis to investigate the infection risk of Coronavirus Disease 2019 (COVID-19) under different mechanical ventilation scenarios for a typical medium-sized office building in various climate zones. A Wells-Riley (WR) based Gammaitoni-Nucci (GN) model was employed to quantitatively calculate the airborne infection risk. The selected parameters for the parametric analysis include the climate zone, outdoor air fraction, fraction of infectors, quanta generation rate, and exposure time. The loss and deposition of particles are not considered. The results suggest that the COVID-19 infection risk varies significantly with climate and season under different outdoor air fraction scenarios since the building heating and cooling load fundamentally impacts the supply airflow rate and thus directly influences the amount of mechanical ventilation, which determines the dilution ratio of contaminants. This risk assessment identified the climate zones that benefit the most and the least from increasing the outdoor air fraction. The climate zones such as 1A (Honolulu, HI), 2B (Tucson, AZ), 3A (Atlanta, GA), and 7 (International Falls, MN) are the most energy-efficient locations when it comes to increasing the outdoor air fraction to reduce the COVID-19 infection risk. In contrast, the climate zones such as 6A (Rochester, MN) and 6B (Great Falls, MT) are the least energy-efficient ones. This paper facilitates understanding a widely recommended COVID-19 risk mitigation strategy (i.e., increase the outdoor airflow rate) from the perspective of energy consumption."
+}

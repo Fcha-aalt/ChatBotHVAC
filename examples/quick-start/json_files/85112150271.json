@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85112150271,
+    "Title": "Optimal Dynamic Duct Static Pressure Method in a Multi-Zone Variable Air Volume System",
+    "Author": "Wang X.",
+    "Journal": "IEEE Robotics and Automation Letters",
+    "Publication Date": {
+        "$date": "2021-07-01T00:00:00Z"
+    },
+    "Publication Year": 2021,
+    "DOI": "10.1109/LRA.2021.3089135",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Beijing National Research Center for Information Science and Technology",
+    "Affliation Country": "China",
+    "Cited by count": 2,
+    "Abstract": "Reducing the energy consumption of a variable air volume (VAV) system in heating, ventilation, and air-conditioning (HVAC) systems attracts many attentions. In this letter, a novel method, namely, optimal dynamic duct static pressure (ODSP) method is proposed to find the globally optimal solutions of the original non-convex multi-zone VAV system energy optimization problem. Our method is based on the primal dual interior point method to solve an equivalent convex optimization problem of the multi-zone VAV system energy optimization problem. Different from existing methods, our method is a real-time optimization method and explicitly considers the duct network model to find the energy saving strategy. Numerical simulations illustrate the effectiveness of our method compared with current methods, which show that our method provides better energy efficiency and nearly 20% energy is saved. Our method also has the guarantee to find the optimal solutions."
+}

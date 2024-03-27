@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85082703086,
+    "Title": "Optimal operation of HVAC system incorporated with online performance evaluation based on operation data",
+    "Author": "Shi W.",
+    "Journal": "Refrigeration Science and Technology",
+    "Publication Date": {
+        "$date": "2019-01-01T00:00:00Z"
+    },
+    "Publication Year": 2019,
+    "DOI": "10.18462/iir.icr.2019.0511",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Shanghai Jiao Tong University",
+    "Affliation Country": "China",
+    "Cited by count": 0,
+    "Abstract": "With the higher requirement of intelligent operation of HVAC system and the more operation data being gathered, it is possible to use the operation data to intelligentize and optimize operation of HVAC system. This paper presents an optimal method for operation of chilled water system of HVAC. An online performance evaluation is set up and incorporated to guide the operation optimization. The evaluation benchmark is an optimal performance curve based on historical operation data and the time for optimization is determined by evaluation index. The optimization includes energy prediction and setpoints optimization, which are based on BP neural network and PSO, respectively. The proposed optimization method is validated by an actual chilled water system located in China, and it is compared with a conventional optimization method. The results show that the proposed method can save the energy consumption of the system without increasing the computation burden."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85151466333,
+    "Title": "Improving building occupant comfort through a digital twin approach: A Bayesian network model and predictive maintenance method",
+    "Author": "Hosamo H.H.",
+    "Journal": "Energy and Buildings",
+    "Publication Date": {
+        "$date": "2023-06-01T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.enbuild.2023.112992",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Universitetet i Agder",
+    "Affliation Country": "Norway",
+    "Cited by count": 9,
+    "Abstract": "This study introduces a Bayesian network model to evaluate the comfort levels of occupants of two non-residential Norwegian buildings based on data collected from satisfaction surveys and building performance parameters. A Digital Twin approach is proposed to integrate building information modeling (BIM) with real-time sensor data, occupant feedback, and a probabilistic model of occupant comfort to detect and predict HVAC issues that may impact comfort. The study also uses 200000 points as historical data of various sensors to understand the previous building systems’ behavior. The study also presents new methods for using BIM as a visualization platform and for predictive maintenance to identify and address problems in the HVAC system. For predictive maintenance, nine machine learning algorithms were evaluated using metrics such as ROC, accuracy, F1-score, precision, and recall, where Extreme Gradient Boosting (XGB) was the best algorithm for prediction. XGB is on average 2.5% more accurate than Multi-Layer Perceptron (MLP), and up to 5% more accurate than the other models. Random Forest is around 96% faster than XGBoost while being relatively easier to implement. The paper introduces a novel method that utilizes several standards to determine the remaining useful life of HVAC, leading to a potential increase in its lifetime by at least 10% and resulting in significant cost savings. The result shows that the most important factors that affect occupant comfort are poor air quality, lack of natural light, and uncomfortable temperature. To address the challenge of applying these methods to a wide range of buildings, the study proposes a framework using ontology graphs to integrate data from different systems, including FM, CMMS, BMS, and BIM. This study's results provide insight into the factors that influence occupant comfort, help to expedite identifying equipment malfunctions and point towards potential solutions, leading to more sustainable and energy-efficient buildings."
+}

@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85168424312,
+    "Title": "Container farms: Energy modeling considering crop growth and energy-saving potential in different climates",
+    "Author": "Song R.",
+    "Journal": "Journal of Cleaner Production",
+    "Publication Date": {
+        "$date": "2023-09-25T00:00:00Z"
+    },
+    "Publication Year": 2023,
+    "DOI": "10.1016/j.jclepro.2023.138353",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "Tongji University",
+    "Affliation Country": "China",
+    "Cited by count": 3,
+    "Abstract": "Container farms (CFs), integrating plant factories into mobile prefabricated buildings, are emerging as a novel decentralized food production system to fortify sustainable urban development. However, the high energy demand needs to be optimized to promote wider CF application. This study investigates the energy efficiency of CFs in various climates, covering eight ASHRAE climate zones. The CF energy model was developed in the building energy simulation program EnergyPlus, fed with plant (lettuce) growth data measured from a real case. Four energy-saving methods were evaluated, with how different climates impact their potential. The results show that, in colder climates, the CF energy demand is lower and energy-saving methods are more effective. Air-side economizers reduce CF cooling demand by 3.5–58.3% from the hottest to coldest regions. Shifting lighting schedules into nocturnal lighting, as a cost-free method, reduces HVAC energy demand by up to 19.4% and can further reinforce the effectiveness of air-side economizers. The optimal envelope U-values should be among 0.5–3 W/m2-K, without being either poorly or overly insulated. Improving lighting efficacy can save over 20% total energy demand by reducing intense lighting power. We conclude that locating CFs in colder climates presents greater potential in energy conservation along with benefits for improving urban sustainability. The results can support decision-making for cleaner CF design and operation, and the methodology could be replicated to other indoor food production systems."
+}

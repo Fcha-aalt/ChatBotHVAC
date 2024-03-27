@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85120815499,
+    "Title": "Potentials and limitations of direct air capturing in the built environment",
+    "Author": "Baus L.",
+    "Journal": "Building and Environment",
+    "Publication Date": {
+        "$date": "2022-01-15T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1016/j.buildenv.2021.108629",
+    "Source Type": "Journal",
+    "Document Type": "ar",
+    "Document Type Description": "Article",
+    "Affliation": "European University of Applied Sciences",
+    "Affliation Country": "Germany",
+    "Cited by count": 19,
+    "Abstract": "This concept study presents an approach for resolving the trade-off between energy-efficient building operation and the provision of hygienically harmless indoor air quality. A novel coupling of HVAC-systems (heating, ventilation and air conditioning systems) with DAC-technology (direct air capturing technology) is proposed to separate CO2 in the exhaust air of buildings and recirculate the CO2-depleted air back into the building. In a mainly theoretical approach, the corresponding potentials and limitations of the novel HVAC/DAC-coupling in recirculation mode are evaluated. For that purpose, CO2-loads in the feed and exhaust air of four buildings located in Germany were measured using calibrated non-dispersive infrared (NDIR) sensors with pyroelectric detection principle. Subsequent numerical model simulations resort to typical meteorological data as well as building operation parameters grouped in different scenarios. The measurement and simulation results were assessed with regard to: (i) the unique possibilities of a HVAC/DAC-coupling in recirculation mode for the improvement of indoor air quality, (ii) the energy saving potentials through reduced air conditioning requirements enabled by a HVAC/DAC-coupling in recirculation mode, and (iii) the potential allocation of CO2 separated from building exhaust air for energetic and/or material reutilization in decentralized systems. In conclusion, a HVAC/DAC-coupling in recirculation mode can not only reduce the energy demand of buildings but also facilitates access to unutilized CO2-resources transported in the built environment and additionally offers the potential to improve indoor air quality. However, a suitable DAC module for operation in indoor air is not yet commercially available."
+}

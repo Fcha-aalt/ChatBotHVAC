@@ -1,0 +1,18 @@
+{
+    "SCOPUS_ID": 85146496673,
+    "Title": "Comparison of different heating generator systems to reduce energy consumption in social housing in a Mediterranean climate.",
+    "Author": "Vallati A.",
+    "Journal": "Journal of Physics: Conference Series",
+    "Publication Date": {
+        "$date": "2022-01-01T00:00:00Z"
+    },
+    "Publication Year": 2022,
+    "DOI": "10.1088/1742-6596/2385/1/012019",
+    "Source Type": "Conference Proceeding",
+    "Document Type": "cp",
+    "Document Type Description": "Conference Paper",
+    "Affliation": "Sapienza Università di Roma",
+    "Affliation Country": "Italy",
+    "Cited by count": 0,
+    "Abstract": "This study analyses the energy consumption of a social housing built in the 80's. This building typology is deteriorating over time with increased energy consumption for air conditioning and indoor comfort that is well below the standard. This typology is also widely diffused in the city's building stock, especially in its suburbs. Thus, the energy efficiency of public social housing represents a major concern for the Italian national scene, and its improvement represents an effort of critical importance. However, public funding is significantly reduced compared to the past and. In addition, it is often difficult to act on passive systems, such as installing thermal insulation, or replacing terminal units inside apartments. In these cases, as an energy retrofit, it may be appropriate to evaluate the possibility of preserving as much of the existing distribution and supply system as possible, while modifying the thermal energy generation system. In general, where the boiler is not obsolescent, the idea is to propose a hybrid generation system with the inclusion of a heat pump (HHP), which could be implemented with renewable energy equipment, properly installed in the building. The main goal of the present work was to evaluate through dynamic analysis different HVAC scenarios, to assess the optimal configuration of the system for residential use. The results show that a hybrid system can lower the primary energy consumption up to 28%, thus allowing the employment of renewable energies within the social housing building stock."
+}
